@@ -4,7 +4,7 @@ permalink: /curricula/
 ref: /curricula/
 lang: en
 github:
-  repository: wai-curricula
+  repository: w3c/wai-curricula
   path: intro.md
 footer: <p> work in progress </p>
 ---
