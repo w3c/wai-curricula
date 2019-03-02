@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <dd></dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
   <dd></dd>
-  <dt><strong>Suggested Duration</strong></dt>
+  <dt><strong>Approximate Duration</strong></dt>
   <dd></dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
@@ -78,7 +78,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   </ul></dd>
 </dl>
 
-<h2 id="overview">Overview and Terminology</h2>
+## Overview and Terminology ##
+
 <dl>
   <dt><strong>Description</strong></dt>
   <dd></dd>
@@ -93,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <dd></dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
   <dd></dd>
-  <dt><strong>Suggested Duration</strong></dt>
+  <dt><strong>Approximate Duration</strong></dt>
   <dd></dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
@@ -132,7 +133,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <li>...</li>
 </ul>
 
-<h2 id="people">People and Access Technology</h2>
+## People and Access Technology ##
+
 <dl>
   <dt><strong>Description</strong></dt>
   <dd>Introduction to how people with disabilities use the Web, different types of assistive technologies and adaptive strategies that some people use, and some of the barriers that people encounter on the Web.</dd>
@@ -147,7 +149,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
   <dd>[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.</dd>
-  <dt><strong>Suggested Duration</strong></dt>
+  <dt><strong>Approximate Duration</strong></dt>
   <dd>3-5 hours depending on activities.</dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
@@ -165,73 +167,69 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   </ul></dd>
   <dt><strong>Assessment Methods</strong></dt>
   <dd><ul>
-    <li><strong>Knowledge Questions</strong> &mdash; Students should be able to explain different types of accessibility features, such as colors with good contrast, types of barriers, and types of assistive tools and adaptive strategies. <br /><em>(Note: focus questions on functional aspects of accessibility rather than on medical conditions of people)</em></li>
-    <li><strong>Demonstrations</strong> &mdash; Students may be able to demonstrate what they have learned from exploring assistive tools and adaptive strategies, such as explaining different settings they found in their web browser.</li>
+    <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to explain different types of accessibility features, such as colors with good contrast, types of barriers, and types of assistive tools and adaptive strategies. <br /><em>(Note: focus questions on functional aspects of accessibility rather than on medical conditions of people)</em></li>
+    <li><strong>Demonstrations</strong> &mdash; Learners may be able to demonstrate what they have learned from exploring assistive tools and adaptive strategies, such as explaining different settings they found in their web browser.</li>
   </ul></dd>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
     <li><strong>Ethical considerations</strong> &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.</li>
     <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced trainers are recommended.</li>
-    <li><strong>Cultural apsects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners. </li>
+    <li><strong>Cultural apsects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.</li>
   </ul></dd>
 </dl>
 
-<h2 id="benefits">Business Case and Benefits</h2>
-<ul>
-  <li>BCase: usability improvement; SEO</li>
-  <li>BCase: mobile users, older people, low digital skills, non-native (inclusion)</li>
-  <li>International policies; UN CRPD</li>
-  <li>Accessibility, Usability, and Inclusion</li>
-</ul>
+## Business Case and Benefits ##
+
 <dl>
   <dt><strong>Description</strong></dt>
-  <dd></dd>
+  <dd>Introduction to the business case for web accessibility, including social, technical, finanicial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.</dd>
   <dt><strong>Learning Outcomes</strong></dt>
   <dd><ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Awareness of access to information, including on the Web, as a human right</li>
+    <li>Understanding the imperative of accessibility for people with disabilities</li>
+    <li>Knowledge about applicable local and regional polices on web accessibility</li>
+    <li>Understanding specific examples of broader benefits of web accessibility</li>
+    <li>Understanding the relationship between accessibility, usability, and inclusion</li>
+    <li>Appreciation of accessibility and disability as part of diversity and inclusion</li>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
-  <dd></dd>
+  <dd>[Basic] Basic understanding of computers and the Web.</dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
-  <dd></dd>
-  <dt><strong>Suggested Duration</strong></dt>
-  <dd></dd>
+  <dd>[Medium] Good understanding of accessibility and inclusion, and experience in the types of business benefits resulting from accessibility.</dd>
+  <dt><strong>Approximate Duration</strong></dt>
+  <dd>1-3 hours depending on demonstrated examples.</dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Social dimension of accessibility</strong> &mdash; Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.</li>
+    <li><strong>Broader benefits of accessibility</strong> &mdash; Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in additiong to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.</li>
+    <li><strong>Mainstreaming accessible design</strong> &mdash; Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.</li>
   </ul></dd>
   <dt><strong>Teaching Methods</strong></dt>
-  <dd><strong></strong> &mdash; </dd>
+  <dd><strong>Presentational</strong> &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.</dd>
   <dt><strong>Teaching Materials</strong></dt>
   <dd><ul>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
+    <li><a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a> &mdash; Explains the rational for organizations to pursue digital accessibility for people with disabilities. This includes driving innovation, enhancing brand, extending market reach, and minimizing legal risk. It includes cases studies from different organizations.</li>
+    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
+    <li><a href="https://www.w3.org/WAI/older-users/">Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users</a> &mdash; Explains the overlapping needs of ageing web users and web users with disabilities, and how accessibility addresses both situations. This resource refers to further background materials, including statistics on older people.</li>
+    <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/">[Archived] Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices</a> &mdash; Explains some of the shared experiences using the Web for people using mobile devices and people with disabilities (archived content).</li>
+    <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.</li>
+    <li><a href="https://www.w3.org/WAI/policies/">Web Accessibility Laws &amp; Policies</a> &mdash; Lists some of the laws and policies relating to web and digital accessibility internationally.</li>
+    <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul></dd>
   <dt><strong>Assessment Methods</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to explain different business case arguments for digital accessibility, and broader benefits of accessibility for people in different situations and contexts.</li>
+    <li><strong>Presentations</strong> &mdash; Learners may be able to develop potential business case arguments for their own organization, and present this to other learners as examples of how they can apply what they have learned.</li>
   </ul></dd>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Cultural apsects</strong> &mdash; The cultural acceptance and approach to accessibility and disability varies between countries and even individual organizations. The business case arguments may need to be adjusted accordingly.</li>
+    <li><strong>Business context</strong> &mdash; The business context that learners are used to may also require adjustment of the business case arguments. For example, to better relate to their industry sector and organizational culture.</li>
   </ul></dd>
 </dl>
 
-<h2 id="standards">Standards and Guidelines</h2>
+## Standards and Guidelines ##
+
 <ul>
   <li>Components of web accessibility</li>
   <li>Principles of web accessibility</li>
@@ -251,7 +249,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <dd></dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
   <dd></dd>
-  <dt><strong>Suggested Duration</strong></dt>
+  <dt><strong>Approximate Duration</strong></dt>
   <dd></dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
@@ -285,7 +283,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   </ul></dd>
 </dl>
 
-<h2 id="resources">Resources to Get Started</h2>
+## Resources to Get Started ##
 <ul>
   <li>Easy Checks</li>
   <li>Getting Started; Tutorials; BAD</li>
@@ -306,7 +304,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <dd></dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
   <dd></dd>
-  <dt><strong>Suggested Duration</strong></dt>
+  <dt><strong>Approximate Duration</strong></dt>
   <dd></dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
