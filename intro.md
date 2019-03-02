@@ -13,7 +13,7 @@ footer: <p> work in progress </p>
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium! Nihil velit mollitia voluptatem ullam libero.
+WAI Curriculum Module: Introduction to Web Accessibility
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
 {% include toc.html type="end" %}
 {:/}
 
+<!-- //
 <dl>
   <dt><strong>Description</strong></dt>
   <dd></dd>
@@ -77,9 +78,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
     <li><strong></strong> &mdash; </li>
   </ul></dd>
 </dl>
+//-->
 
 ## Overview and Terminology ##
 
+<!--//
 <dl>
   <dt><strong>Description</strong></dt>
   <dd></dd>
@@ -132,6 +135,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
   <li>Examples of barriers and features</li>
   <li>...</li>
 </ul>
+//-->
 
 ## People and Access Technology ##
 
@@ -230,6 +234,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
 
 ## Standards and Guidelines ##
 
+<!--//
 <ul>
   <li>Components of web accessibility</li>
   <li>Principles of web accessibility</li>
@@ -282,8 +287,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
     <li><strong></strong> &mdash; </li>
   </ul></dd>
 </dl>
+//-->
 
 ## Resources to Get Started ##
+
+<!--//
 <ul>
   <li>Easy Checks</li>
   <li>Getting Started; Tutorials; BAD</li>
@@ -337,3 +345,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
     <li><strong></strong> &mdash; </li>
   </ul></dd>
 </dl>
+//-->
