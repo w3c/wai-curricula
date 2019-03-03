@@ -13,14 +13,23 @@ footer: <p> work in progress </p>
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-WAI Curriculum Module: Introduction to Web Accessibility
+<p><strong>Introduction to Web Accessibility</strong> &mdash; this WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web. The suggested duration for courses following this module is @@-@@ hours, depending on interaction with learners and on activities included. This module addresses the following learning objectives:</p>
+<ul>
+  <li>Understanding the scope and relevance of web accessibility</li>
+  <li>Appreciation for how people with disabilities use the Web</li>
+  <li>Understanding of accessibility features and design barriers</li>
+  <li>Awareness about business case benefits of web accessibility</li>
+  <li>Knowledge about web accessibility standards and guidelines</li>
+  <li>Awareness of where to find materials on web accessibility</li>
+</ul>
+<p><strong>Note:</strong> This module addresses many different audiences, including people with different technical skills and knowledge about the topic. It is recommended to tailor examples, activities, and assessments to your particular audience.</p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Teaching Units in this Module" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -30,112 +39,51 @@ WAI Curriculum Module: Introduction to Web Accessibility
 {% include toc.html type="end" %}
 {:/}
 
-<!-- //
-<dl>
-  <dt><strong>Description</strong></dt>
-  <dd></dd>
-  <dt><strong>Learning Outcomes</strong></dt>
-  <dd><ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul></dd>
-  <dt><strong>Prerequisites for Learners</strong></dt>
-  <dd></dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
-  <dd></dd>
-  <dt><strong>Approximate Duration</strong></dt>
-  <dd></dd>
-  <dt><strong>Teaching Outline</strong></dt>
-  <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-  </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
-  <dd><strong></strong> &mdash; </dd>
-  <dt><strong>Teaching Materials</strong></dt>
-  <dd><ul>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-  </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
-  <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-  </ul></dd>
-  <dt><strong>Notes</strong></dt>
-  <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-  </ul></dd>
-</dl>
-//-->
-
 ## Overview and Terminology ##
 
-<!--//
 <dl>
   <dt><strong>Description</strong></dt>
-  <dd></dd>
+  <dd>Overview on the topic web accessibility, its scope, and key terminology used in this context.</dd>
   <dt><strong>Learning Outcomes</strong></dt>
   <dd><ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Understanding the definition of web accessibility for people with disablities</li>
+    <li>Understanding the scope of "the Web", including on desktop and mobile devices</li>
+    <li>Awareness of some types of design barriers that exclude people with disabilities</li>
+    <li>Knowledge of inter-relationship between different components of web accessibility</li>
+    <li>Understanding key terms and the role of accessibility standards and guidelines</li>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
-  <dd></dd>
+  <dd>[Basic] Basic understanding of computers and the Web.</dd>
   <dt><strong>Prerequisites for Trainers</strong></dt>
-  <dd></dd>
+  <dd>[Basic] Basic understanding of web accessibility.</dd>
   <dt><strong>Approximate Duration</strong></dt>
-  <dd></dd>
+  <dd>1-2 hours depending on activities.</dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Meaning of web accessibility</strong> &mdash; Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.</li>
+    <li><strong>Examples of web accessibility</strong> &mdash; Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.</li>
+    <li><strong>Components of web accessibility</strong> &mdash; Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.</li>
   </ul></dd>
   <dt><strong>Teaching Methods</strong></dt>
-  <dd><strong></strong> &mdash; </dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dd><strong>Presentational</strong> &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching untils will provide more in-depth exploration of certain areas.</dd>
   <dd><ul>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
-    <li><a href=""></a> &mdash; </li>
+    <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides and overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.</li>
+    <li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).</li>
+    <li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.</li>
+    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
+    <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.</li>
+    <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul></dd>
   <dt><strong>Assessment Methods</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to recite the definition of web accessibility, explain different terms, and enumerate different components of web accessibility and how they inter-relate.</li>
   </ul></dd>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
-    <li><strong></strong> &mdash; </li>
+    <li><strong>Initial awareness</strong> &mdash; The initial level of awareness for accessibility and disability will often vary for each learner. Asking learners to share examples from their own experiences can encourage thought-exchange.</li>
+    <li><strong>Laying foundations</strong> &mdash; Much of the content in this teachning unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.</li>
   </ul></dd>
 </dl>
-<ul>
-  <li>Definition of web accessibility</li>
-  <li>Examples of barriers and features</li>
-  <li>...</li>
-</ul>
-//-->
 
 ## People and Access Technology ##
 
