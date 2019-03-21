@@ -65,9 +65,9 @@ footer: <p> work in progress </p>
     <li><strong>Examples of web accessibility</strong> &mdash; Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.</li>
     <li><strong>Components of web accessibility</strong> &mdash; Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.</li>
   </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
+  <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Presentational</strong> &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching untils will provide more in-depth exploration of certain areas.</dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides and overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.</li>
     <li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).</li>
@@ -76,7 +76,7 @@ footer: <p> work in progress </p>
     <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.</li>
     <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
+  <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
     <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to recite the definition of web accessibility, explain different terms, and enumerate different components of web accessibility and how they inter-relate.</li>
   </ul></dd>
@@ -112,15 +112,15 @@ footer: <p> work in progress </p>
     <li><strong>Assistive tools and adaptive strategies</strong> &mdash; Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Exncourage learners to explore different settings in web browsers and operating systems.</li>
     <li><strong>Principles of universal design</strong> &mdash; Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize the people have very individual combinations of accessibility needs and preferences.</li>
   </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
+  <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Experiential</strong> &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.</dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.</li>
     <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
     <li><a href="https://www.w3.org/WAI/users/browsing">(outdated) Better Web Browsing: Tips for Customizing Your Computer</a> &mdash; provides references to resources to help users customize their particular web browser and computer setup, to improve their accessibility experience. It lists different types of settings and assistive tools that are available on different systems.</li>
   </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
+  <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
     <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to explain different types of accessibility features, such as colors with good contrast, types of barriers, and types of assistive tools and adaptive strategies. <br /><em>(Note: focus questions on functional aspects of accessibility rather than on medical conditions of people)</em></li>
     <li><strong>Demonstrations</strong> &mdash; Learners should be able to demonstrate what they have learned from exploring assistive tools and adaptive strategies, such as explaining different settings they found in their web browser.</li>
@@ -159,9 +159,9 @@ footer: <p> work in progress </p>
     <li><strong>Broader benefits of accessibility</strong> &mdash; Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in additiong to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.</li>
     <li><strong>Mainstreaming accessible design</strong> &mdash; Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.</li>
   </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
+  <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Presentational</strong> &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.</dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a> &mdash; Explains the rational for organizations to pursue digital accessibility for people with disabilities. This includes driving innovation, enhancing brand, extending market reach, and minimizing legal risk. It includes cases studies from different organizations.</li>
     <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
@@ -171,7 +171,7 @@ footer: <p> work in progress </p>
     <li><a href="https://www.w3.org/WAI/policies/">Web Accessibility Laws &amp; Policies</a> &mdash; Lists some of the laws and policies relating to web and digital accessibility internationally.</li>
     <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
+  <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
     <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to explain different business case arguments for digital accessibility, and broader benefits of accessibility for people in different situations and contexts.</li>
     <li><strong>Presentations</strong> &mdash; Learners should be able to develop potential business case arguments for their own organization, and present this to other learners as examples of how they can apply what they have learned.</li>
@@ -213,9 +213,9 @@ footer: <p> work in progress </p>
     <li><strong>Web accessibility principles</strong> &mdash; Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.</li>
     <li><strong>First checks for web accessibility principles</strong> &mdash; Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their finds to the accessibility principles and guidelines.</li>
   </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
+  <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Interactive</strong> &mdash; To make many terms and definitions more tangible, ask learners to provide examples of web content, authoring tools, user agents, and of situations relating to the accessibility guidelines defined by WCAG.</dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).</li>
     <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI). These include the following standards and guidelines:
@@ -232,7 +232,7 @@ footer: <p> work in progress </p>
     <li><a href="https://www.w3.org/WAI/demos/bad/">Before and After Demonstration (BAD)</a> &mdash; Is a miniture website in an accessible and inaccessible version, provided with evaluation reports and annotations of the barriers and accessibility repairs. It is designed for more technical audiences who want to explore different types of accessibility barriers and their repair.</li>
     <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> &mdash; Explains the need for a common understanding of web accessibility internationally, to facilitate the exachange of practices, tools, and skills, thereby accelerating the adoption and implementation of web accessibility.</li>
   </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
+  <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
     <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to explain the principles of web accessibility and enumerate different guidelines. Learners should be able to provide examples web content, authoring tools, and user agents.</li>
     <li><strong>Presentations</strong> &mdash; Learners should be able to carry out first checks of accessibility principles on simple web pages. Learners can compare the accessibility of different websites or different pages on the same website.</li>
@@ -269,9 +269,9 @@ footer: <p> work in progress </p>
     <li><strong>Developing policies on web accessibility</strong> &mdash; Explain the importance of putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.</li>
     <li><strong>Responding to accessibility questions</strong> &mdash; Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates cutomer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.</li>
   </ul></dd>
-  <dt><strong>Teaching Methods</strong></dt>
+  <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Presentational</strong> &mdash; Introduce the different types of roles and responsibilities, and considerations for integrating accessibility throughout the design and development process. Encoruage learners to reflect on these.</dd>
-  <dt><strong>Teaching Materials</strong></dt>
+  <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/EO/wiki/Role_definition_document">(Work in progress) Accessibility Roles and Responsibilities Mapping (ARRM): Role Definition</a> &mdash; Defines a variety of roles relevant for accessibility throughout the design and development process. It includes examples tasks in accessibility for each of the roles defined.</li>
     <li><a href="https://www.w3.org/WAI/planning-and-managing/">Planning and Managing Web Accessibility</a> &mdash; Enumerates and explains a broad selection of organizational considerations relating to web accessibility. These are organized according to web project management stages of "Initiate", "Plan", "Implement", and "Sustain", to help fit into organizational processes.</li>
@@ -281,7 +281,7 @@ footer: <p> work in progress </p>
     <li><a href="https://www.w3.org/WAI/planning/interim-repairs/">Web Accessibility First Aid: Approaches for Interim Repairs</a> &mdash; Introduces approaches to help organizations prioritize and address pressing issues, while building towards more comprehensive approaches to implement accessibility. It is part of the broader "Planning and Managing Web Accessibility" resource.</li>
     <li><a href="https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/">Contacting Organizations about Inaccessible Websites</a> &mdash; Provides guidance for users with disabilities on how to contact organizations when they observe accessibility barriers. It encourages communication and exchange between organizations and their website users.</li>
   </ul></dd>
-  <dt><strong>Assessment Methods</strong></dt>
+  <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
     <li><strong>Knowledge Questions</strong> &mdash; Learners should be able to enumerate different roles and responsibilities involved in web accessibility, and different organizational considerations to plan for and manage implementation.</li>
     <li><strong>Reflections</strong> &mdash; Learners should be able to reflect on the capacity and maturity of their own organizations regarding web accessibility with respect to (lack of) accessibility processes and practices put in place.</li>
