@@ -83,7 +83,7 @@ footer: <p> work in progress </p>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
     <li><strong>Initial awareness</strong> &mdash; The initial level of awareness for accessibility and disability will often vary for each learner. Asking learners to share examples from their own experiences can encourage thought-exchange.</li>
-    <li><strong>Laying foundations</strong> &mdash; Much of the content in this teachning unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.</li>
+    <li><strong>Laying foundations</strong> &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.</li>
   </ul></dd>
 </dl>
 
