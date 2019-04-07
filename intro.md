@@ -55,7 +55,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Basic] Basic understanding of web accessibility.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>1-2 hours depending on activities.</dd>
@@ -101,7 +101,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>3-5 hours depending on activities.</dd>
@@ -128,7 +128,7 @@ footer: <p> work in progress </p>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
     <li><strong>Ethical considerations</strong> &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.</li>
-    <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced trainers are recommended.</li>
+    <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.</li>
     <li><strong>Cultural apsects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.</li>
   </ul></dd>
 </dl>
@@ -149,7 +149,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of accessibility and inclusion, and experience in the types of business benefits resulting from accessibility.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>1-2 hours depending on demonstrated examples.</dd>
@@ -198,7 +198,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of the W3C accessibility standards and guidelines, and knowledge of how to check potential accessibility barriers.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>2-4 hours depending on activities.</dd>
@@ -257,7 +257,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of how to introduce and integrate accessibility considerations throughout organizational processes.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>2-3 hours depending on activities.</dd>
