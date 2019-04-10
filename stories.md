@@ -15,4 +15,10 @@
  <dd>[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.</dd>
  <dt>Aproximate duration</dt>
  <dd>Between 30 and 45 minutes.</dd>
+ <dt>Teaching outline</dt>
+ <dd<ul>
+  <li>Stories of people with disabilities - Try to bring actual people with disabilities to class and let them explain themselves and show the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as possible,since they will help to raise engagement and awareness among learners.</li>
+  <li></li>
+ </ul></dd>
+></dd>
 </dl>
