@@ -26,5 +26,6 @@
      <li>Physical<</li>
      <li>Speech</li>
      <li>Visual</li></ul>
+   <li>Tools and techniques - Focus on which specific pieces of software/hardware people with disabilities use to navigate the web. Concentrate on explaining how they might need to configure mainstream software/hardware in a way that help them feeling more comfortable while using such tools. Pay also attention to the so-called assistive technologies</li>
  </ul></dd>
 </dl>
