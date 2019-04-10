@@ -17,8 +17,8 @@
  <dd>Between 30 and 45 minutes.</dd>
  <dt>Teaching outline</dt>
  <dd<ul>
-  <li>Stories of people with disabilities - Try to bring actual people with disabilities to class and let them explain themselves and show the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as possible,since they will help to raise engagement and awareness among learners.</li>
-  <li></li>
+  <li>Stories of people with disabilities - Try to bring actual people with disabilities and let them explain themselves showing the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as possible, since they will help to raise engagement and awareness among learners. Focus specifically in the following areas of interest:
+  <ul><li>Different ways ofperception (people who are not able to perceive colour, images, media content.</li>
+  <li>Different ways of interacting with technology (input and output methods): people who do not use the mouse, the keyboard</li></ul>
  </ul></dd>
-></dd>
 </dl>
