@@ -55,7 +55,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Basic] Basic understanding of web accessibility.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>1-2 hours depending on activities.</dd>
@@ -101,13 +101,13 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>3-5 hours depending on activities.</dd>
   <dt><strong>Teaching Outline</strong></dt>
   <dd><ul>
-    <li><strong>Stories of people with disabilities</strong> &mdash; Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities (also within the same medical group), and how they use the Web. Avoid frequently encountered cliches, and emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).</li>
+    <li><strong>Stories of people with disabilities</strong> &mdash; Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).</li>
     <li><strong>Diverse abilities, tools, and barriers</strong> &mdash; Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.</li>
     <li><strong>Assistive tools and adaptive strategies</strong> &mdash; Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Exncourage learners to explore different settings in web browsers and operating systems.</li>
     <li><strong>Principles of universal design</strong> &mdash; Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize the people have very individual combinations of accessibility needs and preferences.</li>
@@ -128,7 +128,7 @@ footer: <p> work in progress </p>
   <dt><strong>Notes</strong></dt>
   <dd><ul>
     <li><strong>Ethical considerations</strong> &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.</li>
-    <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced trainers are recommended.</li>
+    <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.</li>
     <li><strong>Cultural apsects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.</li>
   </ul></dd>
 </dl>
@@ -149,7 +149,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of accessibility and inclusion, and experience in the types of business benefits resulting from accessibility.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>1-2 hours depending on demonstrated examples.</dd>
@@ -198,7 +198,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of the W3C accessibility standards and guidelines, and knowledge of how to check potential accessibility barriers.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>2-4 hours depending on activities.</dd>
@@ -257,7 +257,7 @@ footer: <p> work in progress </p>
   </ul></dd>
   <dt><strong>Prerequisites for Learners</strong></dt>
   <dd>[Basic] Basic understanding of computers and the Web.</dd>
-  <dt><strong>Prerequisites for Trainers</strong></dt>
+  <dt><strong>Prerequisites for instructors</strong></dt>
   <dd>[Medium] Good understanding of how to introduce and integrate accessibility considerations throughout organizational processes.</dd>
   <dt><strong>Approximate Duration</strong></dt>
   <dd>2-3 hours depending on activities.</dd>
