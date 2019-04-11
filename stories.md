@@ -32,7 +32,7 @@ footer: <p> work in progress </p>
   <dt>Prerequisites for instructors</dt> 
   <dd>[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people who present different types of disabilities.</dd>
   <dt>Aproximate duration</dt>
-  <dd>Between 30 and 45 minutes.</dd>
+  <dd>1 hour.</dd>
   <dt>Teaching outline</dt>
   <dd><ul>
    <li>Stories of people with disabilities - Bring actual people with disabilities and let them explain themselves showing the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as you can, since they will help to raise engagement and awareness among learners. Focus specifically in the following areas of interest, since they will serve you to introduce and prepare the audience for the next units in this module:
