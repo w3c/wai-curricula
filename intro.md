@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Web Accessibility"
-permalink: /curricula/
-ref: /curricula/
+permalink: /curricula/introduction/
+ref: /curricula/introduction/
 lang: en
 github:
   repository: w3c/wai-curricula
