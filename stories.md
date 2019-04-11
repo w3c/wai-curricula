@@ -48,5 +48,10 @@ footer: <p> work in progress </p>
  <dt>Suggested teaching methods</dt>
  <dd>If it is possible in your particular set up, bring people with disabilities and encourage them to explain their daily experience while navigating the web. Use examples that are related to the learner's interests and select web environments that are well-known to learners. This way, they can better understand the issues people with disabilities might have while they still are in a familiar environment. If it is not possible to bring people with disabilities, use videos and other types of multimedia content to raise engagement among the audience.</dd>
  <dt>Suggested teaching materials</dt>
- <dd></dd>
+  <dd>
+    <ul>
+      <li><a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of web users</a></li>
+      <li><a href="https://www.w3.org/WAI/perspective-videos//">Web Accessibility perspectives</a></li>
+    </ul>
+  </dd>
 </dl>
