@@ -33,7 +33,7 @@ repository: w3c/wai-curricula
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-remote_theme: w3c/wai-website-theme-beta
+remote_theme: w3c/wai-website-theme
 
 collections:
 #  business-case:
