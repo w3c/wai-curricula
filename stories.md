@@ -25,6 +25,7 @@ In this unit, the main objective is to focus on the specific way in which the pa
   * Gainning an understanding of how this particular personas are using the web. 
   * Interpreting the needs of such personas when it comes to their usage of web technologies.
   * Responding in a fast an efficient manner to the possible demands of people with disabilities that fall under their field of action.   * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
+
 Aproximate duration: 1 hour.
 ### Teaching outline
   * Stories of people with disabilities - Bring actual people with disabilities and let them explain themselves showing the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as you can, since they will help to raise engagement and awareness among learners. Focus specifically in the following areas of interest, since they will serve you to introduce and prepare the audience for the next units in this module:
