@@ -47,7 +47,7 @@ footer: <p> work in progress </p>
   <dd>Overview on the topic web accessibility, its scope, and key terminology used in this context.</dd>
   <dt><strong>Learning Outcomes</strong></dt>
   <dd><ul>
-    <li>Understanding the definition of web accessibility for people with disablities</li>
+    <li>Understanding the definition of web accessibility for people with disabilities</li>
     <li>Understanding the scope of "the Web", including on desktop and mobile devices</li>
     <li>Awareness of some types of design barriers that exclude people with disabilities</li>
     <li>Knowledge of inter-relationship between different components of web accessibility</li>
@@ -65,6 +65,7 @@ footer: <p> work in progress </p>
     <li><strong>Examples of web accessibility</strong> &mdash; Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.</li>
     <li><strong>Components of web accessibility</strong> &mdash; Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.</li>
   </ul></dd>
+
   <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Presentational</strong> &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching untils will provide more in-depth exploration of certain areas.</dd>
   <dt><strong>Suggested Teaching Materials</strong></dt>
@@ -72,7 +73,7 @@ footer: <p> work in progress </p>
     <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides and overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.</li>
     <li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).</li>
     <li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.</li>
-    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
+    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilities and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
     <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.</li>
     <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul></dd>
@@ -109,15 +110,15 @@ footer: <p> work in progress </p>
   <dd><ul>
     <li><strong>Stories of people with disabilities</strong> &mdash; Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).</li>
     <li><strong>Diverse abilities, tools, and barriers</strong> &mdash; Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.</li>
-    <li><strong>Assistive tools and adaptive strategies</strong> &mdash; Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Exncourage learners to explore different settings in web browsers and operating systems.</li>
-    <li><strong>Principles of universal design</strong> &mdash; Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize the people have very individual combinations of accessibility needs and preferences.</li>
+    <li><strong>Assistive tools and adaptive strategies</strong> &mdash; Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.</li>
+    <li><strong>Principles of universal design</strong> &mdash; Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize the FACT THAT people have very individual combinations of accessibility needs and preferences.</li>
   </ul></dd>
   <dt><strong>Suggested Teaching Methods</strong></dt>
   <dd><strong>Experiential</strong> &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.</dd>
   <dt><strong>Suggested Teaching Materials</strong></dt>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.</li>
-    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
+    <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilities and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
     <li><a href="https://www.w3.org/WAI/users/browsing">(outdated) Better Web Browsing: Tips for Customizing Your Computer</a> &mdash; provides references to resources to help users customize their particular web browser and computer setup, to improve their accessibility experience. It lists different types of settings and assistive tools that are available on different systems.</li>
   </ul></dd>
   <dt><strong>Ideas for Assessment</strong></dt>
@@ -129,7 +130,7 @@ footer: <p> work in progress </p>
   <dd><ul>
     <li><strong>Ethical considerations</strong> &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.</li>
     <li><strong>Cliches and myths</strong> &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.</li>
-    <li><strong>Cultural apsects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.</li>
+    <li><strong>Cultural aspects</strong> &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.</li>
   </ul></dd>
 </dl>
 
