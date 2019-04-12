@@ -1,7 +1,7 @@
 ---
 title: "Stories of people with disabilities"
-permalink: /curricula/introduction/stories/
-ref: /curricula/introduction/stories/
+permalink: /curricula/stories/
+ref: /curricula/stories/
 lang: en
 github:
   repository: w3c/wai-curricula
