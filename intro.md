@@ -40,11 +40,8 @@ footer: <p> work in progress </p>
 {% include toc.html type="end" %}
 {:/}
 
-{% include excol.html type="start" id="optional_id" %}
-
 ## Overview and Terminology ##
 
-{% include excol.html type="middle" %}
 <dl>
   <dt><strong>Description</strong></dt>
   <dd>Overview on the topic web accessibility, its scope, and key terminology used in this context.</dd>
@@ -90,8 +87,6 @@ footer: <p> work in progress </p>
     <li><strong>Laying foundations</strong> &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.</li>
   </ul></dd>
 </dl>
-
-{% include excol.html type="end" %}
 
 ## People and Access Technology ##
 
