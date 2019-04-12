@@ -1,5 +1,5 @@
 ---
-title: "Stories of people with disabilities"
+title: Stories of people with disabilities
 permalink: /curricula/stories/
 ref: /curricula/stories/
 lang: en
