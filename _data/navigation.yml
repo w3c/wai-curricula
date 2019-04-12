@@ -230,7 +230,7 @@
       url: "/curricula/introduction/"
       pages:
       - name: Stories of people with disabilities
-        url: "/curricula/introduction/stories" 
+        url: "/curricula/stories" 
     - name: Example Page
       url: "/curricula/example-page/"
   - name: Make Presentations Accessible
