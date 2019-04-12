@@ -228,6 +228,7 @@
     pages:
     - name: Introduction
       url: "/curricula/introduction/"
+      pages:
       - name: Stories of people with disabilities
         url: "/curricula/introduction/stories" 
     - name: Example Page
