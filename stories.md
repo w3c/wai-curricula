@@ -24,13 +24,14 @@ In this unit, the main objective is to focus on the specific way in which the pa
   * Raising awareness of diverse types of disabilities and related accessibility needs
   * Gainning an understanding of how this particular personas are using the web. 
   * Interpreting the needs of such personas when it comes to their usage of web technologies.
-  * Responding in a fast an efficient manner to the possible demands of people with disabilities that fall under their field of action.   * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
+  * Responding in a fast an efficient manner to the possible demands of people with disabilities that fall under their field of action.
+  * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
 
 Aproximate duration: 1 hour.
 ### Teaching outline
-  * Stories of people with disabilities - Bring actual people with disabilities and let them explain themselves showing the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as you can, since they will help to raise engagement and awareness among learners. Focus specifically in the following areas of interest, since they will serve you to introduce and prepare the audience for the next units in this module:
-  * Different ways of perception (people who are not able to perceive colour, images, media content.
-  * Different ways of interacting with technology (input and output methods): people who do not use the mouse, the keyboard
+  * Stories of people with disabilities - Bring actual people with disabilities and let them explain themselves showing the audience the technologies they use in a daily basis. If bringing people is not possible, try to use videos as much as you can, since they will help to raise engagement and awareness among learners. Focus specifically in the following areas of interest, since they will serve you to introduce and prepare the audience for the next subunits in this module:
+    * Different ways of perception (people who are not able to perceive colour, images, media content.
+    * Different ways of interacting with technology (input and output methods): people who do not use the mouse, the keyboard
   * Diverse abilities - Try to reflect the fact that people with disabilities are not homogeneous and that there is a wide range of different scenarios to address. Some of the most important ones are the following:
     * Auditory
     * Cognitive
