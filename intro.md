@@ -1,12 +1,12 @@
 ---
-title: "Introduction to Web Accessibility"
+title: "[DRAFT] Introduction to Web Accessibility"
 permalink: /curricula/introduction/
 ref: /curricula/introduction/
 lang: en
 github:
   repository: w3c/wai-curricula
   path: intro.md
-footer: <p> work in progress </p>
+footer: <p> Draft work in progress </p>
 ---
 
 {::nomarkdown}
