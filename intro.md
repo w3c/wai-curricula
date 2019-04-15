@@ -119,7 +119,7 @@ footer: <p> Draft work in progress </p>
   <dd><ul>
     <li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.</li>
     <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilities and other users. For example, one video introduces colors with good contrast and how it benefits many people.</li>
-    <li><a href="https://www.w3.org/WAI/users/browsing">(outdated) Better Web Browsing: Tips for Customizing Your Computer</a> &mdash; provides references to resources to help users customize their particular web browser and computer setup, to improve their accessibility experience. It lists different types of settings and assistive tools that are available on different systems.</li>
+    <li><a href="https://www.w3.org/WAI/users/browsing">(Work in progress) Better Web Browsing: Tips for Customizing Your Computer</a> &mdash; provides references to resources to help users customize their particular web browser and computer setup, to improve their accessibility experience. It lists different types of settings and assistive tools that are available on different systems.</li>
   </ul></dd>
   <dt><strong>Ideas for Assessment</strong></dt>
   <dd><ul>
