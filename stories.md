@@ -1,3 +1,19 @@
+---
+title: "[DRAFT] "Stories of people with disabilities"
+permalink: /curricula/stories/
+ref: /curricula/stories/
+lang: en
+github:
+  repository: w3c/wai-curricula
+  path: stories.md
+footer: <p> Draft work in progress </p>
+---
+
+{::nomarkdown}
+{% include box.html type="start" title="Module Description" class="" %}
+{:/}
+
+
 ## [Unit]> People and access technologies
 
 ### Teaching outline
