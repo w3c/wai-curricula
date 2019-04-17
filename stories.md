@@ -31,9 +31,9 @@ Outline for lesson "Stories of people with disabilities"
   * Introducing learners on how people with disabilities use the web. 
   * Raising awareness on the fact that every person uses the web in a different manner.
 
-##### Learning outcomes:
+##### Learning outcomes
 
-	  * Understanding how individuals with disabilities use the web. 
+  * Understanding how individuals with disabilities use the web. 
   * Familiarizing with the needs of such personas when it comes to their usage of web technologies.
   * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
 
