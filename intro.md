@@ -109,18 +109,17 @@ Provide tangible examples of people with disabilities using the Web. If possible
 
 ##### Objectives
 
-  * Introducing learners on how people with disabilities use the web. 
-  * Raising awareness on the fact that every person uses the web in a different manner.
-
+* Studying specific cases of personas with disabilities using the web by providing learners with tangible examples of people with disabilities using screne readers or screen magnifiers. Bring one or two people or use videos.
+  
 ##### Learning outcomes
 
   * Understanding how individuals with disabilities use the web.
-  * Familiarizing with the needs of such personas when it comes to their usage of web technologies.
+  * Getting acquainted with how people with disabilities take advantage of accessibility characteristics when they navigate the web.
   * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
 
 ##### Approximate duration.
 
-3 hours, depending on stories.
+2 hours, depending on stories.
 
 ##### Contents
 
@@ -128,7 +127,6 @@ Provide tangible examples of people with disabilities using the Web. If possible
     * Different ways of perception (people who are not able to perceive color, images, media content.
     * Different ways of operating with technology (input and output methods): people who do not use the mouse, the keyboard or the screen.
     * Different ways of understanding the web: how people may interact with user interfaces and information.  
-    * Different ways  of using technology: how technologies can have distinct ways of interpreting web user interfaces.
 
 ##### Suggested teaching methods 
 
