@@ -1,4 +1,4 @@
----
+  ---
 title: "[DRAFT] Introduction to Web Accessibility"
 permalink: /curricula/introduction/
 ref: /curricula/introduction/
@@ -110,7 +110,7 @@ The following is a list of proposed lessons for this unit.
 * Assistive tools and adaptive strategies: provides an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors.
 * Principles of universal design: explains the overlapping accessibility needs of different users, such as “reading aloud” functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explains that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age.
 
-**Note**: Instructors are free to teach this lesson in the order that best suits their needs and those of the learners.
+**Note**: Instructors are free to teach this lessons in the order that best suits their needs and those of the learners.
 
 {% include_cached excol.html type="start" id="stories" %}
 
