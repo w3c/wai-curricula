@@ -1,5 +1,5 @@
 ---
-title: "[DRAFT] Introduction to Web Accessibility"
+title: "[DRAFT] Module 1: Introduction to Web Accessibility"
 permalink: /curricula/introduction/
 ref: /curricula/introduction/
 lang: en
@@ -13,8 +13,9 @@ footer: <p> Draft work in progress </p>
 {% include box.html type="start" title="Module Description" class="" %}
 {:/}
 
-<p>This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web. The suggested duration for courses following this module is 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments. This module addresses the following learning objectives:</p>
-<ul>
+This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web. The suggested duration for courses following this module is 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments. This module addresses the following learning objectives:
+
+
   * Understanding the scope and relevance of web accessibility
   * Appreciation for how people with disabilities use the Web
   * Understanding of accessibility features and design barriers
@@ -22,8 +23,8 @@ footer: <p> Draft work in progress </p>
   * Knowledge about web accessibility standards and guidelines
   * Ability to carry out preliminary accessibility evaluation
   * Understanding of how to plan for and manage implementation
-</ul>
-<p>**Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. It is recommended to tailor examples, activities, and assessments to your particular audience.</p>
+
+**Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. It is recommended to tailor examples, activities, and assessments to your particular audience.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -39,8 +40,8 @@ footer: <p> Draft work in progress </p>
 
 ## Unit 1: Overview and Terminology ##
 
-### Description
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
+
 ### Learning Outcomes
 
   * Understanding the definition of web accessibility for people with disabilities
@@ -50,11 +51,17 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   * Understanding key terms and the role of accessibility standards and guidelines
 
 ### Prerequisites for Learners
-  [Basic] Basic understanding of computers and the Web.
+
+[Basic] Basic understanding of computers and the Web.
+
 ### Prerequisites for instructors
-  [Basic] Basic understanding of web accessibility.
+
+[Basic] Basic understanding of web accessibility.
+
 ### Approximate Duration
-  1-2 hours depending on activities.
+
+1-2 hours depending on activities.
+
 ### Teaching Outline
 
   * **Meaning of web accessibility** &mdash; Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
@@ -63,7 +70,9 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 
 ### Suggested Teaching Methods
-  **Presentational** &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching units will provide more in-depth exploration of certain areas.
+
+**Presentational** &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching units will provide more in-depth exploration of certain areas.
+
 ### Suggested Teaching Materials
 
   * <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides and overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.
@@ -83,11 +92,10 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   * **Laying foundations** &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.
 
 
-## Unit 2: People and Access Technology ##
+## Unit 2: People and Digital Technology ##
 
+Introduction to how people with disabilities use the Web, different types of assistive technologies and adaptive strategies that some people use, and some of the barriers that people encounter on the Web.
 
-### Description
-  Introduction to how people with disabilities use the Web, different types of assistive technologies and adaptive strategies that some people use, and some of the barriers that people encounter on the Web.
 ### Learning Outcomes
 
   * Awareness of diverse types of disabilities and related accessibility needs
@@ -96,21 +104,27 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   * Appreciation for overlapping user needs and the principles of universal design
 
 ### Prerequisites for Learners
-  [Basic] Basic understanding of computers and the Web.
+
+[Basic] Basic understanding of computers and the Web.
+
 ### Prerequisites for instructors
-  [Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.
+
+[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.
+
 ### Approximate Duration
-  3-5 hours depending on activities.
-### Teaching Outline
 
-The following is a list of proposed lessons for this unit. 
+3-5 hours depending on activities.
 
-* "Stories of people with disabilities":  experience first-hand how specific personas with disabilities navigate the web.
-* "Diverse abilities, tools and barriers": introduces examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
-* Assistive tools and adaptive strategies: provides an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors.
-* Principles of universal design: explains the overlapping accessibility needs of different users, such as “reading aloud” functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explains that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age.
+### Suggested Teaching Outline
 
-**Note**: Instructors are free to teach this lessons in the order that best suits their needs and those of the learners.
+The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adapative strategies, and how these related to design features. It consists of the following lessons:
+
+* Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
+* Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
+* Lesson 3 "Assistive tools and adaptive strategies": provides more in-depth explanation of assistive technologies and adaptive strategies, and an opportunity for students to get more acquainted with some of them.
+* Lesson 4 "Principles of universal design": explains the basic principles of inclusive and universal design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
+
+**Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
 {% include_cached excol.html type="start" id="stories" %}
 
@@ -118,32 +132,37 @@ The following is a list of proposed lessons for this unit.
 
 {% include_cached excol.html type="middle" %}
 
-Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).
+Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use assistive technologies and adaptive strategies to interact with the Web. If it is not possible to bring in real people with disabilities, consider using video recordings. If video cannot be used either, use images and story-telling techniques to help illustrate realistic personas and user stories, such as those provided in the teachning materials.
 
-##### Objectives
+As you may only have time for one or two examples, make sure to emphasize the diversity among people with disabilities, even with the same type of disability. Also emphasize how design features can enable or disable people. That is, emphasize the social model of disability and avoid using a medical approach. Avoid frequently encountered cliches and myths. Complement the few examples that you cover in-depth with some examples of people with other types of disabilities.
 
-* Studying specific cases of personas with disabilities using the web by providing learners with tangible examples of people with disabilities using screne readers or screen magnifiers. Bring one or two people or use videos.
-  
+**Tip:** Commonly it is helpful to show examples of people using accessible content first, so that students realize the impact of accessible versus inaccessible design.
+
+**Note:** Later lessons will introduce different types of disabilities, assistive technologies, and adaptive strategies in more depth. This lesson is primarily intended for first-hand experience of real people, which is often first encounter for students.
+
 ##### Learning outcomes
 
-  * Understanding how individuals with disabilities use the web.
-  * Getting acquainted with how people with disabilities take advantage of accessibility characteristics when they navigate the web.
-  * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
+  * Understanding how some individuals with disabilities use the Web.
+  * Appreciating the impact of accessible versus inaccessible design.
+  * Gaining empathy, inspiration, and motivation for the topic.
 
 ##### Approximate duration.
 
-2 hours, depending on stories.
-
-##### Contents
-
-  * Stories of people with disabilities - real people with disabilities showing how they use the web in a daily basis. Focus in the following areas of interest, since they will serve you to lay foundations for future knowledge:
-    * Different ways of perception (people who are not able to perceive color, images, media content.
-    * Different ways of operating with technology (input and output methods): people who do not use the mouse, the keyboard or the screen.
-    * Different ways of understanding the web: how people may interact with user interfaces and information.  
+1-2 hours, depending on demonstrations and activities.
 
 ##### Suggested teaching methods 
 
-**Experiential**: Bring people with disabilities and encourage them to explain their daily experience while navigating the web. Whenever possible, use examples that are related to the learner's interests and select web environments that are well-known to learners. If it is not possible to bring people with disabilities, use videos and other types of multimedia content. If video cannot be used either, refer to text-based materials.
+* **Demonstrations**: Invite people with disabilities to show how they use assistive technologies and adaptive strategies - this is often the first encounter for students to observe real use of assistive technologies and adaptive strategies.
+* **Conversational**: Invite people with disabilities for a discussion on their daily experience while using the Web - this is often the first opportunity for students to engage with people with disabilities and to build more empathy.
+* **Experiential**: Ask students to try out using assistive technologies as they have demonstrated by experienced users - this can be a fun way to get an understanding and appreciations for different ways in interacting with the Web.
+
+##### Suggested activities 
+
+* Ask students to try and follow along an experienced user using assistive technologies and adaptive strategies. For example, using text to speech, speech recognition, and other accessibility features built into their mobile phones.
+
+##### Suggested homework 
+
+* Ask students to reflect on their observations, for example in a short essay (200-300 words). Students should explain some of the design features that one of the assistive technologies they learned about relies on to function.
 
 ##### Suggested teaching materials
 
