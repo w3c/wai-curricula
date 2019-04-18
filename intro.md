@@ -147,7 +147,7 @@ Provide tangible examples of people with disabilities using the Web. If possible
  
  #### Diverse abilities, tools, and barriers
  
-{% include_cached excol.html type="middled" %} 
+{% include_cached excol.html type="middle" %} 
  
  Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
  
