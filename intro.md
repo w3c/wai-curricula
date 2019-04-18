@@ -103,6 +103,15 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   3-5 hours depending on activities.
 ### Teaching Outline
 
+The following is a list of proposed lessons for this unit. 
+
+* "Stories of people with disabilities":  experience first-hand how specific personas with disabilities navigate the web.
+* "Diverse abilities, tools and barriers": introduces examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
+* Assistive tools and adaptive strategies: provides an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors.
+* Principles of universal design: explains the overlapping accessibility needs of different users, such as “reading aloud” functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explains that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age.
+
+**Note**: Instructors are free to teach this lesson in the order that best suits their needs and those of the learners.
+
 {% include_cached excol.html type="start" id="stories" %}
 
 #### Lesson 1: Stories of people with disabilities
@@ -144,8 +153,8 @@ Provide tangible examples of people with disabilities using the Web. If possible
 {% include_cached excol.html type="end" %} 
 
  {% include_cached excol.html type="start" id="abilities" %} 
- 
- #### Diverse abilities, tools, and barriers
+
+#### Diverse abilities, tools, and barriers
  
 {% include_cached excol.html type="middle" %} 
  
