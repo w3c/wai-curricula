@@ -103,10 +103,48 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   3-5 hours depending on activities.
 ### Teaching Outline
 
-  * **Stories of people with disabilities** &mdash; Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).
-  * **Diverse abilities, tools, and barriers** &mdash; Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
-  * **Assistive tools and adaptive strategies** &mdash; Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
-  * **Principles of universal design** &mdash; Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
+#### Lesson 1: Stories of people with disabilities
+
+Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).
+
+##### Objectives
+
+  * Introducing learners on how people with disabilities use the web. 
+  * Raising awareness on the fact that every person uses the web in a different manner.
+
+##### Learning outcomes
+
+  * Understanding how individuals with disabilities use the web.
+  * Familiarizing with the needs of such personas when it comes to their usage of web technologies.
+  * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
+
+##### Approximate duration.
+
+3 hours, depending on stories.
+
+##### Contents
+
+  * Stories of people with disabilities - real people with disabilities showing how they use the web in a daily basis. Focus in the following areas of interest, since they will serve you to lay foundations for future knowledge:
+    * Different ways of perception (people who are not able to perceive color, images, media content.
+    * Different ways of operating with technology (input and output methods): people who do not use the mouse, the keyboard or the screen.
+    * Different ways of understanding the web: how people may interact with user interfaces and information.  
+    * Different ways  of using technology: how technologies can have distinct ways of interpreting web user interfaces.
+
+##### Suggested teaching methods 
+
+**Experiential**: Bring people with disabilities and encourage them to explain their daily experience while navigating the web. Whenever possible, use examples that are related to the learner's interests and select web environments that are well-known to learners. If it is not possible to bring people with disabilities, use videos and other types of multimedia content. If video cannot be used either, refer to text-based materials.
+
+##### Suggested teaching materials
+
+  * <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of web users</a>
+  * <a href="https://www.w3.org/WAI/perspective-videos//">Web Accessibility perspectives</a>
+ 
+ #### Diverse abilities, tools, and barriers
+ Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
+#### Assistive tools and adaptive strategies
+Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
+#### Principles of universal design
+Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
 ### Suggested Teaching Methods
   **Experiential** &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.
