@@ -50,6 +50,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
     <li>Knowledge of inter-relationship between different components of web accessibility</li>
     <li>Understanding key terms and the role of accessibility standards and guidelines</li>
   </ul>
+  
 ### Prerequisites for Learners
   [Basic] Basic understanding of computers and the Web.
 ### Prerequisites for instructors
@@ -74,16 +75,17 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
     <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.</li>
     <li><a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention on the Rights of Persons with Disabilities (CRPD)</a> &mdash; Lists the countries that signed and ratified the convention and optional protocol, and provides news and information on implementation of the convention.</li>
   </ul>
+
 ### Ideas for Assessment
   <ul>
     <li>**Knowledge Questions** &mdash; Learners should be able to recite the definition of web accessibility, explain different terms, and enumerate different components of web accessibility and how they inter-relate.</li>
   </ul>
+
 ### Notes
   <ul>
     <li>**Initial awareness** &mdash; The initial level of awareness for accessibility and disability will often vary for each learner. Asking learners to share examples from their own experiences can encourage thought-exchange.</li>
     <li>**Laying foundations** &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.</li>
   </ul>
-
 
 ## People and Access Technology ##
 
