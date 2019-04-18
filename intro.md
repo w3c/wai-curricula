@@ -173,7 +173,7 @@ As you may only have time for one or two examples, make sure to emphasize the di
 
  {% include_cached excol.html type="start" id="abilities" %} 
 
-#### Diverse abilities, tools, and barriers
+#### Lesson 2: Diverse abilities, tools, and barriers
  
 {% include_cached excol.html type="middle" %} 
  
@@ -183,7 +183,7 @@ As you may only have time for one or two examples, make sure to emphasize the di
  
  {% include_cached excol.html type="start" id="ats" %} 
  
-#### Assistive tools and adaptive strategies
+#### Lesson 3: Assistive tools and adaptive strategies
 
 {% include_cached excol.html type="middle" %} 
 
@@ -193,7 +193,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 {% include_cached excol.html type="start" id="Principles" %} 
 
-#### Principles of universal design
+#### Lesson 4: Principles of universal design
 
 {% include_cached excol.html type="middle" %} 
 
