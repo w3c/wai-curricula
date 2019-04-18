@@ -24,7 +24,7 @@ Outline for lesson "Stories of people with disabilities"
 
 ### Teaching outline
 
-#### [Lesson]: Stories of people with disabilities
+#### Lesson 1: Stories of people with disabilities
 
 ##### Objectives
 
@@ -37,7 +37,9 @@ Outline for lesson "Stories of people with disabilities"
   * Familiarizing with the needs of such personas when it comes to their usage of web technologies.
   * Understanding the most common barriers and issues that people with disabilities face when navigating the web.
 
-Approximate duration: 3 hours, depending on stories.
+##### Approximate duration.
+
+3 hours, depending on stories.
 
 ##### Contents
 
@@ -49,7 +51,7 @@ Approximate duration: 3 hours, depending on stories.
 
 ##### Suggested teaching methods 
 
-*Experiential*: Bring people with disabilities and encourage them to explain their daily experience while navigating the web. Whenever possible, use examples that are related to the learner's interests and select web environments that are well-known to learners. If it is not possible to bring people with disabilities, use videos and other types of multimedia content. If video cannot be used either, refer to text-based materials.
+**Experiential**: Bring people with disabilities and encourage them to explain their daily experience while navigating the web. Whenever possible, use examples that are related to the learner's interests and select web environments that are well-known to learners. If it is not possible to bring people with disabilities, use videos and other types of multimedia content. If video cannot be used either, refer to text-based materials.
 
 ##### Suggested teaching materials
 
