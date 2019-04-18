@@ -37,7 +37,7 @@ footer: <p> Draft work in progress </p>
 {% include toc.html type="end" %}
 {:/}
 
-## Overview and Terminology ##
+## Unit 1: Overview and Terminology ##
 
 ### Description
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
@@ -83,7 +83,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   * **Laying foundations** &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.
 
 
-## People and Access Technology ##
+## Unit 2: People and Access Technology ##
 
 
 ### Description
@@ -129,7 +129,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 
 
-## Business Case and Benefits ##
+## Unit 3: Business Case and Benefits ##
 
 
 ### Description
@@ -179,7 +179,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 
 
-## Standards and Guidelines ##
+## Unit 4: Standards and Guidelines ##
 
 
 ### Description
@@ -239,7 +239,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 
 
-## Get Started with Accessibility ##
+## Unit 5: Get Started with Accessibility ##
 
 
 ### Description
