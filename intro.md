@@ -1,4 +1,4 @@
-  ---
+---
 title: "[DRAFT] Introduction to Web Accessibility"
 permalink: /curricula/introduction/
 ref: /curricula/introduction/
