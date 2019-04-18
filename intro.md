@@ -83,7 +83,6 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   * **Laying foundations** &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.
 
 
-
 ## People and Access Technology ##
 
 
