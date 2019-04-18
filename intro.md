@@ -103,7 +103,11 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   3-5 hours depending on activities.
 ### Teaching Outline
 
+{% include excol.html type="start" id="optional_id" %}
+
 #### Lesson 1: Stories of people with disabilities
+
+{% include excol.html type="middle" %}
 
 Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).
 
@@ -136,7 +140,9 @@ Provide tangible examples of people with disabilities using the Web. If possible
 
   * <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of web users</a>
   * <a href="https://www.w3.org/WAI/perspective-videos//">Web Accessibility perspectives</a>
- 
+
+{% include excol.html type="end" %} 
+
  #### Diverse abilities, tools, and barriers
  Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
 #### Assistive tools and adaptive strategies
