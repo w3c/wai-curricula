@@ -103,13 +103,13 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
   3-5 hours depending on activities.
 ### Teaching Outline
 
-{% include excol.html type="start" id="stories" %}
+{% include_cached excol.html type="start" id="stories" %}
 
 #### Lesson 1: Stories of people with disabilities
 
 Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use the Web. Highlight the diversity of people with disabilities, trying to avoid as much as possible the medical model approach as well as some frequently encountered cliches, . Instead, concentrate  on how they use the Web. Emphasize how design and implementation cause barriers as opposed to barriers being inherent to the user (social model of disability).
 
-{% include excol.html type="middle" %}
+{% include_cached excol.html type="middle" %}
 
 ##### Objectives
 
@@ -141,36 +141,37 @@ Provide tangible examples of people with disabilities using the Web. If possible
   * <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of web users</a>
   * <a href="https://www.w3.org/WAI/perspective-videos//">Web Accessibility perspectives</a>
 
-{% include excol.html type="end" %} 
+{% include_cached excol.html type="end" %} 
 
- {% include excol.html type="start" id="abilities" %} 
+ {% include_cached excol.html type="start" id="abilities" %} 
  
  #### Diverse abilities, tools, and barriers
  
- {% include excol.html type="middled" %} 
+{% include_cached excol.html type="middled" %} 
  
  Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
  
- {% include excol.html type="end" %} 
+ {% include_cached excol.html type="end" %} 
  
- {% include excol.html type="start" id="ats" %} 
+ {% include_cached excol.html type="start" id="ats" %} 
  
 #### Assistive tools and adaptive strategies
 
-{% include excol.html type="middle" %} 
+{% include_cached excol.html type="middle" %} 
 
 Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
 
-{% include excol.html type="end" %} 
+{% include_cached excol.html type="end" %} 
 
-{% include excol.html type="start" id="Principles" %} 
+{% include_cached excol.html type="start" id="Principles" %} 
+
 #### Principles of universal design
 
-{% include excol.html type="middle" %} 
+{% include_cached excol.html type="middle" %} 
 
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
-{% include excol.html type="end" %} 
+{% include_cached excol.html type="end" %} 
 
 ### Suggested Teaching Methods
   **Experiential** &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.
