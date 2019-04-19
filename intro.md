@@ -117,7 +117,7 @@ Introduction to how people with disabilities use the Web, different types of ass
 
 ### Suggested Teaching Outline
 
-The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adapative strategies, and how these related to design features. It consists of the following lessons:
+The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adaptive strategies, and how these related to design features. It consists of the following lessons:
 
 * Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
 * Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
@@ -132,9 +132,9 @@ The objective of this unit is to raise the awareness of students on the wide ran
 
 {% include_cached excol.html type="middle" %}
 
-Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use assistive technologies and adaptive strategies to interact with the Web. If it is not possible to bring in real people with disabilities, consider using video recordings. If video cannot be used either, use images and story-telling techniques to help illustrate realistic personas and user stories, such as those provided in the teachning materials.
+Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use assistive technologies and adaptive strategies to interact with the Web. If it is not possible to bring in real people with disabilities, consider using video recordings. If video cannot be used either, use images and story-telling techniques to help illustrate realistic personas and user stories, such as those provided in the teaching materials.
 
-As you may only have time for one or two examples, make sure to emphasize the diversity among people with disabilities, even with the same type of disability. Also emphasize how design features can enable or disable people. That is, emphasize the social model of disability and avoid using a medical approach. Avoid frequently encountered cliches and myths. Complement the few examples that you cover in-depth with some examples of people with other types of disabilities.
+As you may only have time for one or two examples, make sure to emphasize the diversity among people with disabilities, even with the same type of disability. Also emphasize how design features can enable or disable people. That is, emphasize the social model of disability and avoid using a medical approach. Avoid frequently encountered clichés and myths. Complement the few examples that you cover in-depth with some examples of people with other types of disabilities.
 
 **Tip:** Commonly it is helpful to show examples of people using accessible content first, so that students realize the impact of accessible versus inaccessible design.
 
@@ -217,7 +217,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 ### Notes
 
   * **Ethical considerations** &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.
-  * **Cliches and myths** &mdash; Unfortunately there are cliches, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.
+  * **clichés and myths** &mdash; Unfortunately there are clichés, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.
   * **Cultural aspects** &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.
 
 
@@ -226,7 +226,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 
 ### Description
-  Introduction to the business case for web accessibility, including social, technical, finanicial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+  Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
 ### Learning Outcomes
 
   * Awareness of access to information, including on the Web, as a human right
@@ -245,7 +245,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 ### Teaching Outline
 
   * **Social dimension of accessibility** &mdash; Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
-  * **Broader benefits of accessibility** &mdash; Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in additiong to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
+  * **Broader benefits of accessibility** &mdash; Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
   * **Mainstreaming accessible design** &mdash; Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
 
 ### Suggested Teaching Methods
@@ -253,7 +253,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 ### Suggested Teaching Materials
 
   * <a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a> &mdash; Explains the rational for organizations to pursue digital accessibility for people with disabilities. This includes driving innovation, enhancing brand, extending market reach, and minimizing legal risk. It includes cases studies from different organizations.
-  * <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilites and other users. For example, one video introduces colors with good contrast and how it benefits many people.
+  * <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilities and other users. For example, one video introduces colors with good contrast and how it benefits many people.
   * <a href="https://www.w3.org/WAI/older-users/">Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users</a> &mdash; Explains the overlapping needs of ageing web users and web users with disabilities, and how accessibility addresses both situations. This resource refers to further background materials, including statistics on older people.
   * <a href="https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/">[Archived] Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices</a> &mdash; Explains some of the shared experiences using the Web for people using mobile devices and people with disabilities (archived content).
   * <a href="https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/">Accessibility, Usability, and Inclusion</a> &mdash; Explains the distinctions and overlaps between the terms accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process.
@@ -267,7 +267,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ### Notes
 
-  * **Cultural apsects** &mdash; The cultural acceptance and approach to accessibility and disability varies between countries and even individual organizations. The business case arguments may need to be adjusted accordingly.
+  * **Cultural aspects** &mdash; The cultural acceptance and approach to accessibility and disability varies between countries and even individual organizations. The business case arguments may need to be adjusted accordingly.
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the business case arguments. For example, to better relate to their industry sector and organizational culture.
 
 
@@ -297,7 +297,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
   * **Web Content Accessibility Guidelines (WCAG)** &mdash; Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
   * **Authoring Tool Accessibility Guidelines (ATAG)** &mdash; Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
   * **User Agent Accessibility Guidelines (UAAG)** &mdash; Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
-  * **Accessible Rich Internet Applications (WAI-ARIA)** &mdash; Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facolitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
+  * **Accessible Rich Internet Applications (WAI-ARIA)** &mdash; Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
   * **Open standards development** &mdash; Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comments, to help include many perspectives thus ensure broad consensus around these standards.
   * **Web accessibility principles** &mdash; Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
   * **First checks for web accessibility principles** &mdash; Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their finds to the accessibility principles and guidelines.
@@ -312,14 +312,14 @@ Explain the overlapping accessibility needs of different users, such as "reading
       * <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
       * <a href="https://www.w3.org/WAI/standards-guidelines/atag/">Authoring Tool Accessibility Guidelines (ATAG) Overview</a> &mdash; Provides an overview on ATAG, including "ATAG At a Glance" summary (and handout), and other supporting materials.
       * <a href="https://www.w3.org/WAI/standards-guidelines/uaag/">User Agent Accessibility Guidelines (UAAG) Overview</a> &mdash; Provides an overview on UAAG, including "UAAG At a Glance" summary (and handout), and other supporting materials.
-      * <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a> &mdash; Provides an overview on WAI-ARIA, including its accompaying standards and application programming interfaces (APIs).
+      * <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a> &mdash; Provides an overview on WAI-ARIA, including its accompanying standards and application programming interfaces (APIs).
     
     
   * <a href="https://www.w3.org/WAI/standards-guidelines/w3c-process/">How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute</a> &mdash; Provides a simplified overview on the W3C standards development process, and the opportunities that it provides for members of the public to provide feedback into the process.
   * <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> &mdash; Introduces the principles and guidelines defined by WCAG in less technical terms, and relates these requirements to ATAG and UAAG.
   * <a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; Provides instructions to check few accessibility issues relating to different accessibility guidelines. These checks are designed to be quick and easy for many audiences, rather than definitive conformance assessments for accessibility.
   * <a href="https://www.w3.org/WAI/demos/bad/">Before and After Demonstration (BAD)</a> &mdash; Is a miniture website in an accessible and inaccessible version, provided with evaluation reports and annotations of the barriers and accessibility repairs. It is designed for more technical audiences who want to explore different types of accessibility barriers and their repair.
-  * <a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> &mdash; Explains the need for a common understanding of web accessibility internationally, to facilitate the exachange of practices, tools, and skills, thereby accelerating the adoption and implementation of web accessibility.
+  * <a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> &mdash; Explains the need for a common understanding of web accessibility internationally, to facilitate the exchange of practices, tools, and skills, thereby accelerating the adoption and implementation of web accessibility.
 
 ### Ideas for Assessment
 
@@ -328,7 +328,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ### Notes
 
-  * **Technical jargon** &mdash; This teaching unit explores teachnical standards and resources, which include technical jargon. It will be important to explain terms and phrases in a more understandable way to most learners.
+  * **Technical jargon** &mdash; This teaching unit explores technical standards and resources, which include technical jargon. It will be important to explain terms and phrases in a more understandable way to most learners.
 
 
 
