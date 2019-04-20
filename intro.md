@@ -34,6 +34,9 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 {% include toc.html type="start" title="Teaching Units in this Module" %}
 {:/}
 
+-  TOC is created automatically.
+{:toc}
+
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
