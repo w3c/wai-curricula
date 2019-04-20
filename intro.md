@@ -30,7 +30,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="1" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Teaching Units in this Module" %}
