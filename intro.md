@@ -43,6 +43,9 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 {% include toc.html type="end" %}
 {:/}
 
+
+{% include_cached excol.html type="all" %}
+
 ## Unit 1: Overview and Terminology ##
 
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
