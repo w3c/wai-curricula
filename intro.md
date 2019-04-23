@@ -159,7 +159,7 @@ As you may only have time for one or two examples, make sure to emphasize the di
 
 * **Demonstrations**: Invite people with disabilities to show how they use assistive technologies and adaptive strategies - this is often the first encounter for students to observe real use of assistive technologies and adaptive strategies.
 * **Conversational**: Invite people with disabilities for a discussion on their daily experience while using the Web - this is often the first opportunity for students to engage with people with disabilities and to build more empathy.
-* **Experiential**: Ask students to try out using assistive technologies as they have demonstrated by experienced users - this can be a fun way to get an understanding and appreciations for different ways in interacting with the Web.
+* **Experiential**: Ask students to try out using assistive technologies as demonstrated by experienced users - this can be a fun way to get an understanding and appreciations for different ways of interacting with the Web.
 
 ##### Suggested activities 
 
