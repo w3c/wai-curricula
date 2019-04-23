@@ -225,6 +225,7 @@ As this lesson might become too medical at a first approach, focus on the fact t
 
 {% include_cached excol.html type="middle" %} 
 
+@@
 Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
 
 ##### Learning outcomes
@@ -239,15 +240,21 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 ##### Suggested teaching methods 
 
-* Have experienced assistive technology users demonstrating the tools first and then encourage students to follow alonng
+* **Demonstrations**: - Have experienced assistive technology users demonstrating the tools first. Ask them to use already accessible contents so that students can perceive the advantages of developing and designing in an accessible way.
+* **Presentational**: - Elaborate on the most well-known assistive technologies and adaptive strategies that exist today: screen readers, screen magnifiers, pointers
 
 ##### Suggested activities 
 
+* Encourage students to try using assistive technologies built into their own computers / mobile phones. Ask them to perform tasks such as looking for information in a particular website or a mobile application.
+
 ##### Suggested homework 
+
+* Ask students to write some lines on how a particular assistive technology is used. Encourage them to reflect all the aspects of such technology, such as shortcuts used or additional settings they might have used for an optimal performance of the technology.
 
 ##### Suggested teaching materials
 
-
+* [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques)
+* <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives)</a>
 
 {% include_cached excol.html type="end" %} 
 
