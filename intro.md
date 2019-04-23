@@ -241,7 +241,9 @@ Provide an opportunity for learners to experience some types of assistive tools,
 ##### Suggested teaching methods 
 
 * **Demonstrations**: - Have experienced assistive technology users demonstrating the tools first. Ask them to use already accessible contents so that students can perceive the advantages of developing and designing in an accessible way.
-* **Presentational**: - Elaborate on the most well-known assistive technologies and adaptive strategies that exist today: screen readers, screen magnifiers, pointers
+* **Presentational**:
+	* Elaborate on the most well-known assistive technologies that exist today: screen readers, screen magnifiers...
+	* Elaborate on the most well-known adaptive strategies that exist today: captions, audio descriptions, braille...
 
 ##### Suggested activities 
 
