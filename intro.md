@@ -182,11 +182,44 @@ As you may only have time for one or two examples, make sure to emphasize the di
  
 {% include_cached excol.html type="middle" %} 
  
- Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
+@@
+Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
+As this lesson might become too medical at a first approach, focus on the fact that barriers are not caused by the disability itself but, instead, by bad implementations at a software or product level.
+
+##### Learning outcomes
+
+* Understanding the  different types of disabilities that exist.
+* Awareness on the most common implementation barriers.
+* Relating such barriers with personal experiences of people with disabilities.
+
+##### Aproximate duration
+
+1 hour.
+
+##### Suggested teaching methods
+
+**Presentational**: - Provide a description on the types of disabilities that exist. Emphasize how these types of disabilities are not limiting but, on the contrary, can raise other capabilities of the person.
+
+##### Suggested activities
+
+* Promote discussion among students about the different types of disabilities and common barriers that they have been learning about.
+* Promote that they relate each of the disabilities with the barrier that they think affects that disability most.
+
+##### Suggested homework
+
+* Ask students to write some lines about the most common types of disabilities: auditory, cognitive and learning, physical, speech, and visual, emphasizing the fact that they can use the web just as everybody else.
+* Ask students to take notes on the most frequently encountered barriers that people with disabilities face when navigating the web.
+
+##### Suggested  teaching materials 
+
+* [https://www.w3.org/WAI/people-use-web/abilities-barriers/](Diverse abilities and barriers)
+* <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight
+
+@@
+
+{% include_cached excol.html type="end" %} 
  
- {% include_cached excol.html type="end" %} 
- 
- {% include_cached excol.html type="start" id="ats" %} 
+{% include_cached excol.html type="start" id="ats" %} 
  
 #### Lesson 3: Assistive tools and adaptive strategies
 
