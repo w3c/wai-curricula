@@ -43,9 +43,6 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 {% include toc.html type="end" %}
 {:/}
 
-
-{% include_cached excol.html type="all" %}
-
 ## Unit 1: Overview and Terminology ##
 
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
@@ -133,6 +130,8 @@ The objective of this unit is to raise the awareness of students on the wide ran
 * Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive and inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
+
+{% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="stories" %}
 
@@ -272,6 +271,8 @@ Provide an opportunity for learners to experience some types of assistive tools,
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
 {% include_cached excol.html type="end" %} 
+
+{% include_cached excol.html type="all" %}
 
 ### Suggested Teaching Methods
   **Experiential** &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.
