@@ -212,8 +212,8 @@ As this lesson might become too medical at a first approach, focus on the fact t
 
 ##### Suggested  teaching materials 
 
-* [https://www.w3.org/WAI/people-use-web/abilities-barriers/](Diverse abilities and barriers)
-* <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight
+* <a href="https://www.w3.org/WAI/people-use-web/abilities-barriers">Diverse abilities and barriers</a>
+* <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives)</a>
 
 @@
 
