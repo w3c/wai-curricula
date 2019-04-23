@@ -227,6 +227,28 @@ As this lesson might become too medical at a first approach, focus on the fact t
 
 Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
 
+##### Learning outcomes
+
+* Understanding how an assistive technology works and how it renders information to the user.
+* Exploring first-hand an assistive technology by trying different operating systems and settings.
+* Testing different adaptive strategies such as changing fonts or colors and applying custom stylesheets.
+
+##### Approximate duration.
+
+1 hour.
+
+##### Suggested teaching methods 
+
+* Have experienced assistive technology users demonstrating the tools first and then encourage students to follow alonng
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
+
 {% include_cached excol.html type="end" %} 
 
 {% include_cached excol.html type="start" id="Principles" %} 
