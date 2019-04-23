@@ -106,7 +106,7 @@ Introduction to how people with disabilities use the Web, different types of ass
   * Awareness of diverse types of disabilities and related accessibility needs
   * Understanding of different types of design barriers preventing accessibility
   * Knowledge about different types of assistive tools and adaptive strategies
-  * Appreciation for overlapping user needs and the principles of universal design
+  * Appreciation for overlapping user needs and the principles of inclusive design
 
 ### Prerequisites for Learners
 
@@ -114,7 +114,7 @@ Introduction to how people with disabilities use the Web, different types of ass
 
 ### Prerequisites for instructors
 
-[Advanced] In-depth knowledge of accessibility principles and universal design, and expertise in working with people with different types of disabilities.
+[Advanced] In-depth knowledge of accessibility principles and inclusive design, and expertise in working with people with different types of disabilities.
 
 ### Approximate Duration
 
@@ -127,7 +127,7 @@ The objective of this unit is to raise the awareness of students on the wide ran
 * Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
 * Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
 * Lesson 3 "Assistive tools and adaptive strategies": provides more in-depth explanation of assistive technologies and adaptive strategies, and an opportunity for students to get more acquainted with some of them.
-* Lesson 4 "Principles of universal design": explains the basic principles of inclusive and universal design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
+* Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive and inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -198,7 +198,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 {% include_cached excol.html type="start" id="Principles" %} 
 
-#### Lesson 4: Principles of universal design
+#### Lesson 4: Principles of inclusive design
 
 {% include_cached excol.html type="middle" %} 
 
