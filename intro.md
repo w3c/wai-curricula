@@ -69,10 +69,41 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 ### Teaching Outline
 
-  * **Meaning of web accessibility** &mdash; Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
-  * **Examples of web accessibility** &mdash; Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
-  * **Components of web accessibility** &mdash; Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
 
+{% include excol.html type="all" %}
+
+{% include_cached excol.html type="start" id="stories" %}
+  
+#### Meaning of web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+
+#### Examples of web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Components of web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="all" %}
 
 ### Suggested Teaching Methods
 
