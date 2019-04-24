@@ -317,6 +317,8 @@ Provide an opportunity for learners to experience some types of assistive tools,
 * [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques)
 * <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives)</a>
 
+@@
+
 {% include_cached excol.html type="end" %} 
 
 {% include_cached excol.html type="start" id="Principles" %} 
@@ -325,6 +327,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 {% include_cached excol.html type="middle" %} 
 
+@@
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
 ##### Learning outcomes
@@ -353,6 +356,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 * [Web Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
 
 @@
+
 {% include_cached excol.html type="end" %} 
 
 {% include_cached excol.html type="all" %}
