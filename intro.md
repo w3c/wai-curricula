@@ -127,7 +127,7 @@ The objective of this unit is to raise the awareness of students on the wide ran
 * Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
 * Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
 * Lesson 3 "Assistive tools and adaptive strategies": provides more in-depth explanation of assistive technologies and adaptive strategies, and an opportunity for students to get more acquainted with some of them.
-* Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive and inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
+* Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -270,6 +270,34 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
+##### Learning outcomes
+
+* Understanding the overlapping needs of people with disabilities.
+* Understanding that people may have different types of disabilities at the same time.
+* Understanding that people may have different ways to use technology even if they have the same type of disability.
+* Relating this concept with that of accessibility
+* Acknowledging the differences among them.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+* Presentational:
+	* Recap on the most common accessibility barriers already mentioned in previous lessons and explain that they might affect several groups of people with disabilities.
+	* Mention that the solutions for this problem might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities).
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques/)
+* [Web Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
+
+@@
 {% include_cached excol.html type="end" %} 
 
 {% include_cached excol.html type="all" %}
