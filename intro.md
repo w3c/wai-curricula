@@ -272,11 +272,9 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ##### Learning outcomes
 
-* Understanding the overlapping needs of people with disabilities.
+* Appreciating the overlapping needs of people with disabilities.
 * Understanding that people may have different types of disabilities at the same time.
 * Understanding that people may have different ways to use technology even if they have the same type of disability.
-* Relating this concept with that of accessibility
-* Acknowledging the differences among them.
 
 ##### Approximate duration.
 
