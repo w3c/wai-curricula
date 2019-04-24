@@ -75,7 +75,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 {% include_cached excol.html type="start" id="stories" %}
   
-#### Lesson 1:  web accessibility
+#### Lesson 1:  Meaning of web accessibility
 
 {% include_cached excol.html type="middle" %}
 
@@ -85,7 +85,7 @@ Define web accessibility as ability for people with disabilities to use web cont
 ##### Learning outcomes
 
 * Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools and technology equally.
-* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices (computers, smartphones, tablets, smart speakers) and contexts (education, employment, healthcare, entertainment.
+* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices (computers, smart phones, tablets, smart speakers) and contexts (education, employment, healthcare, entertainment.
 * Acknowledging the importance of web accessibility for inclusion of people with disabilities.
 
 ##### Approximate duration.
@@ -94,14 +94,14 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Suggested teaching methods 
 
-**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow pepople to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
-
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
 
 ##### Suggested activities 
 
 ##### Suggested homework 
 
 ##### Suggested teaching materials
+
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
 @@
@@ -116,6 +116,28 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 @@
 Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
+
+##### Learning outcomes
+
+* Identifying some of the most important accessibility barriers in web content and applications.
+* Acknowledging that bad practices in design and development processes are the cause for accessibility problems.
+* Identifying some of the most well/known accessibility solutions that 
+
+##### Approximate duration.
+
+0,5 hours.
+
+##### Suggested teaching methods 
+
+**Presentational**: exemplify the most important accessibility barriers by providing students with examples of bad practices. Refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases Provide examples of solutions to the accessibility issues mentioned by referring to well-known accessibility resources such as those in the teaching materials for this lesson.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
 
 @@
 
@@ -256,7 +278,7 @@ As this lesson might become too medical at a first approach, focus on the fact t
 * Awareness on the most common implementation barriers.
 * Relating such barriers with personal experiences of people with disabilities.
 
-##### Aproximate duration
+##### Approximate duration
 
 1 hour.
 
@@ -296,7 +318,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 * Understanding how an assistive technology works and how it renders information to the user.
 * Exploring first-hand an assistive technology by trying different operating systems and settings.
-* Testing different adaptive strategies such as changing fonts or colors and applying custom stylesheets.
+* Testing different adaptive strategies such as changing fonts or colors and applying custom style sheets.
 
 ##### Approximate duration.
 
@@ -483,7 +505,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
   * <a href="https://www.w3.org/WAI/standards-guidelines/w3c-process/">How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute</a> &mdash; Provides a simplified overview on the W3C standards development process, and the opportunities that it provides for members of the public to provide feedback into the process.
   * <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> &mdash; Introduces the principles and guidelines defined by WCAG in less technical terms, and relates these requirements to ATAG and UAAG.
   * <a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; Provides instructions to check few accessibility issues relating to different accessibility guidelines. These checks are designed to be quick and easy for many audiences, rather than definitive conformance assessments for accessibility.
-  * <a href="https://www.w3.org/WAI/demos/bad/">Before and After Demonstration (BAD)</a> &mdash; Is a miniture website in an accessible and inaccessible version, provided with evaluation reports and annotations of the barriers and accessibility repairs. It is designed for more technical audiences who want to explore different types of accessibility barriers and their repair.
+  * <a href="https://www.w3.org/WAI/demos/bad/">Before and After Demonstration (BAD)</a> &mdash; Is a miniature website in an accessible and inaccessible version, provided with evaluation reports and annotations of the barriers and accessibility repairs. It is designed for more technical audiences who want to explore different types of accessibility barriers and their repair.
   * <a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> &mdash; Explains the need for a common understanding of web accessibility internationally, to facilitate the exchange of practices, tools, and skills, thereby accelerating the adoption and implementation of web accessibility.
 
 ### Ideas for Assessment
