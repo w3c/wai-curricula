@@ -70,6 +70,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 ### Teaching Outline
 
 
+
 {% include excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="stories" %}
@@ -79,6 +80,31 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 {% include_cached excol.html type="middle" %}
 
 Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
+
+##### Learning outcomes
+
+* Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools and technology equally.
+* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices.
+* Acknowledging the importance of web accessibility for inclusion of people with disabilities.
+
+##### Approximate duration.
+
+0,5 hours.
+
+##### Suggested teaching methods 
+
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field when it comes to allowing pepople to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account in we want to promote inclusion of people with disabilities.
+* 
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
+
+
 
 {% include_cached excol.html type="end" %}
 
