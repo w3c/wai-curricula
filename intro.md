@@ -80,7 +80,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 {% include_cached excol.html type="middle" %}
 
 @@
-fine web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
+Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
 
 ##### Learning outcomes
 
