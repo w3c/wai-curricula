@@ -129,7 +129,7 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested teaching methods 
 
-**Presentational**: exemplify the most important accessibility barriers by providing students with examples of bad practices. Refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases Provide examples of solutions to the accessibility issues mentioned by referring to well-known accessibility resources such as those in the teaching materials for this lesson.
+**Presentational**: exemplify the most important accessibility barriers by providing students with examples of bad practices. Refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases Provide examples of solutions to the accessibility issues mentioned by referring to well-known accessibility resources such as those in the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
 
 ##### Suggested activities 
 
@@ -137,7 +137,8 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested teaching materials
 
-
+* [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
+* [Web Accessibility Perspectives *Videos(](https://www.w3.org/WAI/perspective-videos/)
 
 @@
 
