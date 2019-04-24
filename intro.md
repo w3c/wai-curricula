@@ -84,7 +84,7 @@ Define web accessibility as ability for people with disabilities to use web cont
 ##### Learning outcomes
 
 * Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools and technology equally.
-* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices.
+* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices (computers, smartphones, tablets, smart speakers) and contexts (education, employment, healthcare, entertainment.
 * Acknowledging the importance of web accessibility for inclusion of people with disabilities.
 
 ##### Approximate duration.
@@ -93,15 +93,15 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Suggested teaching methods 
 
-**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field when it comes to allowing pepople to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account in we want to promote inclusion of people with disabilities.
-* 
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow pepople to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
+
 
 ##### Suggested activities 
 
 ##### Suggested homework 
 
 ##### Suggested teaching materials
-
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
 
 
