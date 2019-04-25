@@ -74,7 +74,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 {% include excol.html type="all" %}
 
 {% include_cached excol.html type="start" %}
-  
+
 #### Lesson 1:  Meaning of web accessibility
 
 {% include_cached excol.html type="middle" %}
@@ -436,12 +436,12 @@ Introduction to the business case for web accessibility, including social, techn
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" %}
-  
+
 #### Social dimension of accessibility
 
 {% include_cached excol.html type="middle" %}
-  
-Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
+
+Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (hereinafter CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
 
 ##### Learning outcomes
 
@@ -455,22 +455,25 @@ Explain that access to information, including on the Web, is a human right under
 
 ##### Suggested teaching methods 
 
+**Presentational**: Refer to the CRPD as a resource where students can find access to information as a  fundamental right of people with disabilities. Link this references to the corresponding international, regional and local policies that apply in your zone. Emphasize on  success cases from  companies, entities and organizations that have incorporated accessibility into their products and services, and underline how their social perception has drammatically increased.
+
 ##### Suggested activities 
 
 ##### Suggested homework 
 
 ##### Suggested teaching materials
 
+* [Web Accessibility Laws and Policies](https://www.w3.org/WAI/policies/)
+* [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)
 
-  
 {% include_cached excol.html type="end" %}
-  
+
 {% include_cached excol.html type="start" %}
 
 #### Broader benefits of accessibility
 
 {% include_cached excol.html type="middle" %}
-  
+
 Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
 
 {% include_cached excol.html type="end" %}
