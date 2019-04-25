@@ -436,11 +436,13 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 {% include excol.html type="start" %}
   
-#### Social dimension of accessibility  {% include excol.html type="middle" %}
+#### Social dimension of accessibility
+
+{% include excol.html type="middle" %}
   
 Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
   
-{% include excol.html type="all" %}
+{% include excol.html type="end" %}
   
 {% include excol.html type="start" %}
 
@@ -449,7 +451,6 @@ Explain that access to information, including on the Web, is a human right under
 {% include excol.html type="middle" %}
   
 Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
-
 
 {% include excol.html type="end" %}
 
