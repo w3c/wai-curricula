@@ -413,6 +413,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 ## Unit 3: Business Case and Benefits ##
 
 Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+
 ### Learning Outcomes
 
   * Awareness of access to information, including on the Web, as a human right
@@ -441,6 +442,26 @@ Introduction to the business case for web accessibility, including social, techn
 {% include_cached excol.html type="middle" %}
   
 Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
+
+##### Learning outcomes
+
+* Acknowledging that access to information through all means including the web is one of the fundamental rights of people with disabilities.
+* Knowledge on international accessibility standards and policies that enforce accessibility all over the world.
+* Understanding that web accessibility is an essential requirement at a social level due to the increasing relevance of the digital world at all levels of interaction.
+
+##### Approximate duration.
+
+20 to 30 minutes.
+
+##### Suggested teaching methods 
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
   
 {% include_cached excol.html type="end" %}
   
@@ -492,9 +513,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 ## Unit 4: Standards and Guidelines ##
 
-
-### Description
-  Overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
+Overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
 ### Learning outcomes
 
   * Knowledge of WCAG, ATAG, UAAG, and WAI-ARIA and their relevance for accessibility
@@ -552,9 +571,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 ## Unit 5: Get Started with Accessibility ##
 
-
-### Description
-  Overview on different accessibility roles and responsibilities involved throughout the design and development process, and on organizational planning and managing considerations to ensure accessibility as part of the process.
+Overview on different accessibility roles and responsibilities involved throughout the design and development process, and on organizational planning and managing considerations to ensure accessibility as part of the process.
 ### Learning outcomes
 
   * Understanding different roles and scope of their accessibility responsibilities
