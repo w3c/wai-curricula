@@ -73,7 +73,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 {% include excol.html type="all" %}
 
-{% include_cached excol.html type="start" id="stories" %}
+{% include_cached excol.html type="start" %}
   
 #### Lesson 1:  Meaning of web accessibility
 
@@ -218,7 +218,7 @@ The objective of this unit is to raise the awareness of students on the wide ran
 
 {% include_cached excol.html type="all" %}
 
-{% include_cached excol.html type="start" id="stories" %}
+{% include_cached excol.html type="start" %}
 
 #### Lesson 1: Stories of people with disabilities
 
@@ -412,9 +412,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ## Unit 3: Business Case and Benefits ##
 
-
-### Description
-  Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
 ### Learning Outcomes
 
   * Awareness of access to information, including on the Web, as a human right
@@ -432,39 +430,41 @@ Explain the overlapping accessibility needs of different users, such as "reading
   1-2 hours depending on demonstrated examples.
 ### Teaching Outline
 
-{% include excol.html type="all" %}
+@@ Text for teaching outline. @@
 
-{% include excol.html type="start" %}
+{% include_cached excol.html type="all" %}
+
+{% include_cached excol.html type="start" %}
   
 #### Social dimension of accessibility
 
-{% include excol.html type="middle" %}
+{% include_cached excol.html type="middle" %}
   
 Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
   
-{% include excol.html type="end" %}
+{% include_cached excol.html type="end" %}
   
-{% include excol.html type="start" %}
+{% include_cached excol.html type="start" %}
 
 #### Broader benefits of accessibility
 
-{% include excol.html type="middle" %}
+{% include_cached excol.html type="middle" %}
   
 Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
 
-{% include excol.html type="end" %}
+{% include_cached excol.html type="end" %}
 
-{% include excol.html type="start" %}
+{% include_cached excol.html type="start" %}
 
 #### Mainstreaming accessible design
 
-{% include excol.html type="middle" %}
+{% include_cached excol.html type="middle" %}
 
 Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
 
-{% include excol.html type="end" %}
+{% include_cached excol.html type="end" %}
 
-{% include excol.html type="all" %}
+{% include_cached excol.html type="all" %}
 
 ### Suggested Teaching Methods
 **Presentational** &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.
