@@ -432,12 +432,41 @@ Explain the overlapping accessibility needs of different users, such as "reading
   1-2 hours depending on demonstrated examples.
 ### Teaching Outline
 
-  * **Social dimension of accessibility** &mdash; Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
-  * **Broader benefits of accessibility** &mdash; Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
-  * **Mainstreaming accessible design** &mdash; Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" %}
+  
+#### Social dimension of accessibility  {% include excol.html type="middle" %}
+  
+Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
+  
+{% include excol.html type="all" %}
+  
+{% include excol.html type="start" %}
+
+#### Broader benefits of accessibility
+
+{% include excol.html type="middle" %}
+  
+Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+#### Mainstreaming accessible design
+
+{% include excol.html type="middle" %}
+
+Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ### Suggested Teaching Methods
-  **Presentational** &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.
+**Presentational** &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.
 ### Suggested Teaching Materials
 
   * <a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a> &mdash; Explains the rational for organizations to pursue digital accessibility for people with disabilities. This includes driving innovation, enhancing brand, extending market reach, and minimizing legal risk. It includes cases studies from different organizations.
