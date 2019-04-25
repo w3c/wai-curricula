@@ -437,7 +437,7 @@ Introduction to the business case for web accessibility, including social, techn
 
 {% include_cached excol.html type="start" %}
 
-#### Social dimension of accessibility
+#### Lesson 1: Social dimension of accessibility
 
 {% include_cached excol.html type="middle" %}
 
@@ -470,7 +470,7 @@ Explain that access to information, including on the Web, is a human right under
 
 {% include_cached excol.html type="start" %}
 
-#### Broader benefits of accessibility
+#### Lesson 2: Broader benefits of accessibility
 
 {% include_cached excol.html type="middle" %}
 
@@ -480,7 +480,7 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 {% include_cached excol.html type="start" %}
 
-#### Mainstreaming accessible design
+#### Lesson 3: Mainstreaming accessible design
 
 {% include_cached excol.html type="middle" %}
 
