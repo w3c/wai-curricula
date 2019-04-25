@@ -419,7 +419,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
   * Awareness of access to information, including on the Web, as a human right
   * Understanding the imperative of accessibility for people with disabilities
-  * Knowledge about applicable local and regional polices on web accessibility
+  * Knowledge about applicable local and regional policies on web accessibility
   * Understanding specific examples of broader benefits of web accessibility
   * Understanding the relationship between accessibility, usability, and inclusion
   * Appreciation of accessibility and disability as part of diversity and inclusion
