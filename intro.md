@@ -602,7 +602,7 @@ Revise the inter-relationship between accessibility features in web technologies
 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 
-{% include_cached excol.html type="end
+{% include_cached excol.html type="end %}
 
 {% include_cached excol.html type="start" %}
 
@@ -615,7 +615,7 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 ##### Learning outcomes
 
 * Understanding the structure and goals of WCAG.
-* Acknowledging the presence of WCAG in many inernational policies and laws which make them being the defacto standard for accessibility.
+* Acknowledging the presence of WCAG in many international, regional and local policies and laws which make them being the defacto standard for accessibility.
 * Awarness on the current status of WCAG 2, taking into account the 2.0 publication  and the 2.1 update.
 
 ##### Approximate duration.
@@ -629,9 +629,6 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 ##### Suggested homework 
 
 ##### Suggested teaching materials
-
-
-
 
 {% include_cached excol.html type="end" %}
 
@@ -647,7 +644,7 @@ Introduce the scope of "authoring tools" in ATAG, which include diverse content 
 
 {% include_cached excol.html type="start" %}
 
-  #### User Agent Accessibility Guidelines (UAAG)
+#### User Agent Accessibility Guidelines (UAAG)
 
 {% include_cached excol.html type="middle" %}
 
@@ -656,6 +653,7 @@ Introduce the scope of "user agents" in UAAG, which include diverse applications
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" %}
+
 #### Accessible Rich Internet Applications (WAI-ARIA)
 
 {% include_cached excol.html type="middle" %}
