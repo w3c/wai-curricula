@@ -583,7 +583,7 @@ Revise the inter-relationship between accessibility features in web technologies
 ##### Learning outcomes
 
 * Understanding the different components that shape accessibility: user agents, assistive technologies, authoring tools...
-* Getting acquainted with some examples in which  accessibility is achieved by the use of several components (content created with a specific authoring tool, accessible mark-up).
+* Getting acquainted with some examples in which  accessibility depends on the use of several components (content created with a specific authoring tool, accessible mark-up).
 
 ##### Approximate duration.
 
@@ -615,8 +615,8 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 ##### Learning outcomes
 
 * Understanding the structure and goals of WCAG.
-* Acknowledging the presence of WCAG in many international, regional and local policies and laws which make them being the defacto standard for accessibility.
-* Awarness on the current status of WCAG 2, taking into account the 2.0 publication  and the 2.1 update.
+* Acknowledging the presence of WCAG in many international, regional and local policies and laws which make them being the de facto standard for accessibility.
+* Awareness on the current status of WCAG 2, taking into account the 2.0 publication  and the 2.1 update.
 
 ##### Approximate duration.
 
@@ -624,11 +624,17 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 
 ##### Suggested teaching methods 
 
+**Presentational**: provide students with an outline of WCAG. Explain their overall structure and sections, emphasizing on the success criteria and the Conformance Requirements. Recap on the two operational versions of WCAG 2 that exist: WCAG 2.0 (published in 2008) and WCAG 2.1 (published in 2018).
+
 ##### Suggested activities 
 
 ##### Suggested homework 
 
 ##### Suggested teaching materials
+
+* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
+	* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
+  
 
 {% include_cached excol.html type="end" %}
 
