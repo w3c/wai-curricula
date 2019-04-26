@@ -602,13 +602,13 @@ Revise the inter-relationship between accessibility features in web technologies
 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 
-{% include_cached excol.html type="end %}
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" %}
 
 #### Web Content Accessibility Guidelines (WCAG)
 
-{% include_cached excol.html type=middle" %}
+{% include_cached excol.html type="middle" %}
 
 Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
 
