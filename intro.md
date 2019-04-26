@@ -569,6 +569,7 @@ Overview on the international accessibility standards and guidelines from the W3
 ### Approximate duration
   2-4 hours depending on activities.
 ### Teaching outline
+
 {% include excol.html type="all" %}
 
 {% include_cached excol.html type="start" %}
@@ -610,6 +611,27 @@ Revise the inter-relationship between accessibility features in web technologies
 {% include_cached excol.html type=middle" %}
 
 Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
+
+##### Learning outcomes
+
+* Understanding the structure and goals of WCAG.
+* Acknowledging the presence of WCAG in many inernational policies and laws which make them being the defacto standard for accessibility.
+* Awarness on the current status of WCAG 2, taking into account the 2.0 publication  and the 2.1 update.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
+
 
 {% include_cached excol.html type="end" %}
 
