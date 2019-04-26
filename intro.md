@@ -302,7 +302,7 @@ As this lesson might become too medical at a first approach, focus on the fact t
 
 {% include_cached excol.html type="end" %} 
  
-{% include_cached excol.html type="start" id="ats" %} 
+{% include_cached excol.html type="start" %} 
  
 #### Lesson 3: Assistive tools and adaptive strategies
 
@@ -449,7 +449,7 @@ Explain that access to information, including on the Web, is a human right under
 
 ##### Suggested teaching methods 
 
-**Presentational**: Refer to the CRPD as a resource where students can find access to information as a  fundamental right of people with disabilities. Link this references to the corresponding international, regional and local policies that apply in your zone. Emphasize on  success cases from  companies, entities and organizations that have incorporated accessibility into their products and services, and underline how their social perception has drammatically increased.
+**Presentational**: Refer to the CRPD as a resource where students can find access to information as a  fundamental right of people with disabilities. Link this references to the corresponding international, regional and local policies that apply in your zone. Emphasize on  success cases from  companies, entities and organizations that have incorporated accessibility into their products and services, and underline how their social perception has dramatically increased.
 
 ##### Suggested activities 
 
@@ -472,8 +472,8 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 ##### Learning outcomes
 
-* Understanding that accessibility benefits many  people in adition to people with disabilities.
-* Aknowledging that accessibility comprises many innovative aspects that imply benefits for the rest of the population.
+* Understanding that accessibility benefits many  people in addition to people with disabilities.
+* Acknowledging that accessibility comprises many innovative aspects that imply benefits for the rest of the population.
 
 ##### Approximate duration.
 
@@ -481,7 +481,7 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 ##### Suggested teaching methods 
 
-**Presentational**: Emphasize on the idea that accessibility solutions are also enjoyed by many people regardless of whether they have a dissability or not. Underline the aspects of accessibility that have been adopted by all web users such as speech-based technologies, virtual assistants and/or mobile-centered design.
+**Presentational**: Emphasize on the idea that accessibility solutions are also enjoyed by many people regardless of whether they have a disability or not. Underline the aspects of accessibility that have been adopted by all web users such as speech-based technologies, virtual assistants and/or mobile-centered design.
 
 ##### Suggested activities 
 
@@ -504,8 +504,8 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 ##### Learning outcomes
 
 * Understanding the similarities and differences between accessibility, usability and inclusion.
-* Getting acquainted that, even when these three terms often overlap, accessibility is needed to garantee web access for all.
-* Acknowledging that it is necessary to involve managerial staff and decission makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
+* Getting acquainted that, even when these three terms often overlap, accessibility is needed to grant web access for all.
+* Acknowledging that it is necessary to involve managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
 
 ##### Approximate duration.
 
@@ -513,7 +513,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 ##### Suggested teaching methods 
 
-**Presentational**:  provide students with the definitions of accessibility, usability and inclusion. Explain that usability often is not enough to cover the needs of all the people and this is why accessibility becomes necessary. Underline that everybody in the team needs to be involved in accessibility, frommanagerial staff to technical people in charge of designing, developing or creating content.
+**Presentational**:  provide students with the definitions of accessibility, usability and inclusion. Explain that usability often is not enough to cover the needs of all the people and this is why accessibility becomes necessary. Underline that everybody in the team needs to be involved in accessibility, from managerial staff to technical people in charge of designing, developing or creating content.
 
 ##### Suggested activities 
 
@@ -553,6 +553,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 ## Unit 4: Standards and Guidelines ##
 
 Overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
+
 ### Learning outcomes
 
   * Knowledge of WCAG, ATAG, UAAG, and WAI-ARIA and their relevance for accessibility
@@ -568,15 +569,106 @@ Overview on the international accessibility standards and guidelines from the W3
 ### Approximate duration
   2-4 hours depending on activities.
 ### Teaching outline
+{% include excol.html type="all" %}
 
-  * **Components of web accessibility** &mdash; Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
-  * **Web Content Accessibility Guidelines (WCAG)** &mdash; Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
-  * **Authoring Tool Accessibility Guidelines (ATAG)** &mdash; Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
-  * **User Agent Accessibility Guidelines (UAAG)** &mdash; Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
-  * **Accessible Rich Internet Applications (WAI-ARIA)** &mdash; Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
-  * **Open standards development** &mdash; Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comments, to help include many perspectives thus ensure broad consensus around these standards.
-  * **Web accessibility principles** &mdash; Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
-  * **First checks for web accessibility principles** &mdash; Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their finds to the accessibility principles and guidelines.
+{% include_cached excol.html type="start" %}
+
+#### Components of web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
+
+##### Learning outcomes
+
+* Understanding the different components that shape accessibility: user agents, assistive technologies, authoring tools...
+* Getting acquainted with some examples in which  accessibility is achieved by the use of several components (content created with a specific authoring tool, accessible mark-up).
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: - Remember students of the components that make the web possible and explain how accessibility relates with each of them.
+**Conversational**: make the students participate on the discussion. Encourage them to think about some of the components they use in a daily basis and to explain how they think accessibility is (or could be) incorporated to this components.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
+
+{% include_cached excol.html type="end
+
+{% include_cached excol.html type="start" %}
+
+#### Web Content Accessibility Guidelines (WCAG)
+
+{% include_cached excol.html type=middle" %}
+
+Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Authoring Tool Accessibility Guidelines (ATAG)
+
+{% include_cached excol.html type="middle" %}
+
+Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+  #### User Agent Accessibility Guidelines (UAAG)
+
+{% include_cached excol.html type="middle" %}
+
+Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+#### Accessible Rich Internet Applications (WAI-ARIA)
+
+{% include_cached excol.html type="middle" %}
+
+Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Open standards development
+
+{% include_cached excol.html type="middle" %}
+
+Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comments, to help include many perspectives thus ensure broad consensus around these standards.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Web accessibility principles
+
+{% include_cached excol.html type="middle" %}
+
+Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### First checks for web accessibility principles
+
+{% include_cached excol.html type="middle" %}
+
+Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
 
 ### Suggested teaching methods
   **Interactive** &mdash; To make many terms and definitions more tangible, ask learners to provide examples of web content, authoring tools, user agents, and of situations relating to the accessibility guidelines defined by WCAG.
