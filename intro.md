@@ -659,6 +659,31 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 
 @@ Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
 
+##### Learning outcomes
+
+* Understanding the structure and goals of ATAG 2.0.
+* Understanding the relevance of ATAG as most of the web content is nowadays produced with authoring tools.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Provide students with an outline of ATAG 2.0. Explain its layers and guidelines and emphasize the idea that ATAG addresses the accessibility needs for both content authors and content consumers.
+
+##### Suggested activities 
+
+Encourage students by providing a list of the most common Authoring Tools and ask them to reflect the accessibility barriers that an author with disabilities might encounter, as well as those who might be produced by the tool itself when creating content.
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
+	* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
+
+
 @@
 
 {% include_cached excol.html type="end" %}
@@ -689,7 +714,7 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 
 {% include_cached excol.html type="start" %}
 
-#### #### Lesson 6: Open standards development
+#### Lesson 6: Open standards development
 
 {% include_cached excol.html type="middle" %}
 
