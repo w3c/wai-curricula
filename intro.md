@@ -706,7 +706,7 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 ##### Suggested teaching methods 
 
-**Presentational**: Provide students with an outline of UAAG. Explain their overall structure and sections emphasizing on the importance for browsers, web-based media players and some other assistive tools to comply with these guidelines. Underline the current status of UAAG as a Working Group Note.
+**Presentational**: Provide students with an outline of UAAG. Explain their overall structure and sections emphasizing on the importance for browsers, web-based media players and some other assistive tools to comply with these guidelines.
 
 ##### Suggested activities 
 
@@ -765,7 +765,28 @@ Encourage students by providing a list of the most common Authoring Tools and as
 {% include_cached excol.html type="middle" %}
 
 @@
-Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comments, to help include many perspectives thus ensure broad consensus around these standards.
+Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comment, to help include many perspectives thus ensure broad consensus around these standards.
+
+##### Learning outcomes
+
+* Understanding the W3C standards development process, based on public work and inputs from organizations,, people with disabilities, industries, public bodies and individuals interested in collaborating.
+* Acknowledging the need for consensus  to promote standards endorsement by the W3C.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Explain that W3C develops its standards and guidelines in a public framework, inviting everybody interested in collaborating to participate all throughout the process. Underline the fact that a broad consensus is required to promote such standards. Comment on the process that W3C follows for the writing, commenting  and publication of the standards via public drafts that are then updated with general public input and comments. 
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)
 
 @@
 
