@@ -681,8 +681,7 @@ Encourage students by providing a list of the most common Authoring Tools and as
 ##### Suggested teaching materials
 
 * <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
-	* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
-
+	* [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/standards-guidelines/atag/)
 
 @@
 
@@ -694,7 +693,29 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 {% include_cached excol.html type="middle" %}
 
-@@Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
+@@ Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
+
+##### Learning outcomes
+
+* Understanding the scope of UAAG.
+* Understanding the relevance of browsers, web-based media players and some assistive tools when it comes to extending accessibility support.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Provide students with an outline of UAAG. Explain their overall structure and sections emphasizing on the importance for browsers, web-based media players and some other assistive tools to comply with these guidelines. Underline the current status of UAAG as a Working Group Note.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
+	* [user Agent Accessibility Guidelines Overview](https://www.w3.org/WAI/standards-guidelines/uaag/)
 
 @@
 
@@ -707,6 +728,31 @@ Encourage students by providing a list of the most common Authoring Tools and as
 {% include_cached excol.html type="middle" %}
 
 @@ Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
+
+##### Learning outcomes
+
+* Understanding the scope and applicability of WAI-ARIA.
+* Acknowledging this standard as an extension for authors to provide more semantics to web content.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Define the structure and goals of the WAI-ARIA specification. Explain the context in which WAI-ARIA was promoted, given that some web technologies were challenging for some user profiles, such as screen reader users or those who cannot use the mouse. Underline that this standard provides authors with a set of roles, states and properties that enhances semantic possibilities for web applications.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
+	[WAI-ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/)
+
+
+
 
 @@
 
