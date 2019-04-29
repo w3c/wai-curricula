@@ -769,7 +769,7 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 
 ##### Learning outcomes
 
-* Understanding the W3C standards development process, based on public work and inputs from organizations,, people with disabilities, industries, public bodies and individuals interested in collaborating.
+* Understanding the W3C standards development process, based on public work and inputs from organizations, people with disabilities, industries, public bodies and individuals interested in collaborating.
 * Acknowledging the need for consensus  to promote standards endorsement by the W3C.
 
 ##### Approximate duration.
@@ -801,6 +801,28 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 @@
 Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
 
+##### Learning outcomes
+
+* Understanding the terms "Perceivable", "Operable", "Understandable" and "Robust" in the context of WCAG.
+* Relating each of the terms with their corresponding Guidelines.
+* Acquiring knowledge of some of the most relevant examples pertaining to each of the guidelines.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Explain that each of the principles is then developed into several guidelines. Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions. Emphasize that the solutions proposed also benefit the overall majority of users.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
+
 @@
 
 {% include_cached excol.html type="end" %}
@@ -811,7 +833,8 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 {% include_cached excol.html type="middle" %}
 
-@Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
+@@
+Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
 
 @@
 
