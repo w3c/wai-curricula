@@ -184,7 +184,11 @@ Explain the inter-relationship between accessibility features in web technologie
 
 {% include excol.html type="end" %}
 
+{% include excol.html type="start" %}
+
 ## Unit 2: People and Digital Technology ##
+
+{% include excol.html type="middle" %}
 
 Introduction to how people with disabilities use the Web, different types of assistive technologies and adaptive strategies that some people use, and some of the barriers that people encounter on the Web.
 
@@ -406,7 +410,13 @@ Explain the overlapping accessibility needs of different users, such as "reading
   * **clichés and myths** &mdash; Unfortunately there are clichés, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.
   * **Cultural aspects** &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ## Unit 3: Business Case and Benefits ##
+
+{% include excol.html type="middle" %}
 
 Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
 
@@ -557,7 +567,13 @@ Explain the relationships between accessibility, usability, and inclusion, and h
   * **Cultural aspects** &mdash; The cultural acceptance and approach to accessibility and disability varies between countries and even individual organizations. The business case arguments may need to be adjusted accordingly.
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the business case arguments. For example, to better relate to their industry sector and organizational culture.
 
+{% include excol.html type="end" %}{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ## Unit 4: Standards and Guidelines ##
+
+{% include excol.html type="middle" %}
 
 Overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
 
@@ -888,7 +904,13 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
   * **Technical jargon** &mdash; This teaching unit explores technical standards and resources, which include technical jargon. It will be important to explain terms and phrases in a more understandable way to most learners.
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ## Unit 5: Get Started with Accessibility ##
+
+{% include excol.html type="middle" %}
 
 Overview on different accessibility roles and responsibilities involved throughout the design and development process, and on organizational planning and managing considerations to ensure accessibility as part of the process.
 ### Learning outcomes
@@ -1072,5 +1094,7 @@ Explain the importance of responding to accessibility queries and complaints. Of
 ### Notes
 
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the suggested considerations. For example, policies often apply differently to public and private bodies.
+  
+{% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
