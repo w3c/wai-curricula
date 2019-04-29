@@ -42,6 +42,8 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 {% include toc.html type="end" %}
 {:/}
 
+{% include excol.html type="all" %}
+
 ## Unit 1: Overview and Terminology ##
 
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
@@ -68,7 +70,7 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 ### Teaching Outline
 
-{% include excol.html type="all" %}
+@@ Text for teaching outline. @@
 
 {% include_cached excol.html type="start" %}
 
@@ -154,8 +156,6 @@ Explain the inter-relationship between accessibility features in web technologie
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="all" %}
-
 ### Suggested Teaching Methods
 
 **Presentational** &mdash; Provide an engaging presentation that will set the tone for further discussion. Provide an outlook on how later teaching units will provide more in-depth exploration of certain areas.
@@ -211,8 +211,6 @@ The objective of this unit is to raise the awareness of students on the wide ran
 * Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
-
-{% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" %}
 
@@ -383,8 +381,6 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 {% include_cached excol.html type="end" %} 
 
-{% include_cached excol.html type="all" %}
-
 ### Suggested Teaching Methods
   **Experiential** &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.
 ### Suggested Teaching Materials
@@ -426,8 +422,6 @@ Introduction to the business case for web accessibility, including social, techn
 ### Teaching Outline
 
 @@ Text for teaching outline. @@
-
-{% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" %}
 
@@ -535,8 +529,6 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="all" %}
-
 ### Suggested Teaching Methods
 **Presentational** &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.
 ### Suggested Teaching Materials
@@ -579,7 +571,7 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Teaching outline
 
-{% include excol.html type="all" %}
+@@ Text for teaching outline. @@
 
 {% include_cached excol.html type="start" %}
 
@@ -862,8 +854,6 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="all" %}
-
 ### Suggested teaching methods
   **Interactive** &mdash; To make many terms and definitions more tangible, ask learners to provide examples of web content, authoring tools, user agents, and of situations relating to the accessibility guidelines defined by WCAG.
 ### Suggested Teaching Materials
@@ -910,11 +900,116 @@ Overview on different accessibility roles and responsibilities involved througho
   2-3 hours depending on activities.
 ### Teaching outline
 
-  * **Accessibility roles and responsibilities** &mdash; Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain the need for everyone involved throughout the design and development process to have an adequate level of awareness and skills.
-  * **Planning and managing web accessibility** &mdash; Introduce specific considerations to integrate accessibility throughout the design process. This includes ensuring management commitment to accessibility, assigning appropriate roles and responsibilities, providing technical and financial resources, and ensuring quality management. Explain how the capability and maturity of an organization with regard to web accessibility can be assessed based on these considerations.
-  * **Involving people with disabilities throughout** &mdash; Explain the importance of involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
-  * **Developing policies on web accessibility** &mdash; Explain the importance of putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.
-  * **Responding to accessibility questions** &mdash; Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
+@@ Text for teaching outline. @@
+
+{% include_cached excol.html type="start" %}
+
+#### Lesson 1: Accessibility roles and responsibilities
+
+{% include_cached excol.html type="middle" %}
+
+@@
+Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain the need for everyone involved throughout the design and development process to have an adequate level of awareness and skills.
+
+##### Learning outcomes
+
+* Understanding that accessibility responsibilities are shared among different roles and positions within the team.
+* Acknowledging the importance of organizational approaches rather than merely technical conceptions of accessibility implementations.
+
+##### Approximate duration.
+
+20-25 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule. Underline how relevant it is to take accessibility as an organizational aspect within the team rather than simply considering it to be a technical discipline.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [(Work in progress) Accessibility Roles and Responsibilities Mapping (ARRM):](https://www.w3.org/WAI/EO/wiki/Role_definition_document)
+
+@@
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Lesson 2: Planning and managing web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+@@
+Introduce specific considerations to integrate accessibility throughout the design process. This includes ensuring management commitment to accessibility, assigning appropriate roles and responsibilities, providing technical and financial resources, and ensuring quality management. Explain how the capability and maturity of an organization with regard to web accessibility can be assessed based on these considerations.
+
+##### Learning outcomes
+
+* Acknowledging that managerial staff's engagement towards accessibility is imperative to succeed in implementing accessibility in the organization.
+* Understanding that sharing responsibilities amongst the team members according to their role is necessary for accessibility to be part of the organization culture.
+* Understanding that resources need to be put in place at a technical and at a financial level so that accessibility efforts can be backed up.
+* Ensuring that Quality Management plays a definitive role within the organization, since most of the accessibility requirements are strongly dependent on that matter.
+
+##### Approximate duration.
+
+20-25 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Introduce learners to the idea that there needs to be a well-organized planning program for accessibility that involves all team members, from managerial staff to technical personnel. Reflect with students on the aspects of accessibility that have to do with non-technical abilities, especially financial and quality management tasks.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
+
+@@
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Lesson 3: Involving people with disabilities throughout
+
+{% include_cached excol.html type="middle" %}
+
+@@
+Explain the importance of involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
+
+@@
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Lesson 4: Developing policies on web accessibility
+
+{% include_cached excol.html type="middle" %}
+
+@@
+Explain the importance of putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.
+
+@@
+
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
+
+#### Lesson 5: Responding to accessibility questions
+
+{% include_cached excol.html type="middle" %}
+
+@@
+Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
+
+@@
+
+{% include_cached excol.html type="end" %}
 
 ### Suggested teaching methods
   **Presentational** &mdash; Introduce the different types of roles and responsibilities, and considerations for integrating accessibility throughout the design and development process. Encourage learners to reflect on these.
@@ -936,3 +1031,6 @@ Overview on different accessibility roles and responsibilities involved througho
 ### Notes
 
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the suggested considerations. For example, policies often apply differently to public and private bodies.
+  
+  
+{% include excol.html type="all" %}
