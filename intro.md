@@ -72,9 +72,14 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 1-2 hours depending on activities.
 
-### Teaching Outline
+### Suggested teaching Outline
 
-@@ Text for teaching outline. @@
+The objective of this unit is to provide students with the definition of Web Accessibility as well as some other components which have an impact on accessibility, such as authoring tools or browsers. It consists of the following lessons:
+* Meaning of web accessibility: introduces the concept of web accessibility and explains its current relevance.
+* Examples of web accessibility: provides examples of some web accessibility barriers and how they impact several user profiles.
+* Components of Web Accessibility: explains the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
+
+**Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
 {% include excol.html type="start" %}
 
@@ -213,7 +218,7 @@ Introduction to how people with disabilities use the Web, different types of ass
 
 ### Suggested Teaching Outline
 
-The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adaptive strategies, and how these related to design features. It consists of the following lessons:
+The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adaptive strategies, and how these relates to design features. It consists of the following lessons:
 
 * Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
 * Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
@@ -435,9 +440,14 @@ Introduction to the business case for web accessibility, including social, techn
   [Medium] Good understanding of accessibility and inclusion, and experience in the types of business benefits resulting from accessibility.
 ### Approximate Duration
   1-2 hours depending on demonstrated examples.
-### Teaching Outline
+### Suggested teaching Outline
 
-@@ Text for teaching outline. @@
+The objective of this unit is to present an introduction to the business case of accessibility, to provide information on how accessibility benefits all users of the web and to enumerate different terms that might play together with  accessibility. It consists of the following lessons:
+* Social Dimension of Accessibility: Explains social accessibility as a human right for people with disabilities under the Convention of the Rights of People with Disabilities and highlights some of the international, local and regional policies that have to do with accessibility.
+* Broader benefits of accessibility: Demonstrates how accessibility features also benefit most users of the web such as elderly people, people using mobile devices, people with lower digital skills etc. in addition to ensuring access for people with disabilities.
+* Mainstreaming accessible design: Explains accessibility, usability and inclusion and provides mechanisms to address them within the more broader term of user-centered design.
+
+**Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
 {% include excol.html type="start" %}
 
@@ -591,7 +601,7 @@ Overview on the international accessibility standards and guidelines from the W3
   [Medium] Good understanding of the W3C accessibility standards and guidelines, and knowledge of how to check potential accessibility barriers.
 ### Approximate duration
   2-4 hours depending on activities.
-### Teaching outline
+### Suggested teaching outline
 
 @@ Text for teaching outline. @@
 
@@ -926,9 +936,9 @@ Overview on different accessibility roles and responsibilities involved througho
   [Medium] Good understanding of how to introduce and integrate accessibility considerations throughout organizational processes.
 ### Approximate duration
   2-3 hours depending on activities.
-### Teaching outline
+### Suggested teaching outline
 
-@@ Text for teaching outline. @@
+@@ Text for teaching outline
 
 {% include excol.html type="start" %}
 
