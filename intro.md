@@ -44,7 +44,11 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 {% include excol.html type="all" %}
 
+{% include excol.html type="start" %}
+
 ## Unit 1: Overview and Terminology ##
+
+{% include excol.html type="middle" %}
 
 Overview on the topic web accessibility, its scope, and key terminology used in this context.
 
@@ -72,11 +76,11 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 @@ Text for teaching outline. @@
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 1:  Meaning of web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
@@ -105,13 +109,13 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 2: Examples of web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
@@ -141,20 +145,20 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 3: Components of web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
 ### Suggested Teaching Methods
 
@@ -177,6 +181,8 @@ Explain the inter-relationship between accessibility features in web technologie
 
   * **Initial awareness** &mdash; The initial level of awareness for accessibility and disability will often vary for each learner. Asking learners to share examples from their own experiences can encourage thought-exchange.
   * **Laying foundations** &mdash; Much of the content in this teaching unit is intended to lay foundations for further exploration and discussion in later teaching units. The corresponding courses need to be well-aligned.
+
+{% include excol.html type="end" %}
 
 ## Unit 2: People and Digital Technology ##
 
@@ -212,11 +218,11 @@ The objective of this unit is to raise the awareness of students on the wide ran
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 1: Stories of people with disabilities
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 Provide tangible examples of people with disabilities using the Web. If possible, invite real users to demonstrate how they use assistive technologies and adaptive strategies to interact with the Web. If it is not possible to bring in real people with disabilities, consider using video recordings. If video cannot be used either, use images and story-telling techniques to help illustrate realistic personas and user stories, such as those provided in the teaching materials.
 
@@ -255,13 +261,13 @@ As you may only have time for one or two examples, make sure to emphasize the di
   * <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of web users</a>
   * <a href="https://www.w3.org/WAI/perspective-videos//">Web Accessibility perspectives</a>
 
-{% include_cached excol.html type="end" %} 
+{% include excol.html type="end" %} 
 
- {% include_cached excol.html type="start" id="abilities" %} 
+ {% include excol.html type="start" id="abilities" %} 
 
 #### Lesson 2: Diverse abilities, tools, and barriers
  
-{% include_cached excol.html type="middle" %} 
+{% include excol.html type="middle" %} 
  
 @@
 Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
@@ -298,13 +304,13 @@ As this lesson might become too medical at a first approach, focus on the fact t
 
 @@
 
-{% include_cached excol.html type="end" %} 
+{% include excol.html type="end" %} 
  
-{% include_cached excol.html type="start" %} 
+{% include excol.html type="start" %} 
  
 #### Lesson 3: Assistive tools and adaptive strategies
 
-{% include_cached excol.html type="middle" %} 
+{% include excol.html type="middle" %} 
 
 @@
 Provide an opportunity for learners to experience some types of assistive tools, such as a screen reader, and adaptive strategies, such as changing fonts and colors. Demonstrate use by experienced users of access technology, to avoid misunderstanding of the tools (assistive tools can be very complex and not intended for casual use). Encourage learners to explore different settings in web browsers and operating systems.
@@ -341,13 +347,13 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 @@
 
-{% include_cached excol.html type="end" %} 
+{% include excol.html type="end" %} 
 
-{% include_cached excol.html type="start" id="Principles" %} 
+{% include excol.html type="start" id="Principles" %} 
 
 #### Lesson 4: Principles of inclusive design
 
-{% include_cached excol.html type="middle" %} 
+{% include excol.html type="middle" %} 
 
 @@
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
@@ -379,7 +385,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 @@
 
-{% include_cached excol.html type="end" %} 
+{% include excol.html type="end" %} 
 
 ### Suggested Teaching Methods
   **Experiential** &mdash; Provide opportunity for learners to experience real people and tools. If possible, invite people with disabilities or show videos. Accompanying explanation and guidance is still required.
@@ -423,11 +429,11 @@ Introduction to the business case for web accessibility, including social, techn
 
 @@ Text for teaching outline. @@
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 1: Social dimension of accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (hereinafter CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
@@ -457,13 +463,13 @@ Explain that access to information, including on the Web, is a human right under
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 2: Broader benefits of accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
@@ -491,13 +497,13 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 3: Mainstreaming accessible design
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
@@ -527,7 +533,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
 ### Suggested Teaching Methods
 **Presentational** &mdash; Provide specific examples, studies, and references that speak to the particular audience. Where possible, relate examples to personal experiences of learners; for example using mobile devices.
@@ -573,11 +579,11 @@ Overview on the international accessibility standards and guidelines from the W3
 
 @@ Text for teaching outline. @@
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 1: Components of web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
@@ -606,13 +612,13 @@ Revise the inter-relationship between accessibility features in web technologies
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 2: Web Content Accessibility Guidelines (WCAG)
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
 
@@ -641,13 +647,13 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
   
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 3: Authoring Tool Accessibility Guidelines (ATAG)
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@ Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
 
@@ -677,13 +683,13 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 4: User Agent Accessibility Guidelines (UAAG)
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@ Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
 
@@ -711,13 +717,13 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 5: Accessible Rich Internet Applications (WAI-ARIA)
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@ Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
 
@@ -748,13 +754,13 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 6: Open standards development
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comment, to help include many perspectives thus ensure broad consensus around these standards.
@@ -782,13 +788,13 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 7: Web accessibility principles
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
@@ -817,13 +823,13 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 8: First checks for web accessibility principles
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
@@ -852,7 +858,7 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
 ### Suggested teaching methods
   **Interactive** &mdash; To make many terms and definitions more tangible, ask learners to provide examples of web content, authoring tools, user agents, and of situations relating to the accessibility guidelines defined by WCAG.
@@ -902,11 +908,11 @@ Overview on different accessibility roles and responsibilities involved througho
 
 @@ Text for teaching outline. @@
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 1: Accessibility roles and responsibilities
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain the need for everyone involved throughout the design and development process to have an adequate level of awareness and skills.
@@ -934,13 +940,13 @@ Explain the different types of roles involved in implementing web accessibility,
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 2: Planning and managing web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Introduce specific considerations to integrate accessibility throughout the design process. This includes ensuring management commitment to accessibility, assigning appropriate roles and responsibilities, providing technical and financial resources, and ensuring quality management. Explain how the capability and maturity of an organization with regard to web accessibility can be assessed based on these considerations.
@@ -970,46 +976,81 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 3: Involving people with disabilities throughout
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the importance of involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
 
+##### Learning outcomes
+
+* Understanding the need of incorporating people with disabilities into web development and testing
+* Acknowledging that incorporating people with disabilities also helps improve products and services for other users.
+* Getting acquainted that people with disabilities need to be treated equally and with the same degree of respect that you would treat others.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: Explain students the benefits of incorporate people with disabilities from the very beginning of the design and development process. Make them realize that a range of users with disabilities is needed to cover the diversity among them. Underline the fact that experienced users are preferred since the use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/planning/involving-users/)
+
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 4: Developing policies on web accessibility
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the importance of putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.
 
+##### Learning outcomes
+
+##### Approximate duration.
+
+##### Suggested teaching methods 
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
+{% include excol.html type="start" %}
 
 #### Lesson 5: Responding to accessibility questions
 
-{% include_cached excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 @@
 Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
 
 @@
 
-{% include_cached excol.html type="end" %}
+{% include excol.html type="end" %}
 
 ### Suggested teaching methods
   **Presentational** &mdash; Introduce the different types of roles and responsibilities, and considerations for integrating accessibility throughout the design and development process. Encourage learners to reflect on these.
@@ -1031,6 +1072,5 @@ Explain the importance of responding to accessibility queries and complaints. Of
 ### Notes
 
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the suggested considerations. For example, policies often apply differently to public and private bodies.
-  
-  
+
 {% include excol.html type="all" %}
