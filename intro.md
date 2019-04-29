@@ -836,6 +836,28 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 @@
 Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
 
+##### Learning outcomes
+
+* Identifying potential accessibility issues such as keyboard navigation or heading order.
+* Relating the findings to the principle of WCAG 
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Practical**: introduce learners to basic accessibility checks.  Remember the importance of using several input and output methods to check for possible accessibility issues. Explain them that paying attention to some basic HTML elements can give us a clue on how the accessibility of a web page might look like. Talk to students about heading order and structure, keyboard navigation. Emphasize that these are only first approaches to accessibility checks and that further knowledge and technical skills are required to perform accessibility audits.
+
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+* [Easy Checks: a first review of web accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
+* [Before and After Demonstration](https://www.w3.org/WAI/demos/bad/)
+
 @@
 
 {% include_cached excol.html type="end" %}
