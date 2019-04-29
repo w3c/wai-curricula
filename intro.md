@@ -1046,9 +1046,16 @@ Explain the importance of putting accessibility policies in place, to document o
 
 ##### Learning outcomes
 
+* Understanding the strategic importance of accessibility policies to ensure and reinforce commitment among the organization members.
+* Awareness on the current accessibility commitments from organizations to which students belong.
+
 ##### Approximate duration.
 
+30 minutes.
+
 ##### Suggested teaching methods 
+
+**Presentational**: expose students to current accessibility policies so that they are familiarized with their main elements. Elaborate on the fact that there needs to be a commitment on tangible goals and achievements as well as on current standards and policies, ideally referencing directly those from the W3C and contemplating mechanisms to accommodate smoothly to updates on the standards as they appear.
 
 ##### Suggested activities 
 
@@ -1056,6 +1063,8 @@ Explain the importance of putting accessibility policies in place, to document o
 
 ##### Suggested teaching materials
 
+* [Developing Organizational Policies on Web Accessibility | Web Accessibility Initiative (WAI) | W3C - Google Chrome](https://www.w3.org/WAI/planning/org-policies/)
+* [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/)
 
 @@
 
@@ -1069,6 +1078,27 @@ Explain the importance of putting accessibility policies in place, to document o
 
 @@
 Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
+
+##### Learning outcomes
+
+* Understanding the importance of taking care of accessibility-related inquiries.
+* Acknowledging some of the strategies to prioritize issues and pursue interim repairs.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side. Elaborate on how to prioritize issues, addressing first those who will have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
+##### Suggested activities 
+
+##### Suggested homework 
+
+##### Suggested teaching materials
+
+
+
 
 @@
 
