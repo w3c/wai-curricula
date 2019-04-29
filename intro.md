@@ -567,7 +567,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
   * **Cultural aspects** &mdash; The cultural acceptance and approach to accessibility and disability varies between countries and even individual organizations. The business case arguments may need to be adjusted accordingly.
   * **Business context** &mdash; The business context that learners are used to may also require adjustment of the business case arguments. For example, to better relate to their industry sector and organizational culture.
 
-{% include excol.html type="end" %}{% include excol.html type="end" %}
+{% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
