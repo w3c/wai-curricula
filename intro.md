@@ -50,7 +50,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 {% include excol.html type="middle" %}
 
-Overview on the topic web accessibility, its scope, and key terminology used in this context.
+Overview on the topic web accessibility, its scope, key terminology used in this context and relationships with web technologies and other essential components.
 
 ### Learning Outcomes
 
@@ -74,8 +74,8 @@ Overview on the topic web accessibility, its scope, and key terminology used in 
 
 ### Suggested teaching Outline
 
-The objective of this unit is to provide students with the definition of Web Accessibility as well as some other components which have an impact on accessibility, such as authoring tools or browsers. It consists of the following lessons:
-* Meaning of web accessibility: introduces the concept of web accessibility and explains its current relevance.
+The objective of this unit is to provide students with the definition and scope of Web Accessibility, to present some accessibility barriers and to explain how accessibility relates with some other web technologies and components such as HTML, authoring tools, browsers or assistive tools. It consists of the following lessons:
+* Meaning of web accessibility: introduces the concept and scope of web accessibility and explains it as an opportunity for inclusion of people with disabilities.
 * Examples of web accessibility: provides examples of some web accessibility barriers and how they impact several user profiles.
 * Components of Web Accessibility: explains the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
 
@@ -87,32 +87,33 @@ The objective of this unit is to provide students with the definition of Web Acc
 
 {% include excol.html type="middle" %}
 
-@@
 Define web accessibility as ability for people with disabilities to use web content, tools, and technology equally. Explain the relevance of web accessibility, given the widespread use of web content and applications across different types of devices (desktop, mobile, television, etc.) for social participation (for education, employment, commerce, healthcare, entertainment, etc.). Emphasize the unique opportunity for inclusion.
 
 ##### Learning outcomes
 
 * Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools and technology equally.
-* Getting acquainted with the relevance of web accessibility, since web technologies and applications are  vastly used in a growing number of devices (computers, smart phones, tablets, smart speakers) and contexts (education, employment, healthcare, entertainment.
-* Acknowledging the importance of web accessibility for inclusion of people with disabilities.
+* Understanding that web accessibility is present in a growing number of devices and contexts.
+* Understanding that web accessibility is an opportunity for inclusion of people with disabilities.
 
 ##### Approximate duration.
 
-0,5 hours.
+45 minutes.
 
 ##### Suggested teaching methods 
 
-**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people to access web interfaces and applications. Point out the fact that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people to access web interfaces and applications. Point out that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
 
 ##### Suggested activities 
 
+Engage students in a conversation to reflect on the definition of accessibility and how they could contribute to promote inclusion of people with disabilities.
+
 ##### Suggested homework 
+
+Ask students to recite the definition of web accessibility. Ask them also to enumerate the web technologies and components that have an impact on web accessibility.
 
 ##### Suggested teaching materials
 
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-
-@@
 
 {% include excol.html type="end" %}
 
@@ -122,33 +123,36 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 {% include excol.html type="middle" %}
 
-@@
 Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
+
+**Note**: If possible, refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases. Provide examples of solutions to the accessibility issues mentioned by referring to the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
 
 ##### Learning outcomes
 
-* Identifying some of the most important accessibility barriers in web content and applications.
-* Acknowledging that bad practices in design and development processes are the cause for accessibility problems.
-* Identifying some of the most well/known accessibility solutions that 
+* Identifying a variety of accessibility barriers in web content and applications.
+* Identifying examples of accessibility repairs.
+* Understanding why inadequate design and implementation decisions might cause accessibility barriers.
 
 ##### Approximate duration.
 
-0,5 hours.
+45 minutes.
 
 ##### Suggested teaching methods 
 
-**Presentational**: exemplify the most important accessibility barriers by providing students with examples of bad practices. Refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases. Provide examples of solutions to the accessibility issues mentioned by referring to well-known accessibility resources such as those in the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
+**Presentational**: explain some accessibility barriers by providing students with examples of inadequate design and implementation instances as well as of accessibility repairs.
 
 ##### Suggested activities 
 
+* Promote a discussion in which students explain some accessibility barriers together with their corresponding repairs.
+
 ##### Suggested homework 
+
+* Ask students to write one or two paragraphs in which they reflect on the accessibility issues mentioned and they identify possible remedies.
 
 ##### Suggested teaching materials
 
 * [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
 * [Web Accessibility Perspectives *Videos(](https://www.w3.org/WAI/perspective-videos/)
-
-@@
 
 {% include excol.html type="end" %}
 
@@ -158,10 +162,33 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 {% include excol.html type="middle" %}
 
-@@
 Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
 
-@@
+##### Learning outcomes
+
+* Understanding the relationship between accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
+* Knowledge of some features and barriers of these accessibility components.
+* Understanding the role of the accessibility standards for each component of web accessibility.
+
+##### Approximate duration.
+
+30 minutes.
+
+##### Suggested teaching methods 
+
+**Presentational**: explain that web accessibility is achieved by a variety of technologies and components working together. Refer to web technologies such as HTML and components such as web browsers, authoring tools or assistive tools. Elaborate on how issues and repairs might depend on one particular component (e.g., if a user has an older browser, it might not support newer accessibility technologies ).
+
+##### Suggested activities 
+
+Promote discussion among students on how web accessibility is built by several web technologies and components working together.
+
+##### Suggested homework 
+
+Ask students to write a couple of paragraphs in which they enumerate the different components of web accessibility that have been introduced.
+
+##### Suggested teaching materials
+
+* [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 
 {% include excol.html type="end" %}
 
@@ -603,7 +630,9 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Suggested teaching outline
 
-@@ Text for teaching outline. @@
+the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to 
+
+**Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
 {% include excol.html type="start" %}
 
@@ -626,7 +655,7 @@ Revise the inter-relationship between accessibility features in web technologies
 ##### Suggested teaching methods 
 
 **Presentational**: - Remember students of the components that make the web possible and explain how accessibility relates with each of them.
-**Conversational**: make the students participate on the discussion. Encourage them to think about some of the components they use in a daily basis and to explain how they think accessibility is (or could be) incorporated to this components.
+**Conversational**: encourage students to participate on the discussion. Encourage them to think about some of the components they use on a daily basis and to explain how they think accessibility is (or could be) incorporated to this components.
 
 ##### Suggested activities 
 
@@ -829,7 +858,7 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 * Understanding the terms "Perceivable", "Operable", "Understandable" and "Robust" in the context of WCAG.
 * Relating each of the terms with their corresponding Guidelines.
-* Acquiring knowledge of some of the most relevant examples pertaining to each of the guidelines.
+* Acquiring knowledge of some examples pertaining to each of the guidelines.
 
 ##### Approximate duration.
 
@@ -960,7 +989,7 @@ Explain the different types of roles involved in implementing web accessibility,
 
 ##### Suggested teaching methods 
 
-**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule. Underline how relevant it is to take accessibility as an organizational aspect within the team rather than simply considering it to be a technical discipline.
+**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule. Underline that accessibility needs to be taken as an organizational aspect within the team rather than simply considering it to be a technical discipline.
 
 ##### Suggested activities 
 
@@ -1031,7 +1060,7 @@ Explain the importance of involving real users with disabilities early on in the
 
 ##### Suggested teaching methods 
 
-**Presentational**: Explain students the benefits of incorporate people with disabilities from the very beginning of the design and development process. Make them realize that a range of users with disabilities is needed to cover the diversity among them. Underline the fact that experienced users are preferred since the use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
+**Presentational**: Explain students the benefits of incorporating people with disabilities from the very beginning of the design and development process. Make them realize that a range of users with disabilities is needed to cover the diversity among them. Underline the fact that experienced users are preferred since the use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
 
 ##### Suggested activities 
 
