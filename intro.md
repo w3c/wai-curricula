@@ -142,7 +142,7 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested activities 
 
-Promote a discussion in which students explain some of the accessibility barriers they have just learnt about, together with their corresponding repairs.
+Promote a discussion in which students explain some of the accessibility barriers they have just learned about, together with their corresponding repairs.
 
 ##### Suggested homework 
 
