@@ -138,7 +138,7 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested teaching methods 
 
-**Presentational**: explain some accessibility barriers by providing students with examples of inadequate design and implementation instances as well as of accessibility repairs.
+**Presentational**: explain some accessibility barriers by providing students with examples of inadequate design and implementation instances as well as of accessibility good practices and repairs.
 
 ##### Suggested activities 
 
