@@ -50,7 +50,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 {% include excol.html type="middle" %}
 
-Overview on the topic web accessibility, its scope, key terminology used in this context and relationships with web technologies and other essential components.
+Overview on the topic web accessibility, its scope, key terminology used in this context and inter-relationships with web technologies and other essential components.
 
 ### Learning Outcomes
 
@@ -97,7 +97,7 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Approximate duration.
 
-30 minutes.
+15 minutes.
 
 ##### Suggested teaching methods 
 
@@ -109,7 +109,7 @@ Engage students in a conversation to reflect on the definition of accessibility 
 
 ##### Suggested homework 
 
-Ask students to recite the definition of web accessibility. Ask them also to enumerate the contexts in which they think web accessibility has a role to play.
+Ask students to recite the definition of web accessibility. Ask them also to enumerate the various contexts in which they think web accessibility has a role to play.
 
 ##### Suggested teaching materials
 
@@ -134,7 +134,7 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Approximate duration
 
-45 minutes.
+30 minutes.
 
 ##### Suggested teaching methods 
 
@@ -179,7 +179,7 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Suggested activities 
 
-Promote discussion among students on how web accessibility is built by several web technologies and components working together. Encourage them to give examples of these relationships in the context of their daily tasks and overall experience.
+Promote discussion among students on how web accessibility is built by several web technologies and components working together. Encourage them to give examples of these inter-relationships in the context of their daily tasks and overall experience.
 
 ##### Suggested homework 
 
