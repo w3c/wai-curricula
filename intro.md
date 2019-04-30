@@ -76,7 +76,7 @@ Overview on the topic web accessibility, its scope, key terminology used in this
 
 The objective of this unit is to provide students with the definition and scope of Web Accessibility, to present some accessibility barriers and to explain how accessibility relates with some other web technologies and components such as HTML, authoring tools, browsers or assistive tools. It consists of the following lessons:
 * Meaning of web accessibility: introduces the concept and scope of web accessibility and explains it as an opportunity for inclusion of people with disabilities.
-* Examples of web accessibility: provides examples of some web accessibility barriers and how they impact several user profiles.
+* Examples of web accessibility: provides examples of some web accessibility features and barriers and how they impact several user profiles.
 * Components of Web Accessibility: explains the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
@@ -125,15 +125,14 @@ Ask students to recite the definition of web accessibility. Ask them also to enu
 
 Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
 
-**Note**: If possible, refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases. Provide examples of solutions to the accessibility issues mentioned by referring to the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
+**Note**: If possible, refer to websites and/or applications that are familiar to students. Emphasize on the idea that these barriers can be solved if accessibility is taken into account from the beginning of the design phases. Provide examples of solutions for the accessibility issues mentioned by referring to the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
 
 ##### Learning outcomes
 
-* Identifying a variety of accessibility barriers in web content and applications.
-* Identifying examples of accessibility repairs.
-* Understanding why inadequate design and implementation decisions might cause accessibility barriers.
+* Knowledge to identify a variety of accessibility barriers in the context of web accessibility.
+* Knowledge to identify examples of accessibility repairs.
 
-##### Approximate duration.
+##### Approximate duration
 
 45 minutes.
 
@@ -147,7 +146,7 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested homework 
 
-* Ask students to write one or two paragraphs in which they reflect on the accessibility issues mentioned and they identify possible remedies.
+* Ask students to write one or two paragraphs in which they reflect on the accessibility issues mentioned and they identify possible repairs.
 
 ##### Suggested teaching materials
 
@@ -166,8 +165,8 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Learning outcomes
 
-* Understanding the relationship between accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
-* Knowledge of some features and barriers of these accessibility components.
+* Understanding the relationship between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
+* Knowledge of some features and barriers that are related to these accessibility components.
 * Understanding the role of the accessibility standards for each component of web accessibility.
 
 ##### Approximate duration.
@@ -180,11 +179,11 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Suggested activities 
 
-Promote discussion among students on how web accessibility is built by several web technologies and components working together.
+* Promote discussion among students on how web accessibility is built by several web technologies and components working together. Encourage them to give examples of these relationships in the context of their daily tasks and overall experience.
 
 ##### Suggested homework 
 
-Ask students to write a couple of paragraphs in which they enumerate the different components of web accessibility that have been introduced.
+Ask students to write a couple of paragraphs in which they enumerate the different components of web accessibility that have been introduced. Ask them to point to some barriers and features that might depend on each of the listed components.
 
 ##### Suggested teaching materials
 
