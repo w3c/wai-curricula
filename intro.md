@@ -97,11 +97,11 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Approximate duration.
 
-45 minutes.
+30 minutes.
 
 ##### Suggested teaching methods 
 
-**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people to access web interfaces and applications. Point out that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people with disabilities to access web interfaces and applications. Point out that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
 
 ##### Suggested activities 
 
@@ -125,7 +125,7 @@ Ask students to recite the definition of web accessibility. Ask them also to enu
 
 Provide some basic examples of accessibility barriers and how they impact people with diverse types of disabilities. Emphasize that accessibility barriers impact many people, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Explain how accessibility barriers are created through inadequate design and implementation, and provide examples of accessibility features and repairs.
 
-**Note**: If possible, refer to websites and/or applications that are familiar to students. Emphasize that it is much easier to include accessibility features if accessibility is taken into account from the beginning of the design phases. Provide examples of solutions for the accessibility issues mentioned by referring to the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
+**Note**: If possible, refer to websites and/or applications that are familiar to students. Emphasize that it is much easier to include accessibility features if they are taken into account from the beginning of the design phases. Provide examples of solutions for the accessibility issues mentioned by referring to the teaching materials for this lesson. Underline the relevance of implementing accessibility solutions for a full inclusion of people with disabilities.
 
 ##### Learning outcomes
 
@@ -142,11 +142,11 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Suggested activities 
 
-Promote a discussion in which students explain some accessibility barriers together with their corresponding repairs.
+Promote a discussion in which students explain some of the accessibility barriers they have just learnt about, together with their corresponding repairs.
 
 ##### Suggested homework 
 
-Ask students to write one or two paragraphs in which they reflect on the accessibility issues mentioned and they identify possible repairs.
+Ask students to write one or two paragraphs in which they reflect on the accessibility issues mentioned and encourage them to elaborate on possible repairs.
 
 ##### Suggested teaching materials
 
@@ -166,12 +166,12 @@ Explain the inter-relationship between accessibility features in web technologie
 ##### Learning outcomes
 
 * Understanding the relationship between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
-* Knowledge of some features and barriers that are related to these accessibility components.
+* Knowledge of some features and barriers that are related to these web technologies and components.
 * Understanding the role of the accessibility standards for each component of web accessibility.
 
 ##### Approximate duration.
 
-30 minutes.
+45 minutes.
 
 ##### Suggested teaching methods 
 
