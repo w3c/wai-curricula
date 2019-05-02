@@ -853,14 +853,13 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 
 {% include excol.html type="middle" %}
 
-@@
-Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these terms, and provide specific examples to help explain the meaning and relevance of each. For example, provide a specific example of the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities and benefit all.
+Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based on how they are defined in WCAG. Introduce the Guidelines defined by WCAG for each of these principles, and provide specific examples to help explain the meaning and relevance of each. For instance, refer to a specific requirement regarding the Guideline 1.4 Distinguishable. Emphasize how such requirements are essential for people with disabilities but also benefit all web users.
 
 ##### Learning outcomes
 
 * Understanding the terms "Perceivable", "Operable", "Understandable" and "Robust" in the context of WCAG.
-* Relating each of the terms with their corresponding Guidelines.
-* Acquiring knowledge of some examples pertaining to each of the guidelines.
+* Knowledge on the overall structure for each of the principles and guidelines.
+* Knowledge of some examples of accessibility requirements pertaining to each of the guidelines.
 
 ##### Approximate duration.
 
@@ -868,17 +867,19 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 ##### Suggested teaching methods 
 
-**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Explain that each of the principles is then developed into several guidelines. Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions. Emphasize that the solutions proposed also benefit the overall majority of users.
+**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions. Emphasize that the solutions proposed also benefit the overall majority of users.
 
 ##### Suggested activities 
 
+Engage students in a discussion about the four accessibility principles. Reflect with them on which of these principles is more related to their daily tasks or activities and how they could.apply such principles in their daily job.
+
 ##### Suggested homework 
+
+Ask students to write a short essay commenting on the four principles of web accessibility and their corresponding guidelines.
 
 ##### Suggested teaching materials
 
 * [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
-
-@@
 
 {% include excol.html type="end" %}
 
