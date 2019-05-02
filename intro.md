@@ -644,7 +644,7 @@ the objective of this unit is to provide students with an overview on the W3C ac
 
 {% include excol.html type="middle" %}
 
-Introduce the scope of the W3C/WAI accessibility standards, which includes desktop and mobile websites and applications, authoring tools, web browsers, and some types of assistive tools. Highlight that there are several versions of each of the standards, trying to better respond to changes in technologies and components and also to changes in user needs and preferences. Refer to the uptake of W3C/WAI standards in different policies and standards.
+Introduce the scope of the W3C/WAI accessibility standards, which includes desktop and mobile websites and applications, authoring tools, web browsers, and some types of assistive tools. Highlight that there are several versions of each of the standards, trying to better respond to changes in technologies and components and also to changes in user needs and preferences. Refer to the uptake of W3C/WAI standards in different policies and standards. Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comment, to help include many perspectives thus ensure broad consensus around these standards.
 
 ##### Learning outcomes
 
@@ -652,6 +652,7 @@ Introduce the scope of the W3C/WAI accessibility standards, which includes deskt
 * Understanding the structure and goals of these standards: their principles, guidelines, requirements and the type of audience and components they address.
 * Understanding that updates on these standards generate new versions responding to changes on technologies and user needs.
 * Awareness on the inter-relationship between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
+* Knowledge of the openness of the whole standards development process, with involvement from organizations of people with disabilities, industry, public bodies and individuals interested.
 
 ##### Approximate duration.
 
@@ -683,113 +684,9 @@ Ask students to write a short paragraph for each of the standards defining its s
 
 {% include excol.html type="start" %}
 
-#### Lesson 3: Authoring Tool Accessibility Guidelines (ATAG)
-
-{% include excol.html type="middle" %}
-
-@@ Introduce the scope of "authoring tools" in ATAG, which include diverse content production tools including text and graphic based code editing tools, content management systems (CMS), conversion tools, and social media platforms. Emphasize the relevance of authoring tools given the volume of content being generated every day, usually created by non-technical content authors without accessibility expertise.
-
-##### Learning outcomes
-
-* Understanding the structure and goals of ATAG 2.0.
-* Understanding the relevance of ATAG as most of the web content is nowadays produced with authoring tools.
-
-##### Approximate duration.
-
-30 minutes.
-
-##### Suggested teaching methods 
-
-##### Suggested activities 
-
-Encourage students by providing a list of the most common Authoring Tools and ask them to reflect the accessibility barriers that an author with disabilities might encounter, as well as those who might be produced by the tool itself when creating content.
-
-##### Suggested homework 
-
-##### Suggested teaching materials
-
-* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
-	* [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/standards-guidelines/atag/)
-
-@@
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-#### Lesson 4: User Agent Accessibility Guidelines (UAAG)
-
-{% include excol.html type="middle" %}
-
-Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
-
-##### Learning outcomes
-
-* Understanding the scope of UAAG.
-* Understanding the relevance of browsers, web-based media players and some assistive tools when it comes to extending accessibility support.
-
-##### Approximate duration.
-
-30 minutes.
-
-##### Suggested teaching methods 
-
-##### Suggested activities 
-
-##### Suggested homework 
-
-##### Suggested teaching materials
-
-* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
-	* [user Agent Accessibility Guidelines Overview](https://www.w3.org/WAI/standards-guidelines/uaag/)
-
-@@
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-#### Lesson 5: Accessible Rich Internet Applications (WAI-ARIA)
-
-{% include excol.html type="middle" %}
-
-@@ Explain that this accessibility standard does not define accessibility requirements but rather provides a mechanism for authors to embed semantics in web content, to facilitate interoperability with assistive tools. Emphasize that many of these semantics are meanwhile integrated directly in HTML5, which should be used natively whenever possible. WAI-ARIA can also be used with other technologies, such as SVG.
-
-##### Learning outcomes
-
-* Understanding the scope and applicability of WAI-ARIA.
-* Acknowledging this standard as an extension for authors to provide more semantics to web content.
-
-##### Approximate duration.
-
-30 minutes.
-
-##### Suggested teaching methods 
-
-##### Suggested activities 
-
-##### Suggested homework 
-
-##### Suggested teaching materials
-
-* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
-	[WAI-ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/)
-
-
-
-
-@@
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 #### Lesson 2: Open standards development
 
 {% include excol.html type="middle" %}
-
-@@
-Explain that these W3C accessibility standards and guidelines are developed following an open consensus process, with involvement of representation of people with disabilities, industry, public bodies, research, and individual experts. W3C Working Groups publish working drafts periodically for comments from the public. Everyone is encouraged to comment, to help include many perspectives thus ensure broad consensus around these standards.
 
 ##### Learning outcomes
 
@@ -811,8 +708,6 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 ##### Suggested teaching materials
 
 * [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)
-
-@@
 
 {% include excol.html type="end" %}
 
