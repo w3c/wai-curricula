@@ -245,10 +245,9 @@ Introduction to how people with disabilities use the Web, different types of ass
 ### Suggested Teaching Outline
 
 The objective of this unit is to raise the awareness of students on the wide range of abilities and technologies that people use to interact with the Web, and to provide them with an understanding of assistive technologies, adaptive strategies, and how these relates to design features. It consists of the following lessons:
-
-* Lesson 1 "Stories of people with disabilities": demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
-* Lesson 2 "Diverse abilities, tools and barriers": introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
-* Lesson 3 "Assistive tools and adaptive strategies": provides more in-depth explanation of assistive technologies and adaptive strategies, and an opportunity for students to get more acquainted with some of them.
+* Stories of people with disabilities: demonstrates real examples of people with disabilities using assistive technologies and adaptive strategies to interact with the Web.
+* Diverse abilities, tools and barriers: introduces a broad variety of examples of different types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities.
+* Assistive tools and adaptive strategies: provides more in-depth explanation of assistive technologies and adaptive strategies, and an opportunity for students to get more acquainted with some of them.
 * Lesson 4 "Principles of inclusive design": explains the basic principles of inclusive design, to address people with different accessibility needs, temporary and situational limitations, and other benefits.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
@@ -629,10 +628,10 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Suggested teaching outline
 
-the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks. It consists on the following lessons:
-* Lesson 1: Web Accessibility Standards: provides an overview on the Web Accessibility Standards from the W3C and explains their overall goals and structure.
-* Lesson 2: Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
-* Lesson 3: firs checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
+the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks. It consists of the following lessons:
+* Web Accessibility Standards: provides an overview on the Web Accessibility Standards from the W3C and explains their overall goals and structure.
+* Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
+* Firs checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
 
 **Tip**: Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
 
