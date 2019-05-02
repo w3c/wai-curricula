@@ -397,23 +397,22 @@ Explain the overlapping accessibility needs of different users, such as "reading
 ##### Suggested teaching methods 
 
 * Presentational:
-	* Recap on the most common accessibility barriers already mentioned in previous lessons and explain that they might affect several groups of people with disabilities.
+	* Recap on the most common accessibility barriers and features already mentioned in previous lessons and explain that they might affect several groups of people with disabilities.
 	* Mention that the solutions for these problems might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities).
+	* Mention that every individual uses the web in a different way regardless of the type of disability they may have.
 
 ##### Suggested activities 
 
-Engage students in a conversation about the different types of disabilities that exist. Encourage them to think and comment about distinct ways in which two people having the same disability could use technology differently.
+Engage students in a conversation about the different types of disabilities that exist. Encourage them to think and comment about distinct ways in which two people having the same type of disability could use technology differently.
 
 ##### Suggested homework 
 
-Ask students to write some lines about the disability overlappings that they can think of based on what they have just learned. Encourage them to elaborate on the possible ways in which people with the same degree of disability could use technology differently.
+Ask students to write some lines about the overlapping needs of people with disabilities that they can think of based on what they have just learned. Encourage them to elaborate on issues and repairs that might benefit more than one type of disability.
 
 ##### Suggested teaching materials
 
 * [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques/)
 * [Web Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
-
-@@
 
 {% include excol.html type="end" %} 
 
