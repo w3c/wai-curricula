@@ -375,8 +375,6 @@ Provide an opportunity for learners to experience some types of assistive tools,
 * [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques)
 * <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives)</a>
 
-@@
-
 {% include excol.html type="end" %} 
 
 {% include excol.html type="start" id="Principles" %} 
