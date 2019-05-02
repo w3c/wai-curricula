@@ -669,9 +669,9 @@ Revise the inter-relationship between accessibility features in web technologies
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="start" %}
-
 {% endcomment %}
+
+{% include excol.html type="start" %}
 
 #### Lesson 2: Web Content Accessibility Guidelines (WCAG)
 
