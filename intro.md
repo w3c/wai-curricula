@@ -368,7 +368,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 ##### Suggested homework 
 
-* Ask students to write some lines on how a particular assistive technology is used. Encourage them to reflect all the aspects of such technology, such as shortcuts used or additional settings they might have need to use for an optimal performance of the technology.
+* Ask students to write some lines on how a particular assistive tool is used. Encourage them to focus on all the aspects of such tool, such as shortcuts used or additional settings they might have needed to use for an optimal performance of the tool
 
 ##### Suggested teaching materials
 
