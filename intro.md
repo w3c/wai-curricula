@@ -129,8 +129,8 @@ Provide some basic examples of accessibility barriers and how they impact people
 
 ##### Learning outcomes
 
-* Knowledge to identify a variety of accessibility barriers in the context of web accessibility.
-* Knowledge to identify examples of accessibility repairs.
+* Knowledge about a variety of accessibility barriers in the context of web accessibility.
+* Knowledge about examples of accessibility repairs.
 
 ##### Approximate duration
 
@@ -165,7 +165,7 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Learning outcomes
 
-* Understanding the relationship between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
+* Understanding the inter-relationship between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
 * Knowledge of some features and barriers that are related to these web technologies and components.
 * Understanding the role of the accessibility standards for each component of web accessibility.
 
@@ -309,9 +309,9 @@ Introduce examples of specific types of disabilities, including people with audi
 
 ##### Learning outcomes
 
-* Understanding the  different types of disabilities that exist.
+* Knowledge about the different types of disabilities.
 * Awareness on the most common implementation barriers.
-* Relating such barriers with personal experiences of people with disabilities.
+* Knowledge about how to relate such barriers with personal experiences of people with disabilities.
 
 ##### Approximate duration
 
@@ -323,12 +323,11 @@ Introduce examples of specific types of disabilities, including people with audi
 
 ##### Suggested activities
 
-* Promote discussion among students about the different types of disabilities and common barriers that they have been learning about.
-* Promote that they relate each of the disabilities with the barrier that they think affects that disability most.
+Engage students in a conversation about the different types of disabilities and common barriers that they have been learning about. Promote that they relate each of the disabilities with the barrier that they think affects that disability most.
 
 ##### Suggested homework
 
-* Ask students to write some lines about the most common types of disabilities: auditory, cognitive and learning, physical, speech, and visual, emphasizing the fact that they can use the web just as everybody else.
+Ask students to write some lines about the most common types of disabilities: auditory, cognitive and learning, physical, speech, and visual, emphasizing the fact that they can use the web just as everybody else.
 
 ##### Suggested  teaching materials 
 
@@ -387,7 +386,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ##### Learning outcomes
 
-* Appreciating the overlapping needs of people with disabilities.
+* Knowledge on the overlapping needs of people with disabilities.
 * Understanding that people may have different types of disabilities at the same time.
 * Understanding that people may have different ways to use technology even if they have the same type of disability.
 
@@ -403,7 +402,11 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ##### Suggested activities 
 
+Engage students in a conversation about the different types of disabilities that exist. Encourage them to think and comment about distinct ways in which two people having the same disability could use technology differently.
+
 ##### Suggested homework 
+
+Ask students to write some lines about the disability overlappings that they can think of based on what they have just learned. Encourage them to elaborate on the possible ways in which people with the same degree of disability could use technology differently.
 
 ##### Suggested teaching materials
 
