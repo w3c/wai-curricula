@@ -480,13 +480,12 @@ The objective of this unit is to present an introduction to the business case of
 
 {% include excol.html type="middle" %}
 
-@@
 Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (hereinafter CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
 
 ##### Learning outcomes
 
-* Acknowledging that access to information through all means including the web is one of the fundamental rights of people with disabilities.
-* Knowledge on international accessibility standards and policies that enforce accessibility all over the world.
+* Understanding that access to information through all means including the web is one of the fundamental rights of people with disabilities.
+* Knowledge of international accessibility standards and policies that enforce accessibility all over the world.
 * Understanding that web accessibility is an essential requirement at a social level due to the increasing relevance of the digital world at all levels of interaction.
 
 ##### Approximate duration.
@@ -647,9 +646,9 @@ Introduce the scope of the W3C/WAI accessibility standards, which includes deskt
 
 ##### Learning outcomes
 
-* Knowledge on the current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
+* Knowledge of he current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
 * Understanding the structure and goals of these standards: their principles, guidelines, requirements and the type of audience and components they address.
-* Understanding that updates on these standards generate new versions responding to changes on technologies and user needs.
+* Understanding that updates on these standards might lead to new versions responding to changes on technologies and user needs.
 * Awareness on the inter-relationship between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
 * Knowledge of the openness of the whole standards development process, with involvement from organizations of people with disabilities, industry, public bodies and individuals interested.
 
@@ -723,7 +722,7 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 ##### Learning outcomes
 
 * Understanding the terms "Perceivable", "Operable", "Understandable" and "Robust" in the context of WCAG.
-* Knowledge on the overall structure for each of the principles and guidelines.
+* Knowledge of the overall structure for each of the principles and guidelines.
 * Knowledge of some examples of accessibility requirements pertaining to each of the guidelines.
 
 ##### Approximate duration.
@@ -760,7 +759,7 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
 ##### Learning outcomes
 
-* Knowledge on Identifying potential accessibility issues such as keyboard navigation or heading order.
+* Knowledge about identifying potential accessibility issues such as keyboard navigation or heading order.
 * Relating the findings to the principles of WCAG 
 
 ##### Approximate duration.
