@@ -690,7 +690,7 @@ Ask students to write a short paragraph for each of the standards defining its s
 
 ##### Learning outcomes
 
-* Understanding the W3C standards development process, based on public work and inputs from organizations, people with disabilities, industries, public bodies and individuals interested in collaborating.
+* Understanding the W3C standards development process, based on public work and inputs from organizations, people with disabilities, industries, public bodies, research and individual experts.
 * Acknowledging the need for consensus  to promote standards endorsement by the W3C.
 
 ##### Approximate duration.
