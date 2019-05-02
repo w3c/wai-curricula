@@ -383,7 +383,6 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 {% include excol.html type="middle" %} 
 
-@@
 Explain the overlapping accessibility needs of different users, such as "reading aloud" functionality benefiting people not seeing the screen and people with some forms of dyslexia. Explain that people could have combinations of disabilities, such as auditory and visual disabilities, especially with growing age. In particular, emphasize that people have very individual combinations of accessibility needs and preferences.
 
 ##### Learning outcomes
