@@ -669,8 +669,6 @@ Revise the inter-relationship between accessibility features in web technologies
 
 {% include excol.html type="end" %}
 
-{% endcomment %}
-
 {% include excol.html type="start" %}
 
 #### Lesson 2: Web Content Accessibility Guidelines (WCAG)
@@ -815,7 +813,7 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 {% include excol.html type="start" %}
 
-#### Lesson 6: Open standards development
+#### Lesson 2: Open standards development
 
 {% include excol.html type="middle" %}
 
@@ -846,6 +844,8 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 @@
 
 {% include excol.html type="end" %}
+
+{% endcomment %}
 
 {% include excol.html type="start" %}
 
