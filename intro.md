@@ -732,7 +732,7 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 ##### Suggested teaching methods 
 
-**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions.
+**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the requirements, common problems they try to address and some of the possible solutions.
 
 ##### Suggested activities 
 
