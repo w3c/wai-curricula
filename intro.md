@@ -631,7 +631,7 @@ Overview on the international accessibility standards and guidelines from the W3
 the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks. It consists of the following lessons:
 * Web Accessibility Standards: provides an overview on the Web Accessibility Standards from the W3C and explains their overall goals and structure.
 * Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
-* Firs checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
+* First checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
 
 **Tip**: Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
 
