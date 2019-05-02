@@ -629,10 +629,11 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Suggested teaching outline
 
-the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to 
+the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
+{% comment %}
 {% include excol.html type="start" %}
 
 #### Lesson 1: Components of web accessibility
@@ -669,6 +670,8 @@ Revise the inter-relationship between accessibility features in web technologies
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
+
+{% endcomment %}
 
 #### Lesson 2: Web Content Accessibility Guidelines (WCAG)
 
