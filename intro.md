@@ -680,8 +680,8 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 ##### Learning outcomes
 
 * Understanding the structure and goals of WCAG.
-* Acknowledging the presence of WCAG in many international, regional and local policies and laws which make them being the de facto standard for accessibility.
-* Awareness on the current status of WCAG 2, taking into account the 2.0 publication  and the 2.1 update.
+* Knowledge about the presence of WCAG in many international, regional and local policies and laws.
+* Awareness on the current two versions of WCAG 2, the first one being 2.0 (published in 2008) publication and the 2.1 update.
 
 ##### Approximate duration.
 
@@ -849,7 +849,7 @@ Explain that these W3C accessibility standards and guidelines are developed foll
 
 {% include excol.html type="start" %}
 
-#### Lesson 7: Web accessibility principles
+#### Lesson 2: Web accessibility principles
 
 {% include excol.html type="middle" %}
 
@@ -867,11 +867,11 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 ##### Suggested teaching methods 
 
-**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions. Emphasize that the solutions proposed also benefit the overall majority of users.
+**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the guidelines, common problems they try to address and some of the possible solutions.
 
 ##### Suggested activities 
 
-Engage students in a discussion about the four accessibility principles. Reflect with them on which of these principles is more related to their daily tasks or activities and how they could.apply such principles in their daily job.
+Engage students in a discussion about the four accessibility principles. Reflect with them on which of these principles is more related to their daily tasks or activities and how they could apply such principles in their daily job.
 
 ##### Suggested homework 
 
@@ -889,13 +889,14 @@ Ask students to write a short essay commenting on the four principles of web acc
 
 {% include excol.html type="middle" %}
 
-@@
 Guide learners through preliminary checks for web accessibility on simple web pages; for example, to identify page headings and their relative order, use by keyboard and other indicative checks (not full conformance evaluation, which requires technical skills and further accessibility knowledge). Ask learners to explore different types of websites and relate their findings to the accessibility principles and guidelines.
+
+**Note**: Explain them that paying attention to some basic HTML elements can give us a clue on how the accessibility of a web page might look like. Talk to students about heading order and structure or keyboard navigation.
 
 ##### Learning outcomes
 
-* Identifying potential accessibility issues such as keyboard navigation or heading order.
-* Relating the findings to the principle of WCAG 
+* Knowledge on Identifying potential accessibility issues such as keyboard navigation or heading order.
+* Relating the findings to the principles of WCAG 
 
 ##### Approximate duration.
 
@@ -903,18 +904,20 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
 ##### Suggested teaching methods 
 
-**Practical**: introduce learners to basic accessibility checks.  Remember the importance of using several input and output methods to check for possible accessibility issues. Explain them that paying attention to some basic HTML elements can give us a clue on how the accessibility of a web page might look like. Talk to students about heading order and structure, keyboard navigation. Emphasize that these are only first approaches to accessibility checks and that further knowledge and technical skills are required to perform accessibility audits.
+**Practical**: introduce learners to basic accessibility checks. Remember the importance of using several input and output methods such as mice, keyboards, screen or voice output to check for possible accessibility issues.
 
 ##### Suggested activities 
 
-##### Suggested homework 
+Ask students to perform some accessibility checks in a web page of choice. Encourage them to use the keyboard and to use some assistive tool such as a screen reader to navigate and interact with the website.
+
+##### Suggested homework
+
+Ask students to note down the results of their checks: what the specific problem is, to which principle it belongs to and how this issue might be resolved.
 
 ##### Suggested teaching materials
 
 * [Easy Checks: a first review of web accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 * [Before and After Demonstration](https://www.w3.org/WAI/demos/bad/)
-
-@@
 
 {% include excol.html type="end" %}
 
