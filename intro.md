@@ -750,7 +750,7 @@ Ask students to write a short essay commenting on the four principles of web acc
 
 {% include excol.html type="start" %}
 
-#### Lesson 8: First checks for web accessibility principles
+#### Lesson 8: First checks for web accessibility
 
 {% include excol.html type="middle" %}
 
