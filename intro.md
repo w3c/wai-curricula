@@ -646,11 +646,11 @@ Introduce the scope of the W3C/WAI accessibility standards, which includes deskt
 
 ##### Learning outcomes
 
-* Knowledge of he current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
+* Knowledge of the current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
 * Understanding the structure and goals of these standards: their principles, guidelines, requirements and the type of audience and components they address.
 * Understanding that updates on these standards might lead to new versions responding to changes on technologies and user needs.
 * Awareness on the inter-relationship between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
-* Knowledge of the openness of the whole standards development process, with involvement from organizations of people with disabilities, industry, public bodies and individuals interested.
+* Knowledge of the public approach of the standards development process, with involvement from organizations of people with disabilities, industry, public bodies and individuals interested.
 
 ##### Approximate duration.
 
