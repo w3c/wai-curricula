@@ -629,24 +629,29 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Suggested teaching outline
 
-the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks.
+the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks. It consists on the following lessons:
+* Lesson 1: Web Accessibility Standards: provides an overview on the Web Accessibility Standards from the W3C and explains their overall goals and structure.
+* Lesson 2: Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
+* Lesson 3: firs tchecks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
+
+**Tip**: Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
-{% comment %}
 {% include excol.html type="start" %}
 
-#### Lesson 1: Components of web accessibility
+#### Lesson 1: Web Accessibility Standards
 
 {% include excol.html type="middle" %}
 
-@@
-Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
+Introduce the scope of the W3C/WAI accessibility standards, which includes desktop and mobile websites and applications, authoring tools, web browsers, and some types of assistive tools. Highlight that there are several versions of each of the standards, trying to better respond to changes in technologies and components and also to changes in user needs and preferences. Refer to the uptake of W3C/WAI standards in different policies and standards.
 
 ##### Learning outcomes
 
-* Understanding the different components that shape accessibility: user agents, assistive technologies, authoring tools...
-* Getting acquainted with some examples in which  accessibility depends on the use of several components (content created with a specific authoring tool, accessible mark-up).
+* Knowledge on the current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
+* Understanding the structure and goals of these standards: their principles, guidelines, requirements and the type of audience and components they address.
+* Understanding that updates on these standards generate new versions responding to changes on technologies and user needs.
+* Awareness on the inter-relationship between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
 
 ##### Approximate duration.
 
@@ -654,55 +659,27 @@ Revise the inter-relationship between accessibility features in web technologies
 
 ##### Suggested teaching methods 
 
-**Presentational**: - Remember students of the components that make the web possible and explain how accessibility relates with each of them.
-**Conversational**: encourage students to participate on the discussion. Encourage them to think about some of the components they use on a daily basis and to explain how they think accessibility is (or could be) incorporated to this components.
+**Presentational**: provide students with an outline of WCAG, ATAG, UAAG and ARIA. Explain their overall structure and sections and relate them with web technologies and components such as HTML, authoring tools,web browsers, assistive tools, and media players.
 
 ##### Suggested activities 
 
-##### Suggested homework 
-
-##### Suggested teaching materials
-
-* [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
-
-@@
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-#### Lesson 2: Web Content Accessibility Guidelines (WCAG)
-
-{% include excol.html type="middle" %}
-
-Introduce the scope of "web content" in WCAG, which includes desktop and mobile websites and applications. Highlight that there are currently two operational versions, 2.0 and 2.1, with 2.0 being a subset of 2.1 that provides improvements for people with cognitive and learning disabilities, people with low vision, and people with disabilities using mobile devices. Refer to the uptake of WCAG in different policies and standards.
-
-##### Learning outcomes
-
-* Understanding the structure and goals of WCAG.
-* Knowledge about the presence of WCAG in many international, regional and local policies and laws.
-* Awareness on the current two versions of WCAG 2, the first one being 2.0 (published in 2008) publication and the 2.1 update.
-
-##### Approximate duration.
-
-30 minutes.
-
-##### Suggested teaching methods 
-
-**Presentational**: provide students with an outline of WCAG. Explain their overall structure and sections, emphasizing on the success criteria and the Conformance Requirements. Recap on the two operational versions of WCAG 2 that exist: WCAG 2.0 (published in 2008) and WCAG 2.1 (published in 2018).
-
-##### Suggested activities 
+Discuss with students the particular role of each of the standards mentioned and encourage them to reflect on which of them is more related to their particular environment.
 
 ##### Suggested homework 
 
+Ask students to write a short paragraph for each of the standards defining its scope and overall structure and mentioning the web technologies and components they address.
+
 ##### Suggested teaching materials
 
-* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI).
+* <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI). These include the following standards and guidelines:
 	* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
-  
-@@
+	* <a href="https://www.w3.org/WAI/standards-guidelines/atag/">Authoring Tool Accessibility Guidelines (ATAG) Overview</a> &mdash; Provides an overview on ATAG, including "ATAG At a Glance" summary (and handout), and other supporting materials.
+ * <a href="https://www.w3.org/WAI/standards-guidelines/uaag/">User Agent Accessibility Guidelines (UAAG) Overview</a> &mdash; Provides an overview on UAAG, including "UAAG At a Glance" summary (and handout), and other supporting materials.
+ * <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a> &mdash; Provides an overview on WAI-ARIA, including its accompanying standards and application programming interfaces (APIs).
 
 {% include excol.html type="end" %}
+
+{% comment %}
 
 {% include excol.html type="start" %}
 
@@ -722,8 +699,6 @@ Introduce the scope of "web content" in WCAG, which includes desktop and mobile 
 30 minutes.
 
 ##### Suggested teaching methods 
-
-**Presentational**: Provide students with an outline of ATAG 2.0. Explain its layers and guidelines and emphasize the idea that ATAG addresses the accessibility needs for both content authors and content consumers.
 
 ##### Suggested activities 
 
@@ -746,7 +721,7 @@ Encourage students by providing a list of the most common Authoring Tools and as
 
 {% include excol.html type="middle" %}
 
-@@ Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
+Introduce the scope of "user agents" in UAAG, which include diverse applications including web browsers, web-based media players, and some types of assistive tools and mobile applications that allow users to access and interact with web content. Emphasize the relevance of user agents, which are key to supporting accessibility features in web technologies and content; lack of accessibility support is a primary barrier.
 
 ##### Learning outcomes
 
@@ -758,8 +733,6 @@ Encourage students by providing a list of the most common Authoring Tools and as
 30 minutes.
 
 ##### Suggested teaching methods 
-
-**Presentational**: Provide students with an outline of UAAG. Explain their overall structure and sections emphasizing on the importance for browsers, web-based media players and some other assistive tools to comply with these guidelines.
 
 ##### Suggested activities 
 
@@ -792,8 +765,6 @@ Encourage students by providing a list of the most common Authoring Tools and as
 30 minutes.
 
 ##### Suggested teaching methods 
-
-**Presentational**: Define the structure and goals of the WAI-ARIA specification. Explain the context in which WAI-ARIA was promoted, given that some web technologies were challenging for some user profiles, such as screen reader users or those who cannot use the mouse. Underline that this standard provides authors with a set of roles, states and properties that enhances semantic possibilities for web applications.
 
 ##### Suggested activities 
 
@@ -927,13 +898,10 @@ Ask students to note down the results of their checks: what the specific problem
 
   * <a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).
   * <a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> &mdash; Provides an overview on the W3C accessibility standards and guidelines developed and maintained by the W3C Web Accessibility Initiative (WAI). These include the following standards and guidelines:
-    
       * <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Overview</a> &mdash; Provides an overview on WCAG, including "WCAG At a Glance" summary (and handout), and other supporting materials.
       * <a href="https://www.w3.org/WAI/standards-guidelines/atag/">Authoring Tool Accessibility Guidelines (ATAG) Overview</a> &mdash; Provides an overview on ATAG, including "ATAG At a Glance" summary (and handout), and other supporting materials.
       * <a href="https://www.w3.org/WAI/standards-guidelines/uaag/">User Agent Accessibility Guidelines (UAAG) Overview</a> &mdash; Provides an overview on UAAG, including "UAAG At a Glance" summary (and handout), and other supporting materials.
       * <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a> &mdash; Provides an overview on WAI-ARIA, including its accompanying standards and application programming interfaces (APIs).
-    
-    
   * <a href="https://www.w3.org/WAI/standards-guidelines/w3c-process/">How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute</a> &mdash; Provides a simplified overview on the W3C standards development process, and the opportunities that it provides for members of the public to provide feedback into the process.
   * <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> &mdash; Introduces the principles and guidelines defined by WCAG in less technical terms, and relates these requirements to ATAG and UAAG.
   * <a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; Provides instructions to check few accessibility issues relating to different accessibility guidelines. These checks are designed to be quick and easy for many audiences, rather than definitive conformance assessments for accessibility.
