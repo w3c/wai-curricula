@@ -264,7 +264,7 @@ As you may only have time for one or two examples, make sure to emphasize the di
 
 **Tip:** Commonly it is helpful to show examples of people using accessible content first, so that students realize the impact of accessible versus inaccessible design.
 
-**Note:** Later lessons will introduce different types of disabilities, assistive technologies, and adaptive strategies in more depth. This lesson is primarily intended for first-hand experience of real people, which is often first encounter for students.
+**Note:** Later lessons will introduce different types of disabilities, assistive technologies, and adaptive strategies in more depth. This lesson is primarily intended for firsthand experience of real people, which is often first encounter for students.
 
 ##### Learning outcomes
 
@@ -347,8 +347,8 @@ Provide an opportunity for learners to experience some types of assistive tools,
 ##### Learning outcomes
 
 * Understanding how an assistive technology works and how it renders information to the user.
-* Exploring first-hand an assistive technology by trying different operating systems and settings.
-* Testing different adaptive strategies such as changing fonts or colors and applying custom style sheets.
+* Knowledge of firsthand usage of an assistive technology by trying different operating systems and settings.
+* Knowledge of firsthand usage of different adaptive strategies such as changing fonts or colors and applying custom style sheets.
 
 ##### Approximate duration.
 
@@ -356,10 +356,10 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 ##### Suggested teaching methods 
 
-* **Demonstrations**: - Have experienced assistive technology users demonstrating the tools first. Ask them to use already accessible contents so that students can perceive the advantages of developing and designing in an accessible way.
 * **Presentational**:
 	* Elaborate on the most well-known assistive technologies that exist today: screen readers, screen magnifiers...
 	* Elaborate on the most well-known adaptive strategies that exist today: captions, audio descriptions, braille...
+* **Demonstrations:** - Have experienced assistive technology users demonstrating the tools first. Ask them to use already accessible contents so that students can perceive the advantages of developing and designing in an accessible way.
 
 ##### Suggested activities 
 
@@ -398,7 +398,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 * Presentational:
 	* Recap on the most common accessibility barriers already mentioned in previous lessons and explain that they might affect several groups of people with disabilities.
-	* Mention that the solutions for this problem might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities).
+	* Mention that the solutions for these problems might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities).
 
 ##### Suggested activities 
 
