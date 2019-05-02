@@ -304,6 +304,7 @@ As you may only have time for one or two examples, make sure to emphasize the di
 {% include excol.html type="middle" %} 
  
 Introduce examples of specific types of disabilities, including people with auditory, cognitive and learning, physical, speech, and visual disabilities. Introduce some of the design and implementation barriers that people encounter. Relate some of these barriers to personal experiences in using the Web, such as being overwhelmed by the content or confused by the navigation etc. Emphasize how every individual is unique.
+
 **Tip**: As this lesson might become too medical at a first approach, focus on the fact that barriers are not caused by the disability itself but, instead, by bad implementations at a software or product level.
 
 ##### Learning outcomes
