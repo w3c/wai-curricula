@@ -618,7 +618,7 @@ Overview on the international accessibility standards and guidelines from the W3
   * Knowledge of WCAG, ATAG, UAAG, and WAI-ARIA and their relevance for accessibility
   * Knowledge of how they are developed and their adoption by businesses internationally
   * Understanding the terms Perceivable, Operable, Understandable, and Robust (POUR)
-  * Awareness of different design and development guidelines, and examples for each
+  * Awareness of different design and development requirements, and examples for each
   * Ability to carry out preliminary evaluation of simple web pages for accessibility
 
 ### Prerequisites for learners
