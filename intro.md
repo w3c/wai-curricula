@@ -904,7 +904,7 @@ Guide learners through preliminary checks for web accessibility on simple web pa
 
 ##### Suggested teaching methods 
 
-**Practical**: introduce learners to basic accessibility checks. Remember the importance of using several input and output methods such as mice, keyboards, screen or voice output to check for possible accessibility issues.
+**Practical**: introduce learners to basic accessibility checks. Remember the importance of using several input and output methods such as mice, keyboards, and of using assistive tools such as screen readers, to check for possible accessibility issues.
 
 ##### Suggested activities 
 
