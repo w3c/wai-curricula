@@ -483,7 +483,7 @@ Explain that access to information, including on the Web, is a human right under
 
 * Understanding that access to information through all means including the web is one of the fundamental rights of people with disabilities.
 * Knowledge of international accessibility standards and policies that enforce accessibility all over the world.
-* Understanding that web accessibility is an essential requirement at a social level due to the increasing relevance of the digital world at all levels of interaction.
+* Understanding that web accessibility is an essential requirement due to the increasing relevance of the digital world at all levels of interaction.
 
 ##### Approximate duration.
 
