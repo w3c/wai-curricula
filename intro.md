@@ -851,13 +851,12 @@ The objective for this unit is to present an overview of various accessibility r
 
 {% include excol.html type="middle" %}
 
-@@
 Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain the need for everyone involved throughout the design and development process to have an adequate level of awareness and skills.
 
 ##### Learning outcomes
 
 * Understanding that accessibility responsibilities are shared among different roles and positions within the team.
-* Acknowledging the importance of organizational approaches rather than merely technical conceptions of accessibility implementations.
+* Appreciation for the need of organizational approaches rather than merely technical conceptions of accessibility implementations.
 
 ##### Approximate duration.
 
@@ -865,11 +864,15 @@ Explain the different types of roles involved in implementing web accessibility,
 
 ##### Suggested teaching methods 
 
-**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule. Underline that accessibility needs to be taken as an organizational aspect within the team rather than simply considering it to be a technical discipline.
+**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule.
 
 ##### Suggested activities 
 
+Promote discussion among students about what would be their accessibility responsibilities according to their particular role in their daily job.
+
 ##### Suggested homework 
+
+Ask students to write some lines on the main accessibility roles and responsibilities they have just been introduced to. Encourage them to put especial attention to the ones they may be more engaged with when they work in accessibility.
 
 ##### Suggested teaching materials
 
