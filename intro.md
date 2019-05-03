@@ -463,7 +463,7 @@ Introduction to the business case for web accessibility, including social, techn
 ### Suggested teaching Outline
 
 The objective of this unit is to present an introduction to the business case of accessibility, to provide information on how accessibility benefits all users of the web and to enumerate different terms that might play together with  accessibility. It consists of the following lessons:
-* Social Dimension of Accessibility: Explains social accessibility as a human right for people with disabilities under the Convention of the Rights of People with Disabilities and highlights some of the international, local and regional policies that have to do with accessibility.
+* Social Dimension of Accessibility: Explains social accessibility as a human right for people with disabilities under the Convention of the Rights of Persons with Disabilities and highlights some of the international, local and regional policies that incorporate accessibility.
 * Broader benefits of accessibility: Demonstrates how accessibility features also benefit most users of the web such as elderly people, people using mobile devices, people with lower digital skills etc. in addition to ensuring access for people with disabilities.
 * Mainstreaming accessible design: Explains accessibility, usability and inclusion and provides mechanisms to address them within the more broader term of user-centered design.
 
@@ -495,14 +495,16 @@ Explain that access to information, including on the Web, is a human right under
 
 ##### Suggested activities 
 
+Engage students in a conversation about how they could improve the access to information right for people with disabilities in their daily activities.
+
 ##### Suggested homework 
+
+Ask students to write some lines about the Convention on the Rights of Persons with Disabilities, summerizing the conception that it offers about people with disabilities and concentrating on their right to access to information found in article 9.
 
 ##### Suggested teaching materials
 
 * [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/)
-* [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)
-
-@@
+* [Convention on the Rights of Persons with Disabilities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)
 
 {% include excol.html type="end" %}
 
