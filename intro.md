@@ -578,7 +578,7 @@ Ask students to write some lines reflecting on the term "inclusive design", its 
 ##### Suggested teaching materials
 
 * [Accessibility, usability and inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/)
-* [Web Accessibility Laws & Policies(https://www.w3.org/WAI/policies/)
+* [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/)
 
 {% include excol.html type="end" %}
 
