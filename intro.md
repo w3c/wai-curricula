@@ -284,11 +284,11 @@ As you may only have time for one or two examples, make sure to emphasize the di
 
 ##### Suggested activities 
 
-* Ask students to try and follow along an experienced user using assistive technologies and adaptive strategies. For example, using text to speech, speech recognition, and other accessibility features built into their mobile phones.
+Ask students to try and follow along an experienced user using assistive technologies and adaptive strategies. For example, using text to speech, speech recognition, and other accessibility features built into their mobile phones.
 
 ##### Suggested homework 
 
-* Ask students to reflect on their observations, for example in a short essay (200-300 words). Students should explain some of the design features that one of the assistive technologies they learned about relies on to function.
+Ask students to reflect on their observations, for example in a short essay (200-300 words). Students should explain some of the design features that one of the assistive technologies they learned about relies on to function.
 
 ##### Suggested teaching materials
 
@@ -363,11 +363,11 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 ##### Suggested activities 
 
-* Encourage students to try using assistive technologies built into their own computers / mobile phones. Ask them to perform tasks such as looking for information in a particular website or a mobile application.
+Encourage students to try using assistive technologies built into their own computers / mobile phones. Ask them to perform tasks such as looking for information in a particular website or a mobile application.
 
 ##### Suggested homework 
 
-* Ask students to write some lines on how a particular assistive tool is used. Encourage them to focus on all the aspects of such tool, such as shortcuts used or additional settings they might have needed to use for an optimal performance of the tool
+Ask students to write some lines on how a particular assistive tool is used. Encourage them to focus on all the aspects of such tool, such as shortcuts used or additional settings they might have needed to use for an optimal performance of the tool
 
 ##### Suggested teaching materials
 
@@ -514,13 +514,12 @@ Ask students to write some lines about the Convention on the Rights of Persons w
 
 {% include excol.html type="middle" %}
 
-@@
 Demonstrate how many of the accessibility features benefit most users of the Web. For example, demonstrate how accessibility benefits older people, people using mobile devices, people with lower digital skills, people who are not fluent in a language, etc. in addition to ensuring access for people with disabilities. Emphasize the innovative aspects of accessibility, such as text-to-speech and speech-recognition.
 
 ##### Learning outcomes
 
 * Understanding that accessibility benefits many  people in addition to people with disabilities.
-* Acknowledging that accessibility comprises many innovative aspects that imply benefits for the rest of the population.
+* Knowledge that accessibility comprises many innovative aspects that imply benefits for the rest of the population.
 
 ##### Approximate duration.
 
@@ -528,17 +527,19 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 ##### Suggested teaching methods 
 
-**Presentational**: Emphasize on the idea that accessibility solutions are also enjoyed by many people regardless of whether they have a disability or not. Underline the aspects of accessibility that have been adopted by all web users such as speech-based technologies, virtual assistants and/or mobile-centered design.
+**Presentational**: Emphasize on the idea that accessibility solutions are also enjoyed by many people regardless of whether they have a disability or not. Underline the aspects of accessibility that have become mainstream technologies such as text-to-speech or speech recognition.
 
 ##### Suggested activities 
 
+Promote discussion among students about which aspects of accessibility benefits them as well as people with disabilities. For instance, ask them if they use any smart assistant built-in to their mobile phone or if they have a smart speaker at hand.
+
 ##### Suggested homework 
+
+Ask students to write some lines on how a particular aspect that might have been thought for accessibility ends up benefiting most of the users. Ask them to explain why they think this is true.
 
 ##### Suggested teaching materials
 * [Older users and Web Accessibility](https://www.w3.org/WAI/older-users/)
 * [[Archived:] Web Content Accessibility and Mobile Web](https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/)
-
-@@
 
 {% include excol.html type="end" %}
 
@@ -548,13 +549,12 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 {% include excol.html type="middle" %}
 
-@@
 Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
 
 ##### Learning outcomes
 
 * Understanding the similarities and differences between accessibility, usability and inclusion.
-* Getting acquainted that, even when these three terms often overlap, accessibility is needed to grant web access for all.
+* Getting acquainted that, even when these three terms often overlap, accessibility is needed to ensure web access for all.
 * Acknowledging that it is necessary to involve managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
 
 ##### Approximate duration.
