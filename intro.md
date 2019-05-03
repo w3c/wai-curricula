@@ -475,7 +475,7 @@ The objective of this unit is to present an introduction to the business case of
 
 {% include excol.html type="middle" %}
 
-Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (hereinafter CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
+Explain that access to information, including on the Web, is a human right under the UN Convention on the Rights of Persons with disabilities (CRPD). Highlight some of the international policies relating to web accessibility, and emphasize any applicable local policies. Explain the relevance of accessibility in today's increasingly digital world, and how the inclusion of people with disabilities is a social imperative.
 
 ##### Learning outcomes
 
