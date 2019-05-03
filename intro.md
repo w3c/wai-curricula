@@ -499,7 +499,7 @@ Engage students in a conversation about how they could improve the access to inf
 
 ##### Suggested homework 
 
-Ask students to write some lines about the Convention on the Rights of Persons with Disabilities, summerizing the conception that it offers about people with disabilities and concentrating on their right to access to information found in article 9.
+Ask students to write some lines about the Convention on the Rights of Persons with Disabilities, summarizing the conception that it offers about people with disabilities and concentrating on their right to access to information found in article 9.
 
 ##### Suggested teaching materials
 
@@ -837,7 +837,13 @@ Overview on different accessibility roles and responsibilities involved througho
   2-3 hours depending on activities.
 ### Suggested teaching outline
 
-@@ Text for teaching outline
+The objective for this unit is to present an overview of various accessibility roles and responsibilities involved throughout the design and development process, to introduce resources on how to plan and manage accessibility within organizations, to emphasize how  to involve people with disabilities in the whole design and development process  and to help develop policies on how to implement accessibility. It consists on the following lessons:
+* Accessibility roles and responsibilities: Explains the different types of roles involved in implementing web accessibility, and introduces the scope of their responsibilities throughout the design and development process.
+* Planning and managing web accessibility: Introduces specific considerations to integrate accessibility throughout the design process.
+* Involving people with disabilities throughout: provides resources about involving real users with disabilities early on in the design process, 
+* Developing policies on web accessibility: provides information about putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility.
+
+**Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
 {% include excol.html type="start" %}
 
@@ -915,8 +921,7 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 {% include excol.html type="middle" %}
 
-@@
-Explain the importance of involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
+Provides resources about involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
 
 ##### Learning outcomes
 
@@ -950,8 +955,7 @@ Explain the importance of involving real users with disabilities early on in the
 
 {% include excol.html type="middle" %}
 
-@@
-Explain the importance of putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.
+Provides information about putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility. If possible, publicly available accessibility statements help increase the commitment to accessibility and communicate the efforts undertaken by organizations towards accessibility. Ask learners to reflect on general use of policies at their organization.
 
 ##### Learning outcomes
 
