@@ -878,8 +878,6 @@ Ask students to write some lines on the main accessibility roles and responsibil
 
 * [(Work in progress) Accessibility Roles and Responsibilities Mapping (ARRM):](https://www.w3.org/WAI/EO/wiki/Role_definition_document)
 
-@@
-
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
