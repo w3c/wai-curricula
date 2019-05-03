@@ -893,7 +893,7 @@ Introduce specific considerations to integrate accessibility throughout the desi
 * Appreciation that managerial staff's engagement towards accessibility is imperative to succeed in implementing accessibility in the organization.
 * Understanding that sharing responsibilities amongst the team members according to their role is necessary for accessibility to be part of the organization culture.
 * Understanding that resources need to be put in place at a technical and at a financial level so that accessibility efforts can be backed up.
-* Awareness on the definitive role that Quality Management plays within the organization, since various accessibility requirements are strongly dependent on that matter.
+* Awareness on the role that Quality Management plays within the organization, since various accessibility requirements are strongly dependent on that matter.
 
 ##### Approximate duration.
 
@@ -901,7 +901,7 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 ##### Suggested teaching methods 
 
-**Presentational**: Introduce learners to the idea that there needs to be a well-organized planning program for accessibility that involves all team members, from managerial staff to technical personnel. Reflect with students on the aspects of accessibility that have to do with non-technical abilities, especially financial and quality management tasks.
+**Presentational**: Introduce learners to resources that help them produce well-organized planning programs for accessibility that involves all team members, from managerial staff to technical personnel.
 
 ##### Suggested activities 
 
