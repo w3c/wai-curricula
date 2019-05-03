@@ -551,6 +551,8 @@ Ask students to write some lines on how a particular aspect that might have been
 
 Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
 
+**Tip**: Underline that everybody in the team needs to be involved in accessibility, from managerial staff to technical people in charge of designing, developing or creating content.
+
 ##### Learning outcomes
 
 * Understanding the similarities and differences between accessibility, usability and inclusion.
@@ -563,7 +565,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 ##### Suggested teaching methods 
 
-**Presentational**:  provide students with the definitions of accessibility, usability and inclusion. Explain that usability often is not enough to cover the needs of all the people and this is why accessibility becomes necessary. Underline that everybody in the team needs to be involved in accessibility, from managerial staff to technical people in charge of designing, developing or creating content.
+**Presentational**:  provide students with the definitions of accessibility, usability and inclusion. Explain that usability alone may not sufficiently address the needs of people with disabilities whereas  accessibility focuses specifically in the needs of people with disabilities.
 
 ##### Suggested activities 
 
