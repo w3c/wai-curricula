@@ -886,15 +886,14 @@ Ask students to write some lines on the main accessibility roles and responsibil
 
 {% include excol.html type="middle" %}
 
-@@
 Introduce specific considerations to integrate accessibility throughout the design process. This includes ensuring management commitment to accessibility, assigning appropriate roles and responsibilities, providing technical and financial resources, and ensuring quality management. Explain how the capability and maturity of an organization with regard to web accessibility can be assessed based on these considerations.
 
 ##### Learning outcomes
 
-* Acknowledging that managerial staff's engagement towards accessibility is imperative to succeed in implementing accessibility in the organization.
+* Appreciation that managerial staff's engagement towards accessibility is imperative to succeed in implementing accessibility in the organization.
 * Understanding that sharing responsibilities amongst the team members according to their role is necessary for accessibility to be part of the organization culture.
 * Understanding that resources need to be put in place at a technical and at a financial level so that accessibility efforts can be backed up.
-* Ensuring that Quality Management plays a definitive role within the organization, since most of the accessibility requirements are strongly dependent on that matter.
+* Awareness on the definitive role that Quality Management plays within the organization, since various accessibility requirements are strongly dependent on that matter.
 
 ##### Approximate duration.
 
