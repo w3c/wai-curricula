@@ -569,7 +569,11 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 ##### Suggested activities 
 
+Engage students in a conversation about the similarities and differences between accessibility, usability and inclusion. 
+
 ##### Suggested homework 
+
+Ask students to write some lines reflecting on the term "inclusive design", its scope, the relationships between accessibility and usability and the possible overlapping between them.
 
 ##### Suggested teaching materials
 
