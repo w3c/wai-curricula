@@ -74,7 +74,7 @@ Overview on the topic web accessibility, its scope, key terminology used in this
 
 ### Suggested teaching Outline
 
-The objective of this unit is to provide students with the definition and scope of Web Accessibility, to present some accessibility barriers and features and to explain how accessibility relates with some other web technologies and components such as HTML, authoring tools, browsers or assistive tools. It consists of the following lessons:
+The objective of this unit is to provide students with the definition and scope of Web Accessibility, to present some accessibility barriers and features, and to explain how accessibility relates with some other web technologies and components such as HTML, authoring tools, browsers or assistive tools. It consists of the following lessons:
 * Meaning of web accessibility: introduces the concept and scope of web accessibility and explains it as an opportunity for inclusion of people with disabilities.
 * Examples of web accessibility: provides examples of some web accessibility features and barriers and how they impact several user profiles.
 * Components of Web Accessibility: explains the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
@@ -91,7 +91,7 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Learning outcomes
 
-* Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools and technology equally.
+* Understanding the definition of web accessibility as the ability for people with disabilities to use web content, tools, and technology equally.
 * Understanding that web accessibility is present in a growing number of devices and contexts.
 * Understanding that web accessibility is an opportunity for inclusion of people with disabilities.
 
@@ -175,7 +175,7 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Suggested teaching methods 
 
-**Presentational**: explain that web accessibility is achieved by a variety of technologies and components working together. Refer to web technologies such as HTML and components such as web browsers, authoring tools or assistive tools. Elaborate on how issues and repairs might depend on one particular component (e.g., if a user has an older browser, it might not support newer accessibility technologies ).
+**Presentational**: explain that web accessibility is achieved by a variety of technologies and components working together. Refer to web technologies such as HTML and components such as web browsers, authoring tools or assistive tools. Elaborate on how issues and repairs might depend on one particular component (eg, if a user has an older browser, it might not support newer accessibility technologies ).
 
 ##### Suggested activities 
 
@@ -197,7 +197,7 @@ Ask students to write a couple of paragraphs in which they enumerate the differe
 
 ### Suggested Teaching Materials
 
-  * <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides and overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.
+  * <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; provides an overview on web accessibility, including a 4 minute video with examples of accessibility features and barriers.
   * <a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> &mdash; explains key terms, and the inter-relation between different components of web accessibility (eg. web technologies, authoring tools, browsers, etc.).
   * <a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; provides stories of people with diverse disabilities using the Web; enumerates different types of disabilities and some of the barriers that people encounter using the Web; and introduces different types of assistive tools and adaptive strategies that some people use.
   * <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives (videos)</a> &mdash; series of 10 videos, each of around 1 minute duration, that highlight different types of accessibility features and how they impact people with disabilities and other users. For example, one video introduces colors with good contrast and how it benefits many people.
@@ -462,10 +462,10 @@ Introduction to the business case for web accessibility, including social, techn
   1-2 hours depending on demonstrated examples.
 ### Suggested teaching Outline
 
-The objective of this unit is to present an introduction to the business case of accessibility, to provide information on how accessibility benefits all users of the web and to enumerate different terms that might play together with  accessibility. It consists of the following lessons:
-* Social Dimension of Accessibility: Explains social accessibility as a human right for people with disabilities under the Convention of the Rights of Persons with Disabilities and highlights some of the international, local and regional policies that incorporate accessibility.
-* Broader benefits of accessibility: Demonstrates how accessibility features also benefit most users of the web such as elderly people, people using mobile devices, people with lower digital skills etc. in addition to ensuring access for people with disabilities.
-* Mainstreaming accessible design: Explains accessibility, usability and inclusion and provides mechanisms to address them within the more broader term of user-centered design.
+The objective of this unit is to present an introduction to the business case of accessibility, to provide information on how accessibility benefits all users of the web, and to enumerate different terms that might play together with  accessibility. It consists of the following lessons:
+* Social Dimension of Accessibility: Explains social accessibility as a human right for people with disabilities under the Convention of the Rights of Persons with Disabilities, and highlights some of the international, local, and regional policies that incorporate accessibility.
+* Broader benefits of accessibility: Demonstrates how accessibility features also benefit most users of the web such as elderly people, people using mobile devices, people with lower digital skills, etc., in addition to ensuring access for people with disabilities.
+* Mainstreaming accessible design: Explains accessibility, usability, and inclusion, and provides mechanisms to address them within the more broader term of user-centered design.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -491,7 +491,7 @@ Explain that access to information, including on the Web, is a human right under
 
 ##### Suggested teaching methods 
 
-**Presentational**: Refer to the CRPD as a resource where students can find access to information as a  fundamental right of people with disabilities. Link this references to the corresponding international, regional and local policies that apply in your zone. 
+**Presentational**: Refer to the CRPD as a resource where students can find access to information as a  fundamental right of people with disabilities. Link this references to the corresponding international, regional, and local policies that apply in your zone. 
 
 ##### Suggested activities 
 
@@ -499,7 +499,7 @@ Engage students in a conversation about how they could improve the access to inf
 
 ##### Suggested homework 
 
-Ask students to write some lines about the Convention on the Rights of Persons with Disabilities, summarizing the conception that it offers about people with disabilities and concentrating on their right to access to information found in article 9.
+Ask students to write some lines about the Convention on the Rights of Persons with Disabilities, summarizing the conception that it offers about people with disabilities, and concentrating on their right to access to information found in article 9.
 
 ##### Suggested teaching materials
 
@@ -531,7 +531,7 @@ Demonstrate how many of the accessibility features benefit most users of the Web
 
 ##### Suggested activities 
 
-Promote discussion among students about which aspects of accessibility benefits them as well as people with disabilities. For instance, ask them if they use any smart assistant built-in to their mobile phone or if they have a smart speaker at hand.
+Promote discussion among students about which aspects of accessibility benefits them as well as people with disabilities. For instance, ask them if they use any smart assistant built-in to their mobile phone, or if they have a smart speaker at hand.
 
 ##### Suggested homework 
 
@@ -551,11 +551,11 @@ Ask students to write some lines on how a particular aspect that might have been
 
 Explain the relationships between accessibility, usability, and inclusion, and how these are best addressed together using a user-centered design process. Explain that accessibility and disability is part of the broader umbrella of diversity and inclusion, which is increasingly recognized as a business factor by many organizations internationally. Emphasize the need for an inclusive mindset and for leadership in management.
 
-**Tip**: Underline that everybody in the team needs to be involved in accessibility, from managerial staff to technical people in charge of designing, developing or creating content.
+**Tip**: Underline that everybody in the team needs to be involved in accessibility, from managerial staff to technical people in charge of designing, developing, or creating content.
 
 ##### Learning outcomes
 
-* Understanding the similarities and differences between accessibility, usability and inclusion.
+* Understanding the similarities and differences between accessibility, usability, and inclusion.
 * Getting acquainted that, even when these three terms often overlap, accessibility is needed to ensure web access for all.
 * Acknowledging that it is necessary to involve managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
 
@@ -573,7 +573,7 @@ Engage students in a conversation about the similarities and differences between
 
 ##### Suggested homework 
 
-Ask students to write some lines reflecting on the term "inclusive design", its scope, the relationships between accessibility and usability and the possible overlapping between them.
+Ask students to write some lines reflecting on the term "inclusive design", its scope, the relationships between accessibility and usability, and the possible overlapping between them.
 
 ##### Suggested teaching materials
 
@@ -630,7 +630,7 @@ Overview on the international accessibility standards and guidelines from the W3
   2-4 hours depending on activities.
 ### Suggested teaching outline
 
-the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements and to introduce students to performing preliminary accessibility checks. It consists of the following lessons:
+the objective of this unit is to provide students with an overview on the W3C accessibility standards and guidelines, to introduce the way they are developed within the W3C, to present accessibility principles, design and development requirements, and to introduce students to performing preliminary accessibility checks. It consists of the following lessons:
 * Web Accessibility Standards: provides an overview on the Web Accessibility Standards from the W3C and explains their overall goals and structure.
 * Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
 * First checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
@@ -661,7 +661,7 @@ Introduce the scope of the W3C/WAI accessibility standards, which includes deskt
 
 ##### Suggested teaching methods 
 
-**Presentational**: provide students with an outline of WCAG, ATAG, UAAG and ARIA. Explain their overall structure and sections and relate them with web technologies and components such as HTML, authoring tools,web browsers, assistive tools, and media players.
+**Presentational**: provide students with an outline of WCAG, ATAG, UAAG, and ARIA. Explain their overall structure and sections and relate them with web technologies and components such as HTML, authoring tools,web browsers, assistive tools, and media players.
 
 ##### Suggested activities 
 
@@ -734,7 +734,7 @@ Explain the terms Perceivable, Operable, Understandable, and Robust (POUR) based
 
 ##### Suggested teaching methods 
 
-**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable" and "Robust". Provide examples of some of the requirements, common problems they try to address and some of the possible solutions.
+**Presentational**: Provide students with the definition of the four WCAG principles: "Perceivable", "Operable", "Understandable", and "Robust". Provide examples of some of the requirements, common problems they try to address, and some of the possible solutions.
 
 ##### Suggested activities 
 
@@ -779,7 +779,7 @@ Ask students to perform some accessibility checks in a web page of choice. Encou
 
 ##### Suggested homework
 
-Ask students to note down the results of their checks: what the specific problem is, to which principle it belongs to and how this issue might be resolved.
+Ask students to note down the results of their checks: what the specific problem is, to which principle it belongs to, and how this issue might be resolved.
 
 ##### Suggested teaching materials
 
@@ -837,11 +837,11 @@ Overview on different accessibility roles and responsibilities involved througho
   2-3 hours depending on activities.
 ### Suggested teaching outline
 
-The objective for this unit is to present an overview of various accessibility roles and responsibilities involved throughout the design and development process, to introduce resources on how to plan and manage accessibility within organizations, to emphasize how  to involve people with disabilities in the whole design and development process  and to help develop policies on how to implement accessibility. It consists on the following lessons:
+The objective for this unit is to present an overview of various accessibility roles and responsibilities involved throughout the design and development process, to introduce resources on how to plan and manage accessibility within organizations, to emphasize how  to involve people with disabilities in the whole design and development process , and to help develop policies on how to implement accessibility. It consists on the following lessons:
 * Accessibility roles and responsibilities: Explains the different types of roles involved in implementing web accessibility, and introduces the scope of their responsibilities throughout the design and development process.
 * Planning and managing web accessibility: Introduces specific considerations to integrate accessibility throughout the design process.
 * Involving people with disabilities throughout: provides resources about involving real users with disabilities early on in the design process, 
-* Developing policies on web accessibility: provides information about putting accessibility policies in place, to document organizational commitments and to encourage implementation of web accessibility.
+* Developing policies on web accessibility: provides information about putting accessibility policies in place, to document organizational commitments, and to encourage implementation of web accessibility.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -911,8 +911,6 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 * [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
 
-@@
-
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
@@ -922,6 +920,8 @@ Introduce specific considerations to integrate accessibility throughout the desi
 {% include excol.html type="middle" %}
 
 Provides resources about involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
+
+**Tip**: Underline the fact that experienced users are preferred since their use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
 
 ##### Learning outcomes
 
@@ -935,17 +935,19 @@ Provides resources about involving real users with disabilities early on in the 
 
 ##### Suggested teaching methods 
 
-**Presentational**: Explain students the benefits of incorporating people with disabilities from the very beginning of the design and development process. Make them realize that a range of users with disabilities is needed to cover the diversity among them. Underline the fact that experienced users are preferred since the use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
+**Presentational**: Explain students the benefits of incorporating people with disabilities from the very beginning of the design and development process. Emphasize that a range of users with disabilities is needed to cover the diversity among them.
 
 ##### Suggested activities 
 
+Engage students in a conversation about whether or not they have ever met a person with disabilities. If so, encourage them to talk about their particular experience and how they think they could incorporate people with disabilities in their daily tasks and activities.
+
 ##### Suggested homework 
+
+Ask students to write down some notes on how to incorporate people with disabilities to a particular testing phase. Remember them to take into account compensation and time-based requirements and to treat these people with respect and consideration.
 
 ##### Suggested teaching materials
 
 * [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/planning/involving-users/)
-
-@@
 
 {% include excol.html type="end" %}
 
