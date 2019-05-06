@@ -981,7 +981,7 @@ Ask students to draft an accessibility statement taking into account a particula
 
 ##### Suggested teaching materials
 
-* [Developing Organizational Policies on Web Accessibility | Web Accessibility Initiative (WAI) | W3C - Google Chrome](https://www.w3.org/WAI/planning/org-policies/)
+* [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/planning/org-policies/)
 * [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/)
 
 {% include excol.html type="end" %}
@@ -1015,14 +1015,12 @@ Engage students in a conversation about a particular accessibility issue. Encour
 
 ##### Suggested homework 
 
-Ask students to pick some of the accessibility issues they have been taught in this module and to elaborate a plan on how to respond to users. Remember the importance of being quick nd transparent and of taking accessibility issues as something that sooner or later will need to be addressed. 
+Ask students to pick some of the accessibility issues they have been taught in this module and to elaborate a plan on how to respond to users. Remember the importance of being quick and transparent and of taking accessibility issues as something that sooner or later will need to be addressed. 
 
 ##### Suggested teaching materials
 
-
-
-
-@@
+* [Web Accessibility First Aid: Approaches for Interim Repairs](https://www.w3.org/WAI/planning/interim-repairs/)
+* [Contacting Organizations about Inaccessible Websites](https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/)
 
 {% include excol.html type="end" %}
 
