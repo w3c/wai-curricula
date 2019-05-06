@@ -490,7 +490,7 @@ Explain that access to information, including on the Web, is a human right under
 
 ##### Suggested activities 
 
-Engage students in a conversation about how they could improve the access to information right for people with disabilities in their daily activities.
+Engage students in a conversation about how they could improve the right to access to information for people with disabilities in their daily activities.
 
 ##### Suggested homework 
 
