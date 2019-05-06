@@ -847,7 +847,7 @@ The objective for this unit is to present an overview of various accessibility r
 
 {% include excol.html type="middle" %}
 
-Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain the need for everyone involved throughout the design and development process to have an adequate level of awareness and skills.
+Explain the different types of roles involved in implementing web accessibility, and introduce the scope of their responsibilities throughout the design and development process. Emphasize that accessibility is not primarily a technical aspect but actually an organizational aspect. Explain that everyone involved throughout the design and development process needs to have an adequate level of awareness and skills.
 
 ##### Learning outcomes
 
