@@ -356,9 +356,7 @@ Provide an opportunity for learners to experience some types of assistive tools,
 
 ##### Suggested teaching methods 
 
-* **Presentational**:
-	* Elaborate on the most well-known assistive technologies that exist today: screen readers, screen magnifiers...
-	* Elaborate on the most well-known adaptive strategies that exist today: captions, audio descriptions, braille...
+* **Presentational**: Elaborate on the most well-known assistive technologies and adaptive strategies that exist today: screen readers, screen magnifiers; captions, audio descriptions, braille, etc.
 * **Demonstrations:** - Have experienced assistive technology users demonstrating the tools first. Ask them to use already accessible contents so that students can perceive the advantages of developing and designing in an accessible way.
 
 ##### Suggested activities 
@@ -396,10 +394,7 @@ Explain the overlapping accessibility needs of different users, such as "reading
 
 ##### Suggested teaching methods 
 
-* Presentational:
-	* Recap on the most common accessibility barriers and features already mentioned in previous lessons and explain that they might affect several groups of people with disabilities.
-	* Mention that the solutions for these problems might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities).
-	* Mention that every individual uses the web in a different way regardless of the type of disability they may have.
+* Presentational: Recap on the most common accessibility barriers and features already mentioned in previous lessons and explain that they might affect several groups of people with disabilities. Mention that the solutions for these problems might also be used by several people with disabilities. Examples of this solutions may be text-to-speech (which might be used both by people with vision impairments and also by people with cognitive disabilities). Mention that every individual uses the web in a different way regardless of whether or not they have a disability.
 
 ##### Suggested activities 
 
@@ -412,7 +407,7 @@ Ask students to write some lines about the overlapping needs of people with disa
 ##### Suggested teaching materials
 
 * [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques/)
-* [Web Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
+* [Web Accessibility Perspective (Videos)](https://www.w3.org/WAI/perspective-videos/)
 
 {% include excol.html type="end" %} 
 
