@@ -151,7 +151,7 @@ Ask students to write one or two paragraphs in which they reflect on the accessi
 ##### Suggested teaching materials
 
 * [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
-* [Web Accessibility Perspectives *Videos(](https://www.w3.org/WAI/perspective-videos/)
+* [Web Accessibility Perspectives (Videos)](https://www.w3.org/WAI/perspective-videos/)
 
 {% include excol.html type="end" %}
 
