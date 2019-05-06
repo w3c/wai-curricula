@@ -557,7 +557,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 * Understanding the similarities and differences between accessibility, usability, and inclusion.
 * Getting acquainted that, even when these three terms often overlap, accessibility is needed to ensure web access for all.
-* Acknowledging that it is necessary to involve managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
+* Knowledge of involving managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
 
 ##### Approximate duration.
 
@@ -692,7 +692,7 @@ Ask students to write a short paragraph for each of the standards defining its s
 ##### Learning outcomes
 
 * Understanding the W3C standards development process, based on public work and inputs from organizations, people with disabilities, industries, public bodies, research and individual experts.
-* Acknowledging the need for consensus  to promote standards endorsement by the W3C.
+* Appreciation of the need for consensus  to promote standards endorsement by the W3C.
 
 ##### Approximate duration.
 
@@ -931,7 +931,7 @@ Provides resources about involving real users with disabilities early on in the 
 ##### Learning outcomes
 
 * Understanding the need of incorporating people with disabilities into web development and testing
-* Acknowledging that incorporating people with disabilities also helps improve products and services for other users.
+* Awareness that incorporating people with disabilities also helps improve products and services for other users.
 
 ##### Approximate duration.
 
