@@ -1005,7 +1005,7 @@ Explain the importance of responding to accessibility queries and complaints. Of
 
 ##### Suggested teaching methods 
 
-**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side. Elaborate on how to prioritize issues, addressing first those who will have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
+**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side. Elaborate on how to prioritize issues, addressing first those which have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
 ##### Suggested activities 
 
 ##### Suggested homework 
