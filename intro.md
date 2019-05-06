@@ -842,6 +842,7 @@ The objective for this unit is to present an overview of various accessibility r
 * Planning and managing web accessibility: Introduces specific considerations to integrate accessibility throughout the design process.
 * Involving people with disabilities throughout: provides resources about involving real users with disabilities early on in the design process, 
 * Developing policies on web accessibility: provides information about putting accessibility policies in place, to document organizational commitments, and to encourage implementation of web accessibility.
+* Responding to accessibility questions: explains the importance of responding to accessibility queries and complaints.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -864,7 +865,7 @@ Explain the different types of roles involved in implementing web accessibility,
 
 ##### Suggested teaching methods 
 
-**Presentational**: present students the description of each role's responsibility when it comes to accessibility implementation. Emphasize that this description is changing as the role description and responsibilities is also changing in the real work environment and thus it needs to be taken as a guide for adoption rather than as a static rule.
+**Presentational**: introduce students to the description of each role's responsibility when it comes to accessibility implementation. Emphasize that these descriptions may change as the role description and responsibilities is also changing in the real work environment.
 
 ##### Suggested activities 
 
@@ -872,7 +873,7 @@ Promote discussion among students about what would be their accessibility respon
 
 ##### Suggested homework 
 
-Ask students to write some lines on the main accessibility roles and responsibilities they have just been introduced to. Encourage them to put especial attention to the ones they may be more engaged with when they work in accessibility.
+Ask students to write some lines on the main accessibility roles and responsibilities they have just been introduced to. Encourage them to put especial attention to the ones they may be more engaged with if they work in accessibility.
 
 ##### Suggested teaching materials
 
@@ -890,9 +891,9 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 ##### Learning outcomes
 
-* Appreciation that managerial staff's engagement towards accessibility is imperative to succeed in implementing accessibility in the organization.
+* Understanding the importance of  managerial staff's commitment to accessibility.
 * Understanding that sharing responsibilities amongst the team members according to their role is necessary for accessibility to be part of the organization culture.
-* Understanding that resources need to be put in place at a technical and at a financial level so that accessibility efforts can be backed up.
+* Understanding that resources need to be put in place at a technical and at a financial level so that accessibility can be integrated.
 * Awareness on the role that Quality Management plays within the organization, since various accessibility requirements are strongly dependent on that matter.
 
 ##### Approximate duration.
@@ -901,11 +902,15 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 ##### Suggested teaching methods 
 
-**Presentational**: Introduce learners to resources that help them produce well-organized planning programs for accessibility that involves all team members, from managerial staff to technical personnel.
+**Presentational**: Introduce learners to resources that help them produce well-organized planning programs for accessibility that involves all team members, from managerial to technical staff members.
 
 ##### Suggested activities 
 
+Engage students in a conversation about promoting accessibility planning strategies based on the materials and descriptions provided.
+
 ##### Suggested homework 
+
+Ask students to write some lines on how they would integrate accessibility strategies in an organization. Ask them to enumerate various roles in charge of accessibility among the team and what would be their main responsibilities.
 
 ##### Suggested teaching materials
 
@@ -919,7 +924,7 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 {% include excol.html type="middle" %}
 
-Provides resources about involving real users with disabilities early on in the design process, and throughout the development and maintenances stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
+Provides resources about involving real users with disabilities early on in the design process, and throughout the development and maintenance stages of websites. Emphasize how usability testing with people with disabilities also addresses mainstream audiences as well as people with situational limitations. Explain the ethical considerations required when working with people, including people with disabilities.
 
 **Tip**: Underline the fact that experienced users are preferred since their use of assistive technologies and/or adaptive strategies will be much more confident than that of people who is less experienced. Encourage students  to take time and compensation into account and to respect people with disabilities as they would respect others.
 
@@ -927,7 +932,6 @@ Provides resources about involving real users with disabilities early on in the 
 
 * Understanding the need of incorporating people with disabilities into web development and testing
 * Acknowledging that incorporating people with disabilities also helps improve products and services for other users.
-* Getting acquainted that people with disabilities need to be treated equally and with the same degree of respect that you would treat others.
 
 ##### Approximate duration.
 
@@ -939,11 +943,11 @@ Provides resources about involving real users with disabilities early on in the 
 
 ##### Suggested activities 
 
-Engage students in a conversation about whether or not they have ever met a person with disabilities. If so, encourage them to talk about their particular experience and how they think they could incorporate people with disabilities in their daily tasks and activities.
+Engage students in a conversation about whether or not they have ever worked with users with disabilities. If so, encourage them to talk about their particular experience and about how people with disabilities may be of help for them in their daily tasks and activities.
 
 ##### Suggested homework 
 
-Ask students to write down some notes on how to incorporate people with disabilities to a particular testing phase. Remember them to take into account compensation and time-based requirements and to treat these people with respect and consideration.
+Ask students to write down some notes on how to incorporate people with disabilities to a particular testing phase. Remember them to take into account compensation and time-based requirements and to treat them Swith respect and consideration.
 
 ##### Suggested teaching materials
 
@@ -994,6 +998,8 @@ Provides information about putting accessibility policies in place, to document 
 @@
 Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
 
+**Tip:** Elaborate on how to prioritize issues, addressing first those which have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
+
 ##### Learning outcomes
 
 * Understanding the importance of taking care of accessibility-related inquiries.
@@ -1005,7 +1011,8 @@ Explain the importance of responding to accessibility queries and complaints. Of
 
 ##### Suggested teaching methods 
 
-**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side. Elaborate on how to prioritize issues, addressing first those which have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
+**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side.
+
 ##### Suggested activities 
 
 ##### Suggested homework 
