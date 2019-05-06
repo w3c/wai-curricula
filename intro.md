@@ -801,7 +801,7 @@ Ask students to note down the results of their checks: what the specific problem
 
 ### Ideas for Assessment
 
-  * **Knowledge Questions** &mdash; Learners should be able to explain the principles of web accessibility and enumerate different guidelines. Learners should be able to provide examples web content, authoring tools, and user agents.
+  * **Knowledge Questions** &mdash; Learners should be able to explain the principles of web accessibility and enumerate different guidelines. Learners should be able to provide examples of web content, authoring tools, and user agents.
   * **Presentations** &mdash; Learners should be able to carry out first checks of accessibility principles on simple web pages. Learners can compare the accessibility of different websites or different pages on the same website.
 
 ### Notes
