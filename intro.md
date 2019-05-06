@@ -101,7 +101,7 @@ Define web accessibility as ability for people with disabilities to use web cont
 
 ##### Suggested teaching methods 
 
-**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people with disabilities to access web interfaces and applications. Point out that it is necessary to take accessibility into account when we want to promote inclusion of people with disabilities.
+**presentational**: - Provide students with the definition of accessibility and relate it with other ICT disciplines. Emphasize the importance of this field to allow people with disabilities to access web interfaces and applications. {% comment %}Point out that it is necessary to take accessibility into account to promote inclusion of people with disabilities. {% endcomment %}
 
 ##### Suggested activities 
 
