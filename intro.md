@@ -947,7 +947,7 @@ Engage students in a conversation about whether or not they have ever worked wit
 
 ##### Suggested homework 
 
-Ask students to write down some notes on how to incorporate people with disabilities to a particular testing phase. Remember them to take into account compensation and time-based requirements and to treat them Swith respect and consideration.
+Ask students to write down some notes on how to incorporate people with disabilities to a particular testing phase. Remember them to take into account compensation and time-based requirements and to treat them with respect and consideration.
 
 ##### Suggested teaching materials
 
@@ -966,7 +966,7 @@ Provides information about putting accessibility policies in place, to document 
 ##### Learning outcomes
 
 * Understanding the strategic importance of accessibility policies to ensure and reinforce commitment among the organization members.
-* Awareness on the current accessibility commitments from organizations to which students belong.
+* Awareness on some current accessibility commitments from organizations.
 
 ##### Approximate duration.
 
@@ -974,18 +974,20 @@ Provides information about putting accessibility policies in place, to document 
 
 ##### Suggested teaching methods 
 
-**Presentational**: expose students to current accessibility policies so that they are familiarized with their main elements. Elaborate on the fact that there needs to be a commitment on tangible goals and achievements as well as on current standards and policies, ideally referencing directly those from the W3C and contemplating mechanisms to accommodate smoothly to updates on the standards as they appear.
+**Presentational**: introduce students to current accessibility policies so that they are familiarized with their main elements. Elaborate on the fact that there needs to be a commitment on tangible goals and achievements as well as on current standards and policies, ideally referencing directly those from the W3C and contemplating mechanisms to accommodate smoothly to updates on the standards as they appear.
 
 ##### Suggested activities 
 
+Engage students in a conversation about whether or not they are aware of any accessibility statement and encourage them to reflect on some of the aspects they include: current accessibility status of the product, standard to which it needs to be compliant, etc.
+
 ##### Suggested homework 
+
+Ask students to draft an accessibility statement taking into account a particular product of their choice.
 
 ##### Suggested teaching materials
 
 * [Developing Organizational Policies on Web Accessibility | Web Accessibility Initiative (WAI) | W3C - Google Chrome](https://www.w3.org/WAI/planning/org-policies/)
 * [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/)
-
-@@
 
 {% include excol.html type="end" %}
 
@@ -995,7 +997,6 @@ Provides information about putting accessibility policies in place, to document 
 
 {% include excol.html type="middle" %}
 
-@@
 Explain the importance of responding to accessibility queries and complaints. Often issues can be addressed more easily than anticipated, and responsiveness demonstrates customer care. Introduce some of the strategies that can be used to prioritize issues and pursue interim repairs, which can become necessary when accessibility is not considered from the start of the design and development process.
 
 **Tip:** Elaborate on how to prioritize issues, addressing first those which have the highest impact in user experience. Comment on how answers and follow-ups are expected from users and that it is not a good practice to leave all the accessibility communications to automatic replies or catch phrases.
@@ -1003,7 +1004,7 @@ Explain the importance of responding to accessibility queries and complaints. Of
 ##### Learning outcomes
 
 * Understanding the importance of taking care of accessibility-related inquiries.
-* Acknowledging some of the strategies to prioritize issues and pursue interim repairs.
+* Knowledge of some of the strategies to prioritize issues and pursue interim repairs.
 
 ##### Approximate duration.
 
@@ -1011,11 +1012,15 @@ Explain the importance of responding to accessibility queries and complaints. Of
 
 ##### Suggested teaching methods 
 
-**Presentational**: engage students with the ability to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair or fix on their side.
+**Presentational**: introduce students to resources on how to respond to accessibility inquiries. Encourage students to avoid treating accessibility-related inquiries as particular user problems but rather as something that might need a repair at a design or development level.
 
 ##### Suggested activities 
 
+Engage students in a conversation about a particular accessibility issue. Encourage them to elaborate a plausible  answer to a user that is asking for a repair, taking into account what has been taught in this lesson.
+
 ##### Suggested homework 
+
+Ask students to pick some of the accessibility issues they have been taught in this module and to elaborate a plan on how to respond to users. Remember the importance of being quick nd transparent and of taking accessibility issues as something that sooner or later will need to be addressed. 
 
 ##### Suggested teaching materials
 
