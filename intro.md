@@ -50,14 +50,14 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 {% include excol.html type="middle" %}
 
-Overview on the topic web accessibility, its scope, key terminology used in this context and inter-relationships with web technologies and other essential components.
+Overview on the topic web accessibility, its scope, key terminology used in this context and inter-relations with web technologies and other essential components.
 
 ### Learning Outcomes
 
   * Understanding the definition of web accessibility for people with disabilities
   * Understanding the scope of "the Web", including on desktop and mobile devices
   * Awareness of some types of design barriers that exclude people with disabilities
-  * Knowledge of inter-relationship between different components of web accessibility
+  * Knowledge of inter-relation between different components of web accessibility
   * Understanding key terms and the role of accessibility standards and guidelines
 
 ### Prerequisites for Learners
@@ -77,7 +77,7 @@ Overview on the topic web accessibility, its scope, key terminology used in this
 The objective of this unit is to provide students with the definition and scope of Web Accessibility, to present some accessibility barriers and features, and to explain how accessibility relates with some other web technologies and components such as HTML, authoring tools, browsers or assistive tools. It consists of the following lessons:
 * Meaning of web accessibility: introduces the concept and scope of web accessibility and explains it as an opportunity for inclusion of people with disabilities.
 * Examples of web accessibility: provides examples of some web accessibility features and barriers and how they impact several user profiles.
-* Components of Web Accessibility: explains the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
+* Components of Web Accessibility: explains the inter-relation between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -161,11 +161,11 @@ Ask students to write one or two paragraphs in which they reflect on the accessi
 
 {% include excol.html type="middle" %}
 
-Explain the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
+Explain the inter-relation between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools. Provide examples of accessibility features and accessibility barriers in these components, and explain the role of accessibility standards and guidelines for these components. Emphasize that accessibility encompasses many types of roles and responsibilities.
 
 ##### Learning outcomes
 
-* Understanding the inter-relationship between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
+* Understanding the inter-relation between web accessibility, web technologies such as HTML, and web components such as browsers or assistive tools.
 * Knowledge of some features and barriers that are related to these web technologies and components.
 * Understanding the role of the accessibility standards for each component of web accessibility.
 
@@ -179,7 +179,7 @@ Explain the inter-relationship between accessibility features in web technologie
 
 ##### Suggested activities 
 
-Promote discussion among students on how web accessibility is built by several web technologies and components working together. Encourage them to give examples of these inter-relationships in the context of their daily tasks and overall experience.
+Promote discussion among students on how web accessibility is built by several web technologies and components working together. Encourage them to give examples of these inter-relations in the context of their daily tasks and overall experience.
 
 ##### Suggested homework 
 
@@ -635,7 +635,7 @@ the objective of this unit is to provide students with an overview on the W3C ac
 * Web Accessibility Principles: explains the terms Perceivable, Operable, Understandable, and Robust (POUR) and introduces the Guidelines defined by WCAG for each of these principles.
 * First checks for web accessibility: guides learners through preliminary checks for web accessibility on simple web pages.
 
-**Tip**: Revise the inter-relationship between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
+**Tip**: Revise the inter-relation between accessibility features in web technologies such as HTML, in web content, web authoring tools, web browsers, and assistive tools, which were introduced in the first teaching unit of this module. Relate this back to more specific examples for the second teaching module and highlight the broader benefits of these examples. Reiterate that accessibility encompasses many types of roles and responsibilities.
 
 **Note**: This is a suggested teaching outline to help achieve the learning outcomes. Instructors might choose to adapt the sequence of the lessons or their content according to the particular audience and context.
 
@@ -652,7 +652,7 @@ Introduce the scope of the W3C/WAI accessibility standards, which includes deskt
 * Knowledge of the current W3C web accessibility standards: WCAG, ATAG, UAAG, and ARIA.
 * Understanding the structure and goals of these standards: their principles, guidelines, requirements and the type of audience and components they address.
 * Understanding that updates on these standards might lead to new versions responding to changes on technologies and user needs.
-* Awareness on the inter-relationship between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
+* Awareness on the inter-relation between these standards with the web technologies and accessibility components such as HTML, authoring tools, user agents and web applications.
 * Knowledge of the public approach of the standards development process, with involvement from organizations of people with disabilities, industry, public bodies and individuals interested.
 
 ##### Approximate duration.
