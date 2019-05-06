@@ -568,7 +568,7 @@ Engage students in a conversation about the similarities and differences between
 
 ##### Suggested homework 
 
-Ask students to write some lines reflecting on the term "inclusive design", its scope, the relationships between accessibility and usability, and the possible overlapping between them.
+Ask students to write some lines reflecting on the term "inclusive design", its scope, the relationships between accessibility and usability, and the possible overlapps between them.
 
 ##### Suggested teaching materials
 
