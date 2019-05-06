@@ -897,7 +897,7 @@ Introduce specific considerations to integrate accessibility throughout the desi
 
 ##### Suggested teaching methods 
 
-**Presentational**: Introduce learners to resources that help them produce well-organized planning programs for accessibility that involves all team members, from managerial to technical staff members.
+**Presentational**: Introduce learners to resources that later help them produce well-organized planning programs for accessibility that involve all team members, from managerial to technical staff members.
 
 ##### Suggested activities 
 
