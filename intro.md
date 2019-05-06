@@ -552,7 +552,7 @@ Explain the relationships between accessibility, usability, and inclusion, and h
 
 * Understanding the similarities and differences between accessibility, usability, and inclusion.
 * Getting acquainted that, even when these three terms often overlap, accessibility is needed to ensure web access for all.
-* Knowledge of involving managerial staff and decision makers so that accessibility becomes an intrinsic part of the daily work in web design and development.
+* Knowledge of involving managerial staff and decision makers so that accessibility becomes an intrinsic part of the work in web design and development.
 
 ##### Approximate duration.
 
