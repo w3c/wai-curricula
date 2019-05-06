@@ -774,7 +774,7 @@ Ask students to perform some accessibility checks in a web page of choice. Encou
 
 ##### Suggested homework
 
-Ask students to note down the results of their checks: what the specific problem is, to which principle it belongs to, and how this issue might be resolved.
+Ask students to note down the results of their checks: what the specific problem is, to which principle it belongs, and how this issue might be resolved.
 
 ##### Suggested teaching materials
 
