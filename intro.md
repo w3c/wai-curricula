@@ -427,7 +427,7 @@ Ask students to write some lines about the overlapping needs of people with disa
 ### Notes
 
   * **Ethical considerations** &mdash; Consider the appropriate ethical aspects when working with people (also when showing videos of people); for example, ensure consent, provide compensation, and avoid patronizing behavior.
-  * **clichés and myths** &mdash; Unfortunately there are clichés, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced with caution. Experienced instructors are recommended.
+  * **clichés and myths** &mdash; Unfortunately there are clichés, myths, and even stigmatization of people with disabilities, which could be unintentionally reinforced. Experienced instructors are recommended.
   * **Cultural aspects** &mdash; The definition of disability and the approach to accessibility varies between different cultures. This can impact the initial level of awareness and acceptance for the topic by learners.
 
 {% include excol.html type="end" %}
