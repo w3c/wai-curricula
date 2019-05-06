@@ -323,7 +323,7 @@ Introduce examples of specific types of disabilities, including people with audi
 
 ##### Suggested activities
 
-Engage students in a conversation about the different types of disabilities and common barriers that they have been learning about. Promote that they relate each of the disabilities with the barrier that they think affects that disability most.
+Engage students in a conversation about the different types of disabilities and common barriers that they have been learning about. Promote that they relate each of the barriers with the type (or types) of disabilities that this barrier affects.
 
 ##### Suggested homework
 
@@ -372,7 +372,7 @@ Ask students to write some lines on how a particular assistive tool is used. Enc
 ##### Suggested teaching materials
 
 * [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques)
-* <a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives)</a>
+* [Web Accessibility Perspectives (Videos)](https://www.w3.org/WAI/perspective-videos/)
 
 {% include excol.html type="end" %} 
 
