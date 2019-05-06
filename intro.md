@@ -530,7 +530,7 @@ Promote discussion among students about which aspects of accessibility benefits 
 
 ##### Suggested homework 
 
-Ask students to write some lines on how a particular aspect that might have been thought for accessibility ends up benefiting most of the users. Ask them to in favor of this assertion.
+Ask students to write some lines on how a particular aspect that might have been thought for accessibility ends up benefiting most of the users. Ask them to argue in favor of this assertion.
 
 ##### Suggested teaching materials
 * [Older users and Web Accessibility](https://www.w3.org/WAI/older-users/)
