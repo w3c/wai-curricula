@@ -48,9 +48,9 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 ## Unit 1: Overview and Terminology ##
 
-{% include excol.html type="middle" %}
-
 Overview on the topic web accessibility, its scope, key terminology used in this context and inter-relations with web technologies and other essential components.
+
+{% include excol.html type="middle" %}
 
 ### Learning Outcomes
 
@@ -219,9 +219,9 @@ Ask students to write a couple of paragraphs in which they enumerate the differe
 
 ## Unit 2: People and Digital Technology ##
 
-{% include excol.html type="middle" %}
-
 Introduction to how people with disabilities use the Web, different types of assistive technologies and adaptive strategies that some people use, and some of the barriers that people encounter on the Web.
+
+{% include excol.html type="middle" %}
 
 ### Learning Outcomes
 
@@ -436,9 +436,9 @@ Ask students to write some lines about the overlapping needs of people with disa
 
 ## Unit 3: Business Case and Benefits ##
 
-{% include excol.html type="middle" %}
-
 Introduction to the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+
+{% include excol.html type="middle" %}
 
 ### Learning Outcomes
 
@@ -605,9 +605,9 @@ Ask students to write some lines reflecting on the term "inclusive design", its 
 
 ## Unit 4: Standards and Guidelines ##
 
-{% include excol.html type="middle" %}
-
 Overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
+
+{% include excol.html type="middle" %}
 
 ### Learning outcomes
 
@@ -814,9 +814,10 @@ Ask students to note down the results of their checks: what the specific problem
 
 ## Unit 5: Get Started with Accessibility ##
 
+Overview on different accessibility roles and responsibilities involved throughout the design and development process, and on organizational planning and managing considerations to ensure accessibility as part of the process.
+
 {% include excol.html type="middle" %}
 
-Overview on different accessibility roles and responsibilities involved throughout the design and development process, and on organizational planning and managing considerations to ensure accessibility as part of the process.
 ### Learning outcomes
 
   * Understanding different roles and scope of their accessibility responsibilities
