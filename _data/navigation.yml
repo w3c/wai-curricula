@@ -228,9 +228,6 @@
     pages:
     - name: "Introduction"
       url: "/curricula/introduction/"
-      pages:
-      - name: "Applying and managin accessibility"
-       url: "/curricula/1_5/"
     - name: Example Page
       url: "/curricula/example-page/" 
   - name: Make Presentations Accessible
