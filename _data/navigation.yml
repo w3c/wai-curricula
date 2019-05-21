@@ -229,6 +229,10 @@
     - name: "Introduction"
       url: "/curricula/introduction/"
       pages:
+      - name: "Overview and terminology"
+        url: "/curricula/1-1/"
+      - name: "People and Digital Technology"
+        url: "/curricula/1-2/"
       - name: "Business case for accessibility"
         url: "/curricula/1-3/"
       - name: "Standards and guidelines"
