@@ -229,7 +229,7 @@
     - name: "Introduction"
       url: "/curricula/introduction/"
       pages:
-      - name: "Overview and terminology"
+      - name: "The Story of Accessibility"
         url: "/curricula/1-1/"
       - name: "People and Digital Technology"
         url: "/curricula/1-2/"
