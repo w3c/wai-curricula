@@ -57,8 +57,7 @@ Some of the potential audiences that the curricula address could include:
 
 ## Draft Outline ##
 
-
-<table class="wikitable" style="text-align: left;">
+<table style="text-align: left;">
 	<tbody>
 		<tr>
 			<th> </th>
@@ -70,13 +69,13 @@ Some of the potential audiences that the curricula address could include:
 		</tr>
 		<tr>
 			<th> Basic </th>
-			<td colspan="5"> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/">Introduction to Web Accessibility</a>
+			<td colspan="5"> <a rel="nofollow" href="https://w3c.github.io/wai-curricula/curricula/introduction/">Introduction to Web Accessibility</a>
 				<ul>
-					<li> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-1-overview-and-terminology">Overview and Terminology</a></li>
-					<li> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-2-people-and-digital-technology">People and Digital Technology</a></li>
-					<li> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-3-business-case-and-benefits">Business Case and Benefits</a></li>
-					<li> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-4-standards-and-guidelines">Standards and Guidelines</a></li>
-					<li> <a rel="nofollow" class="external text" href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-5-get-started-with-accessibility">Get Started with Accessibility</a></li>
+					<li> <a href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-1-overview-and-terminology">Overview and Terminology</a></li>
+					<li> <a href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-2-people-and-digital-technology">People and Digital Technology</a></li>
+					<li> <a href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-3-business-case-and-benefits">Business Case and Benefits</a></li>
+					<li> <a href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-4-standards-and-guidelines">Standards and Guidelines</a></li>
+					<li> <a href="https://w3c.github.io/wai-curricula/curricula/introduction/#unit-5-get-started-with-accessibility">Get Started with Accessibility</a></li>
 				</ul>
 			</td>
 		</tr>
@@ -161,7 +160,6 @@ Some of the potential audiences that the curricula address could include:
 		</tr>
 	</tbody>
 </table>
-
 
 ## Related Resources ##
 
