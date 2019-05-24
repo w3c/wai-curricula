@@ -57,7 +57,6 @@ Some of the potential audiences that the curricula address could include:
 
 ## Draft Outline ##
 
-````
 
 <table class="wikitable" style="text-align: left;">
 	<tbody>
@@ -162,7 +161,7 @@ Some of the potential audiences that the curricula address could include:
 		</tr>
 	</tbody>
 </table>
-````
+
 
 ## Related Resources ##
 
