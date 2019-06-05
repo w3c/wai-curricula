@@ -6,13 +6,13 @@ lang: en
 github:
   repository: w3c/wai-curricula
   path: index.md
-footer: > 
+footer: >
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
   <p><strong>Editors:</strong><a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and Daniel Montalvo. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  next: /curricula/introduction
+  next: /curricula/introduction/
 ---
 
 ## Objective ##
