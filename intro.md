@@ -32,9 +32,23 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 ## Units in this module
 
 * [Unit 1: What is web accessibility]({{ "/curricula/1-1/" | relative_url }}) — Introduces stories of people with disabilities, Provides a definition and scope of web accessibility and introduces its inter-relations with other disciplines.
-* [Unit 2: People and access technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features, barriers and presents some adaptive strategies and  assistive tools.
+  * Topic: Stories of people with Disabilities  &mdash: Introduces real stories of how people with disabilities interact with web pages and applications. 
+    * Topic: Scope of Web Accessibility &mdash: Introduce the definition and scope of web accessibility. Present common terminology.
+* [Unit 2: People and access technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features, barriers, presents some adaptive strategies and assistive tools and intr.
+  Topic: Diverse Abilities, Tools and Strategies &mdash: Introduce the wide range of people with disabilities, including auditory, cognitive, neurological, physical, speech, and visual disabilities. Explain the variety of abilities, needs, and preferences, even among people with the same type of disability.
+  * Topic: Components of Web Accessibility &mdash: Explain that web accessibility depends on several components working together — content, browsers, authoring tools, web designers and developers, and more.
 * [Unit 3: Business case for accessibility]({{ "/curricula/1-3/" | relative_url}} ) &mdash; Introduces the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+  Topic: Social Benefits &mdash: Introduces some of the social factors for an accessibility business case.
+  * Topic: Introduce other benefits of accessibility, such as technical and financial benefits.
+  * Topic: Legal and Policy Aspects &mdash: introduces some of the international, regional, and local policies relating to web accessibility.
 * [Unit 4: Web Accessibility Standards]({{ "/curricula/1-4/" | relative_url}} ) — Provides an overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
+  * Topic: Standards and Guidelines &mdash: UseIntroduce the scope of the W3C/WAI accessibility standards.
+  * Principles of Accessible design &mdash: explain the terms “Perceivable”, “Operable”, “Understandable”, and “Robust”¢ (POUR)
+  * Topic: First Checks for Web Accessibility: &mdash: guide learners through preliminary checks for web accessibility on simple web pages.
 * [Unit 5: Applying and managing accessibility]({{ "/curricula/1-5/" | relative_url}} ) &mdash; provides an overview on  organizational planning and managing considerations to ensure accessibility as part of the process, and on different accessibility roles and responsibilities involved throughout the design and development process.
+  * Topic: Planning and Managing Web Accessibility &mdash: 
+  * Topic: Developing Policies and Statements &mdash: Introduce students to accessibility policies for organizations and accessibility statements for websites.
+  * * Topic: Roles and Responsibilities &mdash: Introduce roles and responsibilities for accessibility. 
+  * Topic: Accessibility in an Existing Project &mdash: Introduce some strategies to address accessibility in an existing project.
 
 
