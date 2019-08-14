@@ -34,7 +34,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 * [Unit 1: What is web accessibility]({{ "/curricula/1-1/" | relative_url }}) — Introduces stories of people with disabilities, Provides a definition and scope of web accessibility and introduces its inter-relations with other disciplines.
   * Topic: Stories of people with Disabilities
   * Topic: Scope of Web Accessibility &mdash: Introduce the definition and scope of web accessibility. Present common terminology.
-* [Unit 2: People and access technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features, barriers, presents some adaptive strategies and assistive tools and intr.
+* [Unit 2: People and access technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduce the components of web accessibility.
   * Topic: Diverse Abilities, Tools and Strategies 
   * Topic: Components of Web Accessibility .
 * [Unit 3: Business case for accessibility]({{ "/curricula/1-3/" | relative_url}} ) &mdash; Introduces the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
