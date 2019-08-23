@@ -42,9 +42,9 @@ Examples of usage scenarios include the following:
 
 Some of the potential audiences that the curricula address could include:
 
-* Non-technical authors (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles)  - Content Creation)
+* Non-technical authors (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation)
 * Managers (aligns with [ARRM Management Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles))
-* Designers (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) - UI/UX Design)
+* Designers (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design)
 * Developers (aligns with [ARRM Implementation Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles))
 * QA Testers (aligns with [ARRM Testing Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles))
 * Procurement
