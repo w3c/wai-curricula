@@ -73,9 +73,9 @@ Some of the potential audiences that the curricula address could include:
 [Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
 : Lists many types of audiences and why they may want to use the guidelines
 
-tEntire [WAI website](htps://www.w3.org/WAI/)
+Entire [WAI website](htps://www.w3.org/WAI/)
 : Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
 
-## Acknowledgements ##
+## Acknowledgments ##
 
 This work is supported by the EC-funded [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/).
