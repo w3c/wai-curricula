@@ -17,7 +17,11 @@ navigation:
 
 ## Introduction
 
-This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web. The suggested duration for courses following this module is 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments. This module addresses the following learning objectives:
+This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web.
+
+The suggested duration for courses following this module is 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments.
+
+This module addresses the following learning objectives:
 
 * Understanding the scope and relevance of web accessibility
 * Appreciation for how people with disabilities use the Web
@@ -27,23 +31,23 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 * Ability to carry out preliminary accessibility evaluation
 * Understanding of how to plan for and manage implementation
 
-**Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. It is recommended to tailor examples, activities, and assessments to your particular audience.
+**Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience.
 
-## Units in this module
+## Units in this Module
 
-* [Unit 1: What is web accessibility]({{ "/curricula/1-1/" | relative_url }}) — Introduces stories of people with disabilities, Provides a definition and scope of web accessibility and introduces its inter-relations with other disciplines.
+* [Unit 1: What is web accessibility]({{ "/curricula/1-1/" | relative_url }}) — Introduces stories of people with disabilities, provides a definition and scope of web accessibility, and introduces its interrelations with other disciplines.
   * Topic: Stories of People with Disabilities
   * Topic: Scope of Web Accessibility
-* [Unit 2: People and access technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduce the components of web accessibility.
+* [Unit 2: People and Access Technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
   * Topic: Diverse Abilities, Tools and Strategies 
   * Topic: Components of Web Accessibility
-* [Unit 3: Business case for accessibility]({{ "/curricula/1-3/" | relative_url}} ) &mdash; Introduces the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
-  * Topic: Social Benefits
+* [Unit 3: Business Case and Benefits]({{ "/curricula/1-3/" | relative_url}} ) &mdash; Introduces the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
+  * Topic: Accessibility as a Drive for Innovation
   * Topic: Broader Benefits of Accessibility
-  * Topic: Legal and Policy Aspects
-* [Unit 4: Web Accessibility Standards]({{ "/curricula/1-4/" | relative_url}} ) — Provides an overview on the international accessibility standards and guidelines from the W3C Web Accessibility Initiative (WAI), including the W3C Web Content Accessibility Guidelines (WCAG), and how these are developed.
-  * Topic: Standards and Guidelines 
+  * Topic: Minimizing Legal Risk
+* [Unit 4: Web Accessibility Standards]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Relate these to First Accessibility Checks.
   * Topic: Principles of Accessible design 
+  * Topic: Standards and Guidelines 
   * Topic: First Checks for Web Accessibility
 * [Unit 5: Applying and managing accessibility]({{ "/curricula/1-5/" | relative_url}} ) &mdash; provides an overview on  organizational planning and managing considerations to ensure accessibility as part of the process, and on different accessibility roles and responsibilities involved throughout the design and development process.
   * Topic: Planning and Managing Web Accessibility
