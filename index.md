@@ -15,13 +15,11 @@ navigation:
   next: /curricula/introduction/
 ---
 
-## Objective ##
+## Introduction ##
 
-The objective of this resource is to provide a set of role-based curricula for web accessibility. A curriculum defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge. Each teaching unit describes the goals, learning objectives, teaching materials, proposed teaching and assessment methods, and other aspects. '''Educators may use this resource''' to develop online and in-class courses. They may follow entire curricula or use only parts, to create custom courses for their particular needs.
+This resource  provides a set of role-based curricula for web accessibility. A curriculum defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge. Each teaching unit describes the goals, learning outcomes; teaching, homework, and assessment ideas; and proposed teaching resources. ***Educators may use this resource*** to develop online and in-class courses. They may follow entire curricula or use only parts, to create custom courses for their particular needs.
 
-''Note:'' This is not a self-study course.
-
-## Curricula Audience ##
+## Audience ##
 
 Primary audience of this resource is any educator -- someone who provides formal or informal training. Examples include:
 
@@ -30,8 +28,6 @@ Primary audience of this resource is any educator -- someone who provides formal
 * Manager responsible for acquiring courses or establishing training
 
 The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.
-
-**Out of scope:** Someone wants to learn about web accessibility. They may be able to benefit from this resource as an outline for self-tuition, but they are not the primary audience for this particular resource (hopefully many good courses will result from this resource).
 
 ### Example Scenarios ###
 
@@ -46,9 +42,9 @@ Examples of usage scenarios include the following:
 
 Some of the potential audiences that the curricula address could include:
 
-* Non-technical authors (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles)  - Content Creation)
+* Non-technical authors (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation)
 * Managers (aligns with [ARRM Management Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles))
-* Designers (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) - UI/UX Design)
+* Designers (aligns with [ARRM Design Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design)
 * Developers (aligns with [ARRM Implementation Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles))
 * QA Testers (aligns with [ARRM Testing Roles](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles))
 * Procurement
@@ -68,15 +64,18 @@ Some of the potential audiences that the curricula address could include:
 
 ## Related Resources ##
 
-* [**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
-	* Serves a similar purpose and contains useful "topics" that could be turned into "teaching units". It may be replaced by these new resources, fully or in-part.
-* [Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/RA11y_Matrix)
-	* Provides useful definition of potential roles and mapping to specific accessibility roles, responsibilities, and criteria
-* [Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
-	* Lists many types of audiences and why they may want to use the guidelines
-* Entire [WAI website](htps://www.w3.org/WAI/)
-	* Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
+[**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
+: Serves a similar purpose and contains useful "topics" that could be turned into "teaching units". It may be replaced by these new resources, fully or in-part.
 
-## Acknowledgements ##
+[Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/RA11y_Matrix)
+: Provides useful definition of potential roles and mapping to specific accessibility roles, responsibilities, and criteria
+
+[Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
+: Lists many types of audiences and why they may want to use the guidelines
+
+Entire [WAI website](htps://www.w3.org/WAI/)
+: Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
+
+## Acknowledgments ##
 
 This work is supported by the EC-funded [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/).
