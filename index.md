@@ -27,11 +27,11 @@ The delivery of courses based on these curricula can be any combinations of in-c
 
 Some of the potential students of courses based on this curricula are:
 
-* [Non-technical authors](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation)
-* [Managers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles))
-* [Designers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design)
-* [Developers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles))
-* [QA Testers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles))
+* [Non-technical authors](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation
+* [Managers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles)
+* [Designers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design
+* [Developers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles)
+* [QA Testers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles)
 * Procurement
 * Management/Leadership:
   * Executives
@@ -50,7 +50,7 @@ Some of the potential students of courses based on this curricula are:
 ## Related Resources ##
 
 [**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
-: Serves a similar purpose and contains useful "topics" that could be turned into "teaching units".
+: Serves a similar purpose and contains useful"topics" that could be turned into "teaching units".
 
 [Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/RA11y_Matrix)
 : Provides useful definition of potential roles and mapping to specific accessibility roles, responsibilities, and criteria
