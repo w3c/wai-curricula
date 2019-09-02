@@ -23,13 +23,13 @@ The suggested duration for courses following this module is 12-14 hours, dependi
 
 This module addresses the following learning objectives:
 
-* Understanding the scope and relevance of web accessibility
-* Appreciation for how people with disabilities use the Web
-* Understanding of accessibility features and design barriers
-* Awareness about business case benefits of web accessibility
-* Knowledge about web accessibility standards and guidelines
-* Ability to carry out preliminary accessibility evaluation
-* Understanding of how to plan for and manage implementation
+* Defining the scope and relevance of web accessibility
+* Explaining how people with disabilities use the Web
+* Describing some accessibility features and design barriers
+* Listing business case benefits of web accessibility
+* Listing web accessibility standards and guidelines
+* Carrying out preliminary accessibility evaluation
+* Describing how to plan for and manage implementation
 
 **Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience.
 
