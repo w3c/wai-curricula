@@ -21,8 +21,6 @@ exclude:
   - "Gemfile.lock"
   - "README.md"
   - "w3c.json"
-  - "package.json"
-  - "package-lock.json"
 
 # Build settings
 markdown: kramdown
@@ -36,25 +34,29 @@ repository: w3c/wai-curricula
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
 remote_theme: w3c/wai-website-theme
-#theme: wai-website-theme
 
 collections:
-  # older-users:
-  #   area: "Plan & Manage"
-  #   name: "Older Users"
-  #   shortname: "Older Users"
-  #   icon: "book" # TODO
-  #   repostitory: w3c/wai-older-users
-  #   output: true
-  #   acknowledgements: false
-  #   permalink: /:collection/:path/
+#  business-case:
+#    area: "Plan & Manage"
+#    name: "Business Case"
+#    shortname: "Business Case"
+#    icon: "book" # TODO
+#    repostitory: w3c/wai-bcase
+#    output: true
+#    acknowledgements: false
+#    permalink: /:collection/:path/
 
 defaults:
-  # -
-  #   scope:
-  #     path: "_older-users"
-  #   values:
-  #     layout: "sidenav"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+#  -
+#    scope:
+#      path: "_business-case"
+#    values:
+#      layout: "sidenav"
 
 plugins:
   - jekyll-seo-tag
@@ -63,4 +65,3 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-remote-theme
-  - wai-website-plugin

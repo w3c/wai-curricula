@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+gem 'github-pages', versions['github-pages']
 gem 'jekyll-github-metadata'
 gem 'jekyll-relative-links'
 gem 'jekyll-seo-tag'
@@ -8,6 +12,5 @@ gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-include-cache'
 gem 'jekyll-remote-theme'
+gem 'jekyll-paginate'
 gem 'wai-website-plugin'
-#gem 'wai-website-theme'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
