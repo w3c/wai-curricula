@@ -48,7 +48,7 @@ This module addresses the following learning objectives:
 * [Unit 4: Principles, Guidelines, and Checks]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provide on hands-on experience checking how web pages have implemented the standards or not.
   * Topic: Principles of Web Accessibility
   * Topic: Guidelines and Other Standards
-  * Topic: First Checks for Web Accessibility
+  * Topic: Hands-on Experience of Standards in Practice
 * [Unit 5: Applying and managing accessibility]({{ "/curricula/1-5/" | relative_url}} ) &mdash; provides an overview on  organizational planning and managing considerations to ensure accessibility as part of the process, and on different accessibility roles and responsibilities involved throughout the design and development process.
   * Topic: Planning and Managing Web Accessibility
   * Topic: Developing Policies and Statements
