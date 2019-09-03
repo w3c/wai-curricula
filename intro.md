@@ -45,7 +45,7 @@ This module addresses the following learning objectives:
   * Topic: Accessibility as a Drive for Innovation
   * Topic: Broader Benefits of Accessibility
   * Topic: Minimizing Legal Risk
-* [Unit 4: Web Accessibility Standards]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Relate these to First Accessibility Checks.
+* [Unit 4: Standards and Guidelines]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Relate these to First Accessibility Checks.
   * Topic: Principles of Accessible design 
   * Topic: Standards and Guidelines 
   * Topic: First Checks for Web Accessibility
