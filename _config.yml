@@ -65,3 +65,4 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-remote-theme
+  - wai-website-plugin
