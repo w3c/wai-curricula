@@ -43,14 +43,15 @@ This resource addresses the following roles:
 
 ## Draft Outline
 
-### Module 1: Intoroduction to Web Accessibility
+### Module 1: Introduction to Web Accessibility
 
 {::nomarkdown}
 {% include outline-module-1.html %}
 {:/}
 
-Future modules tailored 
-to specific audiences and contexts will be developed during 2020 and 2021.
+# Future modules
+
+They will tailor specific audiences and contexts. They will be developed during 2020 and 2021. The following is a draft outline.
 
 
 
