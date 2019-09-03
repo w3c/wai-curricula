@@ -23,13 +23,13 @@ The suggested duration for courses following this module is 12-14 hours, dependi
 
 This module addresses the following learning objectives:
 
-* Understanding the scope and relevance of web accessibility
-* Appreciation for how people with disabilities use the Web
-* Understanding of accessibility features and design barriers
-* Awareness about business case benefits of web accessibility
-* Knowledge about web accessibility standards and guidelines
-* Ability to carry out preliminary accessibility evaluation
-* Understanding of how to plan for and manage implementation
+* Defining the scope and relevance of web accessibility
+* Explaining how people with disabilities use the Web
+* Describing some accessibility features and design barriers
+* Listing business case benefits of web accessibility
+* Listing web accessibility standards and guidelines
+* Carrying out preliminary accessibility evaluation
+* Describing how to plan for and manage implementation
 
 **Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience.
 
@@ -45,10 +45,10 @@ This module addresses the following learning objectives:
   * Topic: Accessibility as a Drive for Innovation
   * Topic: Broader Benefits of Accessibility
   * Topic: Minimizing Legal Risk
-* [Unit 4: Standards and Guidelines]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Relate these to First Accessibility Checks.
-  * Topic: Principles of Accessible design 
-  * Topic: Standards and Guidelines 
-  * Topic: First Checks for Web Accessibility
+* [Unit 4: Principles, Guidelines, and Checks]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provide on hands-on experience checking how web pages have implemented the standards or not.
+  * Topic: Principles of Web Accessibility
+  * Topic: Guidelines and Other Standards
+  * Topic: Hands-on Experience of Standards in Practice
 * [Unit 5: Applying and managing accessibility]({{ "/curricula/1-5/" | relative_url}} ) &mdash; provides an overview on  organizational planning and managing considerations to ensure accessibility as part of the process, and on different accessibility roles and responsibilities involved throughout the design and development process.
   * Topic: Planning and Managing Web Accessibility
   * Topic: Developing Policies and Statements
