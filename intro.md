@@ -35,23 +35,7 @@ This module addresses the following learning objectives:
 
 ## Units in this Module
 
-* [Unit 1: What is web accessibility]({{ "/curricula/1-1/" | relative_url }}) — Introduces stories of people with disabilities, provides a definition and scope of web accessibility, and introduces its interrelations with other disciplines.
-  * Topic: Stories of People with Disabilities
-  * Topic: Scope of Web Accessibility
-* [Unit 2: People and Access Technology]({{ "/curricula/1-2/" | relative_url}} ) &mdash; introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
-  * Topic: Diverse Abilities, Tools and Strategies 
-  * Topic: Components of Web Accessibility
-* [Unit 3: Business Case and Benefits]({{ "/curricula/1-3/" | relative_url}} ) &mdash; Introduces the business case for web accessibility, including social, technical, financial, and legal aspects, as well as the broader benefits of accessibility for most users of the Web.
-  * Topic: Accessibility as a Drive for Innovation
-  * Topic: Broader Benefits of Accessibility
-  * Topic: Minimizing Legal Risk
-* [Unit 4: Standards and Guidelines]({{ "/curricula/1-4/" | relative_url}} ) — Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Relate these to First Accessibility Checks.
-  * Topic: Principles of Accessible design 
-  * Topic: Standards and Guidelines 
-  * Topic: First Checks for Web Accessibility
-* [Unit 5: Applying and managing accessibility]({{ "/curricula/1-5/" | relative_url}} ) &mdash; provides an overview on  organizational planning and managing considerations to ensure accessibility as part of the process, and on different accessibility roles and responsibilities involved throughout the design and development process.
-  * Topic: Planning and Managing Web Accessibility
-  * Topic: Developing Policies and Statements
-  * Topic: Roles and Responsibilities
-  * Topic: Accessibility in an Existing Project 
+{::nomarkdown}
+{% include outline-module-1.html %}
+{:/}
 
