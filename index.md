@@ -15,7 +15,7 @@ navigation:
   next: /curricula/introduction/
 ---
 
-## Introduction ##
+## Introduction
 
 This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge.
 
@@ -23,9 +23,9 @@ Each teaching unit describes the goals, learning outcomes; teaching, homework, a
 
 The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training. You may follow entire curricula or use only parts, to create custom courses for your particular needs.
 
-## Potential Roles to Address ##
+## Roles to Address
 
-Some of the potential students of courses based on this curricula are:
+This resource addresses the following roles:
 
 * [Non-technical authors](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation
 * [Managers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles)
@@ -41,13 +41,25 @@ Some of the potential students of courses based on this curricula are:
 * Users
 * Business Analysts
 
-## Draft Outline ##
+## Draft Outline
+
+### Module 1: Introduction to Web Accessibility
 
 {::nomarkdown}
-{% include outline.html %}
+{% include outline-module-1.html %}
 {:/}
 
-## Related Resources ##
+# Future modules
+
+They will tailor specific audiences and contexts. They will be developed during 2020 and 2021. The following is a draft outline.
+
+
+
+{::nomarkdown}
+{% include outline-future-modules.html %}
+{:/}
+
+## Related Resources
 
 [**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
 : Serves a similar purpose and contains useful"topics" that could be turned into "teaching units".
