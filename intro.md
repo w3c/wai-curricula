@@ -23,15 +23,15 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 The duration for courses following this module is approximately 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments.
 
-This module addresses the following learning objectives:
+## Aims of this module
 
-* Defining the scope and relevance of web accessibility
-* Explaining how people with disabilities use the Web
-* Describing some accessibility features and design barriers
-* Listing business case benefits of web accessibility
-* Listing web accessibility standards and guidelines
-* Carrying out preliminary accessibility evaluation
-* Describing how to plan for and manage implementation
+* Explain how people with disabilities use the Web.
+* Define the scope and relevance of web accessibility.
+* Describe some accessibility features and design barriers.
+* List business case benefits of web accessibility.
+* List web accessibility standards and guidelines.
+* Carry out preliminary accessibility evaluation.
+* Describe how to plan for and manage implementation.
 
 **Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience.
 
