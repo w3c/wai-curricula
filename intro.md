@@ -21,7 +21,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 ## Duration
 
-The duration for courses following this module is approximately 12-14 hours, depending on interaction with learners, activities and exercises, and knowledge assessments.
+The duration for courses following this module is approximately 12-14 hours, depending on interaction with students, activities and exercises, and knowledge assessments.
 
 ## Aims of this module
 
