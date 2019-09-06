@@ -235,9 +235,9 @@
         url: "/curricula/1-2/"
       - name: "Business Case and Benefits"
         url: "/curricula/1-3/"
-      - name: "Standards and Guidelines"
+      - name: "Principles, Standards and Checks"
         url: "/curricula/1-4/"
-      - name: "Applying and Managing Accessibility"
+      - name: "Getting Started with Accessibility"
         url: "/curricula/1-5/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
