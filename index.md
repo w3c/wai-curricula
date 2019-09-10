@@ -16,6 +16,7 @@ navigation:
 ---
 
 ## Introduction
+{:.no-display}
 
 This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge.
 

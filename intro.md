@@ -16,6 +16,7 @@ navigation:
 ---
 
 ## Introduction
+{:.no-display}
 
 This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any learner with basic understanding of computers and the Web.
 
