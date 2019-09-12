@@ -22,7 +22,7 @@ This resource provides a set of role-based curricula for web accessibility. It d
 
 ## Goal
 
-These curricula addresses vocational training and academic studies. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You may follow entire curricula or use only parts, to create custom courses for your particular needs.
+These curricula addresses any type of training. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You may follow entire curricula or use only parts, to create custom courses for your particular needs.
 
 ## Structure
 
