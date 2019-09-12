@@ -20,9 +20,37 @@ navigation:
 
 This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge.
 
-Each teaching unit describes the goals, learning outcomes; teaching, homework, and assessment ideas; and proposed teaching resources.
+## Goal
 
-The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training. You may follow entire curricula or use only parts, to create custom courses for your particular needs.
+These curricula addresses vocational training and academic studies. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You may follow entire curricula or use only parts, to create custom courses for your particular needs.
+
+## Structure
+
+Each teaching unit describes its purpose; learning outcomes; teaching, homework, and assessment ideas; and proposed teaching resources. The following is a list of the current items in the units, and an explanation of its main purpose.
+
+### Introduction
+
+Describes the objectives of the unit and sets the foundations for the rest of the contents in the unit. 
+
+### Learning Outcomes
+
+Describe what the students need to know after completion of the unit. This is the essential part of the curricula.
+
+### Teaching Ideas
+
+Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+
+### Homework Ideas
+
+Describe a variety of activities that students can carry out to practice the learning outcomes. They can also serve as a guide for instructors to refine their teaching process. They are related to what is called formative assessment. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+
+### Ideas for Assessment
+
+Describe a variety of activities that instructors can carry out to assess the performance of students. They are related to what is called summative assessment. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+
+### Teaching Resources
+
+Propose a list of resources that can be used to teach the contents in the units. It is advisable that you use them as a starting point to build the course, but you can extend the list as you think is best to achieve your particular goals. 
 
 ## Roles to Address
 
@@ -71,7 +99,7 @@ They will tailor specific audiences and contexts. They will be developed during 
 [Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
 : Lists many types of audiences and why they may want to use accessibility guidelines
 
-Entire [WAI website](htps://www.w3.org/WAI/)
+Entire [WAI website](https://www.w3.org/WAI/)
 : Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
 
 ## Acknowledgments ##
