@@ -20,9 +20,7 @@ navigation:
 
 This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge.
 
-## Goal
-
-These curricula addresses any type of training. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You may follow entire curricula or use only parts, to create custom courses for your particular needs.
+These curricula addresses any type of training. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You can use the materials of these curricula in their entirety or only those that best apply to your audience and context.
 
 ## Structure
 
@@ -38,19 +36,19 @@ Describe what the students need to know after completion of the unit. This is th
 
 ### Teaching Ideas
 
-Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
 
 ### Homework Ideas
 
-Describe a variety of activities that students can carry out to practice the learning outcomes. They can also serve as a guide for instructors to refine their teaching process. They are related to what is called formative assessment. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+Describe a variety of activities that students can carry out to try their acquired knowledge. They can also serve as a guide for instructors to refine their teaching process. They relate to formative assessment. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
 
 ### Ideas for Assessment
 
-Describe a variety of activities that instructors can carry out to assess the performance of students. They are related to what is called summative assessment. These are not compulsory, neither they have to follow a specific order. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+Describe a variety of activities that instructors can carry out to assess students' performance. They relate to summative assessment. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
 
 ### Teaching Resources
 
-Propose a list of resources that can be used to teach the contents in the units. It is advisable that you use them as a starting point to build the course, but you can extend the list as you think is best to achieve your particular goals. 
+Introduce resources to teach the contents in the units. It is advisable that you use them as a starting point to build the course, but you can extend the list as needed to achieve your particular goals. 
 
 ## Roles to Address
 
@@ -87,20 +85,6 @@ They will tailor specific audiences and contexts. They will be developed during 
 {::nomarkdown}
 {% include outline-future-modules.html %}
 {:/}
-
-## Related Resources
-
-[**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
-: Serves a similar purpose and contains useful"topics" that could be turned into "teaching units".
-
-[Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/RA11y_Matrix)
-: Provides useful definition of potential roles and mapping to specific accessibility roles, responsibilities, and criteria
-
-[Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
-: Lists many types of audiences and why they may want to use accessibility guidelines
-
-Entire [WAI website](https://www.w3.org/WAI/)
-: Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
 
 ## Acknowledgments ##
 
