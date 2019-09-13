@@ -1,5 +1,5 @@
 ---
-title: "Web Accessibility Curricula"
+title: "Web Accessibility Curricula: A Framework to Build Your Own Courses"
 permalink: /curricula/
 ref: /curricula/
 lang: en
