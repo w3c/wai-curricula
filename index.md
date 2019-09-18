@@ -24,11 +24,11 @@ These curricula addresses any type of training. The delivery of courses based on
 
 ## Structure
 
-Each teaching unit describes its purpose; learning outcomes; teaching, and assessment ideas; and suggested teaching resources. The following is a list of the current items in the units, and an explanation of its main purpose.
+Each teaching unit describes its purpose; learning outcomes; teaching, and assessment ideas; and suggested teaching resources. The following is a list of the current items in the units, and an explanation of their main purpose.
 
 ### Introduction
 
-Describes the objectives of the unit and sets the foundations for the rest of the contents in the unit. 
+Describes the objectives and sets the foundations for the rest of the contents in the unit. 
 
 ### Learning Outcomes
 
