@@ -32,7 +32,7 @@ Describes the objectives and sets the foundations for the rest of the contents i
 
 ### Learning Outcomes
 
-Describe what the students need to know after completion of the unit. This is the essential part of the curricula.
+Describe what the students need to know after completion of the unit. This is the core of the curricula.
 
 ### Teaching Ideas
 
