@@ -21,7 +21,7 @@ navigation:
 
 This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the learning outcomes.
 
-These curricula addresses any type of training. The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training.  You can use the materials of these curricula in their entirety or only those that best apply to your audience and context.
+You can use these curricula to build courses for formal, informal, guided, non-guided, or vocational training. You can use the materials of these curricula in their entirety or only those that best apply to your audience and context.
 
 ## Structure
 
