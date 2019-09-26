@@ -226,7 +226,7 @@
   - name: "Curricula"
     url: "/curricula/"
     pages:
-    - name: "Introduction"
+    - name: "Introduction to Web Accessibility"
       url: "/curricula/introduction/"
       pages:
       - name: "What is Web Accessibility"
