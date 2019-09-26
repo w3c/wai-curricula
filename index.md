@@ -10,7 +10,7 @@ github:
 footer: >
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
-  <p><strong>Editors:</strong><a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and Daniel Montalvo. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   next: /curricula/introduction/
@@ -19,9 +19,9 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the learning outcomes.
+This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes, and teaching and assessment ideas, to help you design online and in-class courses.
 
-You can use these curricula to build courses for formal, informal, guided, non-guided, or vocational training. You can use the materials of these curricula in their entirety or only those that best apply to your audience and context.
+You can use these curricula for formal, informal, guided, non-guided, and vocational training. You can also use these curricula to assess and compare course offerings.
 
 ## Structure
 
@@ -49,42 +49,10 @@ Describe a variety of activities that instructors can carry out to assess studen
 
 Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
 
-## Roles to Address
+# Curricula Modules
 
-This resource addresses the following roles:
-
-* [Non-technical authors](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation
-* [Managers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles)
-* [Designers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design
-* [Developers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles)
-* [QA Testers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles)
-* Procurement
-* Management/Leadership:
-  * Executives
-  * Human Resources
-  * Legal/Compliance
-* Advocates
-* Users
-* Business Analysts
-
-## Draft Outline
-
-### Module 1: Introduction to Web Accessibility
-
-{::nomarkdown}
-{% include outline-module-1.html %}
-{:/}
-
-# Future modules
-
-They will tailor specific audiences and contexts. They will be developed during 2020 and 2021. The following is a draft outline.
-
-
+Currently on the "Introduction to Web Accessibility" module is drafted. Further modules are planned.
 
 {::nomarkdown}
 {% include outline-future-modules.html %}
 {:/}
-
-## Acknowledgments ##
-
-This work is supported by the EC-funded [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/).
