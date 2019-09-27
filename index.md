@@ -25,29 +25,16 @@ You can use these curricula for formal, informal, guided, non-guided, and vocati
 
 ## Structure
 
-Each teaching unit describes its purpose, presents a set of learning outcomes; teaching and assessment ideas; and suggested teaching resources. In addition, each unit contains a set of topics to help you better structure the contents of the course.
-
 The following is a list of the current items in the units, and an explanation of their main purpose.
 
-### Introduction
-
-Describes the objectives and sets the foundations for the rest of the contents in the unit. 
-
-### Learning Outcomes
-
-Describe what the students need to know after completion of the unit. This is the core of the curricula.
-
-### Teaching Ideas
-
-Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
-
-### Ideas for Assessment
-
-Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
-
-### Teaching Resources
-
-Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
+* Module &mdash; Stands for a specific urriculum. It addresses one or moreaudiences and contains a set of units and topics.
+* Unit &mdash; 
+* Topic &mdash; 
+* Introduction &mdash; Describes the objectives and sets the foundations for the rest of the contents in the unit. 
+* Learning Outcomes &mdash; Describe what the students need to know after completion of the unit. This is the core of the curricula.
+* Teaching Ideas &mdash; Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+* Ideas for Assessment &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+* Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
 
 # Curricula Modules
 
