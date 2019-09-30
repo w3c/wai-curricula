@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes, and teaching and assessment ideas, to help you design online and in-class courses.
+This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes as well as ideas to teach and assess, to help you design online and in-class courses.
 
 You can use these curricula for formal, informal, guided, non-guided, and vocational training. You can also use these curricula to assess and compare course offerings.
 
@@ -27,18 +27,18 @@ You can use these curricula for formal, informal, guided, non-guided, and vocati
 
 The following is a list of the current items in the units, and an explanation of their main purpose.
 
-* Module &mdash; Stands for a specific urriculum. It addresses one or moreaudiences and contains a set of units and topics.
-* Unit &mdash; 
-* Topic &mdash; 
+* Modules &mdash; Stand for a specific curriculum. They address one or more audiences and contain a set of units.
+* Units &mdash; Stand for a specific block of content. They define the learning outcomes, a set of topics to teach, ideas to assess knowledge and a number of teaching resources.
 * Introduction &mdash; Describes the objectives and sets the foundations for the rest of the contents in the unit. 
 * Learning Outcomes &mdash; Describe what the students need to know after completion of the unit. This is the core of the curricula.
+* Topics &mdash; stand for specific pieces of content within the units. They also expand the learning outcomes, teaching ideas and ideas to assess knowledge.
 * Teaching Ideas &mdash; Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
-* Ideas for Assessment &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+* Ideas to Assess Knowledge &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
 * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
 
 # Curricula Modules
 
-Currently on the "Introduction to Web Accessibility" module is drafted. Further modules are planned.
+Module 1, ["Introduction to Web Accessibility"](/curricula/intorduction-to-web-accessibility) is currently drafted. Future modules are planned.
 
 {::nomarkdown}
 {% include outline-future-modules.html %}
