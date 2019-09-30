@@ -1,6 +1,6 @@
 ---
-title: "Web Accessibility Curricula: A Framework to Build Your Own Courses"
-title_html: "Web Accessibility Curricula: <br><small>A Framework to Build Your Own Courses</small>"
+title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
+title_html: "Curricula on Web Accessibility: <br><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -13,7 +13,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  next: /curricula/introduction/
+  next: /curricula/introduction-to-web-accessibility/
 ---
 
 ## Introduction
