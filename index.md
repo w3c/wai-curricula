@@ -21,7 +21,7 @@ navigation:
 
 This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes as well as ideas to teach and assess knowledge, to help you design online and in-class courses.
 
-You can use these curricula for formal, informal, guided, non-guided, and vocational training. You can also use these curricula to assess and compare course offerings.
+You can use these curricula for formal, informal, guided, non-guided, and vocational training, as well as to assess and compare course offerings.
 
 ## Structure
 
