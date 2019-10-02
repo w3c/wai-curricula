@@ -1,5 +1,6 @@
 ---
-title: "Curricula on Web Accessibility"
+title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
+title_html: "Curricula on Web Accessibility: <br><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -9,7 +10,7 @@ github:
 footer: >
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
-  <p><strong>Editors:</strong><a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and Daniel Montalvo. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   next: /curricula/introduction-to-web-accessibility/
@@ -18,62 +19,27 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula for web accessibility. It defines the competences and skills for each role, and outlines a set of modules and teaching units to achieve the required knowledge.
+This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes as well as ideas to teach and assess knowledge, to help you design online and in-class courses.
 
-Each teaching unit describes the goals, learning outcomes; teaching, homework, and assessment ideas; and proposed teaching resources.
+You can use these curricula for formal, informal, guided, non-guided, and vocational training. You can also use these curricula to assess and compare course offerings.
 
-The delivery of courses based on these curricula can be any combinations of in-class, online, and in-house training. You may follow entire curricula or use only parts, to create custom courses for your particular needs.
+## Structure
 
-## Roles to Address
+Each curriculum has the following items:
 
-This resource addresses the following roles:
+* Modules &mdash; Stand for a specific curriculum. They address one or more audiences and contain a set of units.
+  * Units &mdash; Stand for a specific block of content. They define the learning outcomes, a set of topics to teach, ideas to assess knowledge and a number of teaching resources.
+    * Introduction &mdash; Describes the objectives and sets the foundations for the rest of the contents in the unit. 
+    * Learning Outcomes &mdash; Describe what the students need to know after completion of the unit. This is the core of the curricula.
+    * Topics &mdash; stand for specific pieces of content within the units. They also expand the learning outcomes, teaching ideas and ideas to assess knowledge.
+    * Teaching Ideas &mdash; Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+    * Ideas to Assess Knowledge &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
+    * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
 
-* [Non-technical authors](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- Content Creation
-* [Managers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Management_Roles)
-* [Designers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Design_Roles) -- UI/UX Design
-* [Developers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Implementation_Roles)
-* [QA Testers](https://www.w3.org/WAI/EO/wiki/Role_definition_document#Testing_Roles)
-* Procurement
-* Management/Leadership:
-  * Executives
-  * Human Resources
-  * Legal/Compliance
-* Advocates
-* Users
-* Business Analysts
+# Curricula Modules
 
-## Draft Outline
-
-### Module 1: Introduction to Web Accessibility
-
-{::nomarkdown}
-{% include outline-module-1.html %}
-{:/}
-
-# Future modules
-
-They will tailor specific audiences and contexts. They will be developed during 2020 and 2021. The following is a draft outline.
-
-
+Module 1, ["Introduction to Web Accessibility"](/curricula/introduction-to-web-accessibility) is currently drafted. Future modules are planned to address specific audiences.
 
 {::nomarkdown}
 {% include outline-future-modules.html %}
 {:/}
-
-## Related Resources
-
-[**Developing Web Accessibility Presentations and Training**](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
-: Serves a similar purpose and contains useful"topics" that could be turned into "teaching units".
-
-[Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/RA11y_Matrix)
-: Provides useful definition of potential roles and mapping to specific accessibility roles, responsibilities, and criteria
-
-[Stakeholder Roles](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Job_Stories_for_Stakeholders)
-: Lists many types of audiences and why they may want to use accessibility guidelines
-
-Entire [WAI website](htps://www.w3.org/WAI/)
-: Tutorials, Easy Checks, BAD, Perspectives Videos, Getting Started Tips, Business Case, Planning and Managing, etc. are all potential teaching materials.
-
-## Acknowledgments ##
-
-This work is supported by the EC-funded [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/).
