@@ -23,6 +23,8 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 ## Aims of this module
 
+After completion of this module, students should be able to:
+
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
 * Describe some accessibility features and barriers.
