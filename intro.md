@@ -25,7 +25,7 @@ This WAI Curriculum module provides a general introduction to web accessibility.
 
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
-* Describe some accessibility features and design barriers.
+* Describe some accessibility features and barriers.
 * List business case benefits of web accessibility.
 * List web accessibility standards and guidelines.
 * Carry out preliminary accessibility evaluation.
