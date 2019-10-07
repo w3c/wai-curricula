@@ -26,8 +26,8 @@ The aims of this module are to:
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
 * Describe some accessibility features and barriers.
-* List business case benefits of web accessibility.
-* List web accessibility standards and guidelines.
+* Introduce business case benefits of web accessibility.
+* Introduce web accessibility standards and guidelines.
 * Carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
