@@ -34,7 +34,7 @@ Each curriculum has the following items:
     * Topics &mdash; Stand for specific pieces of content within the units. They also expand the learning outcomes, teaching ideas and ideas to assess knowledge.
     * Teaching Ideas &mdash; Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
     * Ideas to Assess Knowledge &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
-    * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. 
+    * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. Some of these are linked through the curricula contents, some others can serve as further readings for you and your students.
 
 # Curricula Modules
 
