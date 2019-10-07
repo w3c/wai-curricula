@@ -28,7 +28,7 @@ You can use these curricula for formal, informal, guided, non-guided, and vocati
 Each curriculum has the following items:
 
 * Modules &mdash; Stand for a specific curriculum. They address one or more audiences and contain a set of units.
-  * Units &mdash; Stand for a specific block of content. They define the learning outcomes, a set of topics to teach, ideas to assess knowledge and a number of teaching resources.
+  * Units &mdash; Stand for a specific block of content. They define the learning outcomes, a set of topics to teach, ideas to assess knowledge, and a number of teaching resources. You might need to spend different amounts of time for each unit. Adapt the duration of each unit and topic to your particular context.
     * Introduction &mdash; Describes the objectives and sets the foundations for the rest of the contents in the unit. 
     * Learning Outcomes &mdash; Describe what the students need to know after completion of the unit. This is the core of the curricula.
     * Topics &mdash; Stand for specific pieces of content within the units. They also expand the learning outcomes, teaching ideas and ideas to assess knowledge.
