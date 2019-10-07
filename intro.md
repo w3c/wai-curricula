@@ -28,7 +28,7 @@ The aims of this module are to:
 * Describe some accessibility features and barriers.
 * Introduce business case benefits of web accessibility.
 * Introduce web accessibility standards and guidelines.
-* Carry out preliminary accessibility evaluation.
+* Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
 **Note:** This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience.
