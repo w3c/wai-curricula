@@ -31,11 +31,7 @@ The aims of this module are to:
 * Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
-
-
-## Duration
-
-This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor examples, activities, and assessments to your particular audience. We will provide possible scenarios with estimated duration in an apendix with further guidance.
+This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor duration, examples, activities, and assessments to your particular audience.
 
 ## Units in this Module
 
