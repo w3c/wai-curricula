@@ -36,7 +36,7 @@ Each curriculum has the following items:
     * Ideas to Assess Knowledge &mdash; Describe a variety of activities that instructors can carry out to assess students' performance. These are not compulsory. You can adapt them to your particular needs, remove some of them or add new ones if necessary.
     * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. Some of these are linked through the curricula contents, some others can serve as further readings for you and your students.
 
-# Curricula Modules
+## Curricula Modules
 
 Module 1, ["Introduction to Web Accessibility"](/curricula/introduction-to-web-accessibility) is currently drafted. Future modules are planned to address specific audiences.
 
