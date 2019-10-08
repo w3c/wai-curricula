@@ -38,8 +38,6 @@ Each curriculum has the following items:
 
 ## Curricula Modules
 
-Module 1, ["Introduction to Web Accessibility"](/curricula/introduction-to-web-accessibility) is currently drafted. Future modules are planned to address specific audiences.
-
 {::nomarkdown}
 {% include outline-future-modules.html %}
 {:/}
