@@ -1,5 +1,5 @@
 ---
-title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
+title: "[Draft] Curricula on Web Accessibility: A Framework to Build Your Own Courses"
 title_html: "Curricula on Web Accessibility: <br><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
