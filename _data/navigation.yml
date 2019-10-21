@@ -13,7 +13,7 @@
     # zh-hans: '辅助功能基础知识'
   pages:
   - name: Introduction to Accessibility
-    url: "/fundamentals/accessibility-intro/"
+    url: "/WAI/fundamentals/accessibility-intro/"
     pages:
     - name:
         en: 'Video Introduction'
@@ -21,7 +21,7 @@
         fr: 'Vidéo : introduction'
         es: 'Vídeo de Introducción'
         nl: 'Video-introductie'
-      url: /videos/standards-and-benefits/
+      url: /WAI/videos/standards-and-benefits/
       pages:
       - name:
           en: Changelog
@@ -31,61 +31,61 @@
           zh-hans: '修改日志'
           fr: 'Changements'
           es: 'Registro de cambios'
-        url: /videos/standards-and-benefits/changelog/
+        url: /WAI/videos/standards-and-benefits/changelog/
         hide: true
   - name: Components of Web Accessibility
-    url: "/fundamentals/components/"
+    url: "/WAI/fundamentals/components/"
   - name: Accessibility Principles
-    url: "/fundamentals/accessibility-principles/"
+    url: "/WAI/fundamentals/accessibility-principles/"
   - name: Perspectives Videos
-    url: "/perspective-videos/"
+    url: "/WAI/perspective-videos/"
     pages:
     - name: Keyboard Compatibility
-      url: "/perspective-videos/keyboard/"
+      url: "/WAI/perspective-videos/keyboard/"
     - name: Colors with Good Contrast
-      url: "/perspective-videos/contrast/"
+      url: "/WAI/perspective-videos/contrast/"
     - name: Clear Layout and Design
-      url: "/perspective-videos/layout/"
+      url: "/WAI/perspective-videos/layout/"
     - name: Text to Speech
-      url: "/perspective-videos/speech/"
+      url: "/WAI/perspective-videos/speech/"
     - name: Large Links, Buttons, and Controls
-      url: "/perspective-videos/controls/"
+      url: "/WAI/perspective-videos/controls/"
     - name: Video Captions
-      url: "/perspective-videos/captions/"
+      url: "/WAI/perspective-videos/captions/"
     - name: Customizable Text
-      url: "/perspective-videos/customizable/"
+      url: "/WAI/perspective-videos/customizable/"
     - name: Voice Recognition
-      url: "/perspective-videos/voice/"
+      url: "/WAI/perspective-videos/voice/"
     - name: Understandable Content
-      url: "/perspective-videos/understandable/"
+      url: "/WAI/perspective-videos/understandable/"
     - name: Notifications and Feedback
-      url: "/perspective-videos/notifications/"
+      url: "/WAI/perspective-videos/notifications/"
   - name:
       en: How People with Disabilities Use the Web
       fr: "Comment utilise-t-on le Web avec un handicap&nbsp;?"
-    url: "/people-use-web/"
+    url: "/WAI/people-use-web/"
     pages:
     - name:
         en: Stories of Web Users
         fr: Quelques utilisateurs du Web
-      url: "/people-use-web/user-stories/"
+      url: "/WAI/people-use-web/user-stories/"
     - name:
         en: Diverse Abilities and Barriers
         fr: Des capacités et des points bloquants variés
-      url: "/people-use-web/abilities-barriers/"
+      url: "/WAI/people-use-web/abilities-barriers/"
     - name:
         en: Tools and Techniques
         fr: Outils et techniques
-      url: "/people-use-web/tools-techniques/"
+      url: "/WAI/people-use-web/tools-techniques/"
   - name: Older Users and Accessibility
-    url: "/older-users/"
+    url: "/WAI/older-users/"
     pages:
     - name: How WCAG 2 Applies
-      url: "/older-users/developing/"
+      url: "/WAI/older-users/developing/"
     - name: Literature Review
-      url: "/older-users/literature/"
+      url: "/WAI/older-users/literature/"
   - name: Accessibility, Usability, Inclusion
-    url: "/fundamentals/accessibility-usability-inclusion/"
+    url: "/WAI/fundamentals/accessibility-usability-inclusion/"
 - name:
     en: 'Planning & Policies'
     # de: 'Planung & Richtlinien'
@@ -101,26 +101,26 @@
     # zh-hans: '规划和政策'
   pages:
   - name: Overview
-    url: "/planning/"
+    url: "/WAI/planning/"
   - name: Approaches for Interim Repairs
-    url: "/planning/interim-repairs/"
+    url: "/WAI/planning/interim-repairs/"
   - name: Planning and Managing Accessibility
-    url: "/planning-and-managing/"
+    url: "/WAI/planning-and-managing/"
     pages:
       - name: Initiate
-        url: "/planning-and-managing/initiate/"
+        url: "/WAI/planning-and-managing/initiate/"
       - name: Plan
-        url: "/planning-and-managing/plan/"
+        url: "/WAI/planning-and-managing/plan/"
       - name: Implement
-        url: "/planning-and-managing/implement/"
+        url: "/WAI/planning-and-managing/implement/"
       - name: Sustain
-        url: "/planning-and-managing/sustain/"
+        url: "/WAI/planning-and-managing/sustain/"
   - name: Developing an Organizational Policy
-    url: "/planning/org-policies/"
+    url: "/WAI/planning/org-policies/"
   - name: Involving Users for Better Accessibility
-    url: "/planning/involving-users/"
+    url: "/WAI/planning/involving-users/"
   - name: International Laws & Policies
-    url: "/policies/"
+    url: "/WAI/policies/"
 - name:
     en: 'Design & Develop'
     # de: 'Designen & Entwickeln'
@@ -136,13 +136,13 @@
     # zh-hans: '设计与开发'
   pages:
   - name: Overview
-    url: "/design-develop/"
+    url: "/WAI/design-develop/"
   - name: Tips for Writing
-    url: "/tips/writing/"
+    url: "/WAI/tips/writing/"
   - name: Tips for Designing
-    url: "/tips/designing/"
+    url: "/WAI/tips/designing/"
   - name: Tips for Developing
-    url: "/tips/developing/"
+    url: "/WAI/tips/developing/"
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
@@ -181,31 +181,31 @@
     # zh-hans: '测试和评估'
   pages:
   - name: Evaluation Overview
-    url: "/test-evaluate/"
+    url: "/WAI/test-evaluate/"
   - name: Easy Checks – A First Review
-    url: "/test-evaluate/preliminary/"
+    url: "/WAI/test-evaluate/preliminary/"
   - name: Evaluation Tools
-    url: "/test-evaluate/tools/"
+    url: "/WAI/test-evaluate/tools/"
     pages:
       - name: Selecting Evaluation Tools
-        url: "/test-evaluate/tools/selecting/"
+        url: "/WAI/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "https://www.w3.org/WAI/ER/tools/"
         different: true
   - name: Conformance Evaluation
-    url: "/test-evaluate/conformance/"
+    url: "/WAI/test-evaluate/conformance/"
     pages:
       - name: WCAG-EM Conformance Methodology
-        url: "/test-evaluate/conformance/wcag-em/"
+        url: "/WAI/test-evaluate/conformance/wcag-em/"
       - name: WCAG-EM Report Tool
         url: "https://www.w3.org/WAI/eval/report-tool/#/"
         different: true
   - name: Report Template
-    url: "/test-evaluate/report-template/"
+    url: "/WAI/test-evaluate/report-template/"
   - name: Using Combined Expertise
-    url: "/test-evaluate/combined-expertise/"
+    url: "/WAI/test-evaluate/combined-expertise/"
   - name: Involving Users
-    url: "/test-evaluate/involving-users/"
+    url: "/WAI/test-evaluate/involving-users/"
 
 - name:
     en: 'Teach & Advocate'
@@ -222,57 +222,57 @@
     # zh-hans: '教学和倡导'
   pages:
   - name: Overview
-    url: "/teach-advocate/"
+    url: "/WAI/teach-advocate/"
   - name: "Curricula on Web Accessibility"
-    url: "/curricula/"
+    url: "/WAI/curricula/"
     pages:
     - name: "Introduction to Web Accessibility"
-      url: "/curricula/introduction-to-web-accessibility/"
+      url: "/WAI/curricula/introduction-to-web-accessibility/"
       pages:
       - name: "What is Web Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
+        url: "/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
       - name: "People and Digital Technology"
-        url: "/curricula/introduction-to-web-accessibility/people-and-digital-technology/"
+        url: "/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technology/"
       - name: "Business Case and Benefits"
-        url: "/curricula/introduction-to-web-accessibility/business-case-and-benefits/"
+        url: "/WAI/curricula/introduction-to-web-accessibility/business-case-and-benefits/"
       - name: "Principles, Standards, and Checks"
-        url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
+        url: "/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
       - name: "Getting Started with Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
+        url: "/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
   - name: Make Presentations Accessible
-    url: "/teach-advocate/accessible-presentations/"
+    url: "/WAI/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
-    url: "/teach-advocate/accessibility-training/"
+    url: "/WAI/teach-advocate/accessibility-training/"
     pages:
     - name: Topics
-      url: "/teach-advocate/accessibility-training/topics/"
+      url: "/WAI/teach-advocate/accessibility-training/topics/"
     - name: Presentation Outlines
-      url: "/teach-advocate/accessibility-training/presentation-outlines/"
+      url: "/WAI/teach-advocate/accessibility-training/presentation-outlines/"
     - name: Workshop Outline
-      url: "/teach-advocate/accessibility-training/workshop-outline/"
+      url: "/WAI/teach-advocate/accessibility-training/workshop-outline/"
 # - name: Presentations You Can Use
-#   url: "/teach-advocate/presentations-to-use/"
+#   url: "/WAI/teach-advocate/presentations-to-use/"
   - name: Before and After Demo (BAD)
     url: "https://www.w3.org/WAI/demos/bad/"
     different: true
   - name: Contacting Inaccessible Websites
-    url: "/teach-advocate/contact-inaccessible-websites/"
+    url: "/WAI/teach-advocate/contact-inaccessible-websites/"
   - name: Business Case
-    url: "/teach-advocate/business-case/"
+    url: "/WAI/teach-advocate/business-case/"
     pages:
     - name: Bibliography
-      url: "/teach-advocate/business-case/bibliography/"
+      url: "/WAI/teach-advocate/business-case/bibliography/"
   # pages:
   #   - name: Social Factors
-  #     url: "/business-case/social-factors/"
+  #     url: "/WAI/business-case/social-factors/"
   #   - name: Technical Factors
-  #     url: "/business-case/technical-factors/"
+  #     url: "/WAI/business-case/technical-factors/"
   #   - name: Financial Factors
-  #     url: "/business-case/financial-factors/"
+  #     url: "/WAI/business-case/financial-factors/"
   #   - name: Legal & Policy Factors
-  #     url: "/business-case/legal-policy-factors/"
+  #     url: "/WAI/business-case/legal-policy-factors/"
   #   - name: Resources
-  #     url: "/business-case/resources/"
+  #     url: "/WAI/business-case/resources/"
 
 - name:
     en: 'Standards/Guidelines'
@@ -289,79 +289,79 @@
     # zh-hans: '标准/准则'
   pages:
   - name: Standards Overview
-    url: "/standards-guidelines/"
+    url: "/WAI/standards-guidelines/"
   - name: Web Content – WCAG
-    url: "/standards-guidelines/wcag/"
+    url: "/WAI/standards-guidelines/wcag/"
     pages:
     - name: "How to Meet WCAG 2 (Quick Reference)"
       url: "https://www.w3.org/WAI/WCAG21/quickref/"
       different: true
     - name: "At a Glance"
-      url: "/standards-guidelines/wcag/glance/"
+      url: "/WAI/standards-guidelines/wcag/glance/"
     - name: The Documents
-      url: "/standards-guidelines/wcag/docs/"
+      url: "/WAI/standards-guidelines/wcag/docs/"
     - name: New in 2.1
-      url: "/standards-guidelines/wcag/new-in-21/"
+      url: "/WAI/standards-guidelines/wcag/new-in-21/"
     - name: Translations
-      url: "/standards-guidelines/wcag/translations/"
+      url: "/WAI/standards-guidelines/wcag/translations/"
     - name: "Applying to Non-Web ICT"
-      url: "/standards-guidelines/wcag/non-web-ict/"
+      url: "/WAI/standards-guidelines/wcag/non-web-ict/"
     - name: "Commenting"
-      url: "/standards-guidelines/wcag/commenting/"
+      url: "/WAI/standards-guidelines/wcag/commenting/"
     - name: "Conformance Logos"
-      url: "/standards-guidelines/wcag/conformance-logos/"
+      url: "/WAI/standards-guidelines/wcag/conformance-logos/"
     - name: FAQ
-      url: "/standards-guidelines/wcag/faq/"
+      url: "/WAI/standards-guidelines/wcag/faq/"
   - name: Authoring Tools – ATAG
-    url: "/standards-guidelines/atag/"
+    url: "/WAI/standards-guidelines/atag/"
   - name: User Agents – UAAG
-    url: "/standards-guidelines/uaag/"
+    url: "/WAI/standards-guidelines/uaag/"
   - name: WAI-ARIA
-    url: "/standards-guidelines/aria/"
+    url: "/WAI/standards-guidelines/aria/"
   - name: Evaluation – ACT & EARL
-    url: "/standards-guidelines/evaluation/"
+    url: "/WAI/standards-guidelines/evaluation/"
     pages:
     - name: Accessibility Conformance Testing – ACT
-      url: "/standards-guidelines/act/"
+      url: "/WAI/standards-guidelines/act/"
     - name: Evaluation and Report Language – EARL
-      url: "/standards-guidelines/earl/"
+      url: "/WAI/standards-guidelines/earl/"
   - name: Standards Harmonization is Essential
-    url: "/standards-guidelines/harmonization/"
+    url: "/WAI/standards-guidelines/harmonization/"
   - name: W3C Process for Developing Standards
-    url: "/standards-guidelines/w3c-process/"
+    url: "/WAI/standards-guidelines/w3c-process/"
   - name: Referencing and Linking to Standards
-    url: "/standards-guidelines/linking/"
+    url: "/WAI/standards-guidelines/linking/"
   - name: Mobile Accessibility at W3C
-    url: "/standards-guidelines/mobile/"
+    url: "/WAI/standards-guidelines/mobile/"
 
 - name: "About W3C WAI"
   mainnav: false
   pages:
   - name: About WAI
-    url: "/about/"
+    url: "/WAI/about/"
   - name: Participating
-    url: "/about/participating/"
+    url: "/WAI/about/participating/"
   - name: Translating
-    url: "/about/translating/"
+    url: "/WAI/about/translating/"
   - name: Contacting
-    url: "/about/contacting/"
+    url: "/WAI/about/contacting/"
   - name: Sponsoring
-    url: "/about/sponsoring/"
+    url: "/WAI/about/sponsoring/"
   - name: Projects
-    url: "/about/projects/"
+    url: "/WAI/about/projects/"
     pages:
     - name: WAI-Guide
-      url: "/about/projects/wai-guide/"
+      url: "/WAI/about/projects/wai-guide/"
     - name: WAI-Tools
-      url: "/about/projects/wai-tools/"
+      url: "/WAI/about/projects/wai-tools/"
       pages:
       - name: Online Symposium
-        url: "/about/projects/wai-tools/symposium/"
+        url: "/WAI/about/projects/wai-tools/symposium/"
         pages:
         - name: Record
-          url: "/about/projects/wai-tools/symposium/record/"
+          url: "/WAI/about/projects/wai-tools/symposium/record/"
       - name: First Open Meeting
-        url: "/about/projects/wai-tools/first-open-meeting/"
+        url: "/WAI/about/projects/wai-tools/first-open-meeting/"
     - name: WAI-Core 2015
       url: "https://www.w3.org/WAI/CORE2015/"
       different: true
@@ -369,7 +369,7 @@
       url: "https://www.w3.org/WAI/ACT/"
       different: true
   - name: Groups
-    url: "/about/groups/"
+    url: "/WAI/about/groups/"
     pages:
     - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
       url: "https://www.w3.org/WAI/GL/"
@@ -378,8 +378,8 @@
     - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
       url: "https://www.w3.org/WAI/ARIA/"
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/eowg/"
+      url: "/WAI/about/groups/eowg/"
     - name: 'WAI IG: WAI Interest Group'
-      url: "/about/groups/waiig/"
+      url: "/WAI/about/groups/waiig/"
     - name: 'Group Task Forces'
-      url: "/about/groups/taskforces/"
+      url: "/WAI/about/groups/taskforces/"
