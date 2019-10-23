@@ -28,26 +28,26 @@ Courses at university need to translate the hours they devote to a particular su
 
 The below is an estimate of how many ECTS credits will be advised for [Module 1: Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
 
-| Title | Duration (hours) | ECTS |
+| Title | CREDITS |
 | --- | --- | --- |
-| Unit 1: What is Web Accessibility | 0 | 0.1 |
-| Topic: Stories of People with Disabilities | 2 | 0.06 |
-| Topic: Scope of Web Accessibility | 1 | 0.04 |
-| Unit 2: People and Digital Technology | 0 | 0.2 |
-| Topic: Diverse Abilities, Tools, and Barriers | 3 | 0.13 |
-| Topic: Components of Web Accessibility | 2 | 0.07 |
-| Unit 3: Business Case and Benefits | 2 | 0.07 |
-| Topic: Benefits of Accessibility | 2 | 0.07 |
-| Unit 4: Principles, Guidelines and Checks | 0 | 0.15 |
-| Topic: Principles of Web Accessibility | 1.3 | 0.05 |
-| Topic: Guidelines and Other Standards | 1.3 | 0.05 |
-| Topic: First Checks for Web Accessibility | 1.3 | 0.05 |
-| Unit 5: Applying and Managing Accessibility | 0 | 0.1 |
-| Topic: Planning and Managing Web Accessibility | 0.75 | 0.025 |
-| Topic: Developing Policies and Statements | 0.75 | 0.025 |
-| Topic: Roles and Responsibilities | 0.75 | 0.025 |
-| Topic: Accessibility in an Existing Project | 0.75 | 0.025 |
-| Total | 18.9 | 1.24 |
+| Unit 1: What is Web Accessibility | 6 |
+| Topic: Stories of People with Disabilities | 4 |
+| Topic: Scope of Web Accessibility | 2 |
+| Unit 2: People and Digital Technology | 6 |
+| Topic: Diverse Abilities, Tools, and Barriers | 4 |
+| Topic: Components of Web Accessibility | 2 |
+| Unit 3: Business Case and Benefits | 6 |
+| Topic: Benefits of Accessibility | 6 |
+| Unit 4: Principles, Guidelines and Checks | 6 |
+| Topic: Principles of Web Accessibility | 2 |
+| Topic: Guidelines and Other Standards | 2 |
+| Topic: First Checks for Web Accessibility | 2 |
+| Unit 5: Applying and Managing Accessibility | 6 |
+| Topic: Planning and Managing Web Accessibility | 1.5 |
+| Topic: Developing Policies and Statements | 1.5 |
+| Topic: Roles and Responsibilities | 1.5 |
+| Topic: Accessibility in an Existing Project | 1.5 |
+| Total | 30 |
  
  
 ### Consultancy Course
