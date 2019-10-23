@@ -1,5 +1,5 @@
 ---
-title: "Types of Courses"
+title: "[Draft] Types of Courses"
 permalink: /curricula/types-of-courses/
 ref: /curricula/types-of-courses/
 lang: en
@@ -24,14 +24,79 @@ It also shows an overview on different types of courses that can result from the
 
 ### University Course
 
-Courses at university need to reflect the hours they devote to a particular subject. These hours, then, translate to a credit system. There are several systems of that nature around the world. The European Credit Transfer and Accumulation System (ECTS). One credit corresponds to 25-30 hours of work, and 60 credits reflect a complete year of work. 
-A semester on web accessibility.
+Courses at university need to translate the hours they devote to a particular subject into a credit system. There are several systems of that nature around the world. We will be using the European Credit Transfer and Accumulation System (ECTS). One credit corresponds to 25-30 hours of work, and 60 credits reflect a complete year of work. 
 
+The below is an estimate of how many ECTS credits will be advised for [Module 1: Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
+
+| Title | Duration (hours) | ECTS |
+| --- | --- | --- |
+| Unit 1: What is Web Accessibility | 0 | 0.1 |
+| Topic: Stories of People with Disabilities | 2 | 0.06 |
+| Topic: Scope of Web Accessibility | 1 | 0.04 |
+| Unit 2: People and Digital Technology | 0 | 0.2 |
+| Topic: Diverse Abilities, Tools, and Barriers | 3 | 0.13 |
+| Topic: Components of Web Accessibility | 2 | 0.07 |
+| Unit 3: Business Case and Benefits | 2 | 0.07 |
+| Topic: Benefits of Accessibility | 2 | 0.07 |
+| Unit 4: Principles, Guidelines and Checks | 0 | 0.15 |
+| Topic: Principles of Web Accessibility | 1.3 | 0.05 |
+| Topic: Guidelines and Other Standards | 1.3 | 0.05 |
+| Topic: First Checks for Web Accessibility | 1.3 | 0.05 |
+| Unit 5: Applying and Managing Accessibility | 0 | 0.1 |
+| Topic: Planning and Managing Web Accessibility | 0.75 | 0.025 |
+| Topic: Developing Policies and Statements | 0.75 | 0.025 |
+| Topic: Roles and Responsibilities | 0.75 | 0.025 |
+| Topic: Accessibility in an Existing Project | 0.75 | 0.025 |
+| Total | 18.9 | 1.24 |
+ 
+ 
 ### Consultancy Course
 
-One week course on web accessibility.
+Consultancy courses need to determine what time they will be devoting to a particular subject, what audience they will address, how they will teach the contents (online / classroom). The following is an estimate for a one week course on web accessibility.
 
+| Title | Duration (days) |
+| --- | --- |
+| Unit 1: What is Web Accessibility | 1 |
+| Topic: Stories of People with Disabilities | 0.7 |
+| Topic: Scope of Web Accessibility | 0.3 |
+| Unit 2: People and Digital Technology | 1 |
+| Topic: Diverse Abilities, Tools, and Barriers | 0.6 |
+| Topic: Components of Web Accessibility | 0.4 |
+| Unit 3: Business Case and Benefits | 0.5 |
+| Topic: Benefits of Accessibility | 0.5 |
+| Unit 4: Principles, Guidelines and Checks | 1.5 |
+| Topic: Principles of Web Accessibility | 0.5 |
+| Topic: Guidelines and Other Standards | 0.5 |
+| Topic: First Checks for Web Accessibility | 0.5 |
+| Unit 5: Applying and Managing Accessibility | 1 |
+| Topic: Planning and Managing Web Accessibility | 0.25 |
+| Topic: Developing Policies and Statements | 0.25 |
+| Topic: Roles and Responsibilities | 0.25 |
+| Topic: Accessibility in an Existing Project | 0.25 |
+| Total | 5 |
+ 
 ### Consultancy Course
 
-A one-day session.
+Another example of such a consultancy course could be a three day session. Estimate duration would look as follows:
 
+| Title | Duration (hours) |
+| --- | --- |
+| Unit 1: What is Web Accessibility | 5 |
+| Topic: Stories of People with Disabilities | 3 |
+| Topic: Scope of Web Accessibility | 2 |
+| Unit 2: People and Digital Technology | 5 |
+| Topic: Diverse Abilities, Tools, and Barriers | 3 |
+| Topic: Components of Web Accessibility | 2 |
+| Unit 3: Business Case and Benefits | 2 |
+| Topic: Benefits of Accessibility | 2 |
+| Unit 4: Principles, Guidelines and Checks | 8 |
+| Topic: Principles of Web Accessibility | 2 |
+| Topic: Guidelines and Other Standards | 2 |
+| Topic: First Checks for Web Accessibility | 4 |
+| Unit 5: Applying and Managing Accessibility | 4 |
+| Topic: Planning and Managing Web Accessibility | 1 |
+| Topic: Developing Policies and Statements | 1 |
+| Topic: Roles and Responsibilities | 1 |
+| Topic: Accessibility in an Existing Project | 1 |
+| Total | 24 |
+ 
