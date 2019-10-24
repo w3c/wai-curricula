@@ -16,19 +16,17 @@ footer: > # Text in footer in HTML
 
 ## Introduction
 
-This page provides further guidance on how to use the materials of the WAI-Curricula.
-
-It also shows an overview on different types of courses that can result from the various modules. In addition, it offers an estimated duration for each of them based on their framework, type, and scenario.
+This page provides further guidance on how to use the materials of the WAI-Curricula. It shows an overview on different types of courses you can build using this resource. In addition, it offers an estimated duration for each of them based on their framework, type, and scenario.
 
 ## Types of Courses
 
 ### University Course
 
-Courses at university need to translate the hours they devote to a particular subject into a credit system. There are several systems of that nature around the world. We will be using the European Credit Transfer and Accumulation System (ECTS). One credit corresponds to 25-30 hours of work, and 60 credits reflect a complete year of work. 
+Courses at university use to translate their duration into a credit system. There are several of such systems around the world, for example, the ECTS (European Credit Transfer and Accumulation System) and the. We will be using ECTS. One ECTS credit corresponds to 25-30 hours of students' workload, and 60 credits reflect a complete year of work. 
 
 The below is an estimate of how many ECTS credits will be advised for [Module 1: Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
 
-| Title | CREDITS |
+| Title | European CREDITS |
 | --- | --- | --- |
 | Unit 1: What is Web Accessibility | 6 |
 | Topic: Stories of People with Disabilities | 4 |
@@ -50,7 +48,7 @@ The below is an estimate of how many ECTS credits will be advised for [Module 1:
 | Total | 30 |
  
  
-### Consultancy Course
+### Consultancy Agency Course
 
 Consultancy courses need to determine what time they will be devoting to a particular subject, what audience they will address, how they will teach the contents (online / classroom). The following is an estimate for a one week course on web accessibility.
 
@@ -75,9 +73,9 @@ Consultancy courses need to determine what time they will be devoting to a parti
 | Topic: Accessibility in an Existing Project | 0.25 |
 | Total | 5 |
  
-### Consultancy Course
+### MOOC Course
 
-Another example of such a consultancy course could be a three day session. Estimate duration would look as follows:
+Another example of such a consultancy course could be a 24-hour MOOC course. Estimate duration would look as follows:
 
 | Title | Duration (hours) |
 | --- | --- |
