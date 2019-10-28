@@ -16,13 +16,13 @@ footer: > # Text in footer in HTML
 
 ## Introduction
 
-This page provides further guidance on different types of courses you can build using The WAI-Curricula resource. In addition, it offers an estimated duration for each of them based on their framework, type, and scenario.
+This page provides further guidance on different types of courses you can build using The WAI-Curricula resource. In addition, it offers an estimated duration for each of them based on their type and format.
 
 ## Types of Courses
 
 ### University Course
 
-Courses at university use to translate their duration into a credit system. There are several of such systems around the world, for example, the ECTS (European Credit Transfer and Accumulation System) and the American Credit System. We will be using ECTS. One ECTS credit corresponds to 25-30 hours of students' workload, and 60 credits reflect a complete year of work.
+Courses at university use to translate their duration into a credit system. There are several of such systems around the world, for example, the ECTS (European Credit Transfer and Accumulation System) and the American Credit System. One ECTS credit corresponds to 25-30 hours of students' workload, and 60 credits reflect a complete year of work.
 
 The below is an estimate of how many ECTS credits will be advised for [Module 1: Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
 
