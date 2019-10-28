@@ -16,7 +16,7 @@ footer: > # Text in footer in HTML
 
 ## Introduction
 
-This page provides further guidance on how to use the materials of the WAI-Curricula. It shows an overview on different types of courses you can build using this resource. In addition, it offers an estimated duration for each of them based on their framework, type, and scenario.
+This page provides further guidance on different types of courses you can build using The WAI-Curricula resource. In addition, it offers an estimated duration for each of them based on their framework, type, and scenario.
 
 ## Types of Courses
 
@@ -50,7 +50,7 @@ The below is an estimate of how many ECTS credits will be advised for [Module 1:
  
 ### Consultancy Agency Course
 
-Consultancy courses need to determine what time they will be devoting to a particular subject, what audience they will address, how they will teach the contents (online / classroom). The following is an estimate for a one week course on web accessibility.
+Consultancy courses need to determine how much time they will be devoting to a particular subject, what audience they will address and how they will teach the contents (online / classroom). The following is an estimate for a one week course on web accessibility.
 
 | Title | Duration (days) |
 | --- | --- |
