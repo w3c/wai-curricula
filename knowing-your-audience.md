@@ -18,12 +18,12 @@ footer: > # Text in footer in HTML
 
 This page provides further guidance on how to adapt the course you build to your specific audience and context.
 
-## Duration
+## Background
 
-Curricula is addressed to a number of audiences and context. You can build introductory courses to accessibility for practically any type of audience based on [Module 1: Introduction to Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/).
+Curricula is addressed to a number of audiences and context. You can build introductory courses to accessibility for many types of audiences based on [Module 1: Introduction to Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/).
 
-But to know your audience it is not enough with knowing their profession or background. You need to know additional details to better adapt the contents of your course and how to teach them so that you can provide satisfactory experiences.
+In addition, knowing your audience meansgathering additional details to better adapt the contents of your course and your teaching abilities so that you can provide satisfactory experiences.
 
-* Cultural aspects
+* Cultural aspects.
 * Accessibility needs.
 * General expectations.
