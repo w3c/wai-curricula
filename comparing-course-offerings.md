@@ -20,7 +20,7 @@ This page provides further guidance on how to compare and select course offering
 
 ## Comparing Course Offerings
 
-* Learning Outcomes -- First, ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. It is not necessary that the course follows the learning outcomes exactly as they are outlined in the curricula modules, but it is advisable that at least those at a unit level are properly covered.
+* Learning Outcomes -- First, ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. It is not necessary that the course follow the learning outcomes exactly as they are outlined in the curricula modules, but it is advisable that at least those at a unit level are properly covered.
 * Teaching Ideas -- Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of teaching abilities of the instructors or the materials used for the course if it is a MOOC.
 * Ideas to Assess Knowledge -- Focus on how the provider plans to assess knowledge. Ask for specific activities, and their expected outcomes.
 * Course accreditation -- Ask if the provider offers credentials on course completion, such as certificates or free choice subject credits.
