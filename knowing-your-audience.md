@@ -22,7 +22,7 @@ This page provides further guidance on how to adapt the course you build to your
 
 Curricula is addressed to a number of audiences and context. You can build introductory courses to accessibility for many types of audiences based on [Module 1: Introduction to Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/).
 
-In addition, knowing your audience meansgathering additional details to better adapt the contents of your course and your teaching abilities so that you can provide satisfactory experiences.
+In addition, knowing your audience means gathering additional details to better adapt the contents of your course and your teaching abilities so that you can provide satisfactory experiences.
 
 * Cultural aspects.
 * Accessibility needs.
