@@ -27,16 +27,18 @@ You can use these curricula for formal, informal, guided, non-guided, and vocati
 
 Each curriculum has the following items:
 
-* Modules &mdash; Stand for a specific curriculum. They address one or more audiences and contain a set of units.
-  * Units &mdash; Stand for a specific block of content. They define the learning outcomes, a set of topics to teach, ideas to assess knowledge, and a number of teaching resources. You might need to spend different amounts of time for each unit. Adapt the duration of each unit and topic to your particular context.
-    * Introduction &mdash; Describes the objectives and sets the foundations for the rest of the contents in the unit. 
-    * Learning Outcomes &mdash; Describe what the students need to know and should be able to demonstrate after completion of the unit. This is the core of the curricula.
-    * Topics &mdash; Stand for specific pieces of content within the units. They also expand the learning outcomes, teaching ideas, and ideas to assess knowledge.
-    * Teaching Ideas &mdash; Describe a variety of activities that instructors can perform while teaching these units. These are not compulsory. You can adapt them to your particular needs, remove some of them, or add new ones if necessary.
-    * Ideas to Assess Knowledge &mdash; Describe a variety of activities that instructors can carry out to assess students' knowledge. These are not compulsory. You can adapt them to your particular needs, remove some of them, or add new ones if necessary.
-    * Teaching Resources &mdash; Introduce resources to teach the contents in the units. It is advisable that you use them to build the course, but you can extend the list as needed to achieve your particular goals. Some of these are linked through the curricula content, some others can serve as further readings for you and your students.
+* Modules &mdash; Autonomous portions of content. You can teach them independently. They include:
+* Introduction &mdash; Sets the foundations for the rest of the contents in the module. 
+* Learning Outcomes &mdash; Describe what the students will know and should be able to demonstrate after completion of the module. This is the core of the curricula.
+* Competencies &mdash; Skills that you and your students should have prior to the module.
+* Topics &mdash; Thematic pieces of content. They provide detailed learning outcomes, teaching ideas, and ideas to assess knowledge.
+* Teaching Ideas &mdash; Optional activities that you can include in your teaching.
+* Ideas to Assess Knowledge &mdash; Optional activities that you can carry out to assess students' knowledge of the learning outcomes.
+* Teaching Resources &mdash; Recommended resources that help you deliver the learning outcomes. Some are integrated as part of the teaching and others are further readings for you and your students.
 
-## Curricula Modules
+## Outline
+
+Rows of the following table refer to three levels: basic, intermediate, and advanced. Columns refer to five roles: developer, designer, author, manager, and tester. Curricula for the basic level is already developed. Intermediate and advanced levels are still under analysis. We will update the table as we develop new content.
 
 {::nomarkdown}
 {% include outline-future-modules.html %}
