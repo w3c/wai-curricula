@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes as well as ideas to teach and assess knowledge, to help you design online and in-class courses.
+This resource provides a set of role-based curricula for web accessibility. It defines learning outcomes as well as ideas to teach and assess knowledge. to help you design courses.
 
 You can use these curricula for formal, informal, guided, non-guided, and vocational training, as well as to assess and compare course offerings.
 
