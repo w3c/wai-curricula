@@ -42,7 +42,7 @@ be taught and assessed in its entirety.
 not necessarily taught in this grouping.
 
 The curricula define:
-* Learning Outcomes &mdash; Defines what students will learn and should be 
+* Learning Outcomes &mdash; What students will learn and should be 
 able to demonstrate. This is the core of the curricula.
 * Teaching Ideas &mdash; Suggested ideas to help instructors teach the 
 learning outcomes.
