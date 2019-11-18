@@ -56,7 +56,7 @@ Each curriculum also specifies competencies that students are expected
 to have prior to taking a course, and the competences that instructors 
 are expected to have to deliver it.
 
-## Outline
+## Future Outline
 
 The table below shows how this resource could address different roles. 
 Currently only the first curriculum "Introduction to Web Accessibility" 
