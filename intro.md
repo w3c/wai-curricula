@@ -1,5 +1,5 @@
 ---
-title: "[DRAFT]: Introduction to Web Accessibility"
+title: "[DRAFT] Introduction to Web Accessibility"
 permalink: /curricula/introduction-to-web-accessibility/
 ref: /curricula/introduction-to-web-accessibility/
 lang: en
