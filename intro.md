@@ -1,5 +1,5 @@
 ---
-title: "[DRAFT] Module 1: Introduction to Web Accessibility"
+title: "[DRAFT] Introduction to Web Accessibility"
 permalink: /curricula/introduction-to-web-accessibility/
 ref: /curricula/introduction-to-web-accessibility/
 lang: en
@@ -19,9 +19,9 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This WAI Curriculum module provides a general introduction to web accessibility. It is designed for any students with basic understanding of computers and the Web.
+This Curriculum provides a general introduction to web accessibility. It is designed for any students with basic understanding of computers and the Web.
 
-The aims of this module are to:
+Its aims are to:
 
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
@@ -31,9 +31,9 @@ The aims of this module are to:
 * Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
-This module addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor duration, examples, activities, and assessments to your particular audience.
+It addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor duration, examples, activities, and assessments to your particular audience.
 
-## Units in this Module
+## Modules
 
 {::nomarkdown}
 {% include outline-module-1.html %}
