@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This Curriculum provides a general introduction to web accessibility. It is designed for any students with basic understanding of computers and the Web.
+This curriculum provides a general introduction to web accessibility. It is designed for any students with basic understanding of computers and the Web.
 
 Its aims are to:
 
