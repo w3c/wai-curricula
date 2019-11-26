@@ -110,7 +110,7 @@ is available. Other curricula will follow, and will be linked from here.
           <li> Headings and Structure</li>
           <li> Text Alternatives for Images</li>
           <li> Alternatives for Media</li>
-          <li> Office Accessibility </li>
+          <li> Document Accessibility </li>
           <li> Tables and Data Representation</li>
           <li> Testing Your Content</li>
         </ul>
@@ -154,8 +154,7 @@ is available. Other curricula will follow, and will be linked from here.
         </ul>
       </td>
       <td>
-          <ul>
-            <li>PDF Accessibility</li>
+        <ul>
           <li> SVG Accessibility</li>
           <li> MathML Accessibility</li>
           <li> Testing Your Content</li>
