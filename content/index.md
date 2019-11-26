@@ -14,6 +14,44 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   next: /curricula/introduction-to-web-accessibility/
+inline_css: |
+  .tablewrapper>div {
+    overflow-x: scroll;
+  }
+  .tablewrapper>div {
+    position:relative;
+  }
+  .tablewrapper:before {
+    display: block;
+    content: "Scroll to see the full table. ↔";
+    text-align: right;
+    font-weight: bold;
+  }
+  .tablewrapper>div {
+    background-image: 
+      linear-gradient(to right, var(--line-grey), transparent), 
+      linear-gradient(to left, var(--line-grey), transparent);
+    background-size: 1rem, 1rem;
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+  }
+  .tablewrapper.scrolled-to-right>div {
+    background-image: 
+      linear-gradient(to right, var(--line-grey), transparent);
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  .tablewrapper.scrolled-to-left>div {
+    background-image: 
+      linear-gradient(to left, var(--line-grey), transparent);
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  .tablewrapper table {
+    mix-blend-mode: multiply;
+  }
 ---
 
 ## Introduction
@@ -62,6 +100,8 @@ The table below shows how this resource could address different roles.
 Currently only the first curriculum "Introduction to Web Accessibility" 
 is available. Other curricula will follow, and will be linked from here.
 
+<div class="tablewrapper scrolled-to-left">
+<div>
 <table caption="Tentative Outline" aria-describedby="tablesummary">
   <tbody>
     <tr>
@@ -164,4 +204,34 @@ is available. Other curricula will follow, and will be linked from here.
     </tr>
   </tbody>
 </table>
+</div>
+</div>
 <p id="tablesummary">Rows refer to three levels: basic, intermediate, and advanced. Columns refer to five roles: developer, designer, author, manager, and tester.</p>
+
+<script>
+// Reference: http://www.html5rocks.com/en/tutorials/speed/animations/
+
+let last_known_scroll_position = 0;
+let ticking = false;
+
+function doSomething(scroll_pos) {
+  if (scroll_pos > 10) {
+    document.querySelector('.tablewrapper').classList.remove('scrolled-to-left');
+  } else {
+    document.querySelector('.tablewrapper').classList.add('scrolled-to-left');
+  }
+}
+
+document.querySelector('.tablewrapper>div').addEventListener('scroll', function(e) {
+  last_known_scroll_position = document.querySelector('.tablewrapper>div').scrollLeft;
+
+  if (!ticking) {
+    window.requestAnimationFrame(function() {
+      doSomething(last_known_scroll_position);
+      ticking = false;
+    });
+
+    ticking = true;
+  }
+});
+</script>
