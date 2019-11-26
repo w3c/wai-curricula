@@ -62,7 +62,7 @@ The table below shows how this resource could address different roles.
 Currently only the first curriculum "Introduction to Web Accessibility" 
 is available. Other curricula will follow, and will be linked from here.
 
-<table caption="Tentative Outline" aria-describedby="tablesummary">
+<table caption="Tentative Outline" aria-describedby="tablesummary" class="dense">
   <tbody>
     <tr>
       <th> </th>
