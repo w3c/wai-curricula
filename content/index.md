@@ -58,9 +58,7 @@ are expected to have to deliver it.
 
 ## Future Outline
 
-The table below shows how this resource could address different roles. 
-Currently only the first curriculum "Introduction to Web Accessibility" 
-is available. Other curricula will follow, and will be linked from here.
+The table below shows ideas for future curricula. These will address one role each. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
 
 <table caption="Tentative Outline" aria-describedby="tablesummary">
   <tbody>
