@@ -29,24 +29,24 @@ inline_css: |
   }
   .tablewrapper>div {
     background-image: 
-      linear-gradient(to right, var(--line-grey), transparent), 
-      linear-gradient(to left, var(--line-grey), transparent);
+      linear-gradient(to right, var(--line-grey), rgba(255,255,255,0)), 
+      linear-gradient(to left, var(--line-grey), rgba(255,255,255,0));
     background-size: 1rem, 1rem;
-    background-repeat: no-repeat, no-repeat;
+    background-repeat: repeat-y, repeat-y;
     background-position: left, right;
   }
   .tablewrapper.scrolled-to-right>div {
     background-image: 
-      linear-gradient(to right, var(--line-grey), transparent);
+      linear-gradient(to right, var(--line-grey), rgba(255,255,255,0));
     background-size: 1rem;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: left;
   }
   .tablewrapper.scrolled-to-left>div {
     background-image: 
-      linear-gradient(to left, var(--line-grey), transparent);
+      linear-gradient(to left, var(--line-grey), rgba(255,255,255,0));
     background-size: 1rem;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: right;
   }
   .tablewrapper table {
