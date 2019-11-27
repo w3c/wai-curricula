@@ -49,7 +49,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Future Outline
 
-The table below shows ideas for future curricula. These will address one role each. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
 
 <table caption="Tentative Outline" aria-describedby="tablesummary">
   <tbody>
