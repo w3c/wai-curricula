@@ -152,4 +152,3 @@ The table below shows ideas for future curricula. When completed, they will be l
     </tr>
   </tbody>
 </table>
-<p id="tablesummary">Rows refer to three levels: basic, intermediate, and advanced. Columns refer to five roles: developer, designer, author, manager, and tester.</p>
