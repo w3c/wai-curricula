@@ -51,7 +51,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
 
-<table caption="Tentative Outline" aria-describedby="tablesummary" class="dense">
+<table caption="Tentative Outline" class="dense">
   <tbody>
     <tr>
       <th> </th>
