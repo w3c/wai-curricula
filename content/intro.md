@@ -18,14 +18,14 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum provides a general introduction to web accessibility. It is designed for any students with basic understanding of computers and the Web.
+This curriculum provides a general introduction to web accessibility. It is designed for any students with a basic understanding of computers and the Web.
 
 Its aims are to:
 
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
 * Describe some accessibility features and barriers.
-* Introduce business case benefits of web accessibility.
+* Introduce business case and benefits of web accessibility.
 * Introduce web accessibility standards and guidelines.
 * Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
@@ -50,7 +50,7 @@ It addresses many different audiences, including people with different technical
     -   Topic: W3C Accessibility Standards.
     -   Topic: Hands-on Experience of Standards.
 
--   [Module 5: Getting Started with Accessibility](/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) --- Provides an overview on organizational planning and managing considerations to integrate accessibility throughout the web production process, and on different accessibility roles and responsibilities involved.
+-   [Module 5: Getting Started with Accessibility](/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) --- Provides an overview of organizational planning and managing considerations to integrate accessibility throughout the web production process, and of different accessibility roles and responsibilities involved.
     -   Topic: Planning and Managing Web Accessibility.
     -   Topic: Developing Policies and Statements.
     -   Topic: Roles and Responsibilities.
