@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Web Accessibility"
 permalink: /curricula/introduction-to-web-accessibility/
+redirect_to: https://wai-curricula.netlify.com/curricula/introduction-to-web-accessibility/
 ref: /curricula/introduction-to-web-accessibility/
 lang: en
 github:
