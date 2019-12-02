@@ -7,6 +7,7 @@ lang: en
 github:
   repository: w3c/wai-curricula
   path: content/index.md
+license: creative-commons
 footer: >
   <p><strong>Date:</strong> First published 3 December 2019 </p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
