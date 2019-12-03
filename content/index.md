@@ -65,13 +65,13 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></p>
+    <p><a href="{{ '/curricula/introduction-to-web-accessibility/' | relative_url }}">Introduction to Web Accessibility</a></p>
        <ul>
-        <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web Accessibility</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web Accessibility</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with Accessibility</a></li>
       </ul>
     </td></tr>
     <tr>
