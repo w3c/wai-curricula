@@ -7,16 +7,23 @@ status: draft
 github:
   repository: w3c/wai-curricula
   path: types-of-courses.md
+license: creative-commons
 footer: > # Text in footer in HTML
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a></p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 ---
 
 ## Introduction
 
-This page provides further guidance on different types of courses you can build using The WAI-Curricula resource. It also offers an estimated duration for each of them based on their type and format.
+This page provides further guidance on how to build different types of courses using the [WAI-Curricula](https;//www.w3.org/WAI/curricula/) resource. It contains:
+
+* Definitions and explanations of main terms used in the [WAI Curricula first iteration](https://www.w3.org/WAI/curricula/).
+* Examples of different course types (including formal, informal, vocational, and academic) and formats (including MOOCs (Massive Open Online Courses) and face-to-face courses).
+* Estimated duration for each of the examples based on their type and format.
+
+[%- comment -%]
 
 ## Types of Courses
 
@@ -96,3 +103,4 @@ Another example of such a consultancy course could be a 24-hour MOOC course. Est
 | Topic: Roles and Responsibilities | 1 |
 | Topic: Accessibility in an Existing Project | 1 |
 | Total | 24 |
+[%- endcomment -%]
