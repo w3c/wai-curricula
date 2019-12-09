@@ -19,9 +19,13 @@ footer: > # Text in footer in HTML
 
 This page provides further guidance on how to build different types of courses using the [WAI-Curricula](https;//www.w3.org/WAI/curricula/) resource. It contains:
 
-* Definitions and explanations of main terms used in the [WAI Curricula first iteration](https://www.w3.org/WAI/curricula/).
+* Definitions and explanations of main terms used in the curriculum [Introduction to Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/).
 * Examples of different course types (including formal, informal, vocational, and academic) and formats (including MOOCs (Massive Open Online Courses) and face-to-face courses).
 * Estimated duration for each of the examples based on their type and format.
+
+## Definition of Terms
+
+
 
 [%- comment -%]
 
