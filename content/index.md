@@ -80,22 +80,22 @@ The table below shows ideas for future curricula. When completed, they will be l
         <p><strong>To be developed</strong> -- Intermediate curriculum for authors.</p>
       </td>
       <td rowspan="2">
-        <p><strong>To be developed</strong> -- Intermediate and Advancedcurriculum for managers</p>
+        <p><strong>To be developed</strong> -- Intermediate and Advanced curriculum for managers</p>
       </td>
       <td rowspan="2">
-        <p><strong>To be developed</strong> -- Intermediate and Advancedcurriculum for testers</p>
+        <p><strong>To be developed</strong> -- Intermediate and Advanced curriculum for testers</p>
       </td>
     </tr>
     <tr>
       <th> Advanced</th>
       <td>
-        <p><strong>To be developed</strong> -- Advancedcurriculum for developers.</p>
+        <p><strong>To be developed</strong> -- Advanced curriculum for developers.</p>
       </td>
       <td>
-        <p><strong>To be developed</strong> -- Advancedcurriculum for designers.</p>
+        <p><strong>To be developed</strong> -- Advanced curriculum for designers.</p>
       </td>
       <td>
-        <p><strong>To be developed</strong> -- Advancedcurriculum for content authors.</p>
+        <p><strong>To be developed</strong> -- Advanced curriculum for content authors.</p>
       </td>
     </tr>
   </tbody>
