@@ -48,7 +48,7 @@ The curricula define:
 
 Each curriculum also specifies competencies that students are expected to have prior to taking a course, and the competences that instructors are expected to have to deliver it.
 
-## Outline
+## Future Outline
 
 The below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum, "Introduction to Web Accessibility" is available. 
 
