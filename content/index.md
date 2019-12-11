@@ -158,23 +158,19 @@ Basic -- [Introduction to Web Accessibility]({{ '/curricula/introduction-to-web-
 
 #### Intermediate
 
-  
 -    Use of Color
 -    Typography
 -    Navigation and Orientation
 -    Instructions and Feedback
 -    Widgets and Interaction
 -    Testing Your Content
-  
 
-#### Advanced
+#### Advanced        
 
-        
-      -    Responsive Accessibility
-      -    Pop-Ups and Dialogs
-      -    Multi-Page Processes
-      -    Testing Your Content
-        
+-    Responsive Accessibility
+-    Pop-Ups and Dialogs
+-    Multi-Page Processes
+-    Testing Your Content
 
 {% include excol.html type="end" %}
 
@@ -186,22 +182,18 @@ Basic -- [Introduction to Web Accessibility]({{ '/curricula/introduction-to-web-
 
 #### Intermediate
 
-        
-      -    Headings and Structure
-      -    Text Alternatives for Images
-      -    Alternatives for Media
-      -    Document Accessibility 
-      -    Tables and Data Representation
-      -    Testing Your Content
-        
+-    Headings and Structure
+-    Text Alternatives for Images
+-    Alternatives for Media
+-    Document Accessibility 
+-    Tables and Data Representation
+-    Testing Your Content
 
 #### Advanced
 
-        
-      -    SVG Accessibility
-      -    MathML Accessibility
-      -    Testing Your Content
-        
+-    SVG Accessibility
+-    MathML Accessibility
+-    Testing Your Content
 
 {% include excol.html type="end" %}
 
@@ -211,13 +203,11 @@ Basic -- [Introduction to Web Accessibility]({{ '/curricula/introduction-to-web-
 
 {% include excol.html type="middle" %}
 
-        
-      -    Accessibility Quick Check
-      -    Business Opportunities
-      -    Capacity and Capability
-      -    Tools and Processes
-      -    Policies and Procurement
-        
+-    Accessibility Quick Check
+-    Business Opportunities
+-    Capacity and Capability
+-    Tools and Processes
+-    Policies and Procurement
 
 {% include excol.html type="end" %}
 
@@ -227,13 +217,11 @@ Basic -- [Introduction to Web Accessibility]({{ '/curricula/introduction-to-web-
 
 {% include excol.html type="middle" %}
 
-        
-      -    Understanding Conformance
-      -    Accessibility Testing Tools
-      -    Using Assistive Technologies
-      -    Prioritizing Issues and Repair
-      -    Maintaining Accessibility
-        
+-    Understanding Conformance
+-    Accessibility Testing Tools
+-    Using Assistive Technologies
+-    Prioritizing Issues and Repair
+-    Maintaining Accessibility
 
 {% include excol.html type="end" %}
 
