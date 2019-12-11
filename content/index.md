@@ -50,7 +50,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the basic curriculum is available. 
+The below shows ideas for future curricula. When completed, they will be linked from here. Currently only the basic curriculum is available. 
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
@@ -95,7 +95,7 @@ The table below shows ideas for future curricula. When completed, they will be l
         <p><strong>To be developed</strong> -- Advanced curriculum for designers.</p>
       </td>
       <td>
-        <p><strong>To be developed</strong> -- Advanced curriculum for content authors.</p>
+        <p><strong>To be developed</strong> -- Advanced curriculum for authors.</p>
       </td>
     </tr>
   </tbody>
