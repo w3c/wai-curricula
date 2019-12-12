@@ -80,10 +80,10 @@ The below shows ideas for future curricula. When completed, they will be linked 
         <p><strong>To be developed</strong> -- Intermediate curriculum for authors.</p>
       </td>
       <td rowspan="2">
-        <p><strong>To be developed</strong> -- Intermediate and Advanced curriculum for managers</p>
+        <p><strong>To be developed</strong> -- Intermediate and advanced curriculum for managers</p>
       </td>
       <td rowspan="2">
-        <p><strong>To be developed</strong> -- Intermediate and Advanced curriculum for testers</p>
+        <p><strong>To be developed</strong> -- Intermediate and advanced curriculum for testers</p>
       </td>
     </tr>
     <tr>
