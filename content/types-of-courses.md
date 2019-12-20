@@ -27,7 +27,7 @@ Courses at university translate their duration into a credit system. There are s
 The below is an estimate of how many ECTS credits will be advised for [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
 
 | Title | European CREDITS |
-| --- | --- | --- |
+| --- | --- |
 | Module 1: What is Web Accessibility | 0,5 |
 | Module 2: People and Digital Technology | 0,5 |
 | Module 3: Business Case and Benefits | 0,5 |
