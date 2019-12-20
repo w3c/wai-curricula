@@ -22,54 +22,30 @@ This page provides further guidance on different types of courses you can build 
 
 ### University Course
 
-Courses at university translate their duration into a credit system. There are several systems around the world, for example, the ECTS (European Credit Transfer and Accumulation System), and the American Credit System. One ECTS credit corresponds to 25-30 hours of students' workload, and 60 credits reflect a complete year of work.
+Courses at university translate their duration into a credit system. There are several systems around the world, for example, the ECTS (European Credit Transfer and Accumulation System), and the American Credit System. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of work.
 
-The below is an estimate of how many ECTS credits will be advised for [Module 1: Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
+The below is an estimate of how many ECTS credits will be advised for [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) for a whole semester.
 
 | Title | European CREDITS |
 | --- | --- | --- |
-| Unit 1: What is Web Accessibility | 6 |
-| Topic: Stories of People with Disabilities | 4 |
-| Topic: Scope of Web Accessibility | 2 |
-| Unit 2: People and Digital Technology | 6 |
-| Topic: Diverse Abilities, Tools, and Barriers | 4 |
-| Topic: Components of Web Accessibility | 2 |
-| Unit 3: Business Case and Benefits | 6 |
-| Topic: Benefits of Accessibility | 6 |
-| Unit 4: Principles, Guidelines and Checks | 6 |
-| Topic: Principles of Web Accessibility | 2 |
-| Topic: Guidelines and Other Standards | 2 |
-| Topic: First Checks for Web Accessibility | 2 |
-| Unit 5: Applying and Managing Accessibility | 6 |
-| Topic: Planning and Managing Web Accessibility | 1.5 |
-| Topic: Developing Policies and Statements | 1.5 |
-| Topic: Roles and Responsibilities | 1.5 |
-| Topic: Accessibility in an Existing Project | 1.5 |
-| Total | 30 |
+| Module 1: What is Web Accessibility | 0,5 |
+| Module 2: People and Digital Technology | 0,5 |
+| Module 3: Business Case and Benefits | 0,5 |
+| Module 4: Principles, Guidelines, and Checks | 0,5 |
+| Module 5: Applying and Managing Accessibility | 0,5 |
+| Total | 2,5 |
 
 ### Consultancy Agency Course
 
-Consultancy courses need to determine how much time they devote to a particular subject, what audience they will address, and how they will teach the contents (online / classroom). The following is an estimate for a one week course on web accessibility.
+The following is an estimate for a one week course on web accessibility.
 
 | Title | Duration (days) |
 | --- | --- |
-| Unit 1: What is Web Accessibility | 1 |
-| Topic: Stories of People with Disabilities | 0.7 |
-| Topic: Scope of Web Accessibility | 0.3 |
-| Unit 2: People and Digital Technology | 1 |
-| Topic: Diverse Abilities, Tools, and Barriers | 0.6 |
-| Topic: Components of Web Accessibility | 0.4 |
-| Unit 3: Business Case and Benefits | 0.5 |
-| Topic: Benefits of Accessibility | 0.5 |
-| Unit 4: Principles, Guidelines and Checks | 1.5 |
-| Topic: Principles of Web Accessibility | 0.5 |
-| Topic: Guidelines and Other Standards | 0.5 |
-| Topic: First Checks for Web Accessibility | 0.5 |
-| Unit 5: Applying and Managing Accessibility | 1 |
-| Topic: Planning and Managing Web Accessibility | 0.25 |
-| Topic: Developing Policies and Statements | 0.25 |
-| Topic: Roles and Responsibilities | 0.25 |
-| Topic: Accessibility in an Existing Project | 0.25 |
+| Module 1: What is Web Accessibility | 1 |
+| Module 2: People and Digital Technology | 1 |
+| Module 3: Business Case and Benefits | 0.5 |
+| Module 4: Principles, Guidelines and Checks | 1.5 |
+| Module 5: Applying and Managing Accessibility | 1 |
 | Total | 5 |
 
 ### MOOC Course
@@ -78,21 +54,9 @@ Another example of such a consultancy course could be a 24-hour MOOC course. Est
 
 | Title | Duration (hours) |
 | --- | --- |
-| Unit 1: What is Web Accessibility | 5 |
-| Topic: Stories of People with Disabilities | 3 |
-| Topic: Scope of Web Accessibility | 2 |
-| Unit 2: People and Digital Technology | 5 |
-| Topic: Diverse Abilities, Tools, and Barriers | 3 |
-| Topic: Components of Web Accessibility | 2 |
-| Unit 3: Business Case and Benefits | 2 |
-| Topic: Benefits of Accessibility | 2 |
-| Unit 4: Principles, Guidelines and Checks | 8 |
-| Topic: Principles of Web Accessibility | 2 |
-| Topic: Guidelines and Other Standards | 2 |
-| Topic: First Checks for Web Accessibility | 4 |
-| Unit 5: Applying and Managing Accessibility | 4 |
-| Topic: Planning and Managing Web Accessibility | 1 |
-| Topic: Developing Policies and Statements | 1 |
-| Topic: Roles and Responsibilities | 1 |
-| Topic: Accessibility in an Existing Project | 1 |
+| Module 1: What is Web Accessibility | 5 |
+| Module 2: People and Digital Technology | 5 |
+| Module 3: Business Case and Benefits | 2 |
+| Module 4: Principles, Guidelines and Checks | 8 |
+| Module 5: Applying and Managing Accessibility | 4 |
 | Total | 24 |
