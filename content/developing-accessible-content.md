@@ -23,13 +23,13 @@ This curriculum provides strategies, tools, and tips that help you teach how to 
 
 Its aims are to:
 
-* Introduce the concept of semantics in web content.
+* Introduce the concept of semantics in web content and applications.
 * Explain how to convey the structure of documents using some HTML5 and WAI-ARIA elements.
 * Introduce techniques to create accessible menus and navigational elements.
 * Provide guidance in how to make images accessible.
 * Provide code-based examples about how to properly associate table headers with their corresponding data cells.
 * Provide guidance in how to make forms accessible.
-* Introduce strategies that help to make complex widgets such as carousels or accordions accessible.
+* Introduce strategies that help to make complex widgets accessible.
 * Provide tips to test regularly all throughout the development process.
 
 ## Modules
