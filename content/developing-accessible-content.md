@@ -35,8 +35,10 @@ Its aims are to:
 ## Modules
 
 * [Semantics and Structure](/curricula/developing-accessible-content/semantics/).
+* [Menus](/curricula/developing-accessible-content/menus/).
 * [Images](/curricula/developing-accessible-content/images/).
 * [Tables](/curricula/developing-accessible-content/tables/).
 * [Forms](/curricula/developing-accessible-content/forms/).
 * [Widgets](/curricula/developing-accessible-content/widgets/).
+* Testing Your Content.
 
