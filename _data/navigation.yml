@@ -242,10 +242,8 @@
     - name: "Developing Accessible Content"
       url: "/curricula/developing-accessible-content/"
       pages:
-      - name: "Semantics"
+      - name: "Semantics and Structure"
         url: "/curricula/developing-accessible-content/semantics/"
-      - name: "Structure"
-        url: "/curricula/developing-accessible-content/structure/"
       - name: "Menus"
         url: "/curricula/developing-accessible-content/menus/ "
       - name: "Images"
