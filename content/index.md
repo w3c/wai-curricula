@@ -79,8 +79,7 @@ The table below shows ideas for future curricula. When completed, they will be l
       <td>
 	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
         <ul>
-          <li> <a href="{{ '/curricula/developing-accessible-content/semantics/' | relative_url }}">Semantics</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/structure/' | relative_url }}">Structure</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/semantics/' | relative_url }}">Semantics and Structure</a></li>
           <li> <a href="{{ '/curricula/developing-accessible-content/menus/' | relative_url }}">Menus</a></li>
           <li> <a href="{{ '/curricula/developing-accessible-content/images/' | relative_url }}">Images</a></li>
           <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Tables</a></li>

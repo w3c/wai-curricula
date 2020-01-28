@@ -34,8 +34,7 @@ Its aims are to:
 
 ## Modules
 
-* [Semantics](/curricula/developing-accessible-content/semantics/).
-* [Structure](/curricula/developing-accessible-content/structure/).
+* [Semantics and Structure](/curricula/developing-accessible-content/semantics/).
 * [Menus](/curricula/developing-accessible-content/menus/).
 * [Images](/curricula/developing-accessible-content/images/).
 * [Tables](/curricula/developing-accessible-content/tables/).
