@@ -40,5 +40,4 @@ Its aims are to:
 * [Tables](/curricula/developing-accessible-content/tables/).
 * [Forms](/curricula/developing-accessible-content/forms/).
 * [Widgets](/curricula/developing-accessible-content/widgets/).
-* Testing Your Content.
 
