@@ -77,12 +77,15 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
       <th> Intermediate</th>
       <td>
+	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
         <ul>
-          <li> Structure and Semantics</li>
-          <li> Navigation and Menus</li>
-          <li> Forms and Input Elements</li>
-          <li> Widgets and Interaction</li>
-          <li> Testing Your Content</li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/semantics/' | relative_url }}">Semantics and Structure</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/menus/' | relative_url }}">Menus</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/images/' | relative_url }}">Images</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Tables</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/forms/' | relative_url }}">Forms</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/Widgets/' | relative_url }}">Widgets</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/testing-your-content/' | relative_url }}">Testing Your Content</a></li>
         </ul>
       </td>
       <td>
