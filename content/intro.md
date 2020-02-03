@@ -31,14 +31,63 @@ Its aims are to:
 * Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
-It addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor duration, examples, activities, and assessments to your particular audience.
+It addresses many different audiences, including people with different technical skills and knowledge about the topic.
+
+{% include excol.html type="start" %}
+
+## Course Examples
+
+{% include excol.html type="middle" %}
+
+The following is a set of scenarios where this curriculum could be implemented with examples of how long each of its modules could take:
+
+### Including Accessibility in a University ICT Program
+
+An estimate based on ECTS (European Credit Transfer and Accumulation System). One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of work.
+
+| Week | Title | ECTS |
+| --- | --- | --- |
+| 1 | Module 1: What is Web Accessibility | 0,1 |
+| 2 | Module 2: People and Digital Technology | 0,1 |
+| 3 | Module 3: Business Case and Benefits | 0,1 |
+| 4 | Module 4: Principles, Guidelines, and Checks | 0,1 |
+| 5 | Module 5: Applying and Managing Accessibility | 0,1 |
+|  | Total | 0,5 |
+
+### Consultancy Agency Course
+
+A consultancy agency delivers an introductory two-day course for an organization wanting to integrate accessibility throughout their design and development processes.
+
+| Day | Title | Duration (hours) |
+| --- | --- |
+| 1 | Module 1: What is Web Accessibility | 2 |
+| 1 | Module 2: People and Digital Technology | 4 |
+| 1 | Module 3: Business Case and Benefits | 2 |
+| 2 | Module 4: Principles, Guidelines and Checks | 4 |
+| 2 | Module 5: Applying and Managing Accessibility | 4 |
+| | Total | 16 |
+
+### MOOC Course
+
+A MOOC course designed for those who want to learn the fundamentals of web accessibility.
+
+| Week # | Title | Duration |
+| --- | --- | --- |
+| 1 | Module 1: What is Web Accessibility | 2-3 |
+| 2 | Module 2: People and Digital Technology | 4-5 |
+| 3 | Module 3: Business Case and Benefits | 2-3 |
+| 4 | Module 4: Principles, Guidelines and Checks | 4-5 |
+| 5 | Module 5: Applying and Managing Accessibility | 3-4 |
+| | Total | 13-20 |
+
+{% include excol.html type="end" %}
 
 ## Modules
 
 -   [Module 1: What is Web Accessibility](/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
     -   Topic: Stories of People with Disabilities.
     -   Topic: Scope of Web Accessibility.
-
+ 
 -   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
     -   Topic: Diverse Abilities, Tools, and Strategies.
     -   Topic: Components of Web Accessibility.
