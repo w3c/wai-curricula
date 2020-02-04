@@ -33,13 +33,13 @@ Its aims are to:
 
 It addresses many different audiences, including people with different technical skills and knowledge about the topic.
 
+The following is a set of course types where this curriculum could be implemented with examples of how long each of its modules could take:
+
 {% include excol.html type="start" %}
 
 ## Course Examples
 
 {% include excol.html type="middle" %}
-
-The following is a set of scenarios where this curriculum could be implemented with examples of how long each of its modules could take:
 
 ### Including Accessibility in a University ICT Program
 
