@@ -30,7 +30,7 @@ You can use these curricula in different contexts, including:
 * Guided and non-guided teaching.
 * Academic and vocational education.
 
- You can also use these curricula to [compare different course offerings](/curricula/comparing-course-offerings/).
+You can also use these curricula to [compare different course offerings](/curricula/comparing-course-offerings/).
 
 ## Structure
 
