@@ -13,7 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/semantics/
+  next: /curricula/developing-accessible-content/essentials-of-accessible-development/
 ---
 
 ## Introduction
@@ -23,9 +23,9 @@ This curriculum provides strategies, tools, and tips that help you teach how to 
 
 Its aims are to:
 
-* Introduce the concept of semantics in web content and applications.
+* Explain keyboard accessibility and focus management.
 * Explain how to convey the structure of documents using some HTML5 and WAI-ARIA elements.
-* Introduce techniques to create accessible menus and navigational elements.
+* Introduce techniques to create accessible navigation elements.
 * Provide guidance in how to make images accessible.
 * Provide code-based examples about how to properly associate table headers with their corresponding data cells.
 * Provide guidance in how to make forms accessible.
@@ -34,7 +34,7 @@ Its aims are to:
 
 ## Modules
 
-* [Semantics and Structure](/curricula/developing-accessible-content/semantics/).
+* [Essentials for Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
 * [Menus](/curricula/developing-accessible-content/menus/).
 * [Images](/curricula/developing-accessible-content/images/).
 * [Tables](/curricula/developing-accessible-content/tables/).
