@@ -250,7 +250,7 @@
         url: "/curricula/developing-accessible-content/images/"
       - name: "Tables"
         url: "/curricula/developing-accessible-content/tables/"
-      - name: "forms"
+      - name: "Forms"
         url: "/curricula/developing-accessible-content/forms/"
       - name: "Widgets"
         url: "/curricula/developing-accessible-content/widgets/"
