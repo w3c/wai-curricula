@@ -23,7 +23,7 @@ This curriculum provides strategies, tools, and tips that help you teach how to 
 
 Its aims are to:
 
-* Explain keyboard accessibility and focus management.
+* Explain some key terms of accessibility from a developers' perspective.
 * Explain how to convey the structure of documents using some HTML5 and WAI-ARIA elements.
 * Introduce techniques to create accessible navigation elements.
 * Provide guidance in how to make images accessible.
@@ -34,8 +34,8 @@ Its aims are to:
 
 ## Modules
 
-* [Essentials for Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
-* [Menus](/curricula/developing-accessible-content/menus/).
+* [Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
+* [Navigation](/curricula/developing-accessible-content/navigation/).
 * [Images](/curricula/developing-accessible-content/images/).
 * [Tables](/curricula/developing-accessible-content/tables/).
 * [Forms](/curricula/developing-accessible-content/forms/).
