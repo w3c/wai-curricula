@@ -79,13 +79,12 @@ The table below shows ideas for future curricula. When completed, they will be l
       <td>
 	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
         <ul>
-          <li> <a href="{{ '/curricula/developing-accessible-content/semantics/' | relative_url }}">Semantics and Structure</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/menus/' | relative_url }}">Menus</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/images/' | relative_url }}">Images</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Tables</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/forms/' | relative_url }}">Forms</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/Widgets/' | relative_url }}">Widgets</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/testing-your-content/' | relative_url }}">Testing Your Content</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/essentials-of-accessible-development/' | relative_url }}">Module 1: Essentials of Accessible Development</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/navigating-web-interfaces/' | relative_url }}">Module 2: Navigation</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/images/' | relative_url }}">Module 3: Images and Graphics</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Module 4: Tables</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/forms/' | relative_url }}">Module 5: Forms</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/Widgets/' | relative_url }}">Module 6: Widgets</a></li>
         </ul>
       </td>
       <td>
