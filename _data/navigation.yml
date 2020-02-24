@@ -245,7 +245,7 @@
       - name: "Essentials of Accessible Development"
         url: "/curricula/developing-accessible-content/essentials-of-accessible-development/"
       - name: "Navigation"
-        url: "/curricula/developing-accessible-content/navigation/ "
+        url: "/curricula/developing-accessible-content/navigating-web-interfaces/ "
       - name: "Images and Graphics"
         url: "/curricula/developing-accessible-content/images/"
       - name: "Tables"

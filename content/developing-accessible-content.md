@@ -35,7 +35,7 @@ Its aims are to:
 ## Modules
 
 * [Module 1: Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
-* [Module 2: Navigation](/curricula/developing-accessible-content/navigation/).
+* [Module 2: Navigation](/curricula/developing-accessible-content/navigating-web-interfaces/).
 * [Module 3: Images and Graphics](/curricula/developing-accessible-content/images/).
 * [Module 4: Tables](/curricula/developing-accessible-content/tables/).
 * [Module 5: Forms](/curricula/developing-accessible-content/forms/).
