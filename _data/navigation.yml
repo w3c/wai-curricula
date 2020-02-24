@@ -239,6 +239,21 @@
         url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
       - name: "Getting Started with Accessibility"
         url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
+    - name: "Developing Accessible Content"
+      url: "/curricula/developing-accessible-content/"
+      pages:
+      - name: "Essentials of Accessible Development"
+        url: "/curricula/developing-accessible-content/essentials-of-accessible-development/"
+      - name: "Navigation"
+        url: "/curricula/developing-accessible-content/navigating-web-interfaces/ "
+      - name: "Images and Graphics"
+        url: "/curricula/developing-accessible-content/images/"
+      - name: "Tables"
+        url: "/curricula/developing-accessible-content/tables/"
+      - name: "Forms"
+        url: "/curricula/developing-accessible-content/forms/"
+      - name: "Widgets"
+        url: "/curricula/developing-accessible-content/widgets/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
