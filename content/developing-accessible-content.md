@@ -21,16 +21,24 @@ navigation:
 
 This curriculum provides strategies, tools, and tips that help you teach how to develop accessible content. It is designed for any students who are developers or who are in the process of becoming a developer.
 
+These modules follow a universal design approach. They provide advise on a component basis for different types of scenarios and users.
+
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Explain how to convey the structure of documents using some HTML5 and WAI-ARIA elements.
-* Introduce techniques to create accessible navigation elements.
-* Provide guidance in how to make images accessible.
-* Provide code-based examples about how to properly associate table headers with their corresponding data cells.
-* Provide guidance in how to make forms accessible.
-* Introduce strategies that help to make complex widgets accessible.
-* Provide tips to test regularly all throughout the development process.
+* Provide guidance about making several web components accessible for the following users:
+  * Keyboard-only user.
+  * Assistive technology user.
+  * User of magnification.
+  * High contrast user.
+  * User with mobility impairments.
+
+## Prerequisites for Students
+
+To make the most out of these curriculum, students should have knowledge about courses based on the following modules from [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) curriculum:
+
+-   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+-   [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
 
 ## Modules
 
