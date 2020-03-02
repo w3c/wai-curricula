@@ -28,11 +28,13 @@ Its aims are to:
 * Explain some key terms of accessibility from a developers' perspective.
 * Provide guidance about making several web components accessible for the following users:
   * Keyboard-only user.
-  * Assistive technology user.
+  * Screen reader user.
   * User of magnification.
   * High contrast user.
   * User with mobility impairments.
-
+  * User with hearing disabilities.
+  * User with cognitive disabilities.
+  
 ## Prerequisites for Students
 
 To make the most out of these curriculum, students should have knowledge about courses based on the following modules from [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) curriculum:
