@@ -39,14 +39,14 @@ Each curriculum contains:
 * Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety.
 * Topics &mdash; Thematic gathering of objectives within a module, which are not necessarily taught in a specific order.
 
-The curricula define:
+Each module defines:
 
 * Learning Outcomes &mdash; What students will learn and should be able to demonstrate. This is the core of the curricula.
 * Teaching Ideas &mdash; Suggested ideas to help instructors teach the learning outcomes.
 * Ideas to Assess Knowledge &mdash; Suggested ideas to help instructors assess the knowledge acquired by the students.
 * Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
-Each curriculum also specifies competencies that students are expected to have prior to taking a course, and the competences that instructors are expected to have to deliver it.
+Each module also specifies competencies that students are expected to have prior to taking a course, and the competencies that instructors are expected to have to deliver it.
 
 ## Future Outline
 
