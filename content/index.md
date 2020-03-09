@@ -36,7 +36,7 @@ You can also use these curricula to [compare different course offerings](/curric
 
 Each curriculum contains:
 
-* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety.
+* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. You can combine them as needed to build courses for a variety of roles.
 * Topics &mdash; Thematic gathering of objectives within a module, which are not necessarily taught in a specific order.
 
 Each module defines:

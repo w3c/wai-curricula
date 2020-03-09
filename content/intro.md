@@ -43,7 +43,7 @@ The following is a set of course types where this curriculum could be implemente
 
 ### Including Accessibility in a University ICT Program
 
-An estimate based on ECTS (European Credit Transfer and Accumulation System). One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of work.
+The following table shows an estimate based on ECTS (European Credit Transfer and Accumulation System). One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 | Week | Title | ECTS |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ A consultancy agency delivers an introductory two-day course for an organization
 
 ### MOOC Course
 
-A MOOC course designed for those who want to learn the fundamentals of web accessibility.
+A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility \ EDX](https://www.edx.org/course/web-accessibility-introduction).
 
 | Week # | Title | Duration |
 | --- | --- | --- |
