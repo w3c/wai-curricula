@@ -33,17 +33,41 @@ Its aims are to:
 
 It addresses many different audiences, including people with different technical skills and knowledge about the topic.
 
-The following is a set of course types where this curriculum could be implemented with examples of how long each of its modules could take:
+## Modules
+
+-   [Module 1: What is Web Accessibility](/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
+    -   Topic: Stories of People with Disabilities.
+    -   Topic: Scope of Web Accessibility.
+ 
+-   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+    -   Topic: Diverse Abilities, Tools, and Strategies.
+    -   Topic: Components of Web Accessibility.
+
+-   [Module 3: Business Case and Benefits](/curricula/introduction-to-web-accessibility/business-case-and-benefits/) --- Introduces the business case for web accessibility and presents some benefits, such as enhancing your brand, increasing market reach, driving innovation, and minimizing legal risk.
+    -   Topic: Benefits of Accessibility.
+
+-   [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) --- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+    -   Topic: Principles of Web Accessibility.
+    -   Topic: W3C Accessibility Standards.
+    -   Topic: Hands-on Experience of Standards.
+
+-   [Module 5: Getting Started with Accessibility](/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) --- Provides an overview of organizational planning and managing considerations to integrate accessibility throughout the web production process, and of different accessibility roles and responsibilities involved.
+    -   Topic: Planning and Managing Web Accessibility.
+    -   Topic: Developing Policies and Statements.
+    -   Topic: Roles and Responsibilities.
+    -   Topic: Accessibility in an Existing Project.
 
 {% include excol.html type="start" %}
 
-## Course Examples
+## Example Scenarios
 
 {% include excol.html type="middle" %}
 
+The following is a set of scenarios where this curriculum could be implemented with examples of how long each of its modules could take.
+
 ### Including Accessibility in a University ICT Program
 
-The following table shows an estimate based on ECTS (European Credit Transfer and Accumulation System). One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+An estimate showing how many ECTSs (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 | Week | Title | ECTS |
 | --- | --- | --- |
@@ -82,26 +106,3 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 
 {% include excol.html type="end" %}
 
-## Modules
-
--   [Module 1: What is Web Accessibility](/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
-    -   Topic: Stories of People with Disabilities.
-    -   Topic: Scope of Web Accessibility.
- 
--   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
-    -   Topic: Diverse Abilities, Tools, and Strategies.
-    -   Topic: Components of Web Accessibility.
-
--   [Module 3: Business Case and Benefits](/curricula/introduction-to-web-accessibility/business-case-and-benefits/) --- Introduces the business case for web accessibility and presents some benefits, such as enhancing your brand, increasing market reach, driving innovation, and minimizing legal risk.
-    -   Topic: Benefits of Accessibility.
-
--   [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) --- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
-    -   Topic: Principles of Web Accessibility.
-    -   Topic: W3C Accessibility Standards.
-    -   Topic: Hands-on Experience of Standards.
-
--   [Module 5: Getting Started with Accessibility](/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) --- Provides an overview of organizational planning and managing considerations to integrate accessibility throughout the web production process, and of different accessibility roles and responsibilities involved.
-    -   Topic: Planning and Managing Web Accessibility.
-    -   Topic: Developing Policies and Statements.
-    -   Topic: Roles and Responsibilities.
-    -   Topic: Accessibility in an Existing Project.
