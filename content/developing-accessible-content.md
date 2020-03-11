@@ -37,10 +37,10 @@ Its aims are to:
   
 ## Prerequisites for Students
 
-To make the most out of these curriculum, students should have knowledge about courses based on the following modules from [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) curriculum:
+To make the most out of these curriculum, students should have knowledge about courses based on the following modules:
 
--   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
--   [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+-   [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+-   [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
 
 ## Modules
 
