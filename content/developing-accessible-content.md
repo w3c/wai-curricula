@@ -56,11 +56,11 @@ To make the most out of these curriculum, students should have knowledge about c
     -   Topic: Including Images in Websites
 -   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
     -   Topic: Navigating Tabular Information.
-    -   Topic: Contextual Information for Tables](/curricula/developing-accessible-content/tables/#topic-contextual-information-for-tables).
+    -   Topic: Contextual Information for Tables.
     -   Topic: Associating Information.
 -   [Module 5: Forms](/curricula/developing-accessible-content/forms/).
     -   Topic: Interacting with Forms.
-    -   [Topic: Identifying Form Fields.
+    -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
 -   Module 6: Widgets [TBD).
