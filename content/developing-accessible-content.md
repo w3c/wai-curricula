@@ -50,7 +50,7 @@ To make the most out of these curriculum, students should have knowledge about c
 -   [Module 2: Navigating Web Interfaces](/curricula/developing-accessible-content/navigating-web-interfaces/).
     -   Topic: Patterns for Navigation.
     -   Topic: Structuring and Labeling Navigational Elements.
-    -   Topic: Additional Functionality](/curricula/developing-accessible-content/navigating-web-interfaces/#topic-additional-functionality).
+    -   Topic: Additional Functionality.
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
     -   Topic: Images for All.
     -   Topic: Including Images in Websites
