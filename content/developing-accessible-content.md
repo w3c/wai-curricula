@@ -63,4 +63,4 @@ To make the most out of this curriculum, students should have knowledge about th
     -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
--   Module 6: Widgets [TBD).
+-   [Module 6: Widgets](/curricula/developing-accessible-content/widgets).
