@@ -19,49 +19,48 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum provides strategies, tools, and tips that help you teach how to develop accessible content. It is designed for any students who are developers or who are in the process of becoming a developer.
+This curriculum provides strategies, tools, and tips that help you teach how to develop accessible content. It is designed for any students who are developers or who are in the process of becoming a developer, with special focus on front-end developing techniques.
 
 These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
 
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Provide guidance about making several web components accessible for the following users:
-  * Keyboard-only user.
-  * Screen reader user.
-  * User of magnification.
-  * High contrast user.
-  * User with mobility impairments.
-  * User with hearing disabilities.
-  * User with cognitive disabilities.
+* Provide guidance about making several web components accessible for:
+  * Keyboard-only users.
+  * Screen reader users.
+  * Users of magnification.
+  * High contrast users.
+  * Users with mobility impairments.
+  * Users with hearing disabilities.
+  * Users with cognitive disabilities.
   
 ## Prerequisites for Students
 
-To make the most out of these curriculum, students should have knowledge about courses based on the following modules from [Introduction to Web Accessibility](/curricula/introduction-to-web-accessibility/) curriculum:
+To make the most out of this curriculum, students should have knowledge about the following modules:
 
--   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
--   [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+-   [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) -- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+-   [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
 
 ## Modules
 
-* [Module 1: Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
-  * [Topic: Different Ways of Browsing the Web](/curricula/developing-accessible-content/essentials-of-accessible-development/#topic-different-ways-of-browsing-the-web).
-  * [Topic: Semantics and Structure](/curricula/developing-accessible-content/essentials-of-accessible-development/#topic-semantics-and-structure).
-* [Module 2: Navigating Web Interfaces](/curricula/developing-accessible-content/navigating-web-interfaces/).
-  * [Topic: Patterns for Navigation](/curricula/developing-accessible-content/navigating-web-interfaces/#topic-patterns-for-navigation).
-  * [Topic: Structuring and Labeling Navigational Elements](/curricula/developing-accessible-content/navigating-web-interfaces/#topic-structuring-and-labeling-navigational-elements).
-  * [Topic: Additional Functionality](/curricula/developing-accessible-content/navigating-web-interfaces/#topic-additional-functionality).
-* [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
-  * [Topic: Images for All](/curricula/developing-accessible-content/images-and-graphics/#topic-images-for-all).
-  * [Topic: Including Images in Websites](/curricula/developing-accessible-content/images-and-graphics/#topic-including-images-in-websites).
-* [Module 4: Tables](/curricula/developing-accessible-content/tables/).
-  * [Topic: Navigating Tabular Information](/curricula/developing-accessible-content/tables/#topic-navigating-tabular-information).
-  * [Topic: Contextual Information for Tables](/curricula/developing-accessible-content/tables/#topic-contextual-information-for-tables).
-  * [Topic: Associating Information](/curricula/developing-accessible-content/tables/#topic-associating-information).
-* [Module 5: Forms](/curricula/developing-accessible-content/forms/).
-  * [Topic: Interacting with Forms](/curricula/developing-accessible-content/forms/#topic-interacting-with-forms).
-  * [Topic: Identifying Form Fields](/curricula/developing-accessible-content/forms/#topic-identifying-form-fields).
-  * [Topic: Validating User Input](/curricula/developing-accessible-content/forms/#topic-validating-user-input).
-  * [Topic: Notifying Users](/curricula/developing-accessible-content/forms/#topic-notifying-users).
-* Module 6: Widgets [TBD).
-
+-   [Module 1: Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
+    -   Topic: Different Ways of Browsing the Web.
+    -   Topic: Semantics and Structure.
+-   [Module 2: Navigating Web Interfaces](/curricula/developing-accessible-content/navigating-web-interfaces/).
+    -   Topic: Patterns for Navigation.
+    -   Topic: Structuring and Labeling Navigational Elements.
+    -   Topic: Additional Functionality.
+-   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
+    -   Topic: Images for All.
+    -   Topic: Including Images in Websites
+-   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
+    -   Topic: Navigating Tabular Information.
+    -   Topic: Contextual Information for Tables.
+    -   Topic: Associating Information.
+-   [Module 5: Forms](/curricula/developing-accessible-content/forms/).
+    -   Topic: Interacting with Forms.
+    -   Topic: Identifying Form Fields.
+    -   Topic: Validating User Input
+    -   Topic: Notifying Users.
+-   Module 6: Widgets [TBD).
