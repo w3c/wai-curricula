@@ -154,7 +154,7 @@
         url: "https://www.w3.org/WAI/tutorials/menus/"
         different: true
       - name: Images
-        url: "https://www.w3.org/WAI/tutorials/images/"
+        url: "https://www.w3.org/WAI/tutorials/images-and-graphics/"
         different: true
       - name: Tables
         url: "https://www.w3.org/WAI/tutorials/tables/"
