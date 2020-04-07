@@ -34,8 +34,6 @@ Its aims are to:
   * Users with cognitive disabilities.
 
 These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
-  
-These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
 
 ## Prerequisites for Students
 
