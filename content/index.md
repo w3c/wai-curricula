@@ -84,7 +84,7 @@ The table below shows ideas for future curricula. When completed, they will be l
           <li> <a href="{{ '/curricula/developing-accessible-content/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
           <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Module 4: Tables</a></li>
           <li> <a href="{{ '/curricula/developing-accessible-content/forms/' | relative_url }}">Module 5: Forms</a></li>
-          <li>Module 6: Widgets [TBD]</li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/widgets">Module 6: Widgets</a></li>
         </ul>
       </td>
       <td>
