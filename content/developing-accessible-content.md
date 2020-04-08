@@ -19,9 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum provides strategies, tools, and tips that help you teach how to develop accessible content. It is designed for any students who are developers or who are in the process of becoming a developer, with special focus on front-end developing techniques.
-
-These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
+This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for developers, with special focus on front-end developing techniques.
 
 Its aims are to:
 
@@ -34,7 +32,9 @@ Its aims are to:
   * Users with mobility impairments.
   * Users with hearing disabilities.
   * Users with cognitive disabilities.
-  
+
+These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
+
 ## Prerequisites for Students
 
 To make the most out of this curriculum, students should have knowledge about the following modules:
@@ -63,4 +63,4 @@ To make the most out of this curriculum, students should have knowledge about th
     -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
--   Module 6: Widgets [TBD).
+-   [Module 6: Widgets](/curricula/developing-accessible-content/widgets).
