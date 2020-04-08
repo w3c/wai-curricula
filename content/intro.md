@@ -80,7 +80,7 @@ An estimate showing how many ECTSs (European Credit Transfer and Accumulation Sy
 
 ### Consultancy Agency Course
 
-A consultancy agency delivers an introductory two-day course for an organization wanting to integrate accessibility throughout their design and development processes.
+A consultancy agency delivers an introductory two-day course for an organization.
 
 | Day | Title | Duration (hours) |
 | --- | --- |
@@ -102,7 +102,7 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 | 3 | Module 3: Business Case and Benefits | 2-3 |
 | 4 | Module 4: Principles, Guidelines and Checks | 4-5 |
 | 5 | Module 5: Applying and Managing Accessibility | 3-4 |
-| | Total | 13-20 |
+| | Total | 15-20 |
 
 {% include excol.html type="end" %}
 
