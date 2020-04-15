@@ -13,7 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/essentials-of-accessible-development/
+  next: /curricula/developing-accessible-content/page-structure/
 ---
 
 ## Introduction
@@ -44,10 +44,10 @@ To make the most out of this curriculum, students should have knowledge about th
 
 ## Modules
 
--   [Module 1: Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
+-   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
     -   Topic: Different Ways of Browsing the Web.
     -   Topic: Semantics and Structure.
--   [Module 2: Navigating Web Interfaces](/curricula/developing-accessible-content/navigating-web-interfaces/).
+-   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Patterns for Navigation.
     -   Topic: Structuring and Labeling Navigational Elements.
     -   Topic: Additional Functionality.
