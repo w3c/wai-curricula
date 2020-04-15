@@ -15,15 +15,40 @@ footer: > # Text in footer in HTML
 
 ## Introduction
 
-This page provides further guidance on how to compare and select course offerings using the materials of the WAI-Curricula.
+This page provides further guidance on how to compare and select course offerings using the materials of the WAI Curricula.
 
-It helps you select courses by presenting several aspects that might be taken into account when analyzing course offerings.
+It helps you select courses by presenting several indicators that might be taken into account when analyzing course offerings.
 
-## Comparing Course Offerings
+## Course Quality Indicators
 
-* Learning Outcomes -- First, ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined in the curricula, but it is advisable that at least those at a module level are covered.
-* Teaching Ideas -- Focus on how the course offeror plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course. 
-* Ideas to Assess Knowledge -- Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating system (if any).
-* Course accreditation -- Ask if the provider offers credentials after course completion, such as certificates or free choice subject credits.
-* Availability of materials -- Ask the provider how they will make materials available to you and if they are going to let you keep the slides and/or handouts.
-* Specific audience needs -- Make sure the course offeror will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, you can refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+### Learning Outcomes
+
+Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
+
+* Those at a module level are covered.
+* Those from the introductory modules are addressed before addressing any other specific role.
+* Those related to how people with disabilities use the Web are paid especial attention.
+
+### Teaching Ideas
+
+Focus on how the course offeror plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course. 
+
+### Ideas to Assess Knowledge
+
+Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any).
+
+
+### Course Accreditation
+
+Ask if the provider offers credentials after course completion, such as certificates or free choice subject credits.
+
+
+### Availability of Maaterials
+
+Ask the provider how they will make materials available to you and if they are going to let you keep the slides and/or handouts.
+
+
+
+### Specific Audience Needs
+
+Make sure the course offeror will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, you can refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
