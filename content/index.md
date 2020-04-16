@@ -30,6 +30,8 @@ You can use these curricula in different contexts, including:
 * Guided and non-guided teaching.
 * Academic and vocational education.
 
+You are encouraged to combine the different modules to address the needs of several roles together.
+
 You can also use these curricula to [compare different course offerings](/curricula/comparing-course-offerings/).
 
 ## Structure
@@ -48,9 +50,11 @@ Each module defines:
 
 Each module also specifies competencies that students are expected to have prior to taking a course, and the competencies that instructors are expected to have to deliver it.
 
+These modules follow a universal design approach. They provide advice for different components, scenarios, and users.
+
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently the first curriculum "Introduction to Web Accessibility" is available. The second, "Developing Accessible Content', is drafted.
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
