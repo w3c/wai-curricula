@@ -69,40 +69,124 @@ The following is a set of scenarios where this curriculum could be implemented w
 
 An estimate showing how many ECTSs (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
-| Week | Title | ECTS |
-| --- | --- | --- |
-| 1 | Module 1: What is Web Accessibility | 0,1 |
-| 2 | Module 2: People and Digital Technology | 0,1 |
-| 3 | Module 3: Business Case and Benefits | 0,1 |
-| 4 | Module 4: Principles, Guidelines, and Checks | 0,1 |
-| 5 | Module 5: Applying and Managing Accessibility | 0,1 |
-|  | Total | 0,5 |
+<table caption="University ICT Program">
 
+<tr>
+<th>Week</th>
+<th>Title</th>
+<th>ECTS</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 1: What is Web Accessibility</td>
+<td>0,1</td>
+</tr>
+<tr>
+<th>2</td>
+<td>Module 2: People and Digital Technology</td>
+<td>0,1</td>
+</tr>
+<tr>
+<th>3</td>
+<td>Module 3: Business Case and Benefit</td>
+<td>0,1</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Module 4: Principles, Guidelines, and Checks</td>
+<td>0,1</td>
+</tr>
+<tr>
+<th>5
+<td>Module 5: Applying and Managing Accessibility</td>
+<td>0,1</td>
+</tr>
+<tr>
+<th colspan=2>Total</th>
+<td>0,5</td>
+</tr>
+</table>
 ### Consultancy Agency Course
 
 A consultancy agency delivers an introductory two-day course for an organization.
 
-| Day | Title | Duration (hours) |
-| --- | --- |
-| 1 | Module 1: What is Web Accessibility | 2 |
-| 1 | Module 2: People and Digital Technology | 4 |
-| 1 | Module 3: Business Case and Benefits | 2 |
-| 2 | Module 4: Principles, Guidelines and Checks | 4 |
-| 2 | Module 5: Applying and Managing Accessibility | 4 |
-| | Total | 16 |
+<table caption="Consultancy Agency Course">
+<tr>
+<th>Day</th>
+<th>Title</th>
+<th>Duration (hours)</th>
+</tr>
+<tr>
+<th>1</th>
+ <td>Module 1: What is Web Accessibility</td>
+ <td>2</td>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 2: People and Digital Technology</td>
+<td>4</td>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 3: Business Case and Benefits</td>
+<td>2</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 4: Principles, Guidelines and Checks</td>
+<td>4</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 5: Applying and Managing Accessibility</td>
+<td>4</td>
+</tr>
+<tr>
+<th colspan=2>Total</th>
+<td>16</td>
+</tr>
+</table>
 
 ### MOOC Course
 
 A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility \ EDX](https://www.edx.org/course/web-accessibility-introduction).
 
-| Week # | Title | Duration |
-| --- | --- | --- |
-| 1 | Module 1: What is Web Accessibility | 2-3 |
-| 2 | Module 2: People and Digital Technology | 4-5 |
-| 3 | Module 3: Business Case and Benefits | 2-3 |
-| 4 | Module 4: Principles, Guidelines and Checks | 4-5 |
-| 5 | Module 5: Applying and Managing Accessibility | 3-4 |
-| | Total | 15-20 |
+<table caption="MOOC Course">
+<tr>
+<th>Week</th>
+<th>Title</th>
+<th>Duration </th>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 1: What is Web Accessibility</td>
+<td>2-3</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 2: People and Digital Technology</td>2
+<td>4-5</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Module 3: Business Case and Benefits</td>
+<td>2-3</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Module 4: Principles, Guidelines and Checks</td>
+<td>4-5</td>
+</tr>
+<tr>
+<th>5</th>
+<td>Module 5: Applying and Managing Accessibility</td>
+ <td>3-4</td>
+ </tr>
+ <tr>
+<th colspan=2>Total</th>
+ <td>15-20</td>
+ </tr>
+ </table>
 
 {% include excol.html type="end" %}
 
