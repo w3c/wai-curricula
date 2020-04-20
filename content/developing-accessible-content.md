@@ -26,12 +26,12 @@ Its aims are to:
 * Explain some key terms of accessibility from a developers' perspective.
 * Provide guidance about making several web components accessible for:
   * Keyboard-only users.
-  * Screen reader users.
-  * Users of magnification.
+  * Users with visual disabilities.
   * High contrast users.
-  * Users with mobility impairments.
+  * Users with motor disabilities.
   * Users with hearing disabilities.
   * Users with cognitive disabilities.
+  * Older people.
 
 These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
 
