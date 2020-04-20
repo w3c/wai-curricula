@@ -33,8 +33,6 @@ Its aims are to:
   * Users with cognitive disabilities.
   * Older people.
 
-These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
-
 ## Prerequisites for Students
 
 To make the most out of this curriculum, students should have knowledge about the following modules:
