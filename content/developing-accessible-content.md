@@ -13,7 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/essentials-of-accessible-development/
+  next: /curricula/developing-accessible-content/page-structure/
 ---
 
 ## Introduction
@@ -24,16 +24,12 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Provide guidance about making several web components accessible for:
-  * Keyboard-only users.
-  * Screen reader users.
-  * Users of magnification.
-  * High contrast users.
-  * Users with mobility impairments.
-  * Users with hearing disabilities.
-  * Users with cognitive disabilities.
-
-These modules follow a universal design approach. They provide advice on a component basis for different types of scenarios and users.
+* Provide markup and code-based techniques to make the following components accessible:
+  * Page structure.
+  * Navigation.
+  * Images and graphics.
+  * Tables.
+  * Forms.
 
 ## Prerequisites for Students
 
@@ -44,10 +40,10 @@ To make the most out of this curriculum, students should have knowledge about th
 
 ## Modules
 
--   [Module 1: Essentials of Accessible Development](/curricula/developing-accessible-content/essentials-of-accessible-development/).
+-   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
     -   Topic: Different Ways of Browsing the Web.
     -   Topic: Semantics and Structure.
--   [Module 2: Navigating Web Interfaces](/curricula/developing-accessible-content/navigating-web-interfaces/).
+-   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Patterns for Navigation.
     -   Topic: Structuring and Labeling Navigational Elements.
     -   Topic: Additional Functionality.
