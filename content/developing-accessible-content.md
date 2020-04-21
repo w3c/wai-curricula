@@ -24,14 +24,12 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Provide guidance about making several web components accessible for:
-  * Keyboard-only users.
-  * Users with visual disabilities.
-  * High contrast users.
-  * Users with motor disabilities.
-  * Users with hearing disabilities.
-  * Users with cognitive disabilities.
-  * Older people.
+* Provide markup and code-based solutions to include accessibility in:
+  * Page structure.
+  * Navigation.
+  * Images and graphics.
+  * Tables.
+  * Forms.
 
 ## Prerequisites for Students
 
