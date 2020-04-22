@@ -226,6 +226,8 @@
   - name: "Curricula on Web Accessibility"
     url: "/curricula/"
     pages:
+    - name: "How to Use this Curricula"
+      url: "/curricula/how-to-use-this-curricula/"
     - name: "Introduction to Web Accessibility"
       url: "/curricula/introduction-to-web-accessibility/"
       pages:
