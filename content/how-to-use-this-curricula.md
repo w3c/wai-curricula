@@ -18,16 +18,17 @@ footer: > # Text in footer in HTML
 This page provides further guidance on how to use the materials of the WAI Curricula.
 
 It helps you:
+
 * Assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
 * Select courses by presenting several indicators that might be taken into account when analyzing course offerings.
 
 ## Example Scenarios
 
-The following is a set of possible implementations for the WAI Curricula. Some of them take a complete curriculum, some others combine several modules of different curricula to address various roles together.
+The following are possible implementations for the WAI Curricula. Some of them take a complete curriculum, some others combine several modules of different curricula to address various roles together.
 
 ### Including Accessibility in a University ICT Program
 
-An estimate showing how many ECTSs (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+An estimate showing how many ECTS (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 <table caption="University ICT Program">
 
@@ -150,13 +151,15 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 
 ## Course Quality Indicators
 
+The following is a list of indicators that can serve you to compare and  select courses of the WAI Curricula.
+
 ### Learning Outcomes
 
 Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
 * Those at a module level are covered.
-* Those from the introductory modules are addressed before addressing any other specific role.
-* Those related to how people with disabilities use the Web are paid especial attention.
+* Those from the introductory modules are addressed before any other specific role.
+* Those related to how people with disabilities use the Web are part of the course.
 
 ### Teaching Ideas
 
@@ -169,14 +172,12 @@ Focus on how the provider plans to assess knowledge. Ask for specific activities
 
 ### Course Accreditation
 
-Ask if the provider offers credentials after course completion, such as certificates or free choice subject credits.
+Ask if the provider offers credentials after course completion. For example, certificates or free choice subject credits.
 
 
 ### Availability of Materials
 
 Ask the provider how they will make materials available to you and if they are going to let you keep the slides and/or handouts.
-
-
 
 ### Specific Audience Needs
 
