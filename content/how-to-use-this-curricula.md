@@ -111,15 +111,15 @@ A consultancy agency delivers an introductory two-day course for an organization
 <th colspan="2">Total</th>
 <td>16</td>
 </tr>
-<tbody>
+</tbody>
 </table>
 
 ### MOOC Course
 
-A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility \ EDX](https://www.edx.org/course/web-accessibility-introduction).
+A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
 
 <table>
-<caption="MOOC Course" </caption>
+<caption>MOOC Course</caption>
 <tbody><tr>
 <th>Week</th>
 <th>Title</th>
