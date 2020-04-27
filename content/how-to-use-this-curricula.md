@@ -30,8 +30,9 @@ The following are possible implementations for the WAI Curricula. Some of them t
 
 An estimate showing how many ECTS (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
-<table caption="University ICT Program">
-
+<table>
+<caption>University ICT Program</caption>
+<tbody>
 <tr>
 <th>Week</th>
 <th>Title</th>
@@ -43,12 +44,12 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 <td>0,1</td>
 </tr>
 <tr>
-<th>2</td>
+<th>2</th>
 <td>Module 2: People and Digital Technology</td>
 <td>0,1</td>
 </tr>
 <tr>
-<th>3</td>
+<th>3</th>
 <td>Module 3: Business Case and Benefit</td>
 <td>0,1</td>
 </tr>
@@ -58,21 +59,24 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 <td>0,1</td>
 </tr>
 <tr>
-<th>5
+<th>5</th>
 <td>Module 5: Applying and Managing Accessibility</td>
 <td>0,1</td>
 </tr>
 <tr>
-<th colspan=2>Total</th>
+<th colspan="2">Total</th>
 <td>0,5</td>
 </tr>
+</tbody>
 </table>
 
 ### Consultancy Agency Course
 
 A consultancy agency delivers an introductory two-day course for an organization.
 
-<table caption="Consultancy Agency Course">
+<table>
+<caption>Consultancy Agency Course </caption>
+<tbody>
 <tr>
 <th>Day</th>
 <th>Title</th>
@@ -104,17 +108,19 @@ A consultancy agency delivers an introductory two-day course for an organization
 <td>4</td>
 </tr>
 <tr>
-<th colspan=2>Total</th>
+<th colspan="2">Total</th>
 <td>16</td>
 </tr>
+<tbody>
 </table>
 
 ### MOOC Course
 
 A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility \ EDX](https://www.edx.org/course/web-accessibility-introduction).
 
-<table caption="MOOC Course">
-<tr>
+<table>
+<caption="MOOC Course" </caption>
+<tbody><tr>
 <th>Week</th>
 <th>Title</th>
 <th>Duration </th>
@@ -145,9 +151,10 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
  <td>3-4</td>
  </tr>
  <tr>
-<th colspan=2>Total</th>
+<th colspan="2">Total</th>
  <td>15-20</td>
  </tr>
+ </tbody>
  </table>
 
 ## Course Indicators
