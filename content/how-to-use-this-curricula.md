@@ -20,7 +20,7 @@ This page provides further guidance on how to use the materials of the WAI Curri
 It helps you:
 
 * Assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
-* Select courses by presenting several indicators that might be taken into account when analyzing course offerings.
+* Select courses by presenting several indicators when analyzing course offerings.
 
 ## Example Scenarios
 
@@ -67,6 +67,7 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 <td>0,5</td>
 </tr>
 </table>
+
 ### Consultancy Agency Course
 
 A consultancy agency delivers an introductory two-day course for an organization.
@@ -149,11 +150,12 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
  </tr>
  </table>
 
-## Course Quality Indicators
+## Course Indicators
 
-The following is a list of indicators that can serve you to compare and  select courses of the WAI Curricula.
+The following is a list of indicators to compare and select courses based on the WAI Curricula.
 
 ### Learning Outcomes
+Learning outcomes are usually defined as what a student should be able to demonstrate at completion of a particular course.
 
 Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
@@ -163,17 +165,15 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 
 ### Teaching Ideas
 
-Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course. 
+Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course. Will the teaching be face-to-face? Will the course be conducted completely online? Will teaching strategies include theoretical knowledge of the subjects covered? Will they include interaction with assistive technologies, people with disabilities?
 
 ### Ideas to Assess Knowledge
 
-Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any).
-
+Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one activity per learning outcome.
 
 ### Course Accreditation
 
-Ask if the provider offers credentials after course completion. For example, certificates or free choice subject credits.
-
+Ask if the provider offers credentials after course completion. For example, certificates or free choice subject credits. An example of such accreditation system can be found at the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/).
 
 ### Availability of Materials
 
