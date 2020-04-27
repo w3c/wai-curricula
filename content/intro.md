@@ -31,14 +31,14 @@ Its aims are to:
 * Explain how to carry out preliminary accessibility evaluation.
 * Describe how to plan for and manage implementation.
 
-It addresses many different audiences, including people with different technical skills and knowledge about the topic.
+It addresses many different audiences, including people with different technical skills and knowledge about the topic. Tailor duration, examples, activities, and assessments to your particular audience.
 
 ## Modules
 
 -   [Module 1: What is Web Accessibility](/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
     -   Topic: Stories of People with Disabilities.
     -   Topic: Scope of Web Accessibility.
- 
+
 -   [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
     -   Topic: Diverse Abilities, Tools, and Strategies.
     -   Topic: Components of Web Accessibility.
@@ -56,4 +56,3 @@ It addresses many different audiences, including people with different technical
     -   Topic: Developing Policies and Statements.
     -   Topic: Roles and Responsibilities.
     -   Topic: Accessibility in an Existing Project.
-
