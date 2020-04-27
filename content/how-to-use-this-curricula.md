@@ -41,31 +41,31 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 <tr>
 <th>1</th>
 <td>Module 1: What is Web Accessibility</td>
-<td>0,1</td>
+<td>0.1</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Module 2: People and Digital Technology</td>
-<td>0,1</td>
+<td>0.1</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Module 3: Business Case and Benefit</td>
-<td>0,1</td>
+<td>0.1</td>
 </tr>
 <tr>
 <th>4</th>
 <td>Module 4: Principles, Guidelines, and Checks</td>
-<td>0,1</td>
+<td>0.1</td>
 </tr>
 <tr>
 <th>5</th>
 <td>Module 5: Applying and Managing Accessibility</td>
-<td>0,1</td>
+<td>0.1</td>
 </tr>
 <tr>
 <th colspan="2">Total</th>
-<td>0,5</td>
+<td>0.5</td>
 </tr>
 </tbody>
 </table>
@@ -157,12 +157,77 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
  </tbody>
  </table>
 
+### A Course for professionals sharing different roles
+
+A combination of knowledge for several roles.
+
+<table>
+<caption>Several roles together</caption>
+<tbody>
+<tr>
+<th>Day</th>
+<th>Title</th>
+<th>Duration (hours)</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 2: People and Digital Technology</td>
+<td>3</td>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 4: Principles, Guidelines, and Checks</td>
+<td>3</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 1: Structure and Semantics</td>
+<td>1</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 2: Navigation and Menus</td>
+<td>1</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 3: Images and Graphics</td>
+<td>1</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 4: Tables</td>
+<td>1</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 5: Forms</td>
+<td>1</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Module 1: Contrast Ratios</td>
+<td>1</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Module 2: Font Styles and Sizes</td>
+<td>1</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Module 3: Rezising Content</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
 ## Course Indicators
 
 The following is a list of indicators to compare and select courses based on the WAI Curricula.
 
 ### Learning Outcomes
-Learning outcomes are usually defined as what a student should be able to demonstrate at completion of a particular course.
+Learning outcomes are usually defined as what a student should be able to demonstrate after completion of a particular course.
 
 Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
@@ -172,7 +237,11 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 
 ### Teaching Ideas
 
-Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course. Will the teaching be face-to-face? Will the course be conducted completely online? Will teaching strategies include theoretical knowledge of the subjects covered? Will they include interaction with assistive technologies, people with disabilities?
+Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
+* Will the teaching be face-to-face?
+* Will the course be conducted completely online?
+* Will teaching strategies include theoretical knowledge of the subjects covered?
+* Will such strategies include interaction with assistive technologies, people with disabilities?
 
 ### Ideas to Assess Knowledge
 
