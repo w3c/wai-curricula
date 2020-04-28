@@ -103,14 +103,14 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 <tr>
 <th>5</th>
 <td>Module 5: Applying and Managing Accessibility</td>
- <td>3-4</td>
- </tr>
- <tr>
+<td>3-4</td>
+</tr>
+<tr>
 <th colspan="2">Total</th>
- <td>15-20</td>
- </tr>
- </tbody>
- </table>
+<td>15-20</td>
+</tr>
+</tbody>
+</table>
 
 ### A Course for professionals sharing different roles
 
