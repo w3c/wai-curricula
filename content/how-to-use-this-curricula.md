@@ -17,10 +17,9 @@ footer: > # Text in footer in HTML
 
 This page provides further guidance on how to use the materials of the WAI Curricula.
 
-It helps you:
+It helps you assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
 
-* Assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
-* Select courses by presenting several indicators when analyzing course offerings.
+It also helps you select courses by presenting several indicators when analyzing course offerings.
 
 ## Example Scenarios
 
@@ -28,7 +27,7 @@ The following are possible implementations for the WAI Curricula. Some of them t
 
 ### Including Accessibility in a University ICT Program
 
-An estimate showing how many ECTS (European Credit Transfer and Accumulation System) each of the modules would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+An estimate showing how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 <table>
 <caption>University ICT Program</caption>
@@ -50,7 +49,7 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 </tr>
 <tr>
 <th>3</th>
-<td>Module 3: Business Case and Benefit</td>
+<td>Module 3: Business Case and Benefits</td>
 <td>0.1</td>
 </tr>
 <tr>
