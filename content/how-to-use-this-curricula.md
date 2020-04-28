@@ -69,50 +69,6 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 </tbody>
 </table>
 
-### Consultancy Agency Course
-
-A consultancy agency delivers an introductory two-day course for an organization.
-
-<table>
-<caption>Consultancy Agency Course </caption>
-<tbody>
-<tr>
-<th>Day</th>
-<th>Title</th>
-<th>Duration (hours)</th>
-</tr>
-<tr>
-<th>1</th>
- <td>Module 1: What is Web Accessibility</td>
- <td>2</td>
-</tr>
-<tr>
-<th>1</th>
-<td>Module 2: People and Digital Technology</td>
-<td>4</td>
-</tr>
-<tr>
-<th>1</th>
-<td>Module 3: Business Case and Benefits</td>
-<td>2</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Module 4: Principles, Guidelines and Checks</td>
-<td>4</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Module 5: Applying and Managing Accessibility</td>
-<td>4</td>
-</tr>
-<tr>
-<th colspan="2">Total</th>
-<td>16</td>
-</tr>
-</tbody>
-</table>
-
 ### MOOC Course
 
 A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
