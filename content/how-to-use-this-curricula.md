@@ -112,7 +112,7 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 </tbody>
 </table>
 
-### A Course for professionals sharing different roles
+### A Course for Professionals Sharing Fifferent Roles
 
 A combination of knowledge for several roles.
 
