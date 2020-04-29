@@ -26,11 +26,11 @@ It also helps you select courses by presenting several indicators when analyzing
 
 ## Example Scenarios
 
-The following are possible implementations for the WAI Curricula. Some of them take a complete curriculum, some others combine several modules of different curricula to address various roles together.
+The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different modules for different curricula to address several roles together.
 
 ### MOOC Course
 
-A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
+A group of organizations develop a MOOC course for those who want to get started with web accessibility. It is designed to be open and fully online. It can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
 
 <table>
 <caption>MOOC Course</caption>
@@ -71,9 +71,9 @@ A MOOC course for those who want to learn the fundamentals of web accessibility.
 </tbody>
 </table>
 
-### Including Accessibility in a University ICT Program
+### Introduction to Web Accessibility in a University ICT Program
 
-An estimate showing how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+A university wants to include accessibility in their ICT programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 <table>
 <caption>University ICT Program</caption>
@@ -115,9 +115,9 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 </tbody>
 </table>
 
-### A Course for Professionals Sharing Different Roles
+### A Face-To-Face Course for Professionals Sharing Different Roles
 
-A combination of knowledge for several roles.
+A small organization wants to train their designers and developers together in web accessibility.
 
 <table>
 <caption>Several roles together</caption>
