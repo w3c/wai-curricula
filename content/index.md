@@ -36,7 +36,7 @@ You are encouraged to combine different modules of the curricula to address the 
 
 Each curriculum contains:
 
-* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. You can combine them as needed to build courses for a variety of roles.
+* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety.
 * Topics &mdash; Thematic gathering of objectives within a module, which are not necessarily taught in a specific order.
 
 Each module defines:
