@@ -25,10 +25,10 @@ This resource provides a set of role-based curricula to help you create courses 
 
 You can use these curricula in different contexts, including:
 
-* Online and in-class teaching
-* Formal and informal teaching
-* Guided and non-guided teaching
-* Academic and vocational education
+* Online and in-class teaching.
+* Formal and informal teaching.
+* Guided and non-guided teaching.
+* Academic and vocational education.
 
 You can also use these curricula to compare different course offerings.
 
