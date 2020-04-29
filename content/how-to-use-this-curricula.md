@@ -28,6 +28,49 @@ It also helps you select courses by presenting several indicators when analyzing
 
 The following are possible implementations for the WAI Curricula. Some of them take a complete curriculum, some others combine several modules of different curricula to address various roles together.
 
+### MOOC Course
+
+A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
+
+<table>
+<caption>MOOC Course</caption>
+<tbody><tr>
+<th>Week</th>
+<th>Title</th>
+<th>Duration </th>
+</tr>
+<tr>
+<th>1</th>
+<td>Module 1: What is Web Accessibility</td>
+<td>2-3</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Module 2: People and Digital Technology</td>2
+<td>4-5</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Module 3: Business Case and Benefits</td>
+<td>2-3</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Module 4: Principles, Guidelines and Checks</td>
+<td>4-5</td>
+</tr>
+<tr>
+<th>5</th>
+<td>Module 5: Applying and Managing Accessibility</td>
+<td>3-4</td>
+</tr>
+<tr>
+<th colspan="2">Total</th>
+<td>15-20</td>
+</tr>
+</tbody>
+</table>
+
 ### Including Accessibility in a University ICT Program
 
 An estimate showing how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
@@ -68,49 +111,6 @@ An estimate showing how many ECTS (European Credit Transfer and Accumulation Sys
 <tr>
 <th colspan="2">Total</th>
 <td>0.5</td>
-</tr>
-</tbody>
-</table>
-
-### MOOC Course
-
-A MOOC course for those who want to learn the fundamentals of web accessibility. It is designed to be open and fully online. A public implementation can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
-
-<table>
-<caption>MOOC Course</caption>
-<tbody><tr>
-<th>Week</th>
-<th>Title</th>
-<th>Duration </th>
-</tr>
-<tr>
-<th>1</th>
-<td>Module 1: What is Web Accessibility</td>
-<td>2-3</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Module 2: People and Digital Technology</td>2
-<td>4-5</td>
-</tr>
-<tr>
-<th>3</th>
-<td>Module 3: Business Case and Benefits</td>
-<td>2-3</td>
-</tr>
-<tr>
-<th>4</th>
-<td>Module 4: Principles, Guidelines and Checks</td>
-<td>4-5</td>
-</tr>
-<tr>
-<th>5</th>
-<td>Module 5: Applying and Managing Accessibility</td>
-<td>3-4</td>
-</tr>
-<tr>
-<th colspan="2">Total</th>
-<td>15-20</td>
 </tr>
 </tbody>
 </table>
