@@ -63,22 +63,28 @@ The below shows ideas for future curricula. When completed, they will be linked 
       <th> Tester </th>
     </tr>
     <tr>
-      <th><a href="#introduction-to-web-accessibility">Basic</a></th>
-      <td colspan="5">
-        <p>General introduction to web accessibility.</p>
-      </td>
-    </tr>
+   <th>Basic</th>
+   <td colspan="5">
+    <p><a href="/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></p>
+       <ul>
+        <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web Accessibility</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></li>
+      </ul>
+    </td></tr>
     <tr>
       <th> Intermediate</th>
       <td>
-	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
+	       <p><a href="/curricula/developing-accessible-content/">Developing Accessible Content</a></p>
         <ul>
-          <li> <a href="{{ '/curricula/developing-accessible-content/essentials-of-accessible-development/' | relative_url }}">Module 1: Essentials of Accessible Development</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/navigating-web-interfaces/' | relative_url }}">Module 2: Navigating Web Interfaces</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/tables/' | relative_url }}">Module 4: Tables</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/forms/' | relative_url }}">Module 5: Forms</a></li>
-          <li>Module 6: Widgets [TBD]</li>
+          <li> <a href="/curricula/developing-accessible-content/page-structure/">Module 1: Page Structure</a></li>
+          <li> <a href="/curricula/developing-accessible-content/navigation-and-menus/">Module 2: Navigation and Menus</a></li>
+          <li> <a href="/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></li>
+          <li> <a href="/curricula/developing-accessible-content/tables/">Module 4: Tables</a></li>
+          <li> <a href="/curricula/developing-accessible-content/forms/">Module 5: Forms</a></li>
+          <li> <a href="/curricula/developing-accessible-content/widgets">Module 6: Widgets</a></li>
         </ul>
       </td>
       <td>
