@@ -198,12 +198,12 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
 * Will the teaching be face-to-face?
 * Will the course be conducted completely online?
-* Will teaching strategies include theoretical knowledge of the subjects covered?
-* Will such strategies include interaction with assistive technologies, people with disabilities?
+* Will teaching strategies include practical interactions with the knowledge covered?
+* Will such strategies include interaction with assistive technologies and people with disabilities?
 
 ### Ideas to Assess Knowledge
 
-Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one activity per learning outcome.
+There should be at least one activity per learning outcome. Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any).
 
 ### Course Accreditation
 
