@@ -49,7 +49,7 @@ To make the most out of this curriculum, students should have knowledge about th
     -   Topic: Additional Functionality.
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
     -   Topic: Images for All.
-    -   Topic: Including Images in Websites
+    -   Topic: Including Images in Web Pages
 -   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
     -   Topic: Navigating Tabular Information.
     -   Topic: Contextual Information for Tables.
