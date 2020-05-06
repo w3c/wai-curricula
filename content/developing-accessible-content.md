@@ -41,7 +41,7 @@ To make the most out of this curriculum, students should have knowledge about th
 ## Modules
 
 -   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
-    -   Topic: Different Ways of Browsing the Web.
+    -   Topic: Different Ways of Interacting with a Web Page.
     -   Topic: Semantics and Structure.
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Patterns for Navigation.
