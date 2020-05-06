@@ -24,7 +24,7 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Provide markup and code-based techniques to make the following components accessible:
+* Provide markup and code-based techniques to make the following features and components accessible:
   * Page structure.
   * Navigation.
   * Images and graphics.
