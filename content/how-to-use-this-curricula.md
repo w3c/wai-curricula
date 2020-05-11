@@ -185,7 +185,7 @@ A small organization wants to train their designers and developers together in w
 
 The following is a list of indicators to compare and select courses based on the WAI Curricula.
 
-### Learning Outcomes
+### Students' Outcomes
 
 Learning outcomes are usually defined as what a student should be able to demonstrate after completion of a particular course.
 
@@ -195,7 +195,7 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 * Those from the introductory modules are addressed before any other specific role.
 * Those related to how people with disabilities use the Web are part of the course.
 
-### Teaching Ideas
+### Teaching Abilities
 
 Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
 * Will the teaching be face-to-face?
@@ -203,17 +203,17 @@ Focus on how the course offerer plans to teach the learning outcomes. Ask for de
 * Will teaching strategies include practical interactions with the knowledge covered?
 * Will such strategies include interaction with assistive technologies and people with disabilities?
 
-### Ideas to Assess Knowledge
+### Evaluation
 
 Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one activity per learning outcome. 
 
-### Course Accreditation
+### Course Certificates
 
 Ask if the provider offers credentials after course completion. For example, certificates or free choice subject credits. An example of such accreditation system can be found at the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/).
 
 ### Availability of Materials
 
-Ask the provider how they will make materials available to you and if they are going to let you keep the slides and/or handouts.
+Ask the provider how they will make materials available to you (online/offiline consumption). Communicate if you need to keep the slides and/or handouts for future consultation.
 
 ### Specific Audience Needs
 
