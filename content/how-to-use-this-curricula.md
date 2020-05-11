@@ -34,7 +34,8 @@ A group of organizations develop a MOOC course for those who want to get started
 
 <table>
 <caption>MOOC Course</caption>
-<tbody><tr>
+<tbody>
+<tr>
 <th>Week</th>
 <th>Title</th>
 <th>Duration </th>
@@ -46,7 +47,7 @@ A group of organizations develop a MOOC course for those who want to get started
 </tr>
 <tr>
 <th>2</th>
-<td>Module 2: People and Digital Technology</td>2
+<td>Module 2: People and Digital Technology</td>
 <td>4-5</td>
 </tr>
 <tr>
@@ -73,7 +74,7 @@ A group of organizations develop a MOOC course for those who want to get started
 
 ### Introduction to Web Accessibility in a University ICT Program
 
-A university wants to include accessibility in their ICT programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility would take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+A university wants to include accessibility in their ICT programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course csould take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 <table>
 <caption>University ICT Program</caption>
@@ -185,6 +186,7 @@ A small organization wants to train their designers and developers together in w
 The following is a list of indicators to compare and select courses based on the WAI Curricula.
 
 ### Learning Outcomes
+
 Learning outcomes are usually defined as what a student should be able to demonstrate after completion of a particular course.
 
 Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
@@ -203,7 +205,7 @@ Focus on how the course offerer plans to teach the learning outcomes. Ask for de
 
 ### Ideas to Assess Knowledge
 
-There should be at least one activity per learning outcome. Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any).
+Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one activity per learning outcome. 
 
 ### Course Accreditation
 
