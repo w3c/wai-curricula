@@ -24,7 +24,7 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 Its aims are to:
 
 * Explain some key terms of accessibility from a developers' perspective.
-* Provide markup and code-based techniques to make the following components accessible:
+* Provide markup and code-based techniques to make the following features and components accessible:
   * Page structure.
   * Navigation.
   * Images and graphics.
@@ -41,7 +41,7 @@ To make the most out of this curriculum, students should have knowledge about th
 ## Modules
 
 -   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
-    -   Topic: Different Ways of Browsing the Web.
+    -   Topic: Different Ways of Interacting with a Web Page.
     -   Topic: Semantics and Structure.
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Patterns for Navigation.
@@ -49,7 +49,7 @@ To make the most out of this curriculum, students should have knowledge about th
     -   Topic: Additional Functionality.
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
     -   Topic: Images for All.
-    -   Topic: Including Images in Websites
+    -   Topic: Including Images in Web Pages
 -   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
     -   Topic: Navigating Tabular Information.
     -   Topic: Contextual Information for Tables.
