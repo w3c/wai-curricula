@@ -23,8 +23,8 @@ This page provides further guidance on how to use the materials of the WAI Curri
 
 It helps you:
 
-* Assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
-* Select courses by presenting several mappings of this curricula that you can include in your RFPs.
+* Assemble your training by presenting several course scenarios.
+* Select courses by presenting several mappings of this curricula that you can base on while building your RFPs.
 
 ## Example Scenarios
 
@@ -120,7 +120,7 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 ### A Face-To-Face Course for Professionals Sharing Different Roles
 
-A small organization wants to train their designers and developers together in web accessibility.
+An organization wants to train their small team in web accessibility. They develop tasks associated to several roles.
 
 <table>
 <caption>Several roles together</caption>
