@@ -17,12 +17,14 @@ navigation:
 ---
 
 ## Introduction
+{.no-display}
 
 This page provides further guidance on how to use the materials of the WAI Curricula.
 
-It helps you assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
+It helps you:
 
-It also helps you select courses by presenting several indicators when analyzing course offerings.
+* Assemble your course by presenting several scenarios to combine the different modules of the curricula according to specific needs.
+* Select courses by presenting several mappings of this curricula that you can include in your RFPs.
 
 ## Example Scenarios
 
@@ -74,7 +76,7 @@ A group of organizations develop a MOOC course for those who want to get started
 
 ### Introduction to Web Accessibility in a University ICT Program
 
-A university wants to include accessibility in their ICT programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course csould take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
+A university wants to include accessibility in their HCI programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course could take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
 
 <table>
 <caption>University ICT Program</caption>
@@ -175,7 +177,7 @@ A small organization wants to train their designers and developers together in w
 </tr>
 <tr>
 <th>3</th>
-<td>Module 3: Rezising Content</td>
+<td>Module 3: Resizing Content</td>
 <td>1</td>
 </tr>
 </tbody>
@@ -197,7 +199,7 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 
 ### Teaching Abilities
 
-Focus on how the course offerer plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
+Focus on how the course provider plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
 * Will the teaching be face-to-face?
 * Will the course be conducted completely online?
 * Will teaching strategies include practical interactions with the knowledge covered?
@@ -213,8 +215,8 @@ Ask if the provider offers credentials after course completion. For example, cer
 
 ### Availability of Materials
 
-Ask the provider how they will make materials available to you (online/offiline consumption). Communicate if you need to keep the slides and/or handouts for future consultation.
+Ask the provider how they will make materials available to you (online/offline consumption). Communicate if you need to keep the slides and/or handouts for future consultation.
 
 ### Specific Audience Needs
 
-Make sure the course offerer will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, you can refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+Make sure the course provider will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, you can refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
