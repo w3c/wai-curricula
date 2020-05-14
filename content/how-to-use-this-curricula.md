@@ -17,7 +17,7 @@ navigation:
 ---
 
 ## Introduction
-{.no-display}
+{:.no-display}
 
 This page provides further guidance on how to use the materials of the WAI Curricula.
 
