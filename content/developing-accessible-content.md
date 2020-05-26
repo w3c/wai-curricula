@@ -35,8 +35,9 @@ Its aims are to:
 
 To make the most out of this curriculum, students should have knowledge about the following modules:
 
--   [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) -- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
--   [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+* [Introduction to Web Accessibility) Module 1: What is Web Accessibility)](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
+* [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) -- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+* [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
 
 ## Modules
 
