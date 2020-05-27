@@ -42,10 +42,10 @@ To make the most out of this curriculum, students should have knowledge about th
 ## Modules
 
 -   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
-    -   Topic: Headings..
+    -   Topic: Headings.
     -   Topic: Page Regions.
-	-   Topic: Marking up Page ontents.
-	-   Topic: Contextual Information of Pages
+	   -   Topic: Marking up Page ontents.
+	   -   Topic: Contextual Information of Pages
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Patterns for Navigation.
     -   Topic: Structuring and Labeling Navigational Elements.
