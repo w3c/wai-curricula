@@ -23,25 +23,73 @@ This page provides further guidance on how to use the materials of the WAI Curri
 
 It helps you:
 
-* Assemble your training by presenting several course scenarios.
-* Select courses by presenting several mappings of this curricula that you can base on while building your RFPs.
+* **Understand this resource** &mdash; Explains the terminology in use.
+* **Assemble your training** &mdash; Presents several course scenarios.
+* **Compare and select courses** &mdash; Presents several mappings of this curricula that you can base on to include accessibility training needs in your RFPs.
+
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" %}
+
+## Definition of Terms
+
+{% include excol.html type="middle" %}
+
+Curricula
+: Refers to the resource as a whole. It comprises each of the curriculum, together with its modules and topics.
+
+Curriculum
+: A specific part of the curricula, generally addressing one role in particular.
+
+Each curriculum contains:
+
+Modules
+: Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. You can teach a whole curriculum on its own or you can select specific modules to cover specific roles or needs together.
+
+Topics
+: Thematic gathering of objectives within a module. These are not necessarily taught in a specific order, neither they are advised to be taught independently of the module they belong to.
+
+Each module defines:
+
+Learning Outcomes
+: What students will learn and should be able to demonstrate. This is the core of the curricula.
+
+Competencies
+: Previous knowledge that students and instructors should have before taking or teaching courses based on these modules.
+
+Teaching Ideas
+: Suggested ideas to help instructors teach the learning outcomes.
+
+Ideas to Assess Knowledge
+: Suggested ideas to help instructors assess the knowledge acquired by the students.
+
+Teaching Resources
+: Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
 
 ## Example Scenarios
+
+{% include excol.html type="middle" %}
 
 The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different modules for different curricula to address several roles together.
 
 ### MOOC Course
 
-A group of organizations develop a MOOC course for those who want to get started with web accessibility. It is designed to be open and fully online. It can be found at [Introduction to Web Accessibility (EDX)](https://www.edx.org/course/web-accessibility-introduction).
+A group of organizations develop a MOOC course for those who want to get started with web accessibility.
 
 <table>
 <caption>MOOC Course</caption>
-<tbody>
+<thead>
 <tr>
 <th>Week</th>
 <th>Title</th>
 <th>Duration </th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <th>1</th>
 <td>Module 1: What is Web Accessibility</td>
@@ -80,12 +128,14 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 <table>
 <caption>University ICT Program</caption>
-<tbody>
+<thead>
 <tr>
 <th>Week</th>
 <th>Title</th>
 <th>ECTS</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <th>1</th>
 <td>Module 1: What is Web Accessibility</td>
@@ -124,12 +174,14 @@ An organization wants to train their small team in web accessibility. They devel
 
 <table>
 <caption>Several roles together</caption>
-<tbody>
+<thead>
 <tr>
 <th>Day</th>
 <th>Title</th>
 <th>Duration (hours)</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <th>1</th>
 <td>Module 2: People and Digital Technology</td>
@@ -183,9 +235,15 @@ An organization wants to train their small team in web accessibility. They devel
 </tbody>
 </table>
 
-## Course Indicators
+{% include excol.html type="end" %}
 
-The following is a list of indicators to compare and select courses based on the WAI Curricula.
+{% include excol.html type="start" %}
+
+## Course Characteristics
+
+{% include excol.html type="middle" %}
+
+The following is a list of characteristics that you can take into account to compare and select courses based on the WAI Curricula.
 
 ### Students' Outcomes
 
@@ -220,3 +278,6 @@ Ask the provider how they will make materials available to you (online/offline c
 ### Specific Audience Needs
 
 Make sure the course provider will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, you can refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
