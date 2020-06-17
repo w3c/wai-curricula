@@ -42,17 +42,19 @@ Students of this curriculum are expected to have achieved the learning outcomes 
 ## Modules in this Curriculum
 
 -   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
-    -   Topic: Headings.
     -   Topic: Page Regions.
-	   -   Topic: Marking up Page ontents.
-	   -   Topic: Contextual Information of Pages
+    -   Topic: Headings.
+	   -   Topic: Page Contents.
+	   -   Topic: Meta Information.
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
-    -   Topic: Patterns for Navigation.
-    -   Topic: Structuring and Labeling Navigational Elements.
-    -   Topic: Additional Functionality.
+    -   Topic: Multiple Ways of Navigation.
+    -   Topic: Static Navigational Mechanisms.
+   	-   Topic: Dynamic Navigational Mechanisms.
+    -   Topic: Meta Information for a Navigational Mechanism.
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
-    -   Topic: Images for All.
-    -   Topic: Including Images in Web Pages
+    -   Topic: Types of Images.
+    -   Topic: Simple Images.
+    -   Topic: Complex Images.
 -   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
     -   Topic: Navigating Tabular Information.
     -   Topic: Contextual Information for Tables.
