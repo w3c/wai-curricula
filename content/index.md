@@ -30,7 +30,7 @@ You can use these curricula in different contexts, including:
 * Guided and non-guided teaching
 * Academic and vocational education
 
-You are encouraged to combine different modules of the curricula to address the needs of several roles together. You can also use these curricula to compare different course offerings. For more details, please see [How to use this curricula](/curricula/how-to-use-this-curricula/)
+You are encouraged to combine different modules of the curricula to address the needs of several roles together. You can also use these curricula to compare different course offerings. For more details, please see [How to use these curricula](/curricula/how-to-use-these-curricula/)
 
 These modules follow a universal design approach. They provide advice for different components, scenarios, and users.
 

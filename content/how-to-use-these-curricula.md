@@ -1,6 +1,6 @@
 ---
-title: "[Draft] How to Use this Curricula"
-permalink: /curricula/how-to-use-this-curricula/
+title: "[Draft] How to Use these Curricula"
+permalink: /curricula/how-to-use-these-curricula/
 ref: /curricula/how-to-use-this-curricula/
 github:
   repository: w3c/wai-curricula
@@ -25,7 +25,7 @@ It helps you:
 
 * **Understand this resource** &mdash; Explains the terminology in use.
 * **Assemble your training** &mdash; Presents several course scenarios.
-* **Compare and select courses** &mdash; Presents several mappings of this curricula that you can base on to include accessibility training needs in your RFPs.
+* **Compare and select courses** &mdash; Presents several mappings of these curricula that you can base on to include accessibility training needs in your RFPs.
 
 {% include excol.html type="all" %}
 
