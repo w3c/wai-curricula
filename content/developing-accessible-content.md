@@ -21,7 +21,7 @@ navigation:
 
 This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for developers, with special focus on front-end developing techniques.
 
-Its aims are to:
+This curriculum results in courses that:
 
 * Explain some key terms of accessibility from a developers' perspective.
 * Provide markup and code-based techniques to make the following features and components accessible:
@@ -36,20 +36,20 @@ Its aims are to:
 Students of this curriculum are expected to have achieved the learning outcomes from the following prior modules:
 
 * [(Introduction to Web Accessibility) Module 1: What is Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
-* [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) -- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
-* [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) -- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+* [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+* [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
 
 ## Modules in this Curriculum
 
 -   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
     -   Topic: Page Regions.
     -   Topic: Headings.
-	   -   Topic: Page Contents.
-	   -   Topic: Meta Information.
+    -   Topic: Page Contents.
+    -   Topic: Meta Information.
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
     -   Topic: Multiple Ways of Navigation.
     -   Topic: Static Navigational Mechanisms.
-   	-   Topic: Dynamic Navigational Mechanisms.
+    -   Topic: Dynamic Navigational Mechanisms.
     -   Topic: Meta Information for a Navigational Mechanism.
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
     -   Topic: Types of Images.
