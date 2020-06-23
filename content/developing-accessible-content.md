@@ -46,9 +46,9 @@ Students of this curriculum are expected to have achieved the learning outcomes 
 ## Modules in this Curriculum
 
 -   [Module 1: Navigation, Structure, and Semantics](/curricula/developing-accessible-content/navigation-structure-and-semantics/).
-    -   Topic: Page Regions.
     -   Topic: Headings.
     -   Topic: Page Contents.
+    -   Topic: Page Regions.
     -   Topic: Meta Information.
     -   Topic: Navigation and Orientation
 -   [Module 2: Menus and Submenus](/curricula/developing-accessible-content/menus-and-submenus/).
