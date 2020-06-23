@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for developers, with special focus on front-end developing techniques.
+This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques.
 
 This curriculum results in courses that:
 
