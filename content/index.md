@@ -10,8 +10,8 @@ github:
 license: creative-commons
 footer: >
   <p><strong>Date:</strong> First published 3 December 2019 </p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p>Developed by the Education and Outreach Working Group (http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   next: /curricula/introduction-to-web-accessibility/
 ---
@@ -25,10 +25,10 @@ This resource provides a set of role-based curricula to help you create courses 
 
 You can use these curricula in different contexts, including:
 
-* Online and in-class teaching
-* Formal and informal teaching
-* Guided and non-guided teaching
-* Academic and vocational education
+* Online and in-class teaching.
+* Formal and informal teaching.
+* Guided and non-guided teaching.
+* Academic and vocational education.
 
 You can also use these curricula to compare different course offerings.
 
@@ -50,9 +50,10 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
+The below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum, "Introduction to Web Accessibility" is available. 
 
-<table caption="Tentative Outline" class="dense">
+<table class="dense">
+<caption>Tentative Outline</caption>
   <tbody>
     <tr>
       <th> </th>
@@ -88,70 +89,156 @@ The table below shows ideas for future curricula. When completed, they will be l
         </ul>
       </td>
       <td>
-        <ul>
-          <li> Use of Color</li>
-          <li> Typography</li>
-          <li> Navigation and Orientation</li>
-          <li> Instructions and Feedback</li>
-          <li> Widgets and Interaction</li>
-          <li> Testing Your Content</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Intermediate curriculum for designers.</p>
       </td>
       <td>
-        <ul>
-          <li> Headings and Structure</li>
-          <li> Text Alternatives for Images</li>
-          <li> Alternatives for Media</li>
-          <li> Document Accessibility </li>
-          <li> Tables and Data Representation</li>
-          <li> Testing Your Content</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Intermediate curriculum for authors.</p>
       </td>
       <td rowspan="2">
-        <ul>
-          <li> Accessibility Quick Check</li>
-          <li> Business Opportunities</li>
-          <li> Capacity and Capability</li>
-          <li> Tools and Processes</li>
-          <li> Policies and Procurement</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Intermediate and advanced curriculum for managers</p>
       </td>
       <td rowspan="2">
-        <ul>
-          <li> Understanding Conformance</li>
-          <li> Accessibility Testing Tools</li>
-          <li> Using Assistive Technologies</li>
-          <li> Prioritizing Issues and Repair</li>
-          <li> Maintaining Accessibility</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Intermediate and advanced curriculum for testers</p>
       </td>
     </tr>
     <tr>
       <th> Advanced</th>
       <td>
-        <ul>
-          <li> Mobile Applications</li>
-          <li> Transactions and Timing</li>
-          <li> Games Accessibility </li>
-          <li> Immersive Environments</li>
-          <li> Testing Your Content</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Advanced curriculum for developers.</p>
       </td>
       <td>
-        <ul>
-          <li> Responsive Accessibility</li>
-          <li> Pop-Ups and Dialogs</li>
-          <li> Multi-Page Processes</li>
-          <li> Testing Your Content</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Advanced curriculum for designers.</p>
       </td>
       <td>
-        <ul>
-          <li> SVG Accessibility</li>
-          <li> MathML Accessibility</li>
-          <li> Testing Your Content</li>
-        </ul>
+        <p><strong>To be developed</strong> -- Advanced curriculum for authors.</p>
       </td>
     </tr>
   </tbody>
 </table>
+
+The following shows possible modules for  each outlined curriculum.
+
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" %}
+
+### Developers, Designers, Authors, Managers, and Testers {#introduction-to-web-accessibility}
+
+{% include excol.html type="middle" %}
+
+Basic -- [Introduction to Web Accessibility]({{ '/curricula/introduction-to-web-accessibility/' | relative_url }})
+
+  
+-   [Module 1: What is Web Accessibility]({{ '/curricula/introduction-to-web-accessibility/what-is-web-accessibility/' | relative_url }})
+-   [Module 2: People and Digital Technology]({{ '/curricula/introduction-to-web-accessibility/people-and-digital-technology/' | relative_url }})
+-   [Module 3: Business Case and Benefits]({{ '/curricula/introduction-to-web-accessibility/business-case-and-benefits/' | relative_url }})
+-   [Module 4: Principles, Standards, and Checks]({{ '/curricula/introduction-to-web-accessibility/principles-standards-and-checks/' | relative_url }})
+-   [Module 5: Getting Started with Accessibility]({{ '/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/' | relative_url }})
+  
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Developers
+
+{% include excol.html type="middle" %}
+
+#### Intermediate
+
+ 
+-    Structure and Semantics
+-    Navigation and Menus
+-    Forms and Input Elements
+-    Widgets and Interaction
+-    Testing Your Content
+  
+
+#### Advanced
+
+  
+-    Mobile Applications
+-    Transactions and Timing
+-    Games Accessibility 
+-    Immersive Environments
+-    Testing Your Content
+  
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Designers
+
+{% include excol.html type="middle" %}
+
+#### Intermediate
+
+-    Use of Color
+-    Typography
+-    Navigation and Orientation
+-    Instructions and Feedback
+-    Widgets and Interaction
+-    Testing Your Content
+
+#### Advanced        
+
+-    Responsive Accessibility
+-    Pop-Ups and Dialogs
+-    Multi-Page Processes
+-    Testing Your Content
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Authors
+
+{% include excol.html type="middle" %}
+
+#### Intermediate
+
+-    Headings and Structure
+-    Text Alternatives for Images
+-    Alternatives for Media
+-    Document Accessibility 
+-    Tables and Data Representation
+-    Testing Your Content
+
+#### Advanced
+
+-    SVG Accessibility
+-    MathML Accessibility
+-    Testing Your Content
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Managers
+
+{% include excol.html type="middle" %}
+
+-    Accessibility Quick Check
+-    Business Opportunities
+-    Capacity and Capability
+-    Tools and Processes
+-    Policies and Procurement
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Testers
+
+{% include excol.html type="middle" %}
+
+-    Understanding Conformance
+-    Accessibility Testing Tools
+-    Using Assistive Technologies
+-    Prioritizing Issues and Repair
+-    Maintaining Accessibility
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
+
