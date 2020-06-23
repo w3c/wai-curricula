@@ -51,7 +51,7 @@ Students of this curriculum are expected to have achieved the learning outcomes 
     -   Topic: Page Contents.
     -   Topic: Meta Information.
     -   Topic: Navigation and Orientation
--   [Module 2: Menus and Submenus](/curricula/developing-accessible-content/menus-and-menus-and-submenus/).
+-   [Module 2: Menus and Submenus](/curricula/developing-accessible-content/menus-and-submenus/).
     -   Topic: Single-Level Menus
     -   Topic: Multi-Level Menus
     -   Topic: Additional Information for a Menu
