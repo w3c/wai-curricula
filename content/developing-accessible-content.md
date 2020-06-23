@@ -13,13 +13,17 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/page-structure/
+  next: /curricula/developing-accessible-content/navigation-structure-and-semantics/
 ---
 
 ## Introduction
 {:.no-display}
 
 This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques.
+
+This curriculum may contain succinct references to styling conventions, heading, link, or alt texts. More detailed information will be provided in future curricula addressing designers, content authors, project managers, and accessibility testers.
+
+ The coding techniques that benefit screen reader users are the same techniques that benefit people who have low vision and people with physical and cognitive disabilities.
 
 This curriculum results in courses that:
 
@@ -41,18 +45,17 @@ Students of this curriculum are expected to have achieved the learning outcomes 
 
 ## Modules in this Curriculum
 
--   [Module 1: Page Structure](/curricula/developing-accessible-content/page-structure/).
+-   [Module 1: Navigation, Structure, and Semantics](/curricula/developing-accessible-content/navigation-structure-and-semantics/).
     -   Topic: Page Regions.
     -   Topic: Headings.
     -   Topic: Page Contents.
     -   Topic: Meta Information.
--   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/).
-    -   Topic: Multiple Ways of Navigation.
-    -   Topic: Static Navigational Mechanisms.
-    -   Topic: Dynamic Navigational Mechanisms.
-    -   Topic: Meta Information for a Navigational Mechanism.
+    -   Topic: Navigation and Orientation
+-   [Module 2: Menus and Submenus](/curricula/developing-accessible-content/menus-and-submenuss/).
+    -   Topic: Single-Level Menus
+    -   Topic: Multi-Level Menus
+    -   Topic: Additional Information for a Menu
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
-    -   Topic: Types of Images.
     -   Topic: Simple Images.
     -   Topic: Complex Images.
 -   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
