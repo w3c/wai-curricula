@@ -23,8 +23,8 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 
 This curriculum results in courses that:
 
-* Explain some key terms of accessibility from a developers' perspective.
-* Provide markup and code-based techniques to make the following features and components accessible:
+* Explain some key terms of accessibility from a developer's perspective.
+* Provide markup and code techniques to make the following accessible:
   * Page structure.
   * Navigation.
   * Images and graphics.
