@@ -23,7 +23,7 @@ This curriculum focuses on markup and coding techniques to develop accessible co
 
 This curriculum may contain succinct references to styling conventions, heading, link, or alt texts. More detailed information will be provided in future curricula addressing designers, content authors, project managers, and accessibility testers.
 
- The coding techniques relied upon by screen readers are also relied upon by other assistive technologies, such as voice navigation, switch control, or magnification.
+ The coding techniques that benefit screen reader users are the same techniques that benefit people who have low vision and people with physical and cognitive disabilities.
 
 This curriculum results in courses that:
 
