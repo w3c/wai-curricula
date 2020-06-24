@@ -49,7 +49,7 @@ Students of this curriculum are expected to have achieved the learning outcomes 
     -   Topic: Headings.
     -   Topic: Page Contents.
     -   Topic: Page Regions.
-    -   Topic: Meta Information.
+    -   Topic: Navigation and Orientation.
     -   Topic: Navigation and Orientation
 -   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/).
     -   Topic: Single-Level Menus
