@@ -13,7 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/navigation-structure-and-semantics/
+  next: /curricula/developing-accessible-content/structure-semantics-and-navigation/
 ---
 
 ## Introduction
@@ -45,13 +45,13 @@ Students of this curriculum are expected to have achieved the learning outcomes 
 
 ## Modules in this Curriculum
 
--   [Module 1: Navigation, Structure, and Semantics](/curricula/developing-accessible-content/navigation-structure-and-semantics/).
+-   [Module 1: Structure, Semantics, and Navigation](/curricula/developing-accessible-content/structure-semantics-and-navigation/).
     -   Topic: Headings.
     -   Topic: Page Contents.
     -   Topic: Page Regions.
     -   Topic: Meta Information.
     -   Topic: Navigation and Orientation
--   [Module 2: Menus and Submenus](/curricula/developing-accessible-content/menus-and-submenus/).
+-   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/).
     -   Topic: Single-Level Menus
     -   Topic: Multi-Level Menus
     -   Topic: Additional Information for a Menu
