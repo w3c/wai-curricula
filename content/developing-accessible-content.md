@@ -19,9 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques.
-
-This curriculum may contain succinct references to styling conventions, heading, link, or alt texts. More detailed information will be provided in future curricula addressing designers, content authors, project managers, and accessibility testers.
+This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula will address specific techniques to teach other roles, for example, content authors, project managers, and accessibility testers.
 
 This curriculum makes extensive use of screen readers to both illustrate and test accessibility features. The coding techniques relied upon by screen readers are also relied upon by other assistive technologies, such as voice navigation, switch control, or magnification.
 
@@ -37,11 +35,12 @@ This curriculum results in courses that:
 
 ## Prerequisites for Students
 
-Students of this curriculum are expected to have achieved the learning outcomes from the following prior modules:
+Students of courses based on this curriculum are expected to have achieved the learning outcomes from the following prior modules and topics:
 
-* [(Introduction to Web Accessibility) Module 1: What is Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
-* [(Introduction to Web Accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
-* [(Introduction to Web Accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+* [(Introduction to Web accessibility) Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
+* [(Introduction to Web accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+* [(Introduction to Web accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+* [(Introduction to Web Accessibility) Roles and Responsibilities](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility.
 
 ## Modules in this Curriculum
 
@@ -49,7 +48,6 @@ Students of this curriculum are expected to have achieved the learning outcomes 
     -   Topic: Headings.
     -   Topic: Page Contents.
     -   Topic: Page Regions.
-    -   Topic: Navigation and Orientation.
     -   Topic: Navigation and Orientation
 -   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/).
     -   Topic: Single-Level Menus
