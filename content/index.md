@@ -1,6 +1,6 @@
 ---
-title: "Curricula on Web [(Introduction to Web Accessibility) Roles and Responsibilities]: A Framework to Build Your Own Courses"
-title_html: "Curricula on Web [(Introduction to Web Accessibility) Roles and Responsibilities]: <br><small>A Framework to Build Your Own Courses</small>"
+title: "Curricula on Web accessibility: A Framework to Build Your Own Courses"
+title_html: "Curricula on Web accessibility: <br><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -13,13 +13,13 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  next: /curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/
+  next: /curricula/introduction-to-web-accessibility/
 ---
 
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula to help you create courses on web [(Introduction to Web Accessibility) Roles and Responsibilities]. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+This resource provides a set of role-based curricula to help you create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
 
 ## Uses
 
@@ -50,7 +50,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web [(Introduction to Web Accessibility) Roles and Responsibilities]" is available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web accessibility" is available. 
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
@@ -65,13 +65,13 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/">Introduction to Web [(Introduction to Web Accessibility) Roles and Responsibilities]</a></p>
+    <p><a href="/curricula/introduction-to-web-accessibility/">Introduction to Web accessibility</a></p>
        <ul>
-        <li><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/what-is-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/">Module 1: What is Web [(Introduction to Web Accessibility) Roles and Responsibilities]</a></li>
-        <li><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
-        <li><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
-        <li><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="/curricula/introduction-to-web-[(Introduction to Web Accessibility) Roles and Responsibilities]/getting-started-with-[(Introduction to Web Accessibility) Roles and Responsibilities]/">Module 5: Getting Started with [(Introduction to Web Accessibility) Roles and Responsibilities]</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
       </ul>
     </td></tr>
     <tr>
@@ -102,14 +102,14 @@ The table below shows ideas for future curricula. When completed, they will be l
           <li> Headings and Structure</li>
           <li> Text Alternatives for Images</li>
           <li> Alternatives for Media</li>
-          <li> Document [(Introduction to Web Accessibility) Roles and Responsibilities] </li>
+          <li> Document accessibility </li>
           <li> Tables and Data Representation</li>
           <li> Testing Your Content</li>
         </ul>
       </td>
       <td rowspan="2">
         <ul>
-          <li> [(Introduction to Web Accessibility) Roles and Responsibilities] Quick Check</li>
+          <li> accessibility Quick Check</li>
           <li> Business Opportunities</li>
           <li> Capacity and Capability</li>
           <li> Tools and Processes</li>
@@ -119,10 +119,10 @@ The table below shows ideas for future curricula. When completed, they will be l
       <td rowspan="2">
         <ul>
           <li> Understanding Conformance</li>
-          <li> [(Introduction to Web Accessibility) Roles and Responsibilities] Testing Tools</li>
+          <li> accessibility Testing Tools</li>
           <li> Using Assistive Technologies</li>
           <li> Prioritizing Issues and Repair</li>
-          <li> Maintaining [(Introduction to Web Accessibility) Roles and Responsibilities]</li>
+          <li> Maintaining accessibility</li>
         </ul>
       </td>
     </tr>
@@ -132,14 +132,14 @@ The table below shows ideas for future curricula. When completed, they will be l
         <ul>
           <li> Mobile Applications</li>
           <li> Transactions and Timing</li>
-          <li> Games [(Introduction to Web Accessibility) Roles and Responsibilities] </li>
+          <li> Games accessibility </li>
           <li> Immersive Environments</li>
           <li> Testing Your Content</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li> Responsive [(Introduction to Web Accessibility) Roles and Responsibilities]</li>
+          <li> Responsive accessibility</li>
           <li> Pop-Ups and Dialogs</li>
           <li> Multi-Page Processes</li>
           <li> Testing Your Content</li>
@@ -147,8 +147,8 @@ The table below shows ideas for future curricula. When completed, they will be l
       </td>
       <td>
         <ul>
-          <li> SVG [(Introduction to Web Accessibility) Roles and Responsibilities]</li>
-          <li> MathML [(Introduction to Web Accessibility) Roles and Responsibilities]</li>
+          <li> SVG accessibility</li>
+          <li> MathML accessibility</li>
           <li> Testing Your Content</li>
         </ul>
       </td>

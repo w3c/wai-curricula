@@ -40,7 +40,7 @@ Students of courses based on this curriculum are expected to have achieved the l
 * [(Introduction to Web accessibility) Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
 * [(Introduction to Web accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
 * [(Introduction to Web accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
-* [(Introduction to Web Accessibility) Roles and Responsibilities](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility.
+* accessibility(https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility.
 
 ## Modules in this Curriculum
 
