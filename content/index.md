@@ -91,7 +91,7 @@ The table below shows ideas for future curricula. When completed, they will be l
         <ul>
           <li> Use of Color</li>
           <li> Typography</li>
-          <li> Navigation and Orientation</li>
+          <li> Orientation and Navigation</li>
           <li> Instructions and Feedback</li>
           <li> Widgets and Interaction</li>
           <li> Testing Your Content</li>
