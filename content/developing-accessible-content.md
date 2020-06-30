@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula will address specific techniques for teaching other roles, for example, content authors, project managers, and accessibility testers.
+This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula addresses teaching designers, content authors, and others.
 
 This curriculum makes extensive use of screen readers to both illustrate and test accessibility features. The coding techniques relied upon by screen readers are also relied upon by other assistive technologies, such as voice navigation, switch control, or magnification.
 
