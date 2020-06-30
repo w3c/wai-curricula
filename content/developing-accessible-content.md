@@ -64,4 +64,4 @@ Students of this curriculum are expected to have achieved the learning outcomes 
     -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
--   [Module 6: Widgets](/curricula/developing-accessible-content/widgets).
+-   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/).
