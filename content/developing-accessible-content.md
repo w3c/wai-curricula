@@ -65,3 +65,7 @@ Students of this curriculum are expected to have achieved the learning outcomes 
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
 -   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/).
+    -   Topic: WAI-ARIA specification.
+    -   Topic: Programmatic and Visual Focus.
+    -   Topic: Additional States of a Widget.
+    -   Topic: Dynamic Changes.
