@@ -21,7 +21,7 @@ navigation:
 
 This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula addresses teaching designers, content authors, and others.
 
-This curriculum makes extensive use of screen readers to both illustrate and test accessibility features. The coding techniques relied upon by screen readers are also relied upon by other assistive technologies, such as voice navigation, switch controls, or magnification.
+This curriculum relates a lot to compatibility with text-to-speech functionality, which is used by many people with different types of disabilities. Instructors are encouraged to show other assistive technologies.
 
 This curriculum results in courses that:
 
