@@ -65,4 +65,8 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input
     -   Topic: Notifying Users.
--   [Module 6: Widgets](/curricula/developing-accessible-content/widgets).
+-   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/).
+    -   Topic: WAI-ARIA specification.
+    -   Topic: Programmatic and Visual Focus.
+    -   Topic: Additional States of a Widget.
+    -   Topic: Dynamic Changes.
