@@ -21,7 +21,7 @@ navigation:
 
 This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula addresses teaching designers, content authors, and others.
 
-This curriculum relates to compatibility with text-to-speech functionality, which is used by many people with different types of disabilities. Instructors are encouraged to show other assistive technologies.
+This curriculum relates primarily to compatibility with text-to-speech functionality, which is used by many people with different types of disabilities.
 
 This curriculum results in courses that:
 
@@ -56,11 +56,11 @@ Students of courses based on this curriculum are expected to have achieved the l
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
     -   Topic: Simple Images.
     -   Topic: Complex Images.
--   [Module 4: Tables](/curricula/developing-accessible-content/tables/).
+-   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/).
     -   Topic: Navigating Tabular Information.
     -   Topic: Contextual Information for Tables.
     -   Topic: Associating Information.
--   [Module 5: Forms](/curricula/developing-accessible-content/forms/).
+-   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/).
     -   Topic: Interacting with Forms.
     -   Topic: Identifying Form Fields.
     -   Topic: Validating User Input

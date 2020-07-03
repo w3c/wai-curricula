@@ -82,8 +82,8 @@ The table below shows ideas for future curricula. When completed, they will be l
           <li> <a href="/curricula/developing-accessible-content/structure-semantics-and-navigation/">Module 1: Structure, Semantics, and Navigationn</a></li>
           <li> <a href="/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a></li>
           <li> <a href="/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></li>
-          <li> <a href="/curricula/developing-accessible-content/tables/">Module 4: Tables</a></li>
-          <li> <a href="/curricula/developing-accessible-content/forms/">Module 5: Forms</a></li>
+          <li> <a href="/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a></li>
+          <li> <a href="/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a></li>
           <li> <a href="/curricula/developing-accessible-content/widgets/">Module 6: Widgets</a></li>
         </ul>
       </td>
