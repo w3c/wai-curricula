@@ -25,48 +25,49 @@ This curriculum relates primarily to compatibility with text-to-speech functiona
 
 This curriculum results in courses that:
 
-* Explain some key terms of accessibility from a developer's perspective.
-* Provide markup and code techniques to make the following accessible:
-  * Page structure.
-  * Navigation.
-  * Images and graphics.
-  * Tables.
-  * Forms.
+* explain some key terms of accessibility from a developer's perspective
+* provide markup and code techniques to make the following accessible:
+  * page structure
+  * navigation
+  * images and graphics
+  * tables
+  * forms
+  * widgets
 
 ## Prerequisites for Students
 
 Students of courses based on this curriculum are expected to have achieved the learning outcomes from the following prior modules and topics:
 
-* [(Introduction to Web accessibility) Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
-* [(Introduction to Web accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
-* [(Introduction to Web accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
-* [(Introduction to Web Accessibility) Module 5: Topic Roles and Responsibilities](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility.
+* [(Introduction to Web accessibility) Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines
+* [(Introduction to Web accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility
+* [(Introduction to Web accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not
+* [(Introduction to Web Accessibility) Module 5: Topic Roles and Responsibilities](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure, Semantics, and Navigation](/curricula/developing-accessible-content/structure-semantics-and-navigation/).
-    -   Topic: Page Headings.
-    -   Topic: Page Contents.
-    -   Topic: Page Regions.
+-   [Module 1: Structure, Semantics, and Navigation](/curricula/developing-accessible-content/structure-semantics-and-navigation/)
+    -   Topic: Page Headings
+    -   Topic: Page Contents
+    -   Topic: Page Regions
     -   Topic: Orientation and Navigation
--   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/).
+-   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/)
     -   Topic: Single-Level Menus
     -   Topic: Multi-Level Menus
-    -   Topic: Additional Information for a Menu
--   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/).
-    -   Topic: Simple Images.
-    -   Topic: Complex Images.
--   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/).
-    -   Topic: Navigating Tabular Information.
-    -   Topic: Contextual Information for Tables.
-    -   Topic: Associating Information.
--   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/).
-    -   Topic: Interacting with Forms.
-    -   Topic: Identifying Form Fields.
-    -   Topic: Validating User Input
-    -   Topic: Notifying Users.
--   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/).
-    -   Topic: WAI-ARIA specification.
-    -   Topic: Programmatic and Visual Focus.
-    -   Topic: Additional States of a Widget.
-    -   Topic: Dynamic Changes.
+    -   Topic: Additional Information for Menu Navigation
+-   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
+    -   Topic: Simple Images
+    -   Topic: Complex Images
+-   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
+    -   Topic: Simple Tables
+    -   Topic: Complex Tables
+    -   Topic: Table Summary and Descriptions
+-   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
+    -   Topic: Form Labels and Instructions
+    -   Topic: Input Validation
+    -   Topic: User Notifications
+-   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/)
+    -   Topic: WAI-ARIA specification
+    -   Topic: Programmatic and Visual Focus
+    -   Topic: Additional States of a Widget
+    -   Topic: Dynamic Changes
+	
