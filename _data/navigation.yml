@@ -242,10 +242,10 @@
     - name: "Developing Accessible Content"
       url: "/curricula/developing-accessible-content/"
       pages:
-      - name: "Structure, Semantics, and Navigation"
-        url: "/curricula/developing-accessible-content/structure-semantics-and-navigation/"
+      - name: "Structure and Semantics"
+        url: "/curricula/developing-accessible-content/structure-and-semantics/"
       - name: "Navigational Menus"
-        url: "/curricula/developing-accessible-content/navigational-menus"
+        url: "/curricula/developing-accessible-content/navigational-menus/"
       - name: "Images and Graphics"
         url: "/curricula/developing-accessible-content/images-and-graphics/"
       - name: "Tabular Information"
