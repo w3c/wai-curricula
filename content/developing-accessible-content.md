@@ -13,20 +13,18 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/structure-semantics-and-navigation/
+  next: /curricula/developing-accessible-content/structure-and-semantics/
 ---
 
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques to develop accessible content. It is designed for teaching developers, with particular focus on front-end developing techniques. Other curricula addresses teaching designers, content authors, and others.
-
-This curriculum relates primarily to compatibility with text-to-speech functionality, which is used by many people with different types of disabilities.
+This curriculum focuses on markup and coding techniques. It is primarily designed for teaching front-end developers. It can be combined with other curricula for teaching designers, content authors, and other roles.
 
 This curriculum results in courses that:
 
-* explain some key terms of accessibility from a developer's perspective
-* provide markup and code techniques to make the following accessible:
+* explain key terms from the perspective of developers
+* provide markup and coding techniques around:
   * page structure
   * navigation
   * images and graphics
@@ -36,24 +34,25 @@ This curriculum results in courses that:
 
 ## Prerequisites for Students
 
-Students of courses based on this curriculum are expected to have achieved the learning outcomes from the following prior modules and topics:
+Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior curriculum [Introduction to Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/):
 
-* [(Introduction to Web accessibility) Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines
-* [(Introduction to Web accessibility) Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility
-* [(Introduction to Web accessibility) Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Introduces the principles of web accessibility, as well as the international W3C accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not
-* [(Introduction to Web Accessibility) Module 5: Topic Roles and Responsibilities](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities) &mdash; Introduces roles and responsibilities for accessibility
+* [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Topics "Stories of People with Disabilities" and "Scope of Web Accessibility"
+* [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Topics "Diverse Abilities, Tools, and Strategies" and "Components of Web Accessibility"
+* [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Topics "Principles of Web Accessibility", "W3C Accessibility Standards", and "Hands-on Experience of Standards"
+* [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) &mdash; Topic "Roles and Responsibilities"
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure, Semantics, and Navigation](/curricula/developing-accessible-content/structure-semantics-and-navigation/)
-    -   Topic: Page Headings
-    -   Topic: Page Contents
+-   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-semantics-and-navigation/)
+    -   Topic: Section Headings
+    -   Topic: Sections of Content
     -   Topic: Page Regions
     -   Topic: Orientation and Navigation
 -   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/)
-    -   Topic: Single-Level Menus
-    -   Topic: Multi-Level Menus
-    -   Topic: Additional Information for Menu Navigation
+    -   Topic: Menu Structure
+    -   Topic: Menu Styling
+    -   Topic: Fly-out Menus
+    -   Topic: Application Menus
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
     -   Topic: Simple Images
     -   Topic: Complex Images
