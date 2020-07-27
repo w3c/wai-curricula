@@ -43,7 +43,7 @@ Students of courses based on this curriculum are expected to have achieved the l
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-semantics-and-navigation/)
+-   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-and-semantics/)
     -   Topic: Section Headings
     -   Topic: Sections of Content
     -   Topic: Page Regions
