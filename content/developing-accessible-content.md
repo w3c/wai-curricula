@@ -55,6 +55,7 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Application Menus
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
     -   Topic: Simple Images
+    -   Topic: Functional Images
     -   Topic: Complex Images
 -   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
     -   Topic: Simple Tables
