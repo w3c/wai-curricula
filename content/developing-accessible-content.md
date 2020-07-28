@@ -48,7 +48,7 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Sections of Content
     -   Topic: Page Regions
     -   Topic: Orientation and Navigation
--   [Module 2: Navigation and Menus](/curricula/developing-accessible-content/navigation-and-menus/)
+-   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/)
     -   Topic: Menu Structure
     -   Topic: Menu Styling
     -   Topic: Fly-out Menus
