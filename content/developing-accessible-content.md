@@ -62,9 +62,10 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Complex Tables
     -   Topic: Table Summary and Descriptions
 -   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
-    -   Topic: Form Labels and Instructions
-    -   Topic: Input Validation
-    -   Topic: User Notifications
+    -   Topic: Form Labels
+    -   Topic: Form Instructions
+    -   Topic: Time Limits
+    -   Topic: Validation and Notifications
 -   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/)
     -   Topic: WAI-ARIA specification
     -   Topic: Programmatic and Visual Focus
