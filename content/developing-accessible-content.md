@@ -43,29 +43,32 @@ Students of courses based on this curriculum are expected to have achieved the l
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-semantics-and-navigation/)
+-   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-and-semantics/)
     -   Topic: Section Headings
     -   Topic: Sections of Content
     -   Topic: Page Regions
-    -   Topic: Page Structure
+    -   Topic: Orientation and Navigation
 -   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/)
-    -   Topic: Single-Level Menus
-    -   Topic: Multi-Level Menus
-    -   Topic: Additional Information for Menu Navigation
+    -   Topic: Menu Structure
+    -   Topic: Menu Styling
+    -   Topic: Fly-out Menus
+    -   Topic: Application Menus
 -   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
     -   Topic: Simple Images
+    -   Topic: Functional Images
     -   Topic: Complex Images
 -   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
     -   Topic: Table Summary and Descriptions
 -   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
-    -   Topic: Form Labels and Instructions
-    -   Topic: Input Validation
-    -   Topic: User Notifications
+    -   Topic: Form Labels
+    -   Topic: Form Instructions
+    -   Topic: Time Limits
+    -   Topic: Validation and Notifications
 -   [Module 6: Widgets](/curricula/developing-accessible-content/widgets/)
     -   Topic: WAI-ARIA specification
     -   Topic: Programmatic and Visual Focus
     -   Topic: Additional States of a Widget
     -   Topic: Dynamic Changes
-	
+
