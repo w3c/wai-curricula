@@ -154,7 +154,7 @@
         url: "https://www.w3.org/WAI/tutorials/menus/"
         different: true
       - name: Images
-        url: "https://www.w3.org/WAI/tutorials/images/"
+        url: "https://www.w3.org/WAI/tutorials/images-and-graphics/"
         different: true
       - name: Tables
         url: "https://www.w3.org/WAI/tutorials/tables/"
@@ -239,6 +239,21 @@
         url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
       - name: "Getting Started with Accessibility"
         url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
+    - name: "Developing Accessible Content"
+      url: "/curricula/developing-accessible-content/"
+      pages:
+      - name: "Structure and Semantics"
+        url: "/curricula/developing-accessible-content/structure-and-semantics/"
+      - name: "Navigational Menus"
+        url: "/curricula/developing-accessible-content/navigational-menus/"
+      - name: "Images and Graphics"
+        url: "/curricula/developing-accessible-content/images-and-graphics/"
+      - name: "Tabular Information"
+        url: "/curricula/developing-accessible-content/tabular-information/"
+      - name: "Forms and Input Elements"
+        url: "/curricula/developing-accessible-content/forms-and-input-elements/"
+      - name: "Widgets"
+        url: "/curricula/developing-accessible-content/widgets/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
