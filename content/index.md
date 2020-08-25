@@ -84,7 +84,7 @@ The table below shows ideas for future curricula. When completed, they will be l
           <li> <a href="/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></li>
           <li> <a href="/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a></li>
           <li> <a href="/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a></li>
-          <li> <a href="/curricula/developing-accessible-content/widgets/">Module 6: Widgets</a></li>
+          <li> <a href="/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a></li>
         </ul>
       </td>
       <td>
