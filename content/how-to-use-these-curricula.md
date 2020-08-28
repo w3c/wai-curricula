@@ -4,7 +4,7 @@ permalink: /curricula/how-to-use-these-curricula/
 ref: /curricula/how-to-use-this-curricula/
 github:
   repository: w3c/wai-curricula
-  path: how-to-use-this-curricula.md
+  path: content/how-to-use-this-curricula.md
 license: creative-commons
 footer: > # Text in footer in HTML
   <p>Work in Progress.</p>
