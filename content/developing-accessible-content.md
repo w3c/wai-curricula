@@ -30,7 +30,7 @@ This curriculum results in courses that:
   * images and graphics
   * tables
   * forms
-  * widgets
+  * custom widgets
 
 ## Prerequisites for Students
 
