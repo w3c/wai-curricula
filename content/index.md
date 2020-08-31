@@ -1,6 +1,6 @@
 ---
-title: "Curricula on Web accessibility: A Framework to Build Your Own Courses"
-title_html: "Curricula on Web accessibility: <br><small>A Framework to Build Your Own Courses</small>"
+title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
+title_html: "Curricula on Web Accessibility: <br><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -36,7 +36,7 @@ These modules follow a universal design approach. They provide advice for differ
 
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web accessibility" is available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
