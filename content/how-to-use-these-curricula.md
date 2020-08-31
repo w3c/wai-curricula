@@ -1,10 +1,10 @@
 ---
 title: "[Draft] How to Use these Curricula"
 permalink: /curricula/how-to-use-these-curricula/
-ref: /curricula/how-to-use-this-curricula/
+ref: /curricula/how-to-use-these-curricula/
 github:
   repository: w3c/wai-curricula
-  path: content/how-to-use-this-curricula.md
+  path: content/how-to-use-these-curricula.md
 license: creative-commons
 footer: > # Text in footer in HTML
   <p>Work in Progress.</p>
