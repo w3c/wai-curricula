@@ -67,9 +67,8 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Time Limits
     -   Topic: Validation and Notifications
 -   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
-    -   Topic: Extending Semantics
-    -   Topic: Custom Buttons
-    -   Topic: Custom Listboxes
-    -   Topic: Custom Carousels
-    -   Topic: Custom Modal Dialogs
-
+    -   Topic: Standard and Custom Widgets
+    -   Topic: Keyboard Interactions
+    -   Topic: States of a Custom Widget
+    -   Topic: Live Regions
+    
