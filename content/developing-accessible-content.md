@@ -67,10 +67,8 @@ Students of courses based on this curriculum are expected to have achieved the l
     -   Topic: Time Limits
     -   Topic: Validation and Notifications
 -   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
-    -   Topic: Extending Semantics
-    -   Topic: Assigning Widget Roles
-    -   Topic: Providing Accessible Names and Descriptions
-    -   Topic: Conveying States, Properties, and Values
-    -   Topic: Keyboard Interactions
-    -   Topic: Live Regions
-    
+    -   Topic: Semantics and Widget Roles
+    -   Topic: Accessible Names and Descriptions
+    -   Topic: States, Properties, and Values
+    -   Topic: Keyboard and Focus Management
+    -   Topic: Live Regions and Notifications
