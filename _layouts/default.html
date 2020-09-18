@@ -1,0 +1,101 @@
+{%- assign pagelang = 'en' -%}
+{%- if page.lang -%}
+  {%- assign pagelang = page.lang -%}
+{%- endif -%}
+{%- if pagelang == 'en' -%}
+  {%- assign enpage = page -%}
+{%- else -%}
+  {%- assign enpage=site.documents | where:"ref", page.ref | where: "lang", "en" | first -%}
+  {%- unless enpage.ref -%}
+    {%- assign enpage=site.pages | where:"ref", page.ref | where: "lang", "en" | first -%}
+  {%- endunless -%}
+{%- endif -%}
+{%- assign englishpageurl = enpage.url %}
+{%- assign translations=site.documents | where:"ref", page.ref | where_exp:"item", "item.lang != 'en'" | sort: 'lang' -%}
+{%- unless translations[0].ref -%}
+  {% assign translations=site.pages | where:"ref", page.ref | where_exp:"item", "item.lang != 'en'" | sort: 'lang' %}
+{%- endunless -%}
+<!DOCTYPE html>
+<html class="no-js" lang="{% if page.lang %}{{page.lang}}{% else %}en{% endif %}" dir="{% if site.data.lang[pagelang].rtl %}rtl{% else %}ltr{% endif %}" prefix="og: http://ogp.me/ns#">
+  {%- assign timestamp = site.time | date: '%s%N' -%}
+  {%- assign timestamp = '?' | append: timestamp -%}
+  {%- include_cached head.html type="start" timestamp=timestamp -%}
+  {%- if site.data.lang[pagelang].rtl -%}
+  <title> W3C | {{ site.title | escape }} | {{ page.title | escape }} {%if page.doc-note-type == "archived" %}[{% include t.html t="Archived" %}]{% endif%}{%if page.doc-note-type == "draft" %}[{% include t.html t="Draft" %}]{% endif%}</title>
+  {%- else -%}
+  <title>{%if page.doc-note-type == "archived" %}[{% include t.html t="Archived" %}]{% endif%}{%if page.doc-note-type == "draft" %}[{% include t.html t="Draft" %}]{% endif%} {{ page.title | escape }} | {{ site.title | escape }} | W3C</title>
+  {%- endif -%}
+  {%- if page.external_css %}<link rel="stylesheet" href="{{ page.external_css | relative_url | append: timestamp }}">{% endif -%}
+  {%- if page.ext_css %}<link rel="stylesheet" href="{{ page.ext_css | prepend: '/css/' | prepend: page.collection | prepend: '/' | relative_url | append: timestamp }}">{% endif -%}
+  {%- if page.inline_css %}<style>{{ page.inline_css }}</style>{% endif -%}
+  {%- capture seo -%}
+    {%- seo title=false -%}
+  {%- endcapture -%}
+  {{- seo | replace: '<meta name="twitter:card" content="summary" />', '<meta name="twitter:card" content="summary_large_image" />' -}}
+  {%- unless page.image -%}{%- if site.twitter.image -%}{% assign twimage = site.twitter.image -%}{%- else -%}{% assign twimage = '/assets/images/social-sharing-default.jpg' -%}{%- endif -%}
+  <meta name="twitter:image" property="og:image" content="{{ twimage | relative_url | prepend: site.url }}">
+  {%- endunless -%}
+  {% include_cached head.html type="end" %}
+  <body id="top" class="page-{{page.title | slugify}} {% include_cached body-class.html collection=page.collection doc-note-type=page.doc-note-type pageclass=page.class%}"{%if page.footnotestitle %} data-footnotestitle="{{page.footnotestitle}}"{% endif %}>
+    {% include header.html translations=translations %}
+    <div class="default-grid with-gap{% unless page.noleftcol %} leftcol{% endunless %}">
+
+  {% if page.sidebaricon %}
+    {% comment %}
+    This should be properly implemented in the styleguide, but it might be a one-off.
+    {% endcomment %}
+    <style>
+      .sidebaricon {
+        width: 100%;
+        display: block;
+        height: 292px;
+        color: var(--w3c-blue);
+        margin-top: 65px;
+      }
+    </style>
+    <div class="sidenav">
+      {% include_cached icon.html name=page.sidebaricon class="sidebaricon" %}
+    </div>
+  {% else %}
+    {% include secondarynav.html parent=page.parent  %}
+  {% endif %}
+
+  <main id="main"{% if page.lang %} lang="{{page.lang}}"{% endif %}>
+    <header{%- if page.resource.ref %}{%- unless page.ref == page.resource.ref %} class="in-resource"{%- endunless -%}{%- endif -%}>
+      <h1>{% if page.title_icon %}<svg class="icon-in-title" aria-hidden="true"><use xlink:href="{{page.title_icon | relative_url}}"></use></svg> {% endif %}{% if page.title_image %}<img src="{{page.title_image | relative_url }}" alt="" class="title-image right" style="height: 2em;"> {% endif %}{% if page.title_html %}{{ page.title_html }}{% else %}{{ page.title | xml_escape }}{% endif %}</h1>
+      {%- if page.resource.ref -%}{%- unless page.ref == page.resource.ref -%}
+        <p>{% include t.html t="in" %} {% include link.html to=page.resource.ref %}</p>
+      {%- endunless -%}{%- endif -%}
+      {%- if page.parent-resource.ref -%}{%- unless page.ref == page.parent-resource.ref -%}
+        <p>{% include t.html t="in" %} {% include link.html to=page.parent-resource.ref %}</p>
+      {%- endunless -%}{%- endif -%}
+    </header>
+
+    {%- include doc-note-msg.html -%}
+    {%- include translation-note-msg.html -%}
+
+    {{ content }}
+
+    {% if page.wcag_success_criteria or page.wcag_techniques %}
+      {% include resources.html %}
+    {% endif %}
+
+    {%- if page.navigation -%}
+      {%- include prevnext-navigation.html -%}
+    {%- else -%}
+      {%- if page.order -%}
+        {%- include prevnext-order.html -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {% include feedback-box.html %}
+
+
+    {% include_cached backtotop.html lang=page.lang %}
+  </main>
+</div>
+
+{% include footer.html lang=pagelang %}
+
+  </body>
+</html>
