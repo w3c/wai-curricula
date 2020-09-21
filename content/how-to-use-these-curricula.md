@@ -1,7 +1,7 @@
 ---
 title: "[Draft] How to Use these Curricula"
 permalink: /curricula/how-to-use-these-curricula/
-ref: /curricula/how-to-use-these-curricula/
+href: /curricula/how-to-use-these-curricula/
 github:
   repository: w3c/wai-curricula
   path: content/how-to-use-these-curricula.md
@@ -23,7 +23,7 @@ This page provides further guidance on how to use the materials of the WAI Curri
 
 * explains how several terms are used
 * presents several implementation examples
-* discusses some course characteristics that you may want to take into account when including accessibility training needs in your RFPs.
+* discusses some course characteristics that you may want to take into account when comparing, selecting, or procuring courses on web accessibility
 
 {% include excol.html type="all" %}
 
@@ -266,9 +266,9 @@ Focus on how the course provider plans to teach the learning outcomes. Ask for d
 
 Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one assessment per learning outcome. 
 
-### Course Accreditation and/or Certification
+### Course Accreditation
 
-Ask if the provider offers any accreditations after course completion. For example, certificates or free choice subject credits. An example of such accreditation system can be found at the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/).
+Ask if the provider offers any accreditations after course completion. For example, course certificates or free choice subject credits. There are several example of such accreditation systems, some of which are specific to accessibility.
 
 ### Availability of Materials
 
