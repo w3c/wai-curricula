@@ -60,7 +60,7 @@ Students of courses based on this curriculum are expected to have achieved the l
 -   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
-    -   Topic: Table Summary and Descriptions
+    -   Topic: Table Summaries and Descriptions
 -   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
