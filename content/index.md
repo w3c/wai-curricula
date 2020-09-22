@@ -65,26 +65,26 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="/curricula/introduction-to-web-accessibility/">Introduction to Web accessibility</a></p>
+    <p><a href="{{ '/curricula/introduction-to-web-accessibility/' | relative_url }}">Introduction to Web accessibility</a></p>
        <ul>
-        <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="{{ '/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
       </ul>
     </td></tr>
     <tr>
       <th> Intermediate</th>
       <td>
-	       <p><a href="/curricula/developing-accessible-content/">Developing Accessible Content</a></p>
+	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
         <ul>
-          <li> <a href="/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a></li>
-          <li> <a href="/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a></li>
-          <li> <a href="/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></li>
-          <li> <a href="/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a></li>
-          <li> <a href="/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a></li>
-          <li> <a href="/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/forms-and-input-elements/' | relative_url }}">Module 5: Forms and Input Elements</a></li>
+          <li> <a href="{{ '/curricula/developing-accessible-content/custom-widgets/' | relative_url }}">Module 6: Custom Widgets</a></li>
         </ul>
       </td>
       <td>
