@@ -23,13 +23,13 @@ This page provides further guidance on how to use the materials of the WAI Curri
 
 * explains how several terms are used
 * presents several implementation examples
-* discusses some course characteristics that you may want to take into account when comparing, selecting, or procuring courses on web accessibility
+* discusses some course characteristics that you may want to consider when comparing, selecting, or procuring courses on web accessibility
 
 {% include excol.html type="all" %}
 
 {% include excol.html type="start" %}
 
-## Definition of Terms
+## Terms Used in these Pages
 
 {% include excol.html type="middle" %}
 
@@ -73,6 +73,54 @@ Teaching Resources
 {% include excol.html type="middle" %}
 
 The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different modules from different curricula to address several roles together.
+
+### Prioritizing Materials Based on Roles
+
+An organization is planning how to introduce Web accessibility for their various roles and is interested in knowing modules of these curricula they can use as primary and secondary.
+
+<table>
+<thead>
+<tr>
+<th>Course name</th>
+<th>Primary Modules</th>
+<th>Secondary Modules</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+		<th>Introduction to Web Accessibility for Developers,  Designers, and Content Authors</th>
+	<td>
+		<ul>
+      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+    </ul>
+</td>
+<td>
+	<ul>
+        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
+	</ul>
+</td>
+</tr>
+<tr>
+	<th>Introduction to Web Accessibility for Project Managers</th>
+	<td>
+		<ul>
+      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
+	</ul>
+	</td>
+	<td>
+    <ul>
+            <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
+            <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+	   </ul>
+    </td>
+</tr>
+</tbody>
+</table>
 
 ### MOOC Course
 
@@ -237,11 +285,11 @@ An organization wants to train their small team in web accessibility. They devel
 
 {% include excol.html type="start" %}
 
-## Course Characteristics
+## Compare, Select, and Procure Courses on Web Accessibility
 
 {% include excol.html type="middle" %}
 
-The following is a list of course characteristics that you can take into account to compare and select courses based on the WAI Curricula.
+The following is a list of course characteristics that you can consider to compare and select courses based on the [WAI Curricula](/curricula/).
 
 ### Students' Outcomes
 
@@ -250,7 +298,7 @@ Learning outcomes are usually defined as what a student should be able to demons
 Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
 * those at a module level are covered
-* those from the introductory modules are addressed before any other specific role
+* those from the introductory modules are addressed before any others from specific roles
 * those related to how people with disabilities use the Web are part of the course
 
 ### Teaching Abilities
@@ -268,15 +316,19 @@ Focus on how the provider plans to assess knowledge. Ask for specific activities
 
 ### Course Accreditation
 
-Ask if the provider offers any accreditations after course completion. For example, course certificates or free choice subject credits. There are several example of such accreditation systems, some of which are specific to accessibility.
+Ask if the provider offers any accreditations after course completion. For example, course certificates or free choice subject credits. There are several examples of such accreditation systems, some of which are specific to accessibility.
 
 ### Availability of Materials
 
-Ask the provider how they will make materials available to you (online/offline consumption). Communicate if you need to keep the slides and/or handouts for future consultation.
+Ask the provider how they will make materials available to you (online/offline, permanent/temporary consumption). Communicate if you need to keep the slides and/or handouts for future consultation in advance, as some providers may give you a temporary access to their course platforms.
 
 ### Specific Audience Needs
 
 Make sure the course provider will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+
+### Legal Requirements
+
+Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with as different policies may imply different requirements or prioritization of these requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
 
 {% include excol.html type="end" %}
 
