@@ -41,6 +41,8 @@ Students of courses based on this curriculum are expected to have achieved the l
 * [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Topics "Principles of Web Accessibility", "W3C Accessibility Standards", and "Hands-on Experience of Standards"
 * [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) &mdash; Topic "Roles and Responsibilities"
 
+Basic HTML and CSS knowledge is also advised.
+
 ## Modules in this Curriculum
 
 -   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-and-semantics/)
