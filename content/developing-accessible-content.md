@@ -24,6 +24,7 @@ This curriculum focuses on markup and coding techniques. It is primarily designe
 This curriculum results in courses that:
 
 * explain key terms from the perspective of developers
+* demonstrate the relevance of accessible coding to improve use of the Web by people with disabilities
 * provide markup and coding techniques around:
   * page structure
   * navigation
