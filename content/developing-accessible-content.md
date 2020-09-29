@@ -24,6 +24,7 @@ This curriculum focuses on markup and coding techniques. It is primarily designe
 This curriculum results in courses that:
 
 * explain key terms from the perspective of developers
+* demonstrate how accessible coding improves use of the Web by people with disabilities
 * provide markup and coding techniques around:
   * page structure
   * navigation
@@ -40,6 +41,8 @@ Students of courses based on this curriculum are expected to have achieved the l
 * [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Topics "Diverse Abilities, Tools, and Strategies" and "Components of Web Accessibility"
 * [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Topics "Principles of Web Accessibility", "W3C Accessibility Standards", and "Hands-on Experience of Standards"
 * [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) &mdash; Topic "Roles and Responsibilities"
+
+Basic HTML and CSS knowledge is also advised.
 
 ## Modules in this Curriculum
 
@@ -60,7 +63,7 @@ Students of courses based on this curriculum are expected to have achieved the l
 -   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
-    -   Topic: Table Summary and Descriptions
+    -   Topic: Table Summaries and Descriptions
 -   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
