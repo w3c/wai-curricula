@@ -53,7 +53,7 @@ Learning Outcomes
 : what students will learn and should be able to demonstrate. This is the core of the curricula
 
 Competencies
-: previous knowledge that students and instructors should have before taking or teaching courses based on these modules.
+: skills or knowledge that students and instructors should have before taking or teaching courses based on these modules.
 
 Teaching Ideas
 : suggested ideas to help instructors teach the learning outcomes.
