@@ -222,61 +222,66 @@ An organization wants to train their small team in web accessibility. They devel
 <caption>Several roles together</caption>
 <thead>
 <tr>
-<th>Day</th>
-<th>Title</th>
-<th>Duration (hours)</th>
+<th>Module</th>
+<th>Estimated hours (introductory)</th>
+<th>Estimated hours (detailed)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th>1</th>
-<td>Module 2: People and Digital Technology</td>
-<td>3</td>
-</tr>
-<tr>
-<th>1</th>
-<td>Module 4: Principles, Guidelines, and Checks</td>
-<td>3</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Module 1: Structure and Semantics</td>
+<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>2</th>
-<td>Module 2: Navigational Menus</td>
+<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Guidelines, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
 <td>1</td>
+<td>6</td>
 </tr>
 <tr>
-<th>2</th>
-<td>Module 3: Images and Graphics</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>2</th>
-<td>Module 4: Tabular Information</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>2</th>
-<td>Module 5: Forms and Input Elements</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>3</th>
-<td>Module 1: Contrast Ratios</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>3</th>
-<td>Module 2: Font Styles and Sizes</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<th>3</th>
-<td>Module 3: Resizing Content</td>
+<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
 <td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<th>Module 1: Contrast Ratios [TBD]</th>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Module 2: Font Styles and Sizes [TBD]</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Module 3:hResizing Content [TBD]</th>
+<td>1</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
