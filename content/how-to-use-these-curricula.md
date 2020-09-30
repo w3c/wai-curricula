@@ -71,15 +71,15 @@ Teaching Resources
 ## Implementation Examples
 
 {% include excol.html type="middle" %}
-
 The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different modules from different curricula to address several roles together.
 
 ### Prioritizing Materials Based on Roles
 
-An organization is planning how to introduce Web accessibility for their various roles and is interested in knowing modules of these curricula they can use as primary and secondary.
+An organization is planning how to introduce web accessibility for their various roles and is interested in knowing modules of these curricula they can use as primary and secondary.
 
 <table>
 <thead>
+<caption>Primary and secondary categorization</caption>
 <tr>
 <th>Course name</th>
 <th>Primary Modules</th>
@@ -121,6 +121,8 @@ An organization is planning how to introduce Web accessibility for their various
 </tr>
 </tbody>
 </table>
+
+{% comment %}
 
 ### MOOC Course
 
@@ -214,9 +216,11 @@ A university wants to include accessibility in their HCI programs. The below sho
 </tbody>
 </table>
 
-### A Face-To-Face Course for Professionals Sharing Different Roles
+{% endcomment %}
 
-An organization wants to train their small team in web accessibility. They develop tasks associated to several roles.
+### A Course for Professionals Sharing Different Roles
+
+An organization wants to train their team in web accessibility. The following is a list of modules to address the needs of designers, developers, and content authors.
 
 <table>
 <caption>Several roles together</caption>
@@ -279,7 +283,7 @@ An organization wants to train their small team in web accessibility. They devel
 <td>5</td>
 </tr>
 <tr>
-<td>Module 3:hResizing Content [TBD]</th>
+<th>Module 3: Resizing Content [TBD]</th>
 <td>1</td>
 <td>5</td>
 </tr>
