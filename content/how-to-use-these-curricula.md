@@ -59,7 +59,7 @@ Teaching Ideas
 : suggested ideas to help instructors teach the learning outcomes.
 
 Ideas to Assess Knowledge
-: suggested ideas to help instructors assess the knowledge acquired by the students.
+: suggested ideas to help instructors assess the skills or knowledge acquired by the students.
 
 Teaching Resources
 : recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
@@ -76,7 +76,11 @@ The following are possible implementations of the WAI Curricula. Some of them ar
 
 ### Roles Metrics
 
+{% include excol.html type="start" %}
+
 The following is a series of course examples and the recommended modules based on the roles these courses address.
+
+{% include excol.html type="middle" %}
 
 <table>
 <thead>
@@ -147,6 +151,8 @@ The following is a series of course examples and the recommended modules based o
     </tr>
 </tbody>
 </table>
+
+{% include excol.html type="end" %}
 
 {% comment %}
 
@@ -246,7 +252,11 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 ### A Course for Professionals Sharing Different Roles
 
-An organization wants to train their team in web accessibility. The following is a list of modules to address the needs of designers, developers, and content authors.
+{% include excol.html type="start" %}
+
+The following is a list of modules to address the needs of designers, developers, content authors, testers, and managers. It provides two course levels: introductory and detailed, as well as estimated duration for each.
+
+{% include excol.html type="middle" %}
 
 <table>
 <caption>Several roles together</caption>
@@ -304,7 +314,7 @@ An organization wants to train their team in web accessibility. The following is
 <td>5</td>
 </tr>
 <tr>
-<thModule 2: Font Styles and Sizes [TBD]</th>
+<th>Module 2: Font Styles and Sizes [TBD]</th>
 <td>1</td>
 <td>5</td>
 </tr>
@@ -315,6 +325,8 @@ An organization wants to train their team in web accessibility. The following is
 </tr>
 </tbody>
 </table>
+
+{% include excol.html type="endcomment" %}
 
 {% include excol.html type="end" %}
 
