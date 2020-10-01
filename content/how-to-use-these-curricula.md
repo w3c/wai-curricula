@@ -346,7 +346,7 @@ The following is a list of course examples based on modules to address the needs
 </tbody>
 </table>
 
-{% include excol.html type="endcomment" %}
+{% include excol.html type="end" %}
 
 {% include excol.html type="end" %}
 
