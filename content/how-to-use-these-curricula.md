@@ -250,11 +250,11 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 {% endcomment %}
 
-### A Course for Professionals Sharing Different Roles
+### Professionals Sharing Different Roles
 
 {% include excol.html type="start" %}
 
-The following is a list of modules to address the needs of designers, developers, content authors, testers, and managers. It provides two course levels: introductory and detailed, as well as estimated duration for each.
+The following is a list of courses with modules to address the needs of designers, developers, content authors, testers, and managers. It provides two depth levels: introductory and detailed, as well as estimated duration for each.
 
 {% include excol.html type="middle" %}
 
