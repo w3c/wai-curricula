@@ -10,7 +10,7 @@ footer: > # Text in footer in HTML
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a></p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by thee European Commission (EC) under thee Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/
   next: /curricula/introduction-to-web-accessibility/
@@ -71,15 +71,16 @@ Teaching Resources
 ## Implementation Examples
 
 {% include excol.html type="middle" %}
-The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different modules from different curricula to address several roles together.
 
-### Prioritizing Materials Based on Roles
+The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different curricula modules to address several roles together.
 
-An organization is planning how to introduce web accessibility for their various roles and is interested in knowing modules of these curricula they can use as primary and secondary.
+### Roles Metrics
+
+The following is a series of course examples and the recommended modules based on the roles these courses address.
 
 <table>
 <thead>
-<caption>Primary and secondary categorization</caption>
+<caption>Roles Metrics</caption>
 <tr>
 <th>Course name</th>
 <th>Primary Modules</th>
@@ -88,18 +89,18 @@ An organization is planning how to introduce web accessibility for their various
 </thead>
 <tbody>
 <tr>
-		<th>Introduction to Web Accessibility for Developers,  Designers, and Content Authors</th>
+		<th>Introduction to Web Accessibility for Developers, Designers, and Content Authors</th>
 	<td>
 		<ul>
-      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
     </ul>
 </td>
 <td>
 	<ul>
-        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
 	</ul>
 </td>
 </tr>
@@ -107,18 +108,43 @@ An organization is planning how to introduce web accessibility for their various
 	<th>Introduction to Web Accessibility for Project Managers</th>
 	<td>
 		<ul>
-      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+      <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
 	</ul>
 	</td>
 	<td>
     <ul>
-            <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a></li>
-            <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a></li>
+            <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
+            <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
 	   </ul>
     </td>
 </tr>
+<tr>
+    <th>Developing Accessible Content</th>
+    <td>
+        <ul>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
+        </ul>
+    </td>
+    <td></td>
+</tr>
+<tr>
+    <th>Designing Accessible Content</th>
+    <td>
+        <ul>
+                <li>Module 1: Contrast Ratios [TBD]</li>
+                <li>Module 2: Font Styles and Sizes [TBD]</li>
+                <li>Module 3: Resizing Content [TBD]</li>
+            </ul>
+        </td>
+        <td></td>
+    </tr>
 </tbody>
 </table>
 
@@ -132,9 +158,9 @@ A group of organizations develop a MOOC course for those who want to get started
 <caption>MOOC Course</caption>
 <thead>
 <tr>
-<th>Week</th>
-<th>Title</th>
-<th>Duration </th>
+<li>Week</li>
+<li>Title</li>
+<li>Duration </li>
 </tr>
 </thead>
 <tbody>
@@ -154,7 +180,7 @@ A group of organizations develop a MOOC course for those who want to get started
 <td>2-3</td>
 </tr>
 <tr>
-<th>4</th>
+<th>4</lth>
 <td>Module 4: Principles, Guidelines and Checks</td>
 <td>4-5</td>
 </tr>
@@ -278,7 +304,7 @@ An organization wants to train their team in web accessibility. The following is
 <td>5</td>
 </tr>
 <tr>
-<td>Module 2: Font Styles and Sizes [TBD]</td>
+<thModule 2: Font Styles and Sizes [TBD]</th>
 <td>1</td>
 <td>5</td>
 </tr>
