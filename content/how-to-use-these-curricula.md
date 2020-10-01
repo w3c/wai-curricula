@@ -78,7 +78,7 @@ The following are implementation examples of curricula modules. Some of them are
 
 {% include excol.html type="start" %}
 
-An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum ]Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides level of detail based on roles.
+An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides level of detail based on roles.
 
 {% include excol.html type="middle" %}
 
