@@ -72,19 +72,85 @@ Teaching Resources
 
 {% include excol.html type="middle" %}
 
-The following are possible implementations of the WAI Curricula. Some of them are based on a complete curriculum, some others combine different curricula modules to address several roles together.
+The following are implementation examples of curricula modules. Some of them are based on a complete curriculum, some others combine different curricula modules to address several roles together.
+
+### Introduction to Web Accessibility Course
+
+{% include excol.html type="start" %}
+
+An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum ]Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides level of detail based on roles.
+
+{% include excol.html type="middle" %}
+
+<table>
+<caption>Introduction to Web Accessibility Course</caption>
+<thead>
+<tr>
+<th>Module</th>
+<th>Developer</th>
+<th>Designer</th>
+<th>Content Author</th>
+<th>Manager</th>>
+<th>Tester</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: What is Web Accessibility</a></th>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Detailed</td>
+</tr>
+<tr>
+<th><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology">Module 2: People and Digital Technology</a></td>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Introductory</td>
+<td>Detailed</td>
+</tr>
+<tr>
+<th><a href="/curricula/introuction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
+<td>Introductory</td>
+<td>Introductory</td>
+<td>Introductory</td>
+<td>Detailed</td>
+<td>Introductory</td>
+</tr>
+<tr>
+<th><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines and Checks</a></th>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Detailed</td>
+<td>Introductory</td>
+<td>Detailed</td>
+</tr>
+<tr>
+<th><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></th>
+<td>Introductory</td>
+<td>Introductory</td>
+<td>Introductory</td>
+<td>Detailed</td>
+<td>Detailed</td>
+</tr>
+</tbody>
+</table>
+
+{% include excol.html type="end" %}
 
 ### Roles Metrics
 
 {% include excol.html type="start" %}
 
-The following is a series of course examples and the recommended modules based on the roles these courses address.
+A series of course examples and the recommended modules for introductory and detailed levels based on the roles these courses address.
 
 {% include excol.html type="middle" %}
 
 <table>
-<thead>
 <caption>Roles Metrics</caption>
+<thead>
 <tr>
 <th>Course name</th>
 <th>Primary Modules</th>
@@ -156,52 +222,6 @@ The following is a series of course examples and the recommended modules based o
 
 {% comment %}
 
-### MOOC Course
-
-A group of organizations develop a MOOC course for those who want to get started with web accessibility.
-
-<table>
-<caption>MOOC Course</caption>
-<thead>
-<tr>
-<li>Week</li>
-<li>Title</li>
-<li>Duration </li>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>1</th>
-<td>Module 1: What is Web Accessibility</td>
-<td>2-3</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Module 2: People and Digital Technology</td>
-<td>4-5</td>
-</tr>
-<tr>
-<th>3</th>
-<td>Module 3: Business Case and Benefits</td>
-<td>2-3</td>
-</tr>
-<tr>
-<th>4</lth>
-<td>Module 4: Principles, Guidelines and Checks</td>
-<td>4-5</td>
-</tr>
-<tr>
-<th>5</th>
-<td>Module 5: Applying and Managing Accessibility</td>
-<td>3-4</td>
-</tr>
-<tr>
-<th colspan="2">Total</th>
-<td>15-20</td>
-</tr>
-</tbody>
-</table>
-
 ### Introduction to Web Accessibility in a University ICT Program
 
 A university wants to include accessibility in their HCI programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course could take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
@@ -254,7 +274,7 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 {% include excol.html type="start" %}
 
-The following is a list of courses with modules to address the needs of designers, developers, content authors, testers, and managers. It provides two depth levels: introductory and detailed, as well as estimated duration for each.
+The following is a list of course examples based on modules to address the needs of designers, developers, content authors, testers, and managers. It provides two levels: introductory and detailed, as well as estimated duration for each of the modules.
 
 {% include excol.html type="middle" %}
 
