@@ -72,15 +72,11 @@ Teaching Resources
 
 {% include excol.html type="middle" %}
 
-The following are implementation examples of curricula modules. Some of them are based on a complete curriculum, some others combine different curricula modules to address several roles together.
+The following are implementation examples of curricula modules. Some of them are based on a complete curriculum, others combine different curricula modules to address several roles together.
 
 ### Introduction to Web Accessibility Course
 
-{% include excol.html type="start" %}
-
 An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides level of detail based on roles.
-
-{% include excol.html type="middle" %}
 
 <table>
 <caption>Introduction to Web Accessibility Course</caption>
@@ -89,22 +85,22 @@ An introductory course for those roles who want to get started with web accessib
 <th>Module</th>
 <th>Developer</th>
 <th>Designer</th>
-<th>Content Author</th>
-<th>Manager</th>>
+<th>Author</th>
+<th>Manager</th>
 <th>Tester</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: What is Web Accessibility</a></th>
+<th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: Accessibility</a></th>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
-<td>Detailed</td>
+<td>Introductory</td>
 <td>Detailed</td>
 </tr>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology">Module 2: People and Digital Technology</a></td>
+<th><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></th>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
@@ -138,15 +134,9 @@ An introductory course for those roles who want to get started with web accessib
 </tbody>
 </table>
 
-{% include excol.html type="end" %}
-
 ### Roles Metrics
 
-{% include excol.html type="start" %}
-
 A series of course examples and the recommended modules for introductory and detailed levels based on the roles these courses address.
-
-{% include excol.html type="middle" %}
 
 <table>
 <caption>Roles Metrics</caption>
@@ -218,10 +208,6 @@ A series of course examples and the recommended modules for introductory and det
 </tbody>
 </table>
 
-{% include excol.html type="end" %}
-
-{% comment %}
-
 ### Introduction to Web Accessibility in a University ICT Program
 
 A university wants to include accessibility in their HCI programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course could take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
@@ -268,15 +254,9 @@ A university wants to include accessibility in their HCI programs. The below sho
 </tbody>
 </table>
 
-{% endcomment %}
-
 ### Professionals Sharing Different Roles
 
-{% include excol.html type="start" %}
-
 The following is a list of course examples based on modules to address the needs of designers, developers, content authors, testers, and managers. It provides two levels: introductory and detailed, as well as estimated duration for each of the modules.
-
-{% include excol.html type="middle" %}
 
 <table>
 <caption>Several roles together</caption>
@@ -345,8 +325,6 @@ The following is a list of course examples based on modules to address the needs
 </tr>
 </tbody>
 </table>
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="end" %}
 
