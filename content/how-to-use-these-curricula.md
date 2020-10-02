@@ -76,7 +76,7 @@ The following are implementation examples of curricula modules. Some of them are
 
 ### Introduction to Web Accessibility Course
 
-An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides level of detail based on roles.
+An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides the recommended level of detail (introductory or detailed) for each role.
 
 <table>
 <caption>Introduction to Web Accessibility Course</caption>
@@ -92,8 +92,7 @@ An introductory course for those roles who want to get started with web accessib
 </thead>
 <tbody>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: Accessibility</a></th>
-<td>Detailed</td>
+><td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Introductory</td>
@@ -124,8 +123,7 @@ An introductory course for those roles who want to get started with web accessib
 <td>Detailed</td>
 </tr>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></th>
-<td>Introductory</td>
+><td>Introductory</td>
 <td>Introductory</td>
 <td>Introductory</td>
 <td>Detailed</td>
@@ -136,7 +134,7 @@ An introductory course for those roles who want to get started with web accessib
 
 ### Roles Metrics
 
-A series of course examples and the recommended modules for introductory and detailed levels based on the roles these courses address.
+A series of course examples with the recommended primary and secondary modules based on the roles these courses address.
 
 <table>
 <caption>Roles Metrics</caption>
@@ -217,34 +215,34 @@ A university wants to include accessibility in their HCI programs. The below sho
 <thead>
 <tr>
 <th>Week</th>
-<th>Title</th>
+<th>Module</th>
 <th>ECTS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th>1</th>
-<td>Module 1: What is Web Accessibility</td>
+<td><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: What is Web Accessibility</a></td>
 <td>0.1</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Module 2: People and Digital Technology</td>
+<td><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></td>
 <td>0.1</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Module 3: Business Case and Benefits</td>
+<td><a href="/curricula/introuction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></td>
 <td>0.1</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Module 4: Principles, Guidelines, and Checks</td>
+<td><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines and Checks</a></td>
 <td>0.1</td>
 </tr>
 <tr>
 <th>5</th>
-<td>Module 5: Applying and Managing Accessibility</td>
+<td><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></td>
 <td>0.1</td>
 </tr>
 <tr>
