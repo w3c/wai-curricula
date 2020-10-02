@@ -254,9 +254,9 @@ A university wants to include accessibility in their HCI programs. The below sho
 </tbody>
 </table>
 
-### Professionals Sharing Different Roles
+### Professionals Sharing Different Technical Roles
 
-The following is a list of course examples based on modules to address the needs of designers, developers, content authors, testers, and managers. It provides two levels: introductory and detailed, as well as estimated duration for each of the modules.
+The following is a list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of detail: introductory and detailed, as well as estimated duration for each of the modules.
 
 <table>
 <caption>Several roles together</caption>
@@ -274,7 +274,7 @@ The following is a list of course examples based on modules to address the needs
 <td>5</td>
 </tr>
 <tr>
-<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Guidelines, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
+<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks/">Module 4: Principles, Guidelines, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
 <td>1</td>
 <td>6</td>
 </tr>
@@ -309,17 +309,27 @@ The following is a list of course examples based on modules to address the needs
 <td>5</td>
 </tr>
 <tr>
-<th>Module 1: Contrast Ratios [TBD]</th>
+<th>Module 1: Contrast Ratios  from Designing Accessible Content [TBD]</th>
 <td>1</td>
 <td>5</td>
 </tr>
 <tr>
-<th>Module 2: Font Styles and Sizes [TBD]</th>
+<th>Module 2: Font Styles and Sizes from Designing Accessible Content[TBD]</th>
 <td>1</td>
 <td>5</td>
 </tr>
 <tr>
-<th>Module 3: Resizing Content [TBD]</th>
+<th>Module 3: Resizing Content  from Designing Accessible Content [TBD]</th>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<th>Module 1: Text Headings from Authoring Accessible Content [TBD]</th>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<th>Module 2: Text Alternatives from Authoring Accessible Content</th>
 <td>1</td>
 <td>5</td>
 </tr>
