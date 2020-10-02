@@ -19,20 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula to help you create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
-
-## Uses
-
-You can use these curricula in different contexts, including:
-
-* Online and in-class teaching
-* Formal and informal teaching
-* Guided and non-guided teaching
-* Academic and vocational education
-
-You are encouraged to combine different modules of the curricula to address the needs of several roles together. You can also use these curricula to compare different course offerings. For more details, please see [How to use these curricula](/curricula/how-to-use-these-curricula/)
-
-These modules follow a universal design approach. They provide advice for different components, scenarios, and users.
+This resource provides a set of role-based curricula to help you create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge. For more details, please see [How to use these curricula](/curricula/how-to-use-these-curricula/).
 
 ## Future Outline
 

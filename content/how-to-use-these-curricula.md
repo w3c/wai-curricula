@@ -21,48 +21,43 @@ navigation:
 
 This page provides further guidance on how to use the materials of the WAI Curricula. It:
 
-* explains how several terms are used
-* presents several implementation examples
-* discusses some course characteristics that you may want to consider when comparing, selecting, or procuring courses on web accessibility
+* explains some of its uses and terminology
+* provides several implementation examples
+* points to course characteristics to consider when comparing, selecting, or procuring courses on web accessibility
+
+## Uses
+
+You can use these curricula in different contexts, including:
+
+* Online and in-class teaching
+* Formal and informal teaching
+* Guided and non-guided teaching
+* Academic and vocational education
+
+You are encouraged to combine different modules of the curricula to address the needs of several roles together. You can also use these curricula to compare different course offerings.
+
+These modules follow a universal design approach. They provide advice for different components, scenarios, and users.
 
 {% include excol.html type="all" %}
 
 {% include excol.html type="start" %}
 
-## Terms Used in these Pages
+## Structure and Terminology
 
 {% include excol.html type="middle" %}
 
-Curricula
-: refers to the resource as a whole. It comprises each of the curriculum, together with its modules and topics
-
-Curriculum
-: a complete part of the curricula addressing one role
-
-Each curriculum contains:
-
-Modules
-: smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. You can teach a whole curriculum on its own or you can select specific modules to cover specific roles together
-
-Topics
-: thematic gathering of objectives within a module. These are not necessarily taught in a specific order, neither they are advised to be taught independently of the module they belong to.
-
+* Curricula -- Refers to the resource as a whole. It comprises modules and topics for each of the curriculum.
+* Curriculum -- A complete part of the curricula addressing one role. Each curriculum contains:
+  * Modules -- Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. You can teach a whole curriculum on its own or you can select modules from different curricula to cover specific roles together
+    * Topics -- Thematic gathering of objectives within a module. You can teach the topics in the order you prefer, but you are advised to teach them in the context of the moduel they belong to.
+    
 Each module defines:
 
-Learning Outcomes
-: what students will learn and should be able to demonstrate. This is the core of the curricula
-
-Competencies
-: skills or knowledge that students and instructors should have before taking or teaching courses based on these modules.
-
-Teaching Ideas
-: suggested ideas to help instructors teach the learning outcomes.
-
-Ideas to Assess Knowledge
-: suggested ideas to help instructors assess the skills or knowledge acquired by the students.
-
-Teaching Resources
-: recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+* Learning Outcomes-- What students will learn and should be able to demonstrate. This is the core of the curricula.
+* Competencies -- Skills or knowledge that students and instructors should have before taking or teaching courses based on these modules.
+* Teaching Ideas -- Suggested ideas to help instructors teach the learning outcomes.
+* Ideas to Assess Knowledge -- Suggested ideas to help instructors assess the skills or knowledge acquired by the students.
+* Teaching Resources -- recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
 {% include excol.html type="end" %}
 
@@ -76,7 +71,7 @@ The following are implementation examples of curricula modules. Some of them are
 
 ### Introduction to Web Accessibility Course
 
-An introductory course for those roles who want to get started with web accessibility, based on all modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides the recommended level of detail (introductory or detailed) for each role.
+An introductory course for those roles who want to get started with web accessibility, based on modules from curriculum [Introduction to web accessibility](/curricula/introduction-to-web-accessibility). It provides the recommended  level of coverage (introductory or detailed) for each role.
 
 <table>
 <caption>Introduction to Web Accessibility Course</caption>
@@ -96,7 +91,7 @@ An introductory course for those roles who want to get started with web accessib
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
-<td>Introductory</td>
+<td>Detailed</td>
 <td>Detailed</td>
 </tr>
 <tr>
@@ -116,7 +111,7 @@ An introductory course for those roles who want to get started with web accessib
 <td>Introductory</td>
 </tr>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines, and Checks</a></th>
+<th><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></th>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
@@ -239,7 +234,7 @@ A university wants to include accessibility in their HCI programs. The below sho
 </tr>
 <tr>
 <th>4</th>
-<td><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines and Checks</a></td>
+<td><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></td>
 <td>0.1</td>
 </tr>
 <tr>
@@ -256,7 +251,7 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 ### Professionals Sharing Different Technical Roles
 
-The following is a list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of detail: introductory and detailed, as well as estimated duration for each of the modules.
+The following is a list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of coverage: introductory and detailed, as well as estimated duration for each of the modules.
 
 <table>
 <caption>Several roles together</caption>
@@ -274,7 +269,7 @@ The following is a list of course examples based on modules that address the nee
 <td>5</td>
 </tr>
 <tr>
-<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks/">Module 4: Principles, Guidelines, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
+<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
 <td>1</td>
 <td>6</td>
 </tr>
