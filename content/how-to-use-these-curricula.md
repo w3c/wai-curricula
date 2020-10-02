@@ -92,7 +92,8 @@ An introductory course for those roles who want to get started with web accessib
 </thead>
 <tbody>
 <tr>
-><td>Detailed</td>
+<th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></th>
+<td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Introductory</td>
@@ -107,7 +108,7 @@ An introductory course for those roles who want to get started with web accessib
 <td>Detailed</td>
 </tr>
 <tr>
-<th><a href="/curricula/introuction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
+<th><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
 <td>Introductory</td>
 <td>Introductory</td>
 <td>Introductory</td>
@@ -115,7 +116,7 @@ An introductory course for those roles who want to get started with web accessib
 <td>Introductory</td>
 </tr>
 <tr>
-<th><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines and Checks</a></th>
+<th><a href="/curricula/introduction-to-web-accessibility/principles-guideliness-and-checks">Module 4: Principles, Guidelines, and Checks</a></th>
 <td>Detailed</td>
 <td>Detailed</td>
 <td>Detailed</td>
@@ -123,7 +124,8 @@ An introductory course for those roles who want to get started with web accessib
 <td>Detailed</td>
 </tr>
 <tr>
-><td>Introductory</td>
+<th><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
+<td>Introductory</td>
 <td>Introductory</td>
 <td>Introductory</td>
 <td>Detailed</td>
