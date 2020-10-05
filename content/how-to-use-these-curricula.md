@@ -134,15 +134,15 @@ An introductory course for those roles who want to get started with web accessib
 
 ### Roles Metrics
 
-A series of course examples with the recommended primary and secondary modules based on the roles these courses address.
+A list of course examples with the recommended modules for the roles these courses address. It provides two levels of coverage: introductory and detailed.
 
 <table>
 <caption>Roles Metrics</caption>
 <thead>
 <tr>
 <th>Course name</th>
-<th>Primary Modules</th>
-<th>Secondary Modules</th>
+<th>Detailed</th>
+<th>Introductory</th>
 </tr>
 </thead>
 <tbody>
@@ -179,7 +179,7 @@ A series of course examples with the recommended primary and secondary modules b
     </td>
 </tr>
 <tr>
-    <th>Developing Accessible Content</th>
+    <th>Developing Accessible Content (Detailed)</th>
     <td>
         <ul>
             <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
@@ -190,10 +190,10 @@ A series of course examples with the recommended primary and secondary modules b
             <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
         </ul>
     </td>
-    <td></td>
+    <td>Introductory course required</td>
 </tr>
 <tr>
-    <th>Designing Accessible Content</th>
+    <th>Designing Accessible Content (Detailed)</th>
     <td>
         <ul>
                 <li>Module 1: Contrast Ratios [TBD]</li>
@@ -201,7 +201,7 @@ A series of course examples with the recommended primary and secondary modules b
                 <li>Module 3: Resizing Content [TBD]</li>
             </ul>
         </td>
-        <td></td>
+        <td>Introductory course required</td>
     </tr>
 </tbody>
 </table>
@@ -258,7 +258,7 @@ A university wants to include accessibility in their HCI programs. The below sho
 
 ### Professionals Sharing Different Technical Roles
 
-The following is a list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of coverage: introductory and detailed, as well as estimated duration for each of the modules.
+A list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of coverage: introductory and detailed, as well as estimated duration for each of the modules.
 
 <table>
 <caption>Several roles together</caption>
