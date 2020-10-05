@@ -21,8 +21,9 @@ navigation:
 
 This page provides further guidance on how to use the materials of the WAI Curricula. It:
 
-* explains some of its uses and terminology
-* provides several implementation examples
+* explains its intended uses
+* defines terminology in use
+* provides implementation examples
 * points to course characteristics to consider when comparing, selecting, or procuring courses on web accessibility
 
 ## Uses
@@ -58,6 +59,8 @@ Each module defines:
 * Teaching Ideas -- Suggested ideas to help instructors teach the learning outcomes.
 * Ideas to Assess Knowledge -- Suggested ideas to help instructors assess the skills or knowledge acquired by the students.
 * Teaching Resources -- recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+For explanations about specific terminology related to people with disabilities, assistive technologies, and adaptive strategies, refer to [How people with disabilities use the Web](/people-use-web).
 
 {% include excol.html type="end" %}
 
@@ -203,6 +206,8 @@ A series of course examples with the recommended primary and secondary modules b
 </tbody>
 </table>
 
+{% comment %}
+
 ### Introduction to Web Accessibility in a University ICT Program
 
 A university wants to include accessibility in their HCI programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course could take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
@@ -248,6 +253,8 @@ A university wants to include accessibility in their HCI programs. The below sho
 </tr>
 </tbody>
 </table>
+
+{% endcomment %}
 
 ### Professionals Sharing Different Technical Roles
 
