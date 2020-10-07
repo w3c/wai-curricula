@@ -2,6 +2,8 @@
 title: "[Draft] About these Curricula"
 permalink: /curricula/about-these-curricula/
 href: /curricula/about-these-curricula/
+redirect_from:
+  - /curricula/how-to-use-these-curricula/
 github:
   repository: w3c/wai-curricula
   path: content/about-these-curricula.md
