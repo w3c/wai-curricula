@@ -60,15 +60,15 @@ Students of courses based on this curriculum are expected to have achieved the l
 -   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
-    -   Topic: Table Summary and Descriptions
+    -   Topic: Table Summaries and Descriptions
 -   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
     -   Topic: Time Limits
     -   Topic: Validation and Notifications
 -   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
-    -   Topic: WAI-ARIA specification
-    -   Topic: Programmatic and Visual Focus
-    -   Topic: Additional States of a Widget
-    -   Topic: Dynamic Changes
-
+    -   Topic: Semantics and Widget Roles
+    -   Topic: Accessible Names and Descriptions
+    -   Topic: States, Properties, and Values
+    -   Topic: Keyboard and Focus Management
+    -   Topic: Live Regions and Notifications
