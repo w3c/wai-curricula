@@ -66,8 +66,8 @@
       {%- if page.resource.ref -%}{%- unless page.ref == page.resource.ref -%}
         <p>{% include t.html t="in" %} {% include link.html to=page.resource.ref %}</p>
       {%- endunless -%}{%- endif -%}
-      {%- if page.parent-resource.ref -%}{%- unless page.ref == page.parent-resource.ref -%}
-        <p>{% include t.html t="in" %} {% include link.html to=page.parent-resource.ref %}</p>
+      {%- if page.parent_resource.ref -%}{%- unless page.ref == page.parent_resource.ref -%}
+        <p>{% include t.html t="in" %} {% include link.html to=page.parent_resource.ref %}</p>
       {%- endunless -%}{%- endif -%}
     </header>
 
