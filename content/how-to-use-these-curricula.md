@@ -81,7 +81,7 @@ For explanations about specific terminology related to people with disabilities,
 
 {% include excol.html type="middle" %}
 
-The following are implementation examples of curricula modules. They are based on roles to address. They provide two levels of detail: essential and complimentary, as well as hints of how many hours each of these levels of detail could take.
+The following are implementation examples of curricula modules. They are based on roles to address. They provide two levels of detail: essential and complementary, as well as hints of how many hours each of these levels of detail could take.
 
 <table>
   <caption>Introduction to Web Accessibility Course</caption>
@@ -109,30 +109,30 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
-      <td>Complimentary</td>
+      <td>Complementary</td>
       <td>Essential</td>
     </tr>
     <tr>
       <th><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
-      <td>Complimentary</td>
-      <td>Complimentary</td>
-      <td>Complimentary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
       <td>Essential</td>
-      <td>Complimentary</td>
+      <td>Complementary</td>
     </tr>
     <tr>
       <th><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
-      <td>Complimentary</td>
+      <td>Complementary</td>
       <td>Essential</td>
     </tr>
     <tr>
       <th><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
-      <td>Complimentary</td>
-      <td>Complimentary</td>
-      <td>Complimentary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary/td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
