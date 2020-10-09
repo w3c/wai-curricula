@@ -87,7 +87,7 @@ The following are implementation examples of curricula modules. They are based o
   <caption>Introduction to Web Accessibility Course</caption>
   <thead>
     <tr>
-      <th>Module</th>
+      <th>Section</th>
       <th>Developer</th>
       <th>Designer</th>
       <th>Author</th>
@@ -97,7 +97,7 @@ The following are implementation examples of curricula modules. They are based o
   </thead>
   <tbody>
     <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></th>
+      <th><a href="/curricula/introduction-to-web-accessibility">Introduction to Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -105,7 +105,31 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-stories-of-people-with-disabilities">Topic: Stories of People with Disabilities</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-scope-of-web-accessibility">Scope of Web Accessibility</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -113,15 +137,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-    </tr>
-    <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-diverse-abilities-tools-and-barriers">Topic: Diverse Abilities, Tools, and Barriers</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -129,7 +145,95 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-compontents-of-web-accessibility">Topic: Components of Web Accessibility</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/business-case-and-benefits/#topic-benefits-of-accessibility">Topic: Benefits of Accessibility</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-principles-of-web-accessibility">Principles of Web Accessibility</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-w3c-accessibility-standards">W3C Accessibility Standards</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-hands-on-experience-of-standards">Topic: Hands-on Experience of Standards</a></th>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-planing-and-managing-web-accessibility">Module 5: Getting Started with Accessibility</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-developing-policies-and-statements">Topic: Developing Policies and Statements</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities">Topic: Roles and Responsibilities</a></th>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+    </tr>
+    <tr>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-accessibility-in-an-existing-project">Topic: Accessibility in an Existing Project</a></th>
       <td>Complementary</td>
       <td>Complementary</td>
       <td>Complementary/td>
@@ -138,212 +242,6 @@ The following are implementation examples of curricula modules. They are based o
     </tr>
   </tbody>
 </table>
-
-{% comment %}
-
-### Roles Metrics
-
-A list of course examples with the recommended modules for the roles these courses address. It provides two levels of coverage: introductory and detailed.
-
-<table>
-<caption>Roles Metrics</caption>
-<thead>
-<tr>
-<th>Course name</th>
-<th>Detailed</th>
-<th>Introductory</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-		<th>Introduction to Web Accessibility for Developers, Designers, and Content Authors</th>
-	<td>
-		<ul>
-      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-    </ul>
-</td>
-<td>
-	<ul>
-        <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-        <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-	</ul>
-</td>
-</tr>
-<tr>
-	<th>Introduction to Web Accessibility for Project Managers</th>
-	<td>
-		<ul>
-      <li><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/business-case-and-benefits/">Module 3: Business Case and Benefits</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-      <li><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-	</ul>
-	</td>
-	<td>
-    <ul>
-            <li><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-            <li><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></li>
-	   </ul>
-    </td>
-</tr>
-<tr>
-    <th>Developing Accessible Content (Detailed)</th>
-    <td>
-        <ul>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-            <li><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></li>
-        </ul>
-    </td>
-    <td>Introductory course required</td>
-</tr>
-<tr>
-    <th>Designing Accessible Content (Detailed)</th>
-    <td>
-        <ul>
-                <li>Module 1: Contrast Ratios [TBD]</li>
-                <li>Module 2: Font Styles and Sizes [TBD]</li>
-                <li>Module 3: Resizing Content [TBD]</li>
-            </ul>
-        </td>
-        <td>Introductory course required</td>
-    </tr>
-</tbody>
-</table>
-
-### Introduction to Web Accessibility in a University ICT Program
-
-A university wants to include accessibility in their HCI programs. The below shows how many ECTS (European Credit Transfer and Accumulation System) an introduction to web accessibility course could take. One ECTS credit corresponds to 25-30 hours of students' workload. 60 credits reflect a complete year of students' workload.
-
-<table>
-<caption>University ICT Program</caption>
-<thead>
-<tr>
-<th>Week</th>
-<th>Module</th>
-<th>ECTS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>1</th>
-<td><a href="/curricula/introduction-to-web-accessibility/what-is-web-accessibility">Module 1: What is Web Accessibility</a></td>
-<td>0.1</td>
-</tr>
-<tr>
-<th>2</th>
-<td><a href="/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></td>
-<td>0.1</td>
-</tr>
-<tr>
-<th>3</th>
-<td><a href="/curricula/introuction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></td>
-<td>0.1</td>
-</tr>
-<tr>
-<th>4</th>
-<td><a href="/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></td>
-<td>0.1</td>
-</tr>
-<tr>
-<th>5</th>
-<td><a href="/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with accessibility</a></td>
-<td>0.1</td>
-</tr>
-<tr>
-<th colspan="2">Total</th>
-<td>0.5</td>
-</tr>
-</tbody>
-</table>
-
-### Professionals Sharing Different Technical Roles
-
-A list of course examples based on modules that address the needs of designers, developers, content authors, and testers. It provides two levels of coverage: introductory and detailed, as well as estimated duration for each of the modules.
-
-<table>
-<caption>Several roles together</caption>
-<thead>
-<tr>
-<th>Module</th>
-<th>Estimated hours (introductory)</th>
-<th>Estimated hours (detailed)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technology/">Module 2: People and Digital Technology</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/">Module 4: Principles, Standards, and Checks</a> from <a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
-<td>1</td>
-<td>6</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a> from <a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/">Developing Accessible Content</a></th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th>Module 1: Contrast Ratios  from Designing Accessible Content [TBD]</th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th>Module 2: Font Styles and Sizes from Designing Accessible Content[TBD]</th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th>Module 3: Resizing Content  from Designing Accessible Content [TBD]</th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th>Module 1: Text Headings from Authoring Accessible Content [TBD]</th>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<th>Module 2: Text Alternatives from Authoring Accessible Content</th>
-<td>1</td>
-<td>5</td>
-</tr>
-</tbody>
-</table>
-
-{% endcomment %}
 
 {% include excol.html type="end" %}
 
