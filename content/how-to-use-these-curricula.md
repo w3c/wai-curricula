@@ -121,7 +121,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-scope-of-web-accessibility">Scope of Web Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-scope-of-web-accessibility">Topic: Scope of Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -177,7 +177,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-principles-of-web-accessibility">Principles of Web Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-principles-of-web-accessibility">Topic: Principles of Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -185,7 +185,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-w3c-accessibility-standards">W3C Accessibility Standards</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-w3c-accessibility-standards">Topic: W3C Accessibility Standards</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -209,7 +209,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-planing-and-managing-web-accessibility">Module 5: Getting Started with Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-planing-and-managing-web-accessibility">Topic: Planning and Managing Web Accessibility</a></th>
       <td>Complementary</td>
       <td>Complementary</td>
       <td>Complementary/td>
