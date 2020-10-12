@@ -76,7 +76,7 @@ For explanations about specific terminology related to people with disabilities,
 
 {% include excol.html type="middle" %}
 
-The following are implementation examples of curricula modules and topics. They are based on roles to address. They provide two levels of detail: essential and complementary, as well as estimates of how many hours each of these levels of detail could take.
+The following are implementation examples of curricula modules and topics. They are based on roles to address. They provide two levels of detail: essential and complementary, as well as estimates of how many hours each of these levels of detail could take [TBD].
 
 <table>
   <caption>Introduction to Web Accessibility Course</caption>
