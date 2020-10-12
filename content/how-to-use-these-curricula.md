@@ -36,17 +36,12 @@ This page provides further guidance about the WAI Curricula. It:
 
 {% include excol.html type="middle" %}
 
-The curricula can be used in the following scenarios:
+The following are intended use cases for the WAI Curricula:
 
 * faculty staff teaching computer science students about accessibility
-* accessibility consultants creating its own course on web accessibility
+* accessibility professionals creating their own courses
 * HR professionals comparing between different course and certification programs
-
-You can combine different curricula modules to address the needs of several roles together.
-
-You can also use these curricula to compare different courses and certifications.
-
-These modules follow a universal design approach. They provide advice for different components, scenarios, and users.
+* procurers putting together an RFP for a course on web accessibility
 
 {% include excol.html type="end" %}
 
@@ -56,13 +51,13 @@ These modules follow a universal design approach. They provide advice for differ
 
 {% include excol.html type="middle" %}
 
-The curricula is divided into different parts following a modular approach. It consists of:
+The curricula is divided into different parts following a modular approach. Modules can be combined to address the needs of several roles together. Curricula consist of:
 
-* Curriculum &mdash; A complete part of the curricula. The introductory part addresses a variety of roles, and subsequent parts address specific roles. Each curriculum contains:
-  * Prerequisites &mdash; Recommended prior skills or knowledge.
-* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. Each module consists of:
+* Curriculum &mdash; A complete part of the curricula. The introductory part addresses a variety of roles, and subsequent parts address specific roles. Each curriculum consists of:
+  * Prerequisites &mdash; Recommended prior skills or knowledge for students and instructors.
+* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. They provide advice for different components, scenarios, and users following a universal design approach. Each module consists of:
   * Learning Outcomes for Module &mdash; Overall description of what students will learn and should be able to demonstrate.
-  * Competencies &mdash; Recommended prioir skills or knowledge.
+  * Competencies &mdash; Recommended prior skills or knowledge for students and instructors.
   * Topics to Teach &mdash; Structured thematic guidance to support the teaching sequence.
   * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
@@ -97,7 +92,7 @@ The following are implementation examples of curricula modules. They are based o
   </thead>
   <tbody>
     <tr>
-      <th><a href="/curricula/introduction-to-web-accessibility">Introduction to Web Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility">Introduction to Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -125,7 +120,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
-      <td>Essential</td>
+      <td>Complementary</td>
       <td>Essential</td>
     </tr>
     <tr>
@@ -189,7 +184,7 @@ The following are implementation examples of curricula modules. They are based o
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
-      <td>Complementary</td>
+      <td>Essential</td>
       <td>Essential</td>
     </tr>
     <tr>
@@ -204,7 +199,7 @@ The following are implementation examples of curricula modules. They are based o
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
       <td>Complementary</td>
       <td>Complementary</td>
-      <td>Complementary/td>
+      <td>Complementary</td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
@@ -212,7 +207,7 @@ The following are implementation examples of curricula modules. They are based o
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-planing-and-managing-web-accessibility">Topic: Planning and Managing Web Accessibility</a></th>
       <td>Complementary</td>
       <td>Complementary</td>
-      <td>Complementary/td>
+      <td>Complementary</td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
@@ -220,23 +215,23 @@ The following are implementation examples of curricula modules. They are based o
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-developing-policies-and-statements">Topic: Developing Policies and Statements</a></th>
       <td>Complementary</td>
       <td>Complementary</td>
-      <td>Complementary/td>
+      <td>Complementary</td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities">Topic: Roles and Responsibilities</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-accessibility-in-an-existing-project">Topic: Accessibility in an Existing Project</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary/td>
+      <td>Essential</td>
+      <td>Essential</td>
+      <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
     </tr>
