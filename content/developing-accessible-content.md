@@ -22,7 +22,9 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques. It is primarily designed for teaching front-end developers. It can be combined with other curricula for teaching designers, content authors, and other roles.
+This curriculum focuses on markup and coding techniques. It is primarily designed for teaching front-end developers. Guidance on how to include these techniqeus in a framework or authoring tool is out-of-scope for this specific curriculum.
+
+This curriculum can be combined with other curricula for teaching designers, content authors, and other roles.
 
 This curriculum results in courses that:
 
