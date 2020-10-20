@@ -71,7 +71,7 @@ Basic HTML and CSS knowledge is also advised.
     -   Topic: Form Labels
     -   Topic: Form Instructions
     -   Topic: Time Limits
-    -   Topic: Validation and Notifications
+    -   Topic: Notifications
 -   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
     -   Topic: Semantics and Widget Roles
     -   Topic: Accessible Names and Descriptions
