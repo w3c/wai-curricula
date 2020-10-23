@@ -26,7 +26,7 @@ This page provides further guidance about the WAI Curricula. It:
 * explains its intended uses
 * defines its structure and terminology
 * provides implementation examples
-* points to course characteristics to consider when comparing, selecting, or procuring courses on web accessibility
+* points to course characteristics to consider when comparing, selecting, or procuring web accessibility courses and/or certification programs
 
 {% include excol.html type="all" %}
 
@@ -40,7 +40,7 @@ The following are intended use cases for the WAI Curricula:
 
 * faculty staff teaching computer science students about accessibility
 * accessibility professionals creating their own courses
-* HR professionals comparing between different course and certification programs
+* HR professionals comparing between different course and/or certification programs
 * procurers putting together an RFP for a course on web accessibility
 
 {% include excol.html type="end" %}
@@ -51,20 +51,19 @@ The following are intended use cases for the WAI Curricula:
 
 {% include excol.html type="middle" %}
 
-The curricula is divided into different parts following a modular approach. Modules can be combined to address the needs of several roles together. Curricula consist of:
+The curricula is divided into different parts following a modular approach. Modules of different curricula can be combined to address the needs of several roles together. The introductory curriculum  addresses a variety of roles, and subsequent curricula address specific roles. Each curriculum consists of:
 
-* Curriculum &mdash; A complete part of the curricula. The introductory part addresses a variety of roles, and subsequent parts address specific roles. Each curriculum consists of:
-  * Prerequisites &mdash; Recommended prior skills or knowledge for students and instructors.
+* Prerequisites &mdash; Recommended prior skills or knowledge for students and instructors.
 * Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. They provide advice for different components, scenarios, and users following a universal design approach. Each module consists of:
   * Learning Outcomes for Module &mdash; Overall description of what students will learn and should be able to demonstrate.
   * Competencies &mdash; Recommended prior skills or knowledge for students and instructors.
-  * Topics to Teach &mdash; Structured thematic guidance to support the teaching sequence.
+  * Topics to Teach &mdash; Structured thematic guidance for a consistent teaching sequence.
   * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
-* Topics &mdash; Thematic gathering of objectives within a module. Each  topic consists of:
-  * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
-  * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-  * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+  * Topics &mdash; Thematic gathering of objectives within a module. these do not need to be taught in order or as classes, but all are recommended for a consistent teaching sequence. Each  topic consists of:
+    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
+    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
 
 For explanations about specific terminology related to people with disabilities, assistive technologies, and adaptive strategies, refer to [How people with disabilities use the Web](/people-use-web).
 
@@ -79,7 +78,7 @@ For explanations about specific terminology related to people with disabilities,
 The following are implementation examples of curricula modules and topics. They are based on roles to address. They provide two levels of detail: essential and complementary, as well as estimates of how many hours each of these levels of detail could take [TBD].
 
 <table>
-  <caption>Introduction to Web Accessibility Course</caption>
+  <caption>course Matrix</caption>
   <thead>
     <tr>
       <th>Section</th>
@@ -92,7 +91,7 @@ The following are implementation examples of curricula modules and topics. They 
   </thead>
   <tbody>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility">Introduction to Web Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -140,7 +139,7 @@ The following are implementation examples of curricula modules and topics. They 
       <td>Essential</td>
     </tr>
     <tr>
-      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-compontents-of-web-accessibility">Topic: Components of Web Accessibility</a></th>
+      <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-components-of-web-accessibility">Topic: Components of Web Accessibility</a></th>
       <td>Essential</td>
       <td>Essential</td>
       <td>Essential</td>
@@ -235,6 +234,246 @@ The following are implementation examples of curricula modules and topics. They 
       <td>Essential</td>
       <td>Essential</td>
     </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.com/curricula/developing-accessible-content">Developing Accessible Content</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-section-headings">Topic: Section Headings</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td> 
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-sections-of-content">Topic: Sections of Content</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-page-regions">Topic: Page Regions</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-page-structure">Topic: Page Structure</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-menu-structure">Topic: Menu Structure</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-menu-styling">Topic: Menu Styling</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-fly-out-menus">Topic: Fly-out Menus</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-application-menus">Topic: Application Menus</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-simple-images">Topic: Simple Images</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-functional-images">Topic: Functional Images</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-complex-images">Topic: Complex Images</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-simple-tables">Topic: Simple Tables</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-complex-tables">Topic: Complex Tables</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-table-summaries-and-descriptions">Topic: Table Summaries and Descriptions</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-form-labels">Topic: Form Labels</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-form-instructions">Topic: Form Instructions</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-time-limits">Topic: Time Limits</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-notifications">Topic: Notifications</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-semantics-and-widget-roles">Topic: Semantics and Widget Roles</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-accessible-names-and-descriptions">Topic: Accessible Names and Descriptions</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-states-properties-and-values">Topic: States, Properties, and Values</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-keyboard-and-focus-management">Topic: Keyboard and Focus Management</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
+    <tr>
+      <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-live-regions-and-notifications">Topic: Live Regions and Notifications</a></th>
+      <td>Essential</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+      <td>Complementary</td>
+    </tr>
   </tbody>
 </table>
 
@@ -242,17 +481,17 @@ The following are implementation examples of curricula modules and topics. They 
 
 {% include excol.html type="start" %}
 
-## Compare, Select, and Procure Courses on Web Accessibility
+## Course Characteristics
 
 {% include excol.html type="middle" %}
 
-The following is a list of course characteristics that you can consider to compare and select courses based on the WAI Curricula.
+The following course characteristics can help you compare and select courses and/or certification programs.
 
 ### Students' Outcomes
 
 Learning outcomes are usually defined as what a student should be able to demonstrate after completion of a particular course.
 
-Ask for mappings that demonstrate how the course addresses learning outcomes in the curricula. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
+You may want to ask for mappings that demonstrate how the course addresses curricula learning outcomes. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
 * those at a module level are covered
 * those from the introductory modules are addressed before any others from specific roles
@@ -260,24 +499,28 @@ Ask for mappings that demonstrate how the course addresses learning outcomes in 
 
 ### Teaching Abilities
 
-Focus on how the course provider plans to teach the learning outcomes. Ask for demonstrations of the strategies used by the instructors and the materials used for the course.
+Focus on how the course provider plans to teach the learning outcomes. You may want to ask for demonstrations of the strategies used by the instructors and the materials used for the course. Some of these aspects include:
 
 * Will the teaching be face-to-face?
 * Will the course be conducted completely online?
 * Will teaching strategies include practical interactions with the knowledge covered?
 * Will such strategies include interaction with assistive technologies and people with disabilities?
 
-### Assessment
+### Assessment Methodology
 
 Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one assessment per learning outcome. 
 
-### Course Accreditation
+### Accreditation of Course Completion
 
-Ask if the provider offers any accreditations after course completion. For example, course certificates or free choice subject credits. There are several examples of such accreditation systems, some of which are specific to accessibility.
+Course providers may offer any accreditations after course completion. For example, course certificates or free choice subject credits.
+
+### Certification Programs
+
+Competencies and skills on these curricula can be used to create custom mappings for possible certification programs, or to compare with existing ones.
 
 ### Availability of Materials
 
-Ask the provider how they will make materials available to you (online/offline, permanent/temporary consumption). Communicate if you need to keep the slides and/or handouts for future consultation in advance, as some providers may give you a temporary access to their course platforms.
+Communicate how you would like to receive the materials and whether or not you want to be able to access to them after the course has ended. Providers can make materials available to you in a variety of ways (online/offline, permanent/temporary consumption). 
 
 ### Specific Audience Needs
 
@@ -285,7 +528,7 @@ Make sure the course provider will cover requirements from all your participants
 
 ### Legal Requirements
 
-Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with as different policies may imply different requirements or prioritization of these requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
+Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with in your RFP> Different policies may imply different requirements or prioritization of such requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
 
 {% include excol.html type="end" %}
 
