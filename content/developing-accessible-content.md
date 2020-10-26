@@ -26,7 +26,7 @@ This curriculum focuses on markup and coding techniques. It is primarily designe
 
 This curriculum can be combined with other curricula for teaching designers, content authors, and other roles.
 
-This curriculum results in courses that:
+This curriculum guides the creation of courses that:
 
 * explain key terms for developers
 * demonstrate how accessible coding helps people with disabilities use the Web
