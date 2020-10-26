@@ -12,7 +12,7 @@ footer: > # Text in footer in HTML
   <p>Work in Progress.</p>
   <p><strong>Date:</strong> $date </p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a></p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by thee European Commission (EC) under thee Horizon 2020 program (Grant Agreement 822245).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/
   next: /curricula/introduction-to-web-accessibility/
@@ -51,7 +51,7 @@ The following are intended use cases for the WAI Curricula:
 
 {% include excol.html type="middle" %}
 
-The curricula is divided into different parts following a modular approach. Modules of different curricula can be combined to address the needs of several roles together. The introductory curriculum  addresses a variety of roles, and subsequent curricula address specific roles. Each curriculum consists of:
+The curricula are divided into different parts following a modular approach. Modules of different curricula can be combined to address the needs of several roles together. The introductory curriculum  addresses a variety of roles, and subsequent curricula address specific roles. Each curriculum consists of:
 
 * Prerequisites &mdash; Recommended prior skills or knowledge for students and instructors.
 * Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. They provide advice for different components, scenarios, and users following a universal design approach. Each module consists of:
@@ -60,7 +60,7 @@ The curricula is divided into different parts following a modular approach. Modu
   * Topics to Teach &mdash; Structured thematic guidance for a consistent teaching sequence.
   * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
-  * Topics &mdash; Thematic gathering of objectives within a module. these do not need to be taught in order or as classes, but all are recommended for a consistent teaching sequence. Each  topic consists of:
+  * Topics &mdash; Thematic gathering of objectives within a module. These do not need to be taught in order or as classes, but all are recommended for a consistent teaching sequence. Each  topic consists of:
     * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
     * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
     * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
@@ -510,7 +510,7 @@ Focus on how the course provider plans to teach the learning outcomes. You may w
 
 Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one assessment per learning outcome. 
 
-### Accreditation of Course Completion
+### Accreditation on Course Completion
 
 Course providers may offer any accreditations after course completion. For example, course certificates or free choice subject credits.
 
@@ -520,7 +520,7 @@ Competencies and skills on these curricula can be used to create custom mappings
 
 ### Availability of Materials
 
-Communicate how you would like to receive the materials and whether or not you want to be able to access to them after the course has ended. Providers can make materials available to you in a variety of ways (online/offline, permanent/temporary consumption). 
+Communicate how you would like to receive the materials and if you want to be able to access to them after the course has ended. Providers can make materials available to you in a variety of ways (online/offline, permanent/temporary consumption). 
 
 ### Specific Audience Needs
 
