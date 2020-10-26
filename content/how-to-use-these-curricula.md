@@ -26,7 +26,7 @@ This page provides further guidance about the WAI Curricula. It:
 * explains its intended uses
 * defines its structure and terminology
 * provides implementation examples
-* points to course characteristics to consider when comparing, selecting, or procuring web accessibility courses and/or certification programs
+* points to course characteristics to consider when comparing, selecting, or procuring courses and/or certification programs on web accessibility
 
 {% include excol.html type="all" %}
 
@@ -40,7 +40,7 @@ The following are intended use cases for the WAI Curricula:
 
 * faculty staff teaching computer science students about accessibility
 * accessibility professionals creating their own courses
-* HR professionals comparing between different course and/or certification programs
+* HR professionals comparing between different course and/or certification programs on web accessibility
 * procurers putting together an RFP for a course on web accessibility
 
 {% include excol.html type="end" %}
@@ -92,387 +92,387 @@ The following are implementation examples of curricula modules and topics. They 
   <tbody>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/">Introduction to Web Accessibility</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/">Module 1: What is Web accessibility</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-stories-of-people-with-disabilities">Topic: Stories of People with Disabilities</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/#topic-scope-of-web-accessibility">Topic: Scope of Web Accessibility</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies">Module 2: People and Digital Technology</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-diverse-abilities-tools-and-barriers">Topic: Diverse Abilities, Tools, and Barriers</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/people-and-digital-technologies/#topic-components-of-web-accessibility">Topic: Components of Web Accessibility</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/business-case-and-benefits">Module 3: Business Case and Benefits</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Complementary</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/business-case-and-benefits/#topic-benefits-of-accessibility">Topic: Benefits of Accessibility</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Complementary</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks">Module 4: Principles, Standards, and Checks</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-principles-of-web-accessibility">Topic: Principles of Web Accessibility</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-w3c-accessibility-standards">Topic: W3C Accessibility Standards</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/principles-standards-and-checks/#topic-hands-on-experience-of-standards">Topic: Hands-on Experience of Standards</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/">Module 5: Getting Started with Accessibility</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-planing-and-managing-web-accessibility">Topic: Planning and Managing Web Accessibility</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-developing-policies-and-statements">Topic: Developing Policies and Statements</a></th>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Complementary  at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Complementary at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-roles-and-responsibilities">Topic: Roles and Responsibilities</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/#topic-accessibility-in-an-existing-project">Topic: Accessibility in an Existing Project</a></th>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
-      <td>Essential</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
+      <td>Essential at introductory level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.com/curricula/developing-accessible-content">Developing Accessible Content</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/">Module 1: Structure and Semantics</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-section-headings">Topic: Section Headings</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td> 
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td> 
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-sections-of-content">Topic: Sections of Content</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-page-regions">Topic: Page Regions</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/structure-and-semantics/#topic-page-structure">Topic: Page Structure</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/">Module 2: Navigational Menus</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-menu-structure">Topic: Menu Structure</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-menu-styling">Topic: Menu Styling</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-fly-out-menus">Topic: Fly-out Menus</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/navigational-menus/#topic-application-menus">Topic: Application Menus</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/">Module 3: Images and Graphics</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-simple-images">Topic: Simple Images</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-functional-images">Topic: Functional Images</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/images-and-graphics/#topic-complex-images">Topic: Complex Images</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/">Module 4: Tabular Information</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-simple-tables">Topic: Simple Tables</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-complex-tables">Topic: Complex Tables</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/tabular-information/#topic-table-summaries-and-descriptions">Topic: Table Summaries and Descriptions</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/">Module 5: Forms and Input Elements</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-form-labels">Topic: Form Labels</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at Detailed Level'</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-form-instructions">Topic: Form Instructions</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-time-limits">Topic: Time Limits</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/forms-and-input-elements/#topic-notifications">Topic: Notifications</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/">Module 6: Custom Widgets</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-semantics-and-widget-roles">Topic: Semantics and Widget Roles</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-accessible-names-and-descriptions">Topic: Accessible Names and Descriptions</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-states-properties-and-values">Topic: States, Properties, and Values</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-keyboard-and-focus-management">Topic: Keyboard and Focus Management</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
     <tr>
       <th><a href="https://wai-curricula.netlify.app/curricula/developing-accessible-content/custom-widgets/#topic-live-regions-and-notifications">Topic: Live Regions and Notifications</a></th>
-      <td>Essential</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
-      <td>Complementary</td>
+      <td>Essential at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
+      <td>Complementary at detailed level</td>
     </tr>
   </tbody>
 </table>
@@ -485,7 +485,7 @@ The following are implementation examples of curricula modules and topics. They 
 
 {% include excol.html type="middle" %}
 
-The following course characteristics can help you compare and select courses and/or certification programs.
+The following course characteristics can help you compare and select courses and/or certification programs on web accessibility.
 
 ### Students' Outcomes
 
