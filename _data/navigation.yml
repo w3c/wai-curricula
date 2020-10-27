@@ -243,17 +243,17 @@
       url: "/curricula/curriculum-for-developers/"
       pages:
       - name: "Structure and Semantics"
-        url: "/curricula/developing-accessible-content/structure-and-semantics/"
+        url: "/curricula/curriculum-for-developers/structure-and-semantics/"
       - name: "Navigational Menus"
-        url: "/curricula/developing-accessible-content/navigational-menus/"
+        url: "/curricula/curriculum-for-developers/navigational-menus/"
       - name: "Images and Graphics"
-        url: "/curricula/developing-accessible-content/images-and-graphics/"
+        url: "/curricula/curriculum-for-developers/images-and-graphics/"
       - name: "Tabular Information"
-        url: "/curricula/developing-accessible-content/tabular-information/"
+        url: "/curricula/curriculum-for-developers/tabular-information/"
       - name: "Forms and Input Elements"
-        url: "/curricula/developing-accessible-content/forms-and-input-elements/"
+        url: "/curricula/curriculum-for-developers/forms-and-input-elements/"
       - name: "Custom Widgets"
-        url: "/curricula/developing-accessible-content/custom-widgets/"
+        url: "/curricula/curriculum-for-developers/custom-widgets/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
