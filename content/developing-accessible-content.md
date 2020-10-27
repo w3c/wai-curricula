@@ -1,11 +1,11 @@
 ---
-title: "[Draft] Developing Accessible Content"
-permalink: /curricula/developing-accessible-content/
-ref: /curricula/developing-accessible-content/
+title: "[Draft] Curriculum for Developers"
+permalink: /curricula/curriculum-for-developers/
+ref: /curricula/curriculum-for-developers/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/developing-accessible-content.md
+  path: content/curriculum-for-developers.md
 license: creative-commons
 footer: >
   <p><strong>Date:</strong> $Date</p>
@@ -16,7 +16,7 @@ resource:
     - /curricula/
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/structure-and-semantics/
+  next: /curricula/curriculum-for-developers/structure-and-semantics/
 ---
 
 ## Introduction
@@ -51,30 +51,30 @@ Basic HTML and CSS knowledge is also advised.
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-and-semantics/)
+-   [Module 1: Structure and Semantics](/curricula/curriculum-for-developers/structure-and-semantics/)
     -   Topic: Section Headings
     -   Topic: Sections of Content
     -   Topic: Page Regions
     -   Topic: Page Structure
--   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/)
+-   [Module 2: Navigational Menus](/curricula/curriculum-for-developers/navigational-menus/)
     -   Topic: Menu Structure
     -   Topic: Menu Styling
     -   Topic: Fly-out Menus
     -   Topic: Application Menus
--   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
+-   [Module 3: Images and Graphics](/curricula/curriculum-for-developers/images-and-graphics/)
     -   Topic: Simple Images
     -   Topic: Functional Images
     -   Topic: Complex Images
--   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
+-   [Module 4: Tabular Information](/curricula/curriculum-for-developers/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
     -   Topic: Table Summaries and Descriptions
--   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
+-   [Module 5: Forms and Input Elements](/curricula/curriculum-for-developers/forms-and-input-elements/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
     -   Topic: Time Limits
     -   Topic: Notifications
--   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
+-   [Module 6: Custom Widgets](/curricula/curriculum-for-developers/custom-widgets/)
     -   Topic: Semantics and Widget Roles
     -   Topic: Accessible Names and Descriptions
     -   Topic: States, Properties, and Values

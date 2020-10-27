@@ -77,14 +77,14 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
       <th> Intermediate</th>
       <td>
-	       <p><a href="{{ '/curricula/developing-accessible-content/' | relative_url }}">Developing Accessible Content</a></p>
+	       <p><a href="{{ '/curricula/curriculum-for-developers/' | relative_url }}">Curriculum for Developers</a></p>
         <ul>
-          <li> <a href="{{ '/curricula/developing-accessible-content/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/forms-and-input-elements/' | relative_url }}">Module 5: Forms and Input Elements</a></li>
-          <li> <a href="{{ '/curricula/developing-accessible-content/custom-widgets/' | relative_url }}">Module 6: Custom Widgets</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/forms-and-input-elements/' | relative_url }}">Module 5: Forms and Input Elements</a></li>
+          <li> <a href="{{ '/curricula/curriculum-for-developers/custom-widgets/' | relative_url }}">Module 6: Custom Widgets</a></li>
         </ul>
       </td>
       <td>
