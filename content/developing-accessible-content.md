@@ -1,7 +1,7 @@
 ---
-title: "[Draft] Curriculum for Developers"
-permalink: /curricula/curriculum-for-developers/
-ref: /curricula/curriculum-for-developers/
+title: "[Draft] Developer Modules"
+permalink: /curricula/developer-modules/
+ref: /curricula/developer-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
@@ -16,7 +16,7 @@ resource:
     - /curricula/
 navigation:
   previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/curriculum-for-developers/structure-and-semantics/
+  next: /curricula/developer-modules/structure-and-semantics/
 ---
 
 ## Introduction
@@ -51,30 +51,30 @@ Basic HTML and CSS knowledge is also advised.
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure and Semantics](/curricula/curriculum-for-developers/structure-and-semantics/)
+-   [Module 1: Structure and Semantics](/curricula/developer-modules/structure-and-semantics/)
     -   Topic: Section Headings
     -   Topic: Sections of Content
     -   Topic: Page Regions
     -   Topic: Page Structure
--   [Module 2: Navigational Menus](/curricula/curriculum-for-developers/navigational-menus/)
+-   [Module 2: Navigational Menus](/curricula/developer-modules/navigational-menus/)
     -   Topic: Menu Structure
     -   Topic: Menu Styling
     -   Topic: Fly-out Menus
     -   Topic: Application Menus
--   [Module 3: Images and Graphics](/curricula/curriculum-for-developers/images-and-graphics/)
+-   [Module 3: Images and Graphics](/curricula/developer-modules/images-and-graphics/)
     -   Topic: Simple Images
     -   Topic: Functional Images
     -   Topic: Complex Images
--   [Module 4: Tabular Information](/curricula/curriculum-for-developers/tabular-information/)
+-   [Module 4: Tabular Information](/curricula/developer-modules/tabular-information/)
     -   Topic: Simple Tables
     -   Topic: Complex Tables
     -   Topic: Table Summaries and Descriptions
--   [Module 5: Forms and Input Elements](/curricula/curriculum-for-developers/forms-and-input-elements/)
+-   [Module 5: Forms and Input Elements](/curricula/developer-modules/forms-and-input-elements/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
     -   Topic: Time Limits
     -   Topic: Notifications
--   [Module 6: Custom Widgets](/curricula/curriculum-for-developers/custom-widgets/)
+-   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/)
     -   Topic: Semantics and Widget Roles
     -   Topic: Accessible Names and Descriptions
     -   Topic: States, Properties, and Values
