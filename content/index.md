@@ -13,7 +13,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  next: /curricula/introduction-to-web-accessibility/
+  next: /curricula/introductory-modules/
 ---
 
 ## Introduction
@@ -50,7 +50,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the first curriculum "Introduction to Web Accessibility" is available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the introductory modules are available. 
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
@@ -65,13 +65,13 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="{{ '/curricula/introduction-to-web-accessibility/' | relative_url }}">Introduction to Web accessibility</a></p>
+    <p><a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introductory Modules</a></p>
        <ul>
-        <li><a href="{{ '/curricula/introduction-to-web-accessibility/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
-        <li><a href="{{ '/curricula/introduction-to-web-accessibility/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
-        <li><a href="{{ '/curricula/introduction-to-web-accessibility/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
-        <li><a href="{{ '/curricula/introduction-to-web-accessibility/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="{{ '/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
+        <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
+        <li><a href="{{ '/curricula/introductory-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+        <li><a href="{{ '/curricula/introductory-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+        <li><a href="{{ '/curricula/introductory-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="{{ '/curricula/introductory-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
       </ul>
     </td></tr>
     <tr>
