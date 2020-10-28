@@ -227,7 +227,7 @@
     url: "/curricula/"
     pages:
     - name: "Introductory (for all)"
-      url: "/curricula/introductory-modules/
+      url: "/curricula/introductory-modules/"
       pages:
       - name: "What is Web Accessibility"
         url: "/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
