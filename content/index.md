@@ -19,48 +19,67 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula to help you compare and create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs. It includes the following parts:
 
-{% include excol.html type="all" %}
+* Introductory curriculum for the entire project team
+* Curriculum for developers, such as front-end developers
+* Curriculum for designers, such as user-experience (UX) designers (in progress)
+* Curriculum for authors, such as content publishers (in progress)
 
 {% include excol.html type="start" %}
 
-## Uses
+## Example Uses
 
 {% include excol.html type="middle" %}
 
-Curricula uses include:
+You can use thse curricula in a variety of situations. Some examples include:
 
-* faculty staff teach computer science students about accessibility
-* accessibility professionals create their own courses
-* HR professionals compare between different course and/or certification programs
-* procurers put together an RFP for a course on web accessibility
+* faculty lecturer wants to teach computer science students about accessibility
+* accessibility professional wants to create training specifically on accessibility
+* product owner wants to compare the content offered by different course providers
+* procurer wants to include specific requirements in a Request for Proposals (RFP)
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-## Outline
+## Structure and Terminology
 
 {% include excol.html type="middle" %}
 
-The table below shows current plans for curricula development. Introductory modules are available. When completed, other modules will be linked from here.
+Each curriculum consists of:
+
+* Prerequisites &mdash; Competencies students of the curriculum are expected to have acquired.
+* Modules &mdash; Designed to be taught and assessed in their entirety. Each module consists of:
+  * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
+  * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
+  * Topics to Teach &mdash; Recommended themes to be taught in any order. Each topic consists of:
+    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
+    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
+  * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+Terminology related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+## Content Overview
+
+{% include excol.html type="middle" %}
 
 <table class="dense">
- <caption>Outline</caption>
+ <caption>Modules included in each curriculum</caption>
   <thead>
-    <tr>
-      <th> Coverage </th>
-      <th> Developer </th>
-      <th> Designer </th>
-      <th> Author </th>
+    <tr colspan="3">
+      <th> <a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introduction to Web Accessibility</a> </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>Introductory</th>
       <td colspan="3">
-        <p><a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introductory Modules</a></p>
         <ul>
           <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
           <li><a href="{{ '/curricula/introductory-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
@@ -70,10 +89,17 @@ The table below shows current plans for curricula development. Introductory modu
         </ul>
       </td>
     </tr>
+  </tbody>
+  <thead>
+    <tr colspan="3">
+      <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Curriculum</a> </th>
+      <th> Designer Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> Author Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <th> Detailed </th>
       <td>
-	       <p><a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a></p>
         <ul>
          <li> <a href="{{ '/curricula/developer-modules/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
           <li> <a href="{{ '/curricula/developer-modules/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
@@ -114,101 +140,44 @@ The table below shows current plans for curricula development. Introductory modu
 
 {% include excol.html type="start" %}
 
-## Creating Courses
+## Usage Guidance
 
 {% include excol.html type="middle" %}
 
-The curricula have different sets of modules. You can combine these sets to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
+Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the introductory, developer, and designer curricula. On the other hand, assesing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
 
-### Prerequisites
+### Involve People with Disabilities
 
-Recommended prior skills or knowledge for students and instructors.
+One of the most effective ways to learn and teach accessibility is by involving people with disabilities. This includes inviting people with disabilities to show how they use assistive technologies and adaptive strategies to interact on the Web, the accessibility features they rely on, and challenges they sometimes encounter. If you cannot invite people with disabilities, maybe you can find suitable videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/planning/involving-users/) provides guidance on working with people with disabilities ethical considerations and cautions.
 
-### Modules
-  
-These provide advice for different components, scenarios, and users following a universal design approach. You should teach and assess each module in its entirety. Each module consists of:
+### Communicate the Impact
 
-#### Learning Outcomes for Module
+Often teachings focus too much on the *how* and insufficiently on the *why*. Yet understanding the motivations for accessibility is essential to ensuring solutions that are usable in practice. Good courses, training, and certification programs ensure that students understand the impact of accessibility barriers and features on people with disabilities. This includes how the learning outcomes, the teaching methods, and knowledge assesments are designed. For example, students should not only know the different ways to provide text alternatives for images but also know in which situations each method is more appropriate from the perspective of the user.
 
-Overall description of what students will learn and should be able to demonstrate. These are the core of the resource. You should make sure to reflect all of them in your course.
+### Embrace Universal Design
 
-#### Competencies
+Avoid inadvertent prioritizing of one perceived group over another. The accessibility requirements for people with disabilities overlap without clear boundaries. For example, captions support people who are deaf and hard of hearing as well as people with some forms of cognitive and learning disabilities. Good courses, training, and certification programs ensure that students understand the concepts of universal design to create accessible and inclusive experiences for everyone. [How people with disabilities use the Web](/people-use-web) provides more guidance on cross-disability aspects.
 
-Recommended prior skills for students and instructors. Some modules require few skills. Others do require skills acquired in previous modules. Your courses should be consistent with each of the skills outlined in the modules you plan to use.
+### Make it Accessible
 
-#### Topics to Teach
-
-Structured thematic guidance to build your teaching sequence. You do not need to teach topics in order or as classes, but all are necessary to achieve the learning outcomes. Each topic consists of:
-
-* Learning Outcomes for Topic &mdash; Description of what students will learn and should be able to demonstrate.
-* Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-* Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
-
-For explanations about specific terminology related to people with disabilities, as well as accessibility-related features, barriers, tools, and techniques, refer to [How people with disabilities use the Web](/people-use-web).
-
-#### Ideas to Assess Knowledge for Module
-
-Suggested ideas to assess the acquired skills or knowledge based on module contents.
-
-#### Teaching Resources
-
-Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+Good courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read alound what is on the screen and describe any visual information through audio. More guidance is provided in [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/).
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-## Comparing Courses
+## Types of Accreditation
 
 {% include excol.html type="middle" %}
 
-Curricula [Creating Courses](#creating-courses) helps you understand the meaning of the different curricula sections. You can also use these sections to compare courses and/or certification programs.
+Some types of certification that may be issued following a course, training, or assessment include:
 
-### Learning Outcomes
+* **Certification of attendance**, for example that students attended the classes
+* **Certification of completion**, for example that students completed the assignments
+* **Certification of assessment**, for example that students acquired the skills
 
-Courses do not need to follow the specific order in which learning outcomes are outlined. However, we recommend that providers:
+Each of these types of certification could be accredited by formal authorities or recognized by other entities. For example, a universal design course may be formally accredited by a university and a web design training may be recognized by an industry association. This could be local, national, regional, or international depending on the recognition of the authority or entity itself.
 
-* cover at least those at a module level
-* address those from the introductory modules before others from detailed modules
-* make those related to how people with disabilities use the Web an integral part of the course
-
-### Teaching Ideas
-
-Focus on the instructor's strategies to teach the learning outcomes. Some of these strategies include:
-
-* delivery &mdash; face-to-face, online, blended learning
-* setting &mdash; formal, vocational
-* approach &mdash; theoretical, practical, both
-* interaction with assistive technologies and adaptive strategies &mdash; hands-on experience, live demonstrations, multimedia (video and/or audio) demonstrations
-
-### Ideas to Assess Knowledge
-
-Focus on outcomes from the proposed assessment, as well as on rating systems (if any). Each learning outcome should have at least one assessment.
-
-### Accreditation on Course Completion
-
-Focus on any accreditations after course completion that providers may offer. For example, course certificates or free choice subject credits.
-
-### Certification Programs
-
-You can use competencies and skills on these curricula to compare or create custom mappings for certification programs.
-
-### Availability of Materials
-
-Focus on how you would like to receive the materials and on how long you need to keep them after the course has ended. Providers can make materials available to you in a variety of ways, such as:
-
-* access rights &mdash; permanently / temporarily
-* interaction &mdash; online / offline
-* format &mdash; digital / analog
-
-### Specific Audience Needs
-
-The course provider needs to cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
-
-### Legal Requirements
-
-Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with in your RFP. Different policies may imply different requirements or prioritization of such requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
+This resource does not prescribe or favor any particular type of certification and accreditation scheme.
 
 {% include excol.html type="end" %}
-
-{% include excol.html type="all" %}
