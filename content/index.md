@@ -118,13 +118,13 @@ The table below shows current plans for curricula development. Introductory modu
 
 {% include excol.html type="middle" %}
 
-The curricula has different sets of modules. These sets can be combined to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
+The curricula have different sets of modules. These sets can be combined to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
 
 ### Prerequisites
 
 Recommended prior skills or knowledge for students and instructors.
 
- ### Modules
+### Modules
   
 These provide advice for different components, scenarios, and users following a universal design approach. You should teach and assess each module in its entirety. Each module consists of:
 
@@ -134,7 +134,7 @@ Overall description of what students will learn and should be able to demonstrat
 
 #### Competencies
 
-Recommended prior skills for students and instructors. Some modules require little skills. Other do require skills  delivered in previous modules. Your courses should be consistent with each of the skills outlined in the modules you plan to use.
+Recommended prior skills for students and instructors. Some modules require few skills. Others do require skills acquired in previous modules. Your courses should be consistent with each of the skills outlined in the modules you plan to use.
 
 #### Topics to Teach
 
@@ -144,7 +144,7 @@ Structured thematic guidance to build your teaching sequence. You do not need to
 * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
 * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
 
-For explanations about specific terminology related to people with disabilities, abilities, barriers, tools, and techniques, refer to [How people with disabilities use the Web](/people-use-web).
+For explanations about specific terminology related to people with disabilities, as well as accessibility-related features, barriers, tools, and techniques, refer to [How people with disabilities use the Web](/people-use-web).
 
 #### Ideas to Assess Knowledge for Module
 
@@ -174,7 +174,7 @@ Courses do not need to follow the specific order in which learning outcomes are 
 
 ### Teaching Ideas
 
-Focus on the instructor's strategies and on the materials used for the course. Some of these strategies include:
+Focus on the instructor's strategies and on the materials used for the course. [[Some of these strategies include]]:
 
 * delivery &mdash; face-to-face, online, blended learning
 * setting &mdash; formal, vocational
@@ -195,7 +195,7 @@ You can use competencies and skills on these curricula to compare or create cust
 
 ### Availability of Materials
 
-Focus on how you would like to receive the materials and on how loog you need to keep them after the course has ended. Providers can make materials available to you in a variety of ways, such as:
+Focus on how you would like to receive the materials and on how long you need to keep them after the course has ended. Providers can make materials available to you in a variety of ways, such as:
 
 * access rights &mdash; permanently / temporarily
 * interaction &mdash; online / offline
