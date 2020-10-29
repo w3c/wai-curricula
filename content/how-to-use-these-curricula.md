@@ -20,34 +20,34 @@ navigation:
 
 {% include excol.html type="start" %}
 
-## Course Characteristics
+## Comparing Courses
 
 {% include excol.html type="middle" %}
 
-The following course characteristics can help you compare and select courses and/or certification programs on web accessibility.
+Curricula sections outlined above can help you compare courses and/or certification programs.
 
-### Students' Outcomes
+### Learning Outcomes
 
-Learning outcomes are usually defined as what a student should be able to demonstrate after completion of a particular course.
+Learning outcomes are what a student should know or should be able to demonstrate after completion of a particular course.
 
-You may want to ask for mappings that demonstrate how the course addresses curricula learning outcomes. The course does not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
+Courses do not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
 
 * those at a module level are covered
-* those from the introductory modules are addressed before any others from specific roles
+* those from the introductory modules are addressed before others from detailed modules
 * those related to how people with disabilities use the Web are part of the course
 
-### Teaching Abilities
+### Teaching Ideas
 
-Focus on how the course provider plans to teach the learning outcomes. You may want to ask for demonstrations of the strategies used by the instructors and the materials used for the course. Some of these aspects include:
+Ask the provider for demonstrations of the strategies used by the instructors and the materials used for the course. Some of these aspects include:
 
-* Will the teaching be face-to-face?
-* Will the course be conducted completely online?
-* Will teaching strategies include practical interactions with the knowledge covered?
-* Will such strategies include interaction with assistive technologies and people with disabilities?
+* delivery: face-to-face, online, blended
+* setting: formal, vocational
+* approach: theoretical, practical, both
+* interaction with assistive technologies and adaptive strategies
 
-### Assessment Methodology
+### Ideas to Assess Knowledge
 
-Focus on how the provider plans to assess knowledge. Ask for specific activities and their expected outcomes, as well as for rating systems (if any). There should be at least one assessment per learning outcome. 
+Focus on outcomes from the proposed assessment, as well as on rating systems (if any). Each learning outcome should have at least one assessment.
 
 ### Accreditation on Course Completion
 
@@ -55,19 +55,23 @@ Course providers may offer any accreditations after course completion. For examp
 
 ### Certification Programs
 
-Competencies and skills on these curricula can be used to create custom mappings for possible certification programs, or to compare with existing ones.
+You can use competencies and skills on these curricula to compare or create custom mappings for certification programs.
 
 ### Availability of Materials
 
-Communicate how you would like to receive the materials and if you want to be able to access to them after the course has ended. Providers can make materials available to you in a variety of ways (online/offline, permanent/temporary consumption). 
+Communicate how you would like to receive the materials and if you want to be able to acces them after the course has ended. Providers can make materials available to you in a variety of ways:
+
+* online / offline
+* permanently / temporarily
+* digital / analog
 
 ### Specific Audience Needs
 
-Make sure the course provider will cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+The course provider should cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
 
 ### Legal Requirements
 
-Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with in your RFP> Different policies may imply different requirements or prioritization of such requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
+Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with in your RFP. Different policies may imply different requirements or prioritization of such requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
 
 {% include excol.html type="end" %}
 

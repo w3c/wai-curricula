@@ -19,7 +19,9 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula to help you create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+This resource provides a set of role-based curricula to help you compare and create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+
+{% include excol.html type="all" %}
 
 {% include excol.html type="start" %}
 
@@ -31,32 +33,8 @@ Curricula uses include:
 
 * faculty staff teach computer science students about accessibility
 * accessibility professionals create their own courses
-* HR professionals compare between different course and/or certification programs on web accessibility
+* HR professionals compare between different course and/or certification programs
 * procurers put together an RFP for a course on web accessibility
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-## Structure and Terminology
-
-{% include excol.html type="middle" %}
-
-The curricula are divided into different parts following a modular approach. Modules of different curricula can be combined to address the needs of several roles together. The introductory curriculum  addresses a variety of roles, and subsequent curricula address specific roles. Each curriculum consists of:
-
-* Prerequisites &mdash; Recommended prior skills or knowledge for students and instructors.
-* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety. They provide advice for different components, scenarios, and users following a universal design approach. Each module consists of:
-  * Learning Outcomes for Module &mdash; Overall description of what students will learn and should be able to demonstrate.
-  * Competencies &mdash; Recommended prior skills or knowledge for students and instructors.
-  * Topics to Teach &mdash; Structured thematic guidance for a consistent teaching sequence.
-  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
-  * Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
-  * Topics &mdash; Thematic gathering of objectives within a module. These do not need to be taught in order or as classes, but all are recommended for a consistent teaching sequence. Each  topic consists of:
-    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
-    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
-
-For explanations about specific terminology related to people with disabilities, assistive technologies, and adaptive strategies, refer to [How people with disabilities use the Web](/people-use-web).
 
 {% include excol.html type="end" %}
 
@@ -66,7 +44,7 @@ For explanations about specific terminology related to people with disabilities,
 
 {% include excol.html type="middle" %}
 
-The table below shows ideas for future curricula. Introductory modules are available. When completed, other modules will be linked from here.
+The table below shows current plans for curricula development. Introductory modules are available. When completed, other modules will be linked from here.
 
 <table class="dense">
  <caption>Outline</caption>
@@ -136,38 +114,72 @@ The table below shows ideas for future curricula. Introductory modules are avail
 
 {% include excol.html type="start" %}
 
+## Creating Courses
+
+{% include excol.html type="middle" %}
+
+The curricula has different sets of modules. These sets can be combined to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
+
+### Prerequisites
+
+Recommended prior skills or knowledge for students and instructors.
+
+ ### Modules
+  
+These provide advice for different components, scenarios, and users following a universal design approach. You should teach and assess each module in its entirety. Each module consists of:
+
+#### Learning Outcomes for Module
+
+Overall description of what students will learn and should be able to demonstrate. These are the core of the resource. You should make sure to reflect all of them in your course.
+
+#### Competencies
+
+Recommended prior skills for students and instructors. Some modules require little skills. Other do require skills  delivered in previous modules. Your courses should be consistent with each of the skills outlined in the modules you plan to use.
+
+#### Topics to Teach
+
+Structured thematic guidance to build your teaching sequence. You do not need to teach topics in order or as classes, but all are necessary to achieve the learning outcomes. Each topic consists of:
+
+* Learning Outcomes for Topic &mdash; Description of what students will learn and should be able to demonstrate.
+* Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+* Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+
+For explanations about specific terminology related to people with disabilities, abilities, barriers, tools, and techniques, refer to [How people with disabilities use the Web](/people-use-web).
+
+#### Ideas to Assess Knowledge for Module
+
+Suggested ideas to assess the acquired skills or knowledge based on module contents.
+
+#### Teaching Resources
+
+Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ## Comparing Courses
 
 {% include excol.html type="middle" %}
 
-Curricula [Structure and Terminology](#structure-and-terminology) can help you compare courses and/or certification programs.
+Curricula [Creating Courses](#creating-courses) helps you understand the meaning of the different curricula sections. You can also use these sections to compare courses and/or certification programs.
 
 ### Learning Outcomes
 
-Learning outcomes are what a student should know or should be able to demonstrate after completion of a particular course.
+Courses do not need to follow the specific order in which learning outcomes are outlined. However, we recommend that providers:
 
-Courses do not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
-
-* those at a module level are covered
-* those from the introductory modules are addressed before others from detailed modules
-* those related to how people with disabilities use the Web are part of the course
+* cover at least those at a module level
+* address those from the introductory modules before others from detailed modules
+* make those related to how people with disabilities use the Web an integral part of the course
 
 ### Teaching Ideas
 
-Ask the provider for demonstrations of the strategies used by the instructors and the materials used for the course. Some of these aspects include:
+Focus on the instructor's strategies and on the materials used for the course. Some of these strategies include:
 
-delivery
-: face-to-face, online, blended
-
-setting
-: formal, vocational
-
-approach
-: theoretical, practical, both
-
-interaction with assistive technologies and adaptive strategies
-: hands-on experience, live demonstrations, multimedia (video and/or audio) demonstrations
-{:.notbold}
+* delivery &mdash; face-to-face, online, blended learning
+* setting &mdash; formal, vocational
+* approach &mdash; theoretical, practical, both
+* interaction with assistive technologies and adaptive strategies &mdash; hands-on experience, live demonstrations, multimedia (video and/or audio) demonstrations
 
 ### Ideas to Assess Knowledge
 
@@ -175,7 +187,7 @@ Focus on outcomes from the proposed assessment, as well as on rating systems (if
 
 ### Accreditation on Course Completion
 
-Course providers may offer any accreditations after course completion. For example, course certificates or free choice subject credits.
+Focus on any accreditations after course completion that providers may offer. For example, course certificates or free choice subject credits.
 
 ### Certification Programs
 
@@ -183,21 +195,15 @@ You can use competencies and skills on these curricula to compare or create cust
 
 ### Availability of Materials
 
-Communicate how you would like to receive the materials and if you want to be able to access them after the course has ended. Providers can make materials available to you in a variety of ways:
+Focus on how you would like to receive the materials and on how loog you need to keep them after the course has ended. Providers can make materials available to you in a variety of ways, such as:
 
-interaction
-: online / offline
-
-access rights
-: permanently / temporarily
-
-format
-: digital / analog
-{:.notbold}
+* access rights &mdash; permanently / temporarily
+* interaction &mdash; online / offline
+* format &mdash; digital / analog
 
 ### Specific Audience Needs
 
-The course provider should cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+The course provider needs to cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
 
 ### Legal Requirements
 
@@ -205,3 +211,4 @@ Sometimes accessibility training helps to comply with a specific regulation. Mak
 
 {% include excol.html type="end" %}
 
+{% include excol.html type="all" %}
