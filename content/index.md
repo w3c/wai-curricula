@@ -118,7 +118,7 @@ The table below shows current plans for curricula development. Introductory modu
 
 {% include excol.html type="middle" %}
 
-The curricula have different sets of modules. These sets can be combined to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
+The curricula have different sets of modules. You can combine these sets to address the needs of several roles together. The introductory modules address all roles, and subsequent sets address specific roles. Each set consists of:
 
 ### Prerequisites
 
