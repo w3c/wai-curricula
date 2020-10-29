@@ -29,7 +29,7 @@ This resource provides a set of role-based curricula to help you create courses 
 
 Curricula uses include:
 
-* faculty staff teache computer science students about accessibility
+* faculty staff teach computer science students about accessibility
 * accessibility professionals create their own courses
 * HR professionals compare between different course and/or certification programs on web accessibility
 * procurers put together an RFP for a course on web accessibility
@@ -132,6 +132,76 @@ The table below shows ideas for future curricula. Introductory modules are avail
   </tbody>
 </table>
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+## Comparing Courses
+
+{% include excol.html type="middle" %}
+
+Curricula [Structure and Terminology](#structure-and-terminology) can help you compare courses and/or certification programs.
+
+### Learning Outcomes
+
+Learning outcomes are what a student should know or should be able to demonstrate after completion of a particular course.
+
+Courses do not need to follow the specific order in which learning outcomes are outlined. However, it is advisable that:
+
+* those at a module level are covered
+* those from the introductory modules are addressed before others from detailed modules
+* those related to how people with disabilities use the Web are part of the course
+
+### Teaching Ideas
+
+Ask the provider for demonstrations of the strategies used by the instructors and the materials used for the course. Some of these aspects include:
+
+delivery
+: face-to-face, online, blended
+
+setting
+: formal, vocational
+
+approach
+: theoretical, practical, both
+
+interaction with assistive technologies and adaptive strategies
+: hands-on experience, live demonstrations, multimedia (video and/or audio) demonstrations
+{:.notbold}
+
+### Ideas to Assess Knowledge
+
+Focus on outcomes from the proposed assessment, as well as on rating systems (if any). Each learning outcome should have at least one assessment.
+
+### Accreditation on Course Completion
+
+Course providers may offer any accreditations after course completion. For example, course certificates or free choice subject credits.
+
+### Certification Programs
+
+You can use competencies and skills on these curricula to compare or create custom mappings for certification programs.
+
+### Availability of Materials
+
+Communicate how you would like to receive the materials and if you want to be able to access them after the course has ended. Providers can make materials available to you in a variety of ways:
+
+interaction
+: online / offline
+
+access rights
+: permanently / temporarily
+
+format
+: digital / analog
+{:.notbold}
+
+### Specific Audience Needs
+
+The course provider should cover requirements from all your participants: accessibility needs, cultural preferences. For an understanding of how to make presentations, meetings, talks, and training accessible, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+
+### Legal Requirements
+
+Sometimes accessibility training helps to comply with a specific regulation. Make sure to include the policy or policies you need to comply with in your RFP. Different policies may imply different requirements or prioritization of such requirements. For information about international accessibility laws and policies, see [Web Accessibility Laws & Policies](/policies/).
 
 {% include excol.html type="end" %}
 
