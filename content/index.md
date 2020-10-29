@@ -64,8 +64,8 @@ The table below shows ideas for future curricula. When completed, they will be l
       </td>
       <td>
         <ul>
-          <li> Layout and Structure </li>
           <li> Navigation and Orientation </li>
+          <li> Layout and Structure </li>
           <li>Colors, Fonts, and Graphics </li>
           <li> Information Architecture </li>
           <li> Forms, Instructions, and Feedback </li>
