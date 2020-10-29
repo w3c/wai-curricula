@@ -174,7 +174,7 @@ Courses do not need to follow the specific order in which learning outcomes are 
 
 ### Teaching Ideas
 
-Focus on the instructor's strategies and on the materials used for the course. [[Some of these strategies include]]:
+Focus on the instructor's strategies to teach the learning outcomes. Some of these strategies include:
 
 * delivery &mdash; face-to-face, online, blended learning
 * setting &mdash; formal, vocational
