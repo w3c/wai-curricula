@@ -74,6 +74,8 @@ Terminology related to people with disabilities, assistive technologies, and ada
  <caption>Modules included in each curriculum</caption>
     <tr>
       <th colspan="3"> <a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introduction to Web Accessibility</a> </th>
+    </tr>
+    <tr>
       <td colspan="3">
         <ul>
           <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
