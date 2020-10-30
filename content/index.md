@@ -136,7 +136,7 @@ Terminology related to people with disabilities, assistive technologies, and ada
 
 {% include excol.html type="middle" %}
 
-Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the introductory, developer, and designer curricula. On the other hand, assesing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
+Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the introductory, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
 
 ### Involve People with Disabilities
 
