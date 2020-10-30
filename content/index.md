@@ -164,9 +164,9 @@ Successful courses, training, and certification programs are accessible. This in
 
 Some types of accreditation that may be issued following a course, training, or assessment include:
 
-* **Accreditation of attendance**, for example to attest that students attended classes
-* **Accreditation of completion**, for example to attest that students completed assignments
-* **Accreditation of assessment**, for example to attest that students acquired skills
+* **Accreditation of attendance**, for example to acknowledge that students attended classes
+* **Accreditation of completion**, for example to acknowledge that students completed assignments
+* **Accreditation of assessment**, for example to acknowledge that students acquired skills
 
 Each of these types of accreditations could be certificated by formal authorities or recognized by other entities. For example, a universal design course may be formally certificated by a university and a web design training may be recognized by an industry association. This could be local, national, regional, or international depending on the recognition of the authority or entity itself.
 
