@@ -164,9 +164,9 @@ Good courses, training, and certification programs are accessible. This includes
 
 Some types of certification that may be issued following a course, training, or assessment include:
 
-* **Certification of attendance**, for example that students attended the classes
-* **Certification of completion**, for example that students completed the assignments
-* **Certification of assessment**, for example that students acquired the skills
+* **Certification of attendance**, for example to attest that students attended classes
+* **Certification of completion**, for example to attest that students completed assignments
+* **Certification of assessment**, for example to attest that students acquired skills
 
 Each of these types of certification could be accredited by formal authorities or recognized by other entities. For example, a universal design course may be formally accredited by a university and a web design training may be recognized by an industry association. This could be local, national, regional, or international depending on the recognition of the authority or entity itself.
 
