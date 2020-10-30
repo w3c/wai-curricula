@@ -32,7 +32,7 @@ This resource provides a set of role-based curricula on web accessibility. You c
 
 {% include excol.html type="middle" %}
 
-You can use thse curricula in a variety of situations. Some examples include:
+You can use these curricula in a variety of situations. Some examples include:
 
 * faculty lecturer wants to teach computer science students about accessibility
 * accessibility professional wants to create training specifically on accessibility
