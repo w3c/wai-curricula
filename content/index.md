@@ -72,13 +72,8 @@ Terminology related to people with disabilities, assistive technologies, and ada
 
 <table class="dense">
  <caption>Modules included in each curriculum</caption>
-  <thead>
-    <tr colspan="3">
-      <th> <a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introduction to Web Accessibility</a> </th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
+      <th colspan="3"> <a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introduction to Web Accessibility</a> </th>
       <td colspan="3">
         <ul>
           <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
@@ -89,15 +84,11 @@ Terminology related to people with disabilities, assistive technologies, and ada
         </ul>
       </td>
     </tr>
-  </tbody>
-  <thead>
-    <tr colspan="3">
+    <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Curriculum</a> </th>
       <th> Designer Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
       <th> Author Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>
         <ul>
@@ -133,7 +124,6 @@ Terminology related to people with disabilities, assistive technologies, and ada
         </ul>
       </td>
     </tr>
-  </tbody>
 </table>
 
 {% include excol.html type="end" %}
