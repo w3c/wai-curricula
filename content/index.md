@@ -19,7 +19,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs. It includes the following parts:
+This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs that include accessibility. It includes the following parts:
 
 * Introductory curriculum for the entire project team
 * Curriculum for developers, such as front-end developers
