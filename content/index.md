@@ -49,7 +49,7 @@ You can use these curricula in a variety of situations. Some examples include:
 
 Each curriculum consists of:
 
-* Prerequisites &mdash; Competencies students of the curriculum are expected to have acquired.
+* Prerequisites &mdash; expected previously acquired competencies for students
 * Modules &mdash; Designed to be taught and assessed in their entirety. Each module consists of:
   * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
   * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
@@ -140,11 +140,11 @@ Different courses, training, and certification programs can combine modules from
 
 ### Involve People with Disabilities
 
-One of the most effective ways to learn and teach accessibility is by involving people with disabilities. This includes inviting people with disabilities to show how they use assistive technologies and adaptive strategies to interact on the Web, the accessibility features they rely on, and challenges they sometimes encounter. If you cannot invite people with disabilities, maybe you can find suitable videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/planning/involving-users/) provides guidance on working with people with disabilities ethical considerations and cautions.
+One of the most effective ways to learn and teach accessibility is by involving people with disabilities. This includes inviting people with disabilities to show how they use assistive technologies and adaptive strategies to interact on the Web, the accessibility features they rely on, and challenges they sometimes encounter. If you cannot invite people with disabilities, maybe you can find suitable videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/) provides guidance on working with people with disabilities ethical considerations and cautions.
 
 ### Communicate the Impact
 
-Often teachings focus too much on the *how* and insufficiently on the *why*. Yet understanding the motivations for accessibility is essential to ensuring solutions that are usable in practice. Good courses, training, and certification programs ensure that students understand the impact of accessibility barriers and features on people with disabilities. This includes how the learning outcomes, the teaching methods, and knowledge assesments are designed. For example, students should not only know the different ways to provide text alternatives for images but also know in which situations each method is more appropriate from the perspective of the user.
+Often teachings focus too much on the *how* and insufficiently on the *why*. Yet understanding the motivations for accessibility is essential to ensuring solutions that are usable in practice. Good courses, training, and certification programs ensure that students understand the impact of accessibility barriers and features on people with disabilities. This includes how the learning outcomes, the teaching methods, and knowledge assessments are designed. For example, students should not only know the different ways to provide text alternatives for images but also know in which situations each method is more appropriate from the perspective of the user.
 
 ### Embrace Universal Design
 
@@ -152,7 +152,7 @@ Avoid inadvertent prioritizing of one perceived group over another. The accessib
 
 ### Make it Accessible
 
-Good courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read alound what is on the screen and describe any visual information through audio. More guidance is provided in [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/).
+Good courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read aloud what is on the screen and describe any visual information through audio. More guidance is provided in [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/).
 
 {% include excol.html type="end" %}
 
@@ -173,3 +173,4 @@ Each of these types of certification could be accredited by formal authorities o
 This resource does not prescribe or favor any particular type of certification and accreditation scheme.
 
 {% include excol.html type="end" %}
+    
