@@ -254,6 +254,8 @@
         url: "/curricula/developer-modules/forms-and-input-elements/"
       - name: "Custom Widgets"
         url: "/curricula/developer-modules/custom-widgets/"
+      - name: "Dynamic Content"
+        url: "/curricula/developer-moduless/dynamic-content/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
