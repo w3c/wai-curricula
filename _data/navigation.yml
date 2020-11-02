@@ -239,7 +239,7 @@
         url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
       - name: "Getting Started with Accessibility"
         url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
-    - name: "For Developers"
+    - name: "Developers"
       url: "/curricula/developer-modules/"
       pages:
       - name: "Structure and Semantics"
