@@ -26,6 +26,8 @@ This resource provides a set of role-based curricula on web accessibility. You c
 * Curriculum for designers, such as user-experience (UX) designers (in progress)
 * Curriculum for authors, such as content publishers (in progress)
 
+{% include excol.html type="all" %}
+
 {% include excol.html type="start" %}
 
 ## Example Uses
@@ -174,3 +176,4 @@ This resource does not prescribe or favor any particular type of accreditation a
 
 {% include excol.html type="end" %}
     
+{% include excol.html type="all" %}
