@@ -40,7 +40,7 @@ This curriculum guides the creation of courses that:
 
 ## Prerequisites for Students
 
-Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior curriculum [Introductory Modules](https://www.w3.org/WAI/curricula/introductory-modules/):
+Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior curriculum [Basics](https://www.w3.org/WAI/curricula/introductory-modules/):
 
 * [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introductory-modules/what-is-web-accessibility/) &mdash; Topics "Stories of People with Disabilities" and "Scope of Web Accessibility"
 * [Module 2: People and Digital Technology](/curricula/introductory-modules/people-and-digital-technology/) &mdash; Topics "Diverse Abilities, Tools, and Strategies" and "Components of Web Accessibility"

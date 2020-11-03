@@ -50,7 +50,7 @@ Each curriculum also specifies competencies that students are expected to have p
 
 ## Future Outline
 
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the introductory modules are available. 
+The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the basics are available. 
 
 <table caption="Tentative Outline" class="dense">
   <tbody>
@@ -65,7 +65,7 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introductory Modules</a></p>
+    <p><a href="{{ '/curricula/introductory-modules/' | relative_url }}">Basics</a></p>
        <ul>
         <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
         <li><a href="{{ '/curricula/introductory-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
