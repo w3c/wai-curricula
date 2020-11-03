@@ -17,29 +17,16 @@ Project Leadership
 
 -   **Project Manager:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/)
 -   **Lead editor**: Daniel Montalvo, W3C WAI
--   **Task Force Participants:**
-    -   Daniel Montalvo, W3C WAI
-    -   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
-    -   Howard Kramer, University of Colorado Boulder
-    -   Carlos Duarte, University of Lisbon
-    -   David Sloan, The Paciello Group
-    -   Donal Fitzpatrick, Invited Expert
-    -   Gerhard Nussbaum, Invited Expert
-    -   Dónal Rice, Invited Expert
-    -   Sarah Lewthwaite, University of Southampton
-    -   [Shadi Abou-Zahra](https://www.w3.org/People/shadi), W3C WAI
 -   **EOWG Co-Chairs:**
     -   Sharron Rush, Knowbility
     -   Brent Bakken, Pearson
--   **EOWG Staff Contact:** [Shawn Lawton
-    Henry](https://www.w3.org/People/shawn), W3C WAI
+-   **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 
-Major Contributors
+Task Force Participants
 ------------------
 
 -   Daniel Montalvo
 -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/)
--   [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 -   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
 -   Howard Kramer, University of Colorado Boulder
 -   Carlos Duarte, University of Lisbon
@@ -52,8 +39,7 @@ Major Contributors
 Contributing EOWG Participants
 ------------------------------
 
--   Estella Oncins
--   Howard Kramer
+-   [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 -   Brent Bakken
 -   Sharron Rush
 -   Kevin White
@@ -62,4 +48,5 @@ Contributing EOWG Participants
 -   Sylvie Duchateau
 -   Andrew Arch
 -   Victoria Menezes Miller
-
+-   [Hidde de Vries](https://www.w3.org/people/hidde/)
+-   [Steve Lee](https://www.w3.org/people/steve/)
