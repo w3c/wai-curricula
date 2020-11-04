@@ -15,7 +15,7 @@ This [WAI Curricula](/curricula/) resource was developed by the [WAI Curricula T
 Project Leadership
 ------------------
 
--   **Project Manager:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/)
+-   **Project Manager:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
 -   **Lead editor**: Daniel Montalvo, W3C WAI
 -   **EOWG Co-Chairs:**
     -   Sharron Rush, Knowbility
@@ -25,8 +25,8 @@ Project Leadership
 Task Force Participants
 ------------------
 
--   Daniel Montalvo
--   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/)
+-   Daniel Montalvo, W3C WAI
+-   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
 -   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
 -   Howard Kramer, University of Colorado Boulder
 -   Carlos Duarte, University of Lisbon
@@ -39,7 +39,7 @@ Task Force Participants
 Contributing EOWG Participants
 ------------------------------
 
--   [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
+-   [Shawn Lawton Henry](https://www.w3.org/People/shawn)
 -   Brent Bakken
 -   Sharron Rush
 -   Kevin White
@@ -49,4 +49,4 @@ Contributing EOWG Participants
 -   Andrew Arch
 -   Victoria Menezes Miller
 -   [Hidde de Vries](https://www.w3.org/people/hidde/)
--   [Steve Lee](https://www.w3.org/people/steve/)
+-   Steve Lee
