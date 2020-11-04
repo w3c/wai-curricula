@@ -21,7 +21,7 @@ navigation:
 
 This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs that include accessibility. It includes the following parts:
 
-* Introductory curriculum for everybody
+* Foundations for everybody
 * Curriculum for developers, such as front-end developers
 * Curriculum for designers, such as user-experience (UX) designers (in progress)
 * Curriculum for authors, such as content publishers (in progress)
