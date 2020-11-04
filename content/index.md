@@ -13,7 +13,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  next: /curricula/foundations/
+  next: /curricula/foundation-modules/
 ---
 
 ## Introduction
@@ -65,13 +65,13 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="{{ '/curricula/foundations/' | relative_url }}">Foundations</a></p>
+    <p><a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundations</a></p>
        <ul>
-        <li><a href="{{ '/curricula/foundations/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
-        <li><a href="{{ '/curricula/foundations/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
-        <li><a href="{{ '/curricula/foundations/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
-        <li><a href="{{ '/curricula/foundations/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="{{ '/curricula/foundations/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
+        <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
+        <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+        <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+        <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+        <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
       </ul>
     </td></tr>
     <tr>
