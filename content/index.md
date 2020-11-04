@@ -75,23 +75,28 @@ Terminology related to people with disabilities, assistive technologies, and ada
 <table class="dense">
  <caption>Modules included in each curriculum</caption>
     <tr>
-      <th colspan="3"> <a href="{{ '/curricula/introductory-modules/' | relative_url }}">Introduction to Web Accessibility</a> </th>
+      <th>Developers</th>
+      <th>Designers</th>
+      <th>Authors</th>
+    </tr>
+    <tr>
+      <td colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </td>
     </tr>
     <tr>
       <td colspan="3">
         <ul>
-          <li><a href="{{ '/curricula/introductory-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
-          <li><a href="{{ '/curricula/introductory-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
-          <li><a href="{{ '/curricula/introductory-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
-          <li><a href="{{ '/curricula/introductory-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
-          <li><a href="{{ '/curricula/introductory-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Curriculum</a> </th>
-      <th> Designer Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
-      <th> Author Curriculum (<abbr title="To be Developed">TBD</abbr>) </th>
+      <td> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </td>
+      <td> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </td>
+      <td> Author Modules (<abbr title="To be Developed">TBD</abbr>) </td>
     </tr>
     <tr>
       <td>
@@ -138,7 +143,7 @@ Terminology related to people with disabilities, assistive technologies, and ada
 
 {% include excol.html type="middle" %}
 
-Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the introductory, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
+Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
 
 ### Involve People with Disabilities
 
