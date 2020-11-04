@@ -1,7 +1,7 @@
 ---
 title: "Foundation Modules"
-permalink: /curricula/foundations/
-ref: /curricula/foundations/
+permalink: /curricula/foundation-modules/
+ref: /curricula/foundation-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
@@ -13,7 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/
-  next: /curricula/foundations/what-is-web-accessibility/
+  next: /curricula/foundation-modules/what-is-web-accessibility/
 ---
 
 ## Introduction
@@ -35,23 +35,23 @@ It addresses many different audiences, including people with different technical
 
 ## Modules
 
--   [Module 1: What is Web Accessibility](/curricula/foundations/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
+-   [Module 1: What is Web Accessibility](/curricula/foundation-modules/what-is-web-accessibility/) --- Introduces stories of people with disabilities, defines and scopes web accessibility, and introduces its interrelations with other disciplines.
     -   Topic: Stories of People with Disabilities.
     -   Topic: Scope of Web Accessibility.
 
--   [Module 2: People and Digital Technology](/curricula/foundations/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
+-   [Module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/) --- Introduces some accessibility features and barriers, presents some adaptive strategies and assistive tools, and introduces the components of web accessibility.
     -   Topic: Diverse Abilities, Tools, and Strategies.
     -   Topic: Components of Web Accessibility.
 
--   [Module 3: Business Case and Benefits](/curricula/foundations/business-case-and-benefits/) --- Introduces the business case for web accessibility and presents some benefits, such as enhancing your brand, increasing market reach, driving innovation, and minimizing legal risk.
+-   [Module 3: Business Case and Benefits](/curricula/foundation-modules/business-case-and-benefits/) --- Introduces the business case for web accessibility and presents some benefits, such as enhancing your brand, increasing market reach, driving innovation, and minimizing legal risk.
     -   Topic: Benefits of Accessibility.
 
--   [Module 4: Principles, Standards, and Checks](/curricula/foundations/principles-standards-and-checks/) --- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
+-   [Module 4: Principles, Standards, and Checks](/curricula/foundation-modules/principles-standards-and-checks/) --- Introduces the principles of web accessibility, as well as the international W3C Accessibility standards, and how these are developed. Provides hands-on experience checking how web pages have implemented the standards or not.
     -   Topic: Principles of Web Accessibility.
     -   Topic: W3C Accessibility Standards.
     -   Topic: Hands-on Experience of Standards.
 
--   [Module 5: Getting Started with Accessibility](/curricula/foundations/getting-started-with-accessibility/) --- Provides an overview of organizational planning and managing considerations to integrate accessibility throughout the web production process, and of different accessibility roles and responsibilities involved.
+-   [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/) --- Provides an overview of organizational planning and managing considerations to integrate accessibility throughout the web production process, and of different accessibility roles and responsibilities involved.
     -   Topic: Planning and Managing Web Accessibility.
     -   Topic: Developing Policies and Statements.
     -   Topic: Roles and Responsibilities.
