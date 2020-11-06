@@ -65,7 +65,7 @@ The table below shows ideas for future curricula. When completed, they will be l
     <tr>
    <th>Basic</th>
    <td colspan="5">
-    <p><a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundations</a></p>
+    <p><a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a></p>
        <ul>
         <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
         <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>

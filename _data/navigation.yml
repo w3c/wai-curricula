@@ -226,7 +226,7 @@
   - name: "Curricula on Web Accessibility"
     url: "/curricula/"
     pages:
-    - name: "Foundations"
+    - name: "Foundation Modules"
       url: "/curricula/foundation-modules/"
       pages:
       - name: "What is Web Accessibility"
