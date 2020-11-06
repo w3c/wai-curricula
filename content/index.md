@@ -16,23 +16,34 @@ navigation:
   next: /curricula/foundation-modules/
 ---
 
-## Introduction
-{:.no-display}
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
 
 This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs that include accessibility. It includes the following parts:
 
-* Foundations for everybody
-* Curriculum for developers, such as front-end developers
+* [Foundation modules](/curricula/foundation-modules) for everybody
+* [Developer Modules](/curricula/developer-modules/), such as front-end developers
 * Curriculum for designers, such as user-experience (UX) designers (in progress)
 * Curriculum for authors, such as content publishers (in progress)
 
-{% include excol.html type="all" %}
+{::nomarkdown}
+{% include box.html type="end" title="Summary" class="" %}
+{:/}
 
-{% include excol.html type="start" %}
+{::options toc_levels="2,3" /}
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
 
 ## Example Uses
-
-{% include excol.html type="middle" %}
 
 You can use these curricula in a variety of situations. Some examples include:
 
@@ -41,13 +52,7 @@ You can use these curricula in a variety of situations. Some examples include:
 * product owner wants to compare the content offered by different course providers
 * procurer wants to include specific requirements in a Request for Proposals (RFP)
 
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ## Structure and Terminology
-
-{% include excol.html type="middle" %}
 
 Each curriculum consists of:
 
@@ -64,13 +69,7 @@ Each curriculum consists of:
 
 Terminology related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
 
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ## Content Overview
-
-{% include excol.html type="middle" %}
 
 <table class="dense">
  <caption>Modules included in each curriculum</caption>
@@ -135,13 +134,8 @@ Terminology related to people with disabilities, assistive technologies, and ada
     </tr>
 </table>
 
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
 
 ## Usage Guidance
-
-{% include excol.html type="middle" %}
 
 Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
 
@@ -161,13 +155,7 @@ Avoid inadvertent prioritizing of one perceived group over another. The accessib
 
 Good practice is to ensure that courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read aloud what is on the screen and describe any visual information through audio. For more guidance, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
 
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ## Accreditation and Certification
-
-{% include excol.html type="middle" %}
 
 Different types of attestation are commonly issued following courses, training, and assessments. This includes:
 
@@ -179,6 +167,3 @@ Such attestation could be recognized by formal authorities or recognized by othe
 
 This resource does not prescribe or favor any particular type of accreditation and certification scheme. Currently W3C only endorses the free online course <a href="https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/">Introduction to Web Accessibility</a>.
 
-{% include excol.html type="end" %}
-    
-{% include excol.html type="all" %}
