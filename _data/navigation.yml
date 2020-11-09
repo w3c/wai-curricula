@@ -254,7 +254,7 @@
         url: "/curricula/developer-modules/forms-and-input-elements/"
       - name: "Custom Widgets"
         url: "/curricula/developer-modules/custom-widgets/"
-      - name: "Rcich Applications"
+      - name: "Rich Applications"
         url: "/curricula/developer-modules/rich-applications/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
