@@ -51,7 +51,7 @@ You can use this resource in a variety of situations. Some examples include:
 * **accessibility professional** wants to create training specifically on accessibility
 * **product owner** wants to compare the content offered by different course providers
 * **procurer** wants to include specific requirements in a Request for Proposals (RFP)
-* **hiring manager** wants to compare compentencies assessed for different certificates
+* **hiring manager** wants to compare competencies assessed for different certificates
 
 You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
 
