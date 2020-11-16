@@ -24,7 +24,7 @@ This resource provides a variety of teaching modules that you can combine to cre
 
 * [Foundation Modules](/curricula/foundation-modules) suitable for everybody in <abbr title="Information Technology">IT</abbr>
 * [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
-* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
+* Designer Modules (in progress) primarily related to visual and user-experience (UX) design)
 * Author Modules (in progress) primarily related to content publishing
 
 {::nomarkdown}
