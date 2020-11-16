@@ -20,12 +20,12 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides a set of role-based curricula on web accessibility. You can use it to create and compare courses, training, and certification programs that include accessibility. It includes the following parts:
+This resource provides a variety of teaching modules that you can combine to create different courses on web accessibility. For example, you can use these modules to include accessibility aspects in courses on digital technology more broadly as well as to create training specifically on digital accessibility. You can also use these modules to write procurement requirements and to compare courses, training, and certification programs. This resource includes the following parts:
 
-* [Foundation modules](/curricula/foundation-modules) for everybody
-* [Developer Modules](/curricula/developer-modules/), such as front-end developers
-* Curriculum for designers, such as user-experience (UX) designers (in progress)
-* Curriculum for authors, such as content publishers (in progress)
+* [Foundation Modules](/curricula/foundation-modules) suitable for everybody in <abbr title="Information Technology">IT</abbr>
+* [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
+* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
+* Author Modules (in progress) primarily related to content publishing
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -43,43 +43,27 @@ This resource provides a set of role-based curricula on web accessibility. You c
 {% include toc.html type="end" %}
 {:/}
 
-## Example Uses
+## Accessibility Curricula Overview
 
-You can use these curricula in a variety of situations. Some examples include:
+You can use this resource in a variety of situations. Some examples include:
 
-* faculty lecturer wants to teach computer science students about accessibility
-* accessibility professional wants to create training specifically on accessibility
-* product owner wants to compare the content offered by different course providers
-* procurer wants to include specific requirements in a Request for Proposals (RFP)
+* **faculty lecturer** wants to teach computer science students about accessibility
+* **accessibility professional** wants to create training specifically on accessibility
+* **product owner** wants to compare the content offered by different course providers
+* **procurer** wants to include specific requirements in a Request for Proposals (RFP)
+* **hiring manager** wants to compare competencies assessed for different certificates
 
-## Structure and Terminology
-
-Each curriculum consists of:
-
-* Prerequisites &mdash; Competencies expected for students to have previously acquired
-* Modules &mdash; Designed to be taught and assessed in their entirety. Each module consists of:
-  * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
-  * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
-  * Topics to Teach &mdash; Recommended themes to be taught in any order. Each topic consists of:
-    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
-    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
-  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
-  * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
-
-Terminology related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
-
-## Content Overview
+You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
 
 <table class="dense">
- <caption>Modules included in each curriculum</caption>
+ <caption>Overview on Curricula Modules</caption>
     <tr>
-      <th>Developers</th>
-      <th>Designers</th>
-      <th>Authors</th>
+      <th>Development</th>
+      <th>Design</th>
+      <th>Authoring</th>
     </tr>
     <tr>
-      <td colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </td>
+      <th colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </th>
     </tr>
     <tr>
       <td colspan="3">
@@ -93,9 +77,9 @@ Terminology related to people with disabilities, assistive technologies, and ada
       </td>
     </tr>
     <tr>
-      <td> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </td>
-      <td> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </td>
-      <td> Author Modules (<abbr title="To be Developed">TBD</abbr>) </td>
+      <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
+      <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
     </tr>
     <tr>
       <td>
@@ -134,10 +118,26 @@ Terminology related to people with disabilities, assistive technologies, and ada
     </tr>
 </table>
 
+## Structure and Terminology
 
-## Usage Guidance
+This resource consists of the four curricula described in the previous section. Each curriculum consists of:
 
-Different courses, training, and certification programs can combine modules from across all curricula. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration or effort associated with each. It provides a reference for the learning outcomes on a modular level.
+* Prerequisites &mdash; Competencies expected for students to have previously acquired
+* Modules &mdash; Designed to be taught and assessed in their entirety. Each module consists of:
+  * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
+  * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
+  * Topics to Teach &mdash; Recommended themes to be taught in any order. Each topic consists of:
+    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
+    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
+  * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
+
+## Teaching Best Practices
+
+While this resource is organized by modules based on roles in accessibility implementation, it is important to understand and communicate the relationship between different tasks related to accessibility when teaching. For example, creating an accessible form requires input from the content author, designer, and developer. It is equally important to understand and communicate accessibility requirements from the perspective of the user across the different tasks. In addition to the advice embedded in the modules, the following overall practices will help you ensure effective courses, training, and certification programs on accessibility.
 
 ### Involve People with Disabilities
 
@@ -154,16 +154,3 @@ Avoid inadvertent prioritizing of one perceived group over another. The accessib
 ### Make it Accessible
 
 Good practice is to ensure that courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read aloud what is on the screen and describe any visual information through audio. For more guidance, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
-
-## Accreditation and Certification
-
-Different types of attestation are commonly issued following courses, training, and assessments. This includes:
-
-* **Attestation of attendance**, for example acknowledging that students attended classes
-* **Attestation of completion**, for example acknowledging that students completed assignments
-* **Attestation of assessment**, for example acknowledging that students acquired skills
-
-Such attestation could be recognized by formal authorities or recognized by other entities, in which case they are commonly referred to as certification. For example, a universal design course may be formally accredited by a university, and a web design training may be accredited by an industry association. Such accreditation could be local, national, regional, or international depending on the recognition of the authority or entity itself.
-
-This resource does not prescribe or favor any particular type of accreditation and certification scheme. Currently W3C only endorses the free online course <a href="https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/">Introduction to Web Accessibility</a>.
-
