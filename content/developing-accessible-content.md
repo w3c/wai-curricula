@@ -69,7 +69,7 @@ Basic HTML and CSS knowledge is also advised.
     -   Topic: Simple Tables
     -   Topic: Complex Tables
     -   Topic: Table Summaries and Descriptions
--   [Module 5: Forms and Input Elements](/curricula/developer-modules/forms-and-input-elements/)
+-   [Module 5: Forms and Controls](/curricula/developer-modules/forms-and-controls/)
     -   Topic: Form Labels
     -   Topic: Form Instructions
     -   Topic: Time Limits
