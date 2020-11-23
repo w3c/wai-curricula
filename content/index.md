@@ -53,15 +53,10 @@ You can use this resource in a variety of situations. Some examples include:
 * **procurer** wants to include specific requirements in a Request for Proposals (RFP)
 * **hiring manager** wants to compare competencies assessed for different certificates
 
-You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves modules from the foundation, developer, and designer curricula. On the other hand, assessing the accessibility knowledge of front-end developers will primarily involve modules from the developer curriculum. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
+You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves the foundation, developer, and designer modules. On the other hand, assessing the accessibility knowledge of front-end developers will involve the foundation and developer modules. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
 
 <table class="dense">
  <caption>Overview on Curricula Modules</caption>
-    <tr>
-      <th>Development</th>
-      <th>Design</th>
-      <th>Authoring</th>
-    </tr>
     <tr>
       <th colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </th>
     </tr>
@@ -135,9 +130,13 @@ This resource consists of the four curricula described in the previous section. 
 
 Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
 
-## Teaching Best Practices
+## Tips for Including Accessibility in Your Teaching
 
-While this resource is organized by modules based on roles in accessibility implementation, it is important to understand and communicate the relationship between different tasks related to accessibility when teaching. For example, creating an accessible form requires input from the content author, designer, and developer. It is equally important to understand and communicate accessibility requirements from the perspective of the user across the different tasks. In addition to the advice embedded in the modules, the following overall practices will help you ensure effective courses, training, and certification programs on accessibility.
+While this resource is organized by modules based on roles in accessibility implementation, it is important to communicate in your teaching that carrying out accessibility-related tasks often require collaboration between several team roles. For example, creating an accessible form requires input from the content author, designer, and developer.
+
+It is equally important to understand and communicate accessibility requirements from the perspective of the user across the different tasks. For example, providing a coherent heading structure for a web page is not only an accessibility requirement. It often makes the difference for users to navigate and understand a web page.
+
+In addition to the advice embedded in the modules, the following overall practices will help you ensure effective courses, training, and certification programs on accessibility.
 
 ### Involve People with Disabilities
 
