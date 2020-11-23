@@ -80,3 +80,8 @@ Basic HTML and CSS knowledge is also advised.
     -   Topic: States, Properties, and Values
     -   Topic: Keyboard and Focus Management
     -   Topic: Live Regions and Notifications
+-   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications)
+   -   Topic: Structure and Relationship
+   -   Topic: State Changes
+   -   Topic: Keyboard and Focus Interactions
+   -   Topic: Updates and Notifications 

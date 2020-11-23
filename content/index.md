@@ -85,6 +85,7 @@ The table below shows ideas for future curricula. When completed, they will be l
           <li> <a href="{{ '/curricula/developer-modules/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
           <li> <a href="{{ '/curricula/developer-modules/forms-and-controls/' | relative_url }}">Module 5: Forms and Controls</a></li>
           <li> <a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Module 6: Custom Widgets</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Module 7: Rich Applications</a></li>
         </ul>
       </td>
       <td>
