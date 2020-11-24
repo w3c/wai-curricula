@@ -16,70 +16,70 @@ navigation:
   next: /curricula/foundation-modules/
 ---
 
-## Introduction
-{:.no-display}
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
 
-This resource provides a set of role-based curricula to help you create courses on web accessibility. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+This resource provides a variety of teaching modules that you can combine to create different courses on web accessibility. For example, you can use these modules to include accessibility aspects in courses on digital technology more broadly as well as to create training specifically on digital accessibility. You can also use these modules to write procurement requirements and to compare courses, training, and certification programs. This resource includes the following parts:
 
-## Uses
+* [Foundation Modules](/curricula/foundation-modules) suitable for everybody in <abbr title="Information Technology">IT</abbr>
+* [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
+* Designer Modules (in progress) primarily related to visual and user-experience (UX) design)
+* Author Modules (in progress) primarily related to content publishing
 
-You can use these curricula in different contexts, including:
+{::nomarkdown}
+{% include box.html type="end" title="Summary" class="" %}
+{:/}
 
-* Online and in-class teaching
-* Formal and informal teaching
-* Guided and non-guided teaching
-* Academic and vocational education
+{::options toc_levels="2,3" /}
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
 
-You can also use these curricula to compare different course offerings.
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{:toc}
 
-## Structure
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
 
-Each curriculum contains:
+## Accessibility Curricula Overview
 
-* Modules &mdash; Smallest logical entity of a curriculum that is expected to be taught and assessed in its entirety.
-* Topics &mdash; Thematic gathering of objectives within a module, which are not necessarily taught in a specific order.
+You can use this resource in a variety of situations. Some examples include:
 
-The curricula define:
+* **faculty lecturer** wants to teach computer science students about accessibility
+* **accessibility professional** wants to create training specifically on accessibility
+* **product owner** wants to compare the content offered by different course providers
+* **procurer** wants to include specific requirements in a Request for Proposals (RFP)
+* **hiring manager** wants to compare competencies assessed for different certificates
 
-* Learning Outcomes &mdash; What students will learn and should be able to demonstrate. This is the core of the curricula.
-* Teaching Ideas &mdash; Suggested ideas to help instructors teach the learning outcomes.
-* Ideas to Assess Knowledge &mdash; Suggested ideas to help instructors assess the knowledge acquired by the students.
-* Teaching Resources &mdash; Recommended resources to deliver the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves the foundation, developer, and designer modules. On the other hand, assessing the accessibility knowledge of front-end developers will involve the foundation and developer modules. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
 
-Each curriculum also specifies competencies that students are expected to have prior to taking a course, and the competences that instructors are expected to have to deliver it.
-
-## Future Outline
-
-The table below shows ideas for future curricula. When completed, they will be linked from here. Currently only the foundation modules are available. 
-
-<table caption="Tentative Outline" class="dense">
-  <tbody>
+<table class="dense">
+ <caption>Overview on Curricula Modules</caption>
     <tr>
-      <th> </th>
-      <th> Developer </th>
-      <th> Designer </th>
-      <th> Author </th>
-      <th> Manager </th>
-      <th> Tester </th>
+      <th colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </th>
     </tr>
     <tr>
-   <th>Basic</th>
-   <td colspan="5">
-    <p><a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a></p>
-       <ul>
-        <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
-        <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
-        <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
-        <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
-        <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
-      </ul>
-    </td></tr>
-    <tr>
-      <th> Intermediate</th>
-      <td>
-	       <p><a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a></p>
+      <td colspan="3">
         <ul>
-          <li> <a href="{{ '/curricula/developer-modules/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">Module 1: What is Web accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">Module 2: People and Digital Technology</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Module 3: Business Case and Benefits</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Module 4: Principles, Standards, and Checks</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Module 5: Getting Started with accessibility</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
+      <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+         <li> <a href="{{ '/curricula/developer-modules/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
           <li> <a href="{{ '/curricula/developer-modules/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
           <li> <a href="{{ '/curricula/developer-modules/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
           <li> <a href="{{ '/curricula/developer-modules/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
@@ -90,69 +90,66 @@ The table below shows ideas for future curricula. When completed, they will be l
       </td>
       <td>
         <ul>
-          <li> Use of Color</li>
-          <li> Typography</li>
-          <li> Orientation and Navigation</li>
-          <li> Instructions and Feedback</li>
-          <li> Widgets and Interaction</li>
-          <li> Testing Your Content</li>
+          <li> Navigation and Orientation </li>
+          <li> Layout and Structure </li>
+          <li>Colors, Fonts, and Graphics </li>
+          <li> Information Architecture </li>
+          <li> Forms, Instructions, and Feedback </li>
+          <li> Custom Widgets and Interaction</li>
+          <li> &hellip; </li>
         </ul>
       </td>
       <td>
         <ul>
           <li> Headings and Structure</li>
-          <li> Text Alternatives for Images</li>
-          <li> Alternatives for Media</li>
+          <li> Navigational Cues </li>
+          <li> Alternatives for Images, Graphics, and Multimedia </li>
           <li> Document accessibility </li>
           <li> Tables and Data Representation</li>
-          <li> Testing Your Content</li>
-        </ul>
-      </td>
-      <td rowspan="2">
-        <ul>
-          <li> accessibility Quick Check</li>
-          <li> Business Opportunities</li>
-          <li> Capacity and Capability</li>
-          <li> Tools and Processes</li>
-          <li> Policies and Procurement</li>
-        </ul>
-      </td>
-      <td rowspan="2">
-        <ul>
-          <li> Understanding Conformance</li>
-          <li> accessibility Testing Tools</li>
-          <li> Using Assistive Technologies</li>
-          <li> Prioritizing Issues and Repair</li>
-          <li> Maintaining accessibility</li>
+          <li> Form Instructions and Feedback </li>
+          <li> &hellip; </li>
         </ul>
       </td>
     </tr>
-    <tr>
-      <th> Advanced</th>
-      <td>
-        <ul>
-          <li> Mobile Applications</li>
-          <li> Transactions and Timing</li>
-          <li> Games accessibility </li>
-          <li> Immersive Environments</li>
-          <li> Testing Your Content</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li> Responsive accessibility</li>
-          <li> Pop-Ups and Dialogs</li>
-          <li> Multi-Page Processes</li>
-          <li> Testing Your Content</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li> SVG accessibility</li>
-          <li> MathML accessibility</li>
-          <li> Testing Your Content</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
 </table>
+
+## Structure and Terminology
+
+This resource consists of the four curricula described in the previous section. Each curriculum consists of:
+
+* Prerequisites &mdash; Competencies expected for students to have previously acquired
+* Modules &mdash; Designed to be taught and assessed in their entirety. Each module consists of:
+  * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
+  * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
+  * Topics to Teach &mdash; Recommended themes to be taught in any order. Each topic consists of:
+    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
+    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
+  * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+
+Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
+
+## Tips for Including Accessibility in Your Teaching
+
+While this resource is organized by modules based on roles in accessibility implementation, it is important to communicate in your teaching that carrying out accessibility-related tasks often require collaboration between several team roles. For example, creating an accessible form requires input from the content author, designer, and developer.
+
+It is equally important to understand and communicate accessibility requirements from the perspective of the user across the different tasks. For example, providing a coherent heading structure for a web page is not only an accessibility requirement. It often makes the difference for users to navigate and understand a web page.
+
+In addition to the advice embedded in the modules, the following overall practices will help you ensure effective courses, training, and certification programs on accessibility.
+
+### Involve People with Disabilities
+
+One of the most effective ways to learn and teach accessibility is by involving people with disabilities. This includes inviting people with disabilities to show how they use assistive technologies and adaptive strategies to interact on the Web, the accessibility features they rely on, and challenges they sometimes encounter. If you cannot invite people with disabilities, maybe you can find suitable videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. For guidance on working with people with disabilities, ethical considerations, and cautions, refer to [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
+
+### Communicate the Impact
+
+Often teachings focus too much on the *how* and insufficiently on the *why*. Yet understanding the motivations for accessibility is essential to ensuring solutions that are usable in practice. Good practice for courses, training, and certification programs is to ensure that students understand the impact of accessibility barriers and features on people with disabilities. This includes how the learning outcomes, the teaching methods, and knowledge assessments are designed. For example, students should not only know the different ways to provide text alternatives for images. They should also know in which situations each method is more appropriate from the perspective of the user.
+
+### Embrace Universal Design
+
+Avoid inadvertent prioritizing of one perceived group over another. The accessibility requirements for people with disabilities overlap without clear boundaries. For example, captions support people who are deaf and hard of hearing as well as people with some forms of cognitive and learning disabilities. Good practice for courses, training, and certification programs is ensure that students understand the concepts of universal design to create accessible and inclusive experiences for everyone. For guidance on cross-disability aspects, refer to [How people with disabilities use the Web](/people-use-web).
+
+### Make it Accessible
+
+Good practice is to ensure that courses, training, and certification programs are accessible. This includes all presentations, teaching materials, exercises, assessments, and other student interactions. For example, ensure that the online learning platform, the classroom, computer lab, or training venue are accessible. Ensure that, for example, captioning, sign-language interpretation, and large-print formats are provided when needed. Also ensure that instructors read aloud what is on the screen and describe any visual information through audio. For more guidance, refer to [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
