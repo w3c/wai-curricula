@@ -4,6 +4,7 @@ permalink: /curricula/acknowledgements/
 ref: /curricula/acknowledgements/
 lang: en
 nosidenav: true
+acknowledgements: /curricula/acknowledgements/
 footer: >
   <p><strong>Date:</strong> @@Date</p>
   <p><strong>Editors: </strong>Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
