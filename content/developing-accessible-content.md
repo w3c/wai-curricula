@@ -82,6 +82,6 @@ Basic HTML and CSS knowledge is also advised.
     -   Topic: Live Regions and Notifications
 -   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications)
     -   Topic: Structure and Relationship
-    -   Topic: State Changes
+    -   Topic: Document Objects Management
     -   Topic: Keyboard and Focus Interactions
     -   Topic: Updates and Notifications 
