@@ -250,8 +250,8 @@
         url: "/curricula/developer-modules/images-and-graphics/"
       - name: "Tabular Information"
         url: "/curricula/developer-modules/tabular-information/"
-      - name: "Forms and Input Elements"
-        url: "/curricula/developer-modules/forms-and-input-elements/"
+      - name: "Forms and Controls
+        url: "/curricula/developer-modules/forms-and-controls/"
       - name: "Custom Widgets"
         url: "/curricula/developer-modules/custom-widgets/"
       - name: "Rich Applications"
