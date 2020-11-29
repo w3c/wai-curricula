@@ -1,6 +1,6 @@
 ---
 title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
-title_html: "Curricula on Web Accessibility: <br><small>A Framework to Build Your Own Courses</small>"
+title_html: "Curricula on Web Accessibility: <br /><small>A Framework to Build Your Own Courses</small>"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -10,8 +10,8 @@ github:
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 footer: >
-  <p><strong>Date:</strong> First published 3 December 2019 </p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.  ACKNOWLEDGEMENTS lists contributors and credits.</p>
+  <p><strong>Date:</strong> $Date</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   next: /curricula/foundation-modules/
@@ -21,11 +21,15 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides a variety of teaching modules that you can combine to create different courses on web accessibility. For example, you can use these modules to include accessibility aspects in courses on digital technology more broadly as well as to create training specifically on digital accessibility. You can also use these modules to write procurement requirements and to compare courses, training, and certification programs. This resource includes the following parts:
+This resource provides a variety of teaching modules that you can combine to create different courses on web accessibility. For example, you can use these modules to include accessibility aspects in courses on digital technology more broadly as well as to create training specifically on digital accessibility.
+
+You can also use these modules to write procurement requirements and to compare courses, training, and certification programs.
+
+This resource includes the following parts:
 
 * [Foundation Modules](/curricula/foundation-modules) suitable for everybody in <abbr title="Information Technology">IT</abbr>
 * [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
-* Designer Modules (in progress) primarily related to visual and user-experience (UX) design)
+* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
 * Author Modules (in progress) primarily related to content publishing
 
 {::nomarkdown}
@@ -50,11 +54,11 @@ You can use this resource in a variety of situations. Some examples include:
 
 * **faculty lecturer** wants to teach computer science students about accessibility
 * **accessibility professional** wants to create training specifically on accessibility
-* **product owner** wants to compare the content offered by different course providers
+* **product owner** wants to compare course content offered by different providers
 * **procurer** wants to include specific requirements in a Request for Proposals (RFP)
 * **hiring manager** wants to compare competencies assessed for different certificates
 
-You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves the foundation, developer, and designer modules. On the other hand, assessing the accessibility knowledge of front-end developers will involve the foundation and developer modules. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
+You can combine different modules from the entire resource to create and compare courses, training, and certification programs. For example, teaching accessibility to computer science students likely involves a combination of foundation, developer, and designer modules. On the other hand, assessing the accessibility knowledge of front-end developers likely involves a combination of foundation and developer modules. This resource does not prescribe specific combinations and order of modules for different programs. It also does not prescribe the duration, effort, or accreditation associated with each. It provides a reference for the learning outcomes on a modular level.
 
 <table class="dense">
  <caption>Overview on Curricula Modules</caption>
@@ -131,13 +135,9 @@ This resource consists of the four curricula described in the previous section. 
 
 Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
 
-## Tips for Including Accessibility in Your Teaching
+## Tips on Teaching Accessibility
 
-While this resource is organized by modules based on roles in accessibility implementation, it is important to communicate in your teaching that carrying out accessibility-related tasks often require collaboration between several team roles. For example, creating an accessible form requires input from the content author, designer, and developer.
-
-It is equally important to understand and communicate accessibility requirements from the perspective of the user across the different tasks. For example, providing a coherent heading structure for a web page is not only an accessibility requirement. It often makes the difference for users to navigate and understand a web page.
-
-In addition to the advice embedded in the modules, the following overall practices will help you ensure effective courses, training, and certification programs on accessibility.
+The following tips will help you ensure effective courses, training, and certification programs on accessibility.
 
 ### Involve People with Disabilities
 
@@ -149,7 +149,11 @@ Often teachings focus too much on the *how* and insufficiently on the *why*. Yet
 
 ### Embrace Universal Design
 
-Avoid inadvertent prioritizing of one perceived group over another. The accessibility requirements for people with disabilities overlap without clear boundaries. For example, captions support people who are deaf and hard of hearing as well as people with some forms of cognitive and learning disabilities. Good practice for courses, training, and certification programs is ensure that students understand the concepts of universal design to create accessible and inclusive experiences for everyone. For guidance on cross-disability aspects, refer to [How people with disabilities use the Web](/people-use-web).
+Avoid inadvertent prioritizing of one perceived group of people over another. Accessibility requirements for people with different disabilities overlap without clear boundaries. For example, captions support people who are deaf and hard of hearing as well as people with some forms of cognitive and learning disabilities. Good practice for courses, training, and certification programs is ensure that students understand the concepts of universal design to create accessible and inclusive experiences for everyone. For guidance on cross-disability aspects, refer to [How people with disabilities use the Web](/people-use-web).
+
+### Explain Roles and Responsibilities
+
+Accessibility is the responsibility of everyone involved throughout the inception, planning, design, development, and on-going maintenance of websites and applications. Make sure that students understand the relationships between different roles involved, and the implications of this on different tasks. For example, creating an accessible form requires collaboration between the content author, designer, and developer, as well as resource allocation from the project manager. Even if you are teaching only one of these roles, make sure that students understand the scope of their responsibility in relation to others.
 
 ### Make it Accessible
 
