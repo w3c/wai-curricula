@@ -3,11 +3,14 @@ title: Acknowledgements - WAI Curricula
 permalink: /curricula/acknowledgements/
 ref: /curricula/acknowledgements/
 lang: en
+github:
+  repository: w3c/wai-curricula
+  path: content/acknowledgements.md
 nosidenav: true
 acknowledgements: /curricula/acknowledgements/
 footer: >
-  <p><strong>Date:</strong> @@Date</p>
-  <p><strong>Editors: </strong>Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+  <p><strong>Date:</strong> $Date</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 ---
 
