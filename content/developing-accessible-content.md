@@ -82,13 +82,11 @@ Knowledge of HTML and CSS is also expected.
     -   [Topic: Instructions](/curricula/developer-modules/forms-and-controls/#topic-instructions)
     -   [Topic: Notifications](/curricula/developer-modules/forms-and-controls/#topic-notifications)
 -   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/)
-    -   Topic: Semantics and Widget Roles
-    -   Topic: Accessible Names and Descriptions
-    -   Topic: States, Properties, and Values
-    -   Topic: Keyboard and Focus Management
-    -   Topic: Live Regions and Notifications
+    -   [Topic: Role Definitions](/curricula/developer-modules/custom-widgets/#topic-role-definitions)
+    -   [Topic: Accessible Names and Descriptions](/curricula/developer-modules/custom-widgets/#topic-accessible-names-and-descriptions)
+    -   [Topic: States and Properties](/curricula/developer-modules/custom-widgets/#topic-states-and-properties)
+    -   [Topic: Keyboard and Focus Management](/curricula/developer-modules/custom-widgets/#topic-keyboard-and-focus-management)
 -   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications)
-    -   Topic: Structure and Relationship
-    -   Topic: Document Objects Management
-    -   Topic: Keyboard and Focus Interactions
-    -   Topic: Updates and Notifications 
+    -   [Topic: Structure and Relationship](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
+    -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboad-and-focus-interactions)
+    -   [Topic: Concurrent Notifications](/curricula/developer-modules/rich-applications#topic-concurrent-notifications)
