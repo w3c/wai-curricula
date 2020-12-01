@@ -87,6 +87,6 @@ Knowledge of HTML and CSS is also expected.
     -   [Topic: States and Properties](/curricula/developer-modules/custom-widgets/#topic-states-and-properties)
     -   [Topic: Keyboard and Focus Management](/curricula/developer-modules/custom-widgets/#topic-keyboard-and-focus-management)
 -   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications)
-    -   [Topic: Structure and Relationship](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
+    -   [Topic: Structure and Relationships](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
     -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboad-and-focus-interactions)
     -   [Topic: Concurrent Notifications](/curricula/developer-modules/rich-applications#topic-concurrent-notifications)
