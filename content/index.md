@@ -85,7 +85,7 @@ You can combine different modules from the entire resource to create and compare
       <td>
         <ul>
          <li> <a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Module 1: Page Structure</a></li>
-          <li> <a href="{{ '/curricula/developer-modulespage-structure/menus/' | relative_url }}">Module 2: Menus</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Module 2: Menus</a></li>
           <li> <a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Module 3: Images</a></li>
           <li> <a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Module 4: Tables</a></li>
           <li> <a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Module 5: Forms</a></li>

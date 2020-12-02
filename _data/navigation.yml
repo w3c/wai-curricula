@@ -245,7 +245,7 @@
       - name: "Page Structure"
         url: "/curricula/developer-modules/page-structure/"
       - name: "Menus"
-        url: "/curricula/developer-modulespage-structure/menus/"
+        url: "/curricula/developer-modules/menus/"
       - name: "Images"
         url: "/curricula/developer-modules/images/"
       - name: "Tables"
