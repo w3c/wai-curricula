@@ -84,11 +84,11 @@ You can combine different modules from the entire resource to create and compare
     <tr>
       <td>
         <ul>
-         <li> <a href="{{ '/curricula/developer-modules/structure-and-semantics/' | relative_url }}">Module 1: Structure and Semantics</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/navigational-menus/' | relative_url }}">Module 2: Navigational Menus</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/images-and-graphics/' | relative_url }}">Module 3: Images and Graphics</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/tabular-information/' | relative_url }}">Module 4: Tabular Information</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/forms-and-controls/' | relative_url }}">Module 5: Forms and Controls</a></li>
+         <li> <a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Module 1: Page Structure</a></li>
+          <li> <a href="{{ '/curricula/developer-modulespage-structure/menus/' | relative_url }}">Module 2: Menus</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Module 3: Images</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Module 4: Tables</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Module 5: Forms</a></li>
           <li> <a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Module 6: Custom Widgets</a></li>
           <li> <a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Module 7: Rich Applications</a></li>
         </ul>

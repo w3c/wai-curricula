@@ -17,7 +17,7 @@ resource:
     - /curricula/
 navigation:
   previous: /curricula/foundation-modules/getting-started-with-accessibility/
-  next: /curricula/developer-modules/structure-and-semantics/
+  next: /curricula/developer-modules/page-structure/
 ---
 
 ## Introduction
@@ -32,9 +32,9 @@ This curriculum guides the creation of courses that:
 * explain accessible markup and coding techniques around:
   * page structure
   * navigation
-  * images and graphics
+  * images
   * tables
-  * forms and controls
+  * forms
   * custom widgets
   * rich applications
 
@@ -59,28 +59,28 @@ Knowledge of HTML and CSS is also expected.
 
 ## Modules in this Curriculum
 
--   [Module 1: Page Structure](/curricula/developer-modules/structure-and-semantics/)
-    -   [Topic: Section Headings](/curricula/developer-modules/structure-and-semantics/#topic-section-headings)
-    -   [Topic: Sections of Content](/curricula/developer-modules/structure-and-semantics/#topic-sections-of-content)
-    -   [Topic: Page Regions](/curricula/developer-modules/structure-and-semantics/#topic-page-regions)
-    -   [Topic: Page Composition](/curricula/developer-modules/structure-and-semantics/#topic-page-composition)
--   [Module 2: Menus](/curricula/developer-modules/navigational-menus/)
-    -   [Topic: Menu Structure](/curricula/developer-modules/navigational-menus/#topic-menu-structure)
-    -   [Topic: Menu Styling](/curricula/developer-modules/navigational-menus/#topic-menu-styling)
-    -   [Topic: Fly-out Menus](/curricula/developer-modules/navigational-menus/#topic-fly-out-menus)
-    -   [Topic: Application Menus](/curricula/developer-modules/navigational-menus/#topic-application-menus)
--   [Module 3: Images](/curricula/developer-modules/images-and-graphics/)
-    -   [Topic: Text Alternatives](/curricula/developer-modules/images-and-graphics/#topic-text-alternatives)
-    -   [Topic: Functional Images](/curricula/developer-modules/images-and-graphics/#topic-functional-images)
-    -   [Topic: Complex Images](/curricula/developer-modules/images-and-graphics/#topic-complex-images)
--   [Module 4: Tables](/curricula/developer-modules/tabular-information/)
-    -   [Topic: Simple Tables](/curricula/developer-modules/tabular-information/#topic-simple-tables)
-    -   [Topic: Complex Tables](/curricula/developer-modules/tabular-information/#topic-complex-tables)
-    -   [Topic: Table Descriptions](/curricula/developer-modules/tabular-information/#topic-table-descriptions)
--   [Module 5: Forms](/curricula/developer-modules/forms-and-controls/)
-    -   [Topic: Controls and Labels](/curricula/developer-modules/forms-and-controls/#topic-controls-and-labels)
-    -   [Topic: Instructions](/curricula/developer-modules/forms-and-controls/#topic-instructions)
-    -   [Topic: Notifications](/curricula/developer-modules/forms-and-controls/#topic-notifications)
+-   [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
+    -   [Topic: Section Headings](/curricula/developer-modules/page-structure/#topic-section-headings)
+    -   [Topic: Sections of Content](/curricula/developer-modules/page-structure/#topic-sections-of-content)
+    -   [Topic: Page Regions](/curricula/developer-modules/page-structure/#topic-page-regions)
+    -   [Topic: Page Composition](/curricula/developer-modules/page-structure/#topic-page-composition)
+-   [Module 2: Menus](/curricula/developer-modulespage-structure/menus/)
+    -   [Topic: Menu Structure](/curricula/developer-modulespage-structure/menus/#topic-menu-structure)
+    -   [Topic: Menu Styling](/curricula/developer-modulespage-structure/menus/#topic-menu-styling)
+    -   [Topic: Fly-out Menus](/curricula/developer-modulespage-structure/menus/#topic-fly-out-menus)
+    -   [Topic: Application Menus](/curricula/developer-modulespage-structure/menus/#topic-application-menus)
+-   [Module 3: Images](/curricula/developer-modules/images/)
+    -   [Topic: Text Alternatives](/curricula/developer-modules/images/#topic-text-alternatives)
+    -   [Topic: Functional Images](/curricula/developer-modules/images/#topic-functional-images)
+    -   [Topic: Complex Images](/curricula/developer-modules/images/#topic-complex-images)
+-   [Module 4: Tables](/curricula/developer-modules/tables/)
+    -   [Topic: Simple Tables](/curricula/developer-modules/tables/#topic-simple-tables)
+    -   [Topic: Complex Tables](/curricula/developer-modules/tables/#topic-complex-tables)
+    -   [Topic: Table Descriptions](/curricula/developer-modules/tables/#topic-table-descriptions)
+-   [Module 5: Forms](/curricula/developer-modules/forms/)
+    -   [Topic: Controls and Labels](/curricula/developer-modules/forms/#topic-controls-and-labels)
+    -   [Topic: Instructions](/curricula/developer-modules/forms/#topic-instructions)
+    -   [Topic: Notifications](/curricula/developer-modules/forms/#topic-notifications)
 -   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/)
     -   [Topic: Role Definitions](/curricula/developer-modules/custom-widgets/#topic-role-definitions)
     -   [Topic: Accessible Names and Descriptions](/curricula/developer-modules/custom-widgets/#topic-accessible-names-and-descriptions)
