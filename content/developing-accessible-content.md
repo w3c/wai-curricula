@@ -23,8 +23,8 @@ navigation:
 This curriculum guides the creation of courses that:
 
 * introduce key accessibility terms for developers
-* demonstrate how accessible coding enables people with disabilities to use the Web
-* explain accessible markup and coding techniques around:
+* demonstrate and explain how accessible coding enables people with disabilities to use the Web
+* teach accessible markup and coding techniques around:
   * page structure
   * navigation
   * images
