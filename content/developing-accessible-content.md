@@ -37,7 +37,7 @@ This curriculum guides the creation of courses that:
 
 ## Prerequisites for Students
 
-Students of courses based on this curriculum are expected to have achieved the following learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
+Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/foundation-modules/what-is-web-accessibility/)
   * Topic: "Stories of People with Disabilities"
