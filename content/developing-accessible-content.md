@@ -20,8 +20,6 @@ navigation:
 ## Introduction
 {:.no-display}
 
-The modules in this curriculum focus on accessible markup and coding techniques. They are primarily designed for teaching front-end developers.
-
 This curriculum guides the creation of courses that:
 
 * introduce key accessibility terms for developers
@@ -34,6 +32,8 @@ This curriculum guides the creation of courses that:
   * forms
   * custom widgets
   * rich applications
+
+The modules in this curriculum focus on accessible markup and coding techniques. They are primarily designed for teaching front-end developers.
 
 ## Prerequisites for Students
 
