@@ -56,7 +56,7 @@ Knowledge of HTML and CSS is also expected.
 
 ## Modules in this Curriculum
 
--   [Module 1: Page Structure](/curricula/developer-modules/page-structure/) -- explains coding techniques to convey the structure and semantics in accessible content and relates them to how people with disabilities use the Web
+-   [Module 1: Page Structure](/curricula/developer-modules/page-structure/) -- explains coding techniques to convey the structure and semantics in accessible content and relates those techniques to how people with disabilities use the Web
     -   [Topic: Section Headings](/curricula/developer-modules/page-structure/#topic-section-headings)
     -   [Topic: Sections of Content](/curricula/developer-modules/page-structure/#topic-sections-of-content)
     -   [Topic: Page Regions](/curricula/developer-modules/page-structure/#topic-page-regions)
