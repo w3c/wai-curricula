@@ -56,34 +56,34 @@ Knowledge of HTML and CSS is also expected.
 
 ## Modules in this Curriculum
 
--   [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
+-   [Module 1: Page Structure](/curricula/developer-modules/page-structure/) -- explains coding techniques to convey the structure and semantics in accessible content and relates them to how people with disabilities use the Web
     -   [Topic: Section Headings](/curricula/developer-modules/page-structure/#topic-section-headings)
     -   [Topic: Sections of Content](/curricula/developer-modules/page-structure/#topic-sections-of-content)
     -   [Topic: Page Regions](/curricula/developer-modules/page-structure/#topic-page-regions)
     -   [Topic: Page Composition](/curricula/developer-modules/page-structure/#topic-page-composition)
--   [Module 2: Menus](/curricula/developer-modules/menus/)
+-   [Module 2: Menus](/curricula/developer-modules/menus/) -- explains coding techniques to create accessible menus and relates them to how people with disabilities use the Web
     -   [Topic: Menu Structure](/curricula/developer-modules/menus/#topic-menu-structure)
     -   [Topic: Menu Styling](/curricula/developer-modules/menus/#topic-menu-styling)
     -   [Topic: Fly-out Menus](/curricula/developer-modules/menus/#topic-fly-out-menus)
     -   [Topic: Application Menus](/curricula/developer-modules/menus/#topic-application-menus)
--   [Module 3: Images](/curricula/developer-modules/images/)
+-   [Module 3: Images](/curricula/developer-modules/images/) -- explain coding techniques to provide text alternatives for images and relates them to how people with disabilities use the Web
     -   [Topic: Text Alternatives](/curricula/developer-modules/images/#topic-text-alternatives)
     -   [Topic: Functional Images](/curricula/developer-modules/images/#topic-functional-images)
     -   [Topic: Complex Images](/curricula/developer-modules/images/#topic-complex-images)
--   [Module 4: Tables](/curricula/developer-modules/tables/)
+-   [Module 4: Tables](/curricula/developer-modules/tables/) -- explain coding techniques to create accessible tables and relates them to how people with disabilities use the Web
     -   [Topic: Simple Tables](/curricula/developer-modules/tables/#topic-simple-tables)
     -   [Topic: Complex Tables](/curricula/developer-modules/tables/#topic-complex-tables)
     -   [Topic: Table Descriptions](/curricula/developer-modules/tables/#topic-table-descriptions)
--   [Module 5: Forms](/curricula/developer-modules/forms/)
+-   [Module 5: Forms](/curricula/developer-modules/forms/) -- explain coding techniques to create accessible forms and relates them to how people with disabilities use the Web
     -   [Topic: Controls and Labels](/curricula/developer-modules/forms/#topic-controls-and-labels)
     -   [Topic: Instructions](/curricula/developer-modules/forms/#topic-instructions)
     -   [Topic: Notifications](/curricula/developer-modules/forms/#topic-notifications)
--   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/)
+-   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/) -- explain coding techniques to create accessible custom widgets and relates them to how people with disabilities use the Web
     -   [Topic: Role Definitions](/curricula/developer-modules/custom-widgets/#topic-role-definitions)
     -   [Topic: Accessible Names and Descriptions](/curricula/developer-modules/custom-widgets/#topic-accessible-names-and-descriptions)
     -   [Topic: States and Properties](/curricula/developer-modules/custom-widgets/#topic-states-and-properties)
     -   [Topic: Keyboard and Focus Management](/curricula/developer-modules/custom-widgets/#topic-keyboard-and-focus-management)
--   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications)
+-   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications) -- explain coding techniques to create accessible rich applications and relates them to how people with disabilities use the Web
     -   [Topic: Structure and Relationships](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
-    -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboad-and-focus-interactions)
+    -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboard-and-focus-interactions)
     -   [Topic: Concurrent Notifications](/curricula/developer-modules/rich-applications#topic-concurrent-notifications)
