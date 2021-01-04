@@ -20,11 +20,11 @@ navigation:
 ## Introduction
 {:.no-display}
 
-This curriculum guides the creation of courses that:
+The developer modules guide the creation of courses that:
 
 * introduce key accessibility terms for developers
 * demonstrate and explain how accessible coding enables people with disabilities to use the Web
-* teach accessible markup and coding techniques around:
+* teach accessible markup and coding techniques for:
   * page structure
   * navigation
   * images
@@ -33,26 +33,26 @@ This curriculum guides the creation of courses that:
   * custom widgets
   * rich applications
 
-The modules in this curriculum focus on accessible markup and coding techniques. They are primarily designed for teaching front-end developers.
+These modules focus on accessible markup and coding techniques. They are primarily designed for teaching front-end developers.
 
 ## Prerequisites for Students
 
-Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
+The developer modules expect that students have achieved the learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/foundation-modules/what-is-web-accessibility/)
-  * Topic: "Stories of People with Disabilities"
-  * Topic: "Scope of Web Accessibility"
+  * Topic: Stories of People with Disabilities
+  * Topic: Scope of Web Accessibility
 * [Module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/)
-  * Topic: "Diverse Abilities, Tools, and Strategies"
-  * Topic: "Components of Web Accessibility"
+  * Topic: Diverse Abilities, Tools, and Strategies
+  * Topic: Components of Web Accessibility
 * [Module 4: Principles, Standards, and Checks](/curricula/foundation-modules/principles-standards-and-checks/)
-  * Topic: "Principles of Web Accessibility"
-  * Topic: "W3C Accessibility Standards"
-  * Topic: "Hands-on Experience of Standards"
+  * Topic: Principles of Web Accessibility
+  * Topic: W3C Accessibility Standards
+  * Topic: Hands-on Experience of Standards
 * [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/foundation-modules/getting-started-with-accessibility/)
-  * Topic: "Roles and Responsibilities"
+  * Topic: Roles and Responsibilities
 
-Knowledge of HTML and CSS is also expected.
+The developer modules also expect students' knowledge of HTML and CSS.
 
 ## Modules in this Curriculum
 
