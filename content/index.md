@@ -21,16 +21,9 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides outlines for a variety of teaching modules that you can combine to create different courses on web accessibility. For example, you can use these modules to include accessibility aspects in courses on digital technology more broadly as well as to create training specifically on digital accessibility.
+This resource provides outlines for a variety of teaching modules that you can combine to create different courses on web accessibility for different roles, such as developers, designers, and content authors.
 
-You can also use these modules to write procurement requirements and to compare courses, training, and certification programs.
-
-This resource includes the following parts:
-
-* [Foundation Modules](/curricula/foundation-modules) suitable for everybody in <abbr title="Information Technology">IT</abbr>
-* [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
-* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
-* Author Modules (in progress) primarily related to content publishing
+You can use these modules in a variety of situations. For example, to include accessibility aspects in courses on digital technology more broadly, to create training specifically on digital accessibility, to write procurement requirements, or to compare courses, training, and certification programs.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -49,6 +42,15 @@ This resource includes the following parts:
 {:/}
 
 ## Accessibility Curricula Overview
+
+This resource includes the following parts:
+
+* [Foundation Modules](/curricula/foundation-modules) suitable for everybody involved in digital technologies
+* [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
+* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
+* Author Modules (in progress) primarily related to content authoring
+
+## How to Use these Curricula
 
 You can use this resource in a variety of situations. Some examples include:
 
@@ -97,7 +99,7 @@ You can combine different modules from the entire resource to create and compare
         <ul>
           <li> Navigation and Orientation </li>
           <li> Layout and Structure </li>
-          <li>Colors, Fonts, and Graphics </li>
+          <li> Colors, Fonts, and Graphics </li>
           <li> Information Architecture </li>
           <li> Forms, Instructions, and Feedback </li>
           <li> Custom Widgets and Interaction</li>
