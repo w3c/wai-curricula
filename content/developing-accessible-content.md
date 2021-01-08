@@ -1,77 +1,89 @@
 ---
-title: "[Draft] Developing Accessible Content"
-permalink: /curricula/developing-accessible-content/
-ref: /curricula/developing-accessible-content/
+title: "[Draft] Developer Modules"
+permalink: /curricula/developer-modules/
+ref: /curricula/developer-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
   path: content/developing-accessible-content.md
 license: creative-commons
+acknowledgements: /curricula/acknowledgements/
 footer: >
   <p><strong>Date:</strong> $Date</p>
-  <p><strong>Editors: </strong>Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
-  next: /curricula/developing-accessible-content/structure-and-semantics/
+  previous: /curricula/foundation-modules/getting-started-with-accessibility/
+  next: /curricula/developer-modules/page-structure/
 ---
 
 ## Introduction
 {:.no-display}
 
-This curriculum focuses on markup and coding techniques. It is primarily designed for teaching front-end developers. It can be combined with other curricula for teaching designers, content authors, and other roles.
+The developer modules guide the creation of courses that:
 
-This curriculum results in courses that:
-
-* explain key terms from the perspective of developers
-* demonstrate how accessible coding improves use of the Web by people with disabilities
-* provide markup and coding techniques around:
+* introduce key accessibility terms for developers
+* demonstrate and explain how accessible coding enables people with disabilities to use the Web
+* teach accessible markup and coding techniques for:
   * page structure
   * navigation
-  * images and graphics
+  * images
   * tables
   * forms
   * custom widgets
+  * rich applications
+
+These modules focus on accessible markup and coding techniques. They are primarily designed for teaching front-end developers.
 
 ## Prerequisites for Students
 
-Students of courses based on this curriculum are expected to have achieved the learning outcomes from the prior curriculum [Introduction to Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/):
+The developer modules expect that students have achieved the learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
 
-* [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/what-is-web-accessibility/) &mdash; Topics "Stories of People with Disabilities" and "Scope of Web Accessibility"
-* [Module 2: People and Digital Technology](/curricula/introduction-to-web-accessibility/people-and-digital-technology/) &mdash; Topics "Diverse Abilities, Tools, and Strategies" and "Components of Web Accessibility"
-* [Module 4: Principles, Standards, and Checks](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/) &mdash; Topics "Principles of Web Accessibility", "W3C Accessibility Standards", and "Hands-on Experience of Standards"
-* [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/) &mdash; Topic "Roles and Responsibilities"
+* [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/foundation-modules/what-is-web-accessibility/)
+  * Topic: Stories of People with Disabilities
+  * Topic: Scope of Web Accessibility
+* [Module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/)
+  * Topic: Diverse Abilities, Tools, and Strategies
+  * Topic: Components of Web Accessibility
+* [Module 4: Principles, Standards, and Checks](/curricula/foundation-modules/principles-standards-and-checks/)
+  * Topic: Principles of Web Accessibility
+  * Topic: W3C Accessibility Standards
+  * Topic: Hands-on Experience of Standards
+* [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/foundation-modules/getting-started-with-accessibility/)
+  * Topic: Roles and Responsibilities
 
-Basic HTML and CSS knowledge is also advised.
+The developer modules also expect students' knowledge of HTML and CSS.
 
 ## Modules in this Curriculum
 
--   [Module 1: Structure and Semantics](/curricula/developing-accessible-content/structure-and-semantics/)
-    -   Topic: Section Headings
-    -   Topic: Sections of Content
-    -   Topic: Page Regions
-    -   Topic: Page Structure
--   [Module 2: Navigational Menus](/curricula/developing-accessible-content/navigational-menus/)
-    -   Topic: Menu Structure
-    -   Topic: Menu Styling
-    -   Topic: Fly-out Menus
-    -   Topic: Application Menus
--   [Module 3: Images and Graphics](/curricula/developing-accessible-content/images-and-graphics/)
-    -   Topic: Simple Images
-    -   Topic: Functional Images
-    -   Topic: Complex Images
--   [Module 4: Tabular Information](/curricula/developing-accessible-content/tabular-information/)
-    -   Topic: Simple Tables
-    -   Topic: Complex Tables
-    -   Topic: Table Summaries and Descriptions
--   [Module 5: Forms and Input Elements](/curricula/developing-accessible-content/forms-and-input-elements/)
-    -   Topic: Form Labels
-    -   Topic: Form Instructions
-    -   Topic: Time Limits
-    -   Topic: Validation and Notifications
--   [Module 6: Custom Widgets](/curricula/developing-accessible-content/custom-widgets/)
-    -   Topic: Semantics and Widget Roles
-    -   Topic: Accessible Names and Descriptions
-    -   Topic: States, Properties, and Values
-    -   Topic: Keyboard and Focus Management
-    -   Topic: Live Regions and Notifications
+-   [Module 1: Page Structure](/curricula/developer-modules/page-structure/) -- explains coding techniques to convey the structure and semantics in accessible content and relates those techniques to how people with disabilities use the Web
+    -   [Topic: Section Headings](/curricula/developer-modules/page-structure/#topic-section-headings)
+    -   [Topic: Sections of Content](/curricula/developer-modules/page-structure/#topic-sections-of-content)
+    -   [Topic: Page Regions](/curricula/developer-modules/page-structure/#topic-page-regions)
+    -   [Topic: Page Composition](/curricula/developer-modules/page-structure/#topic-page-composition)
+-   [Module 2: Menus](/curricula/developer-modules/menus/) -- explains coding techniques to create accessible menus and relates them to how people with disabilities use the Web
+    -   [Topic: Menu Structure](/curricula/developer-modules/menus/#topic-menu-structure)
+    -   [Topic: Menu Styling](/curricula/developer-modules/menus/#topic-menu-styling)
+    -   [Topic: Fly-out Menus](/curricula/developer-modules/menus/#topic-fly-out-menus)
+    -   [Topic: Application Menus](/curricula/developer-modules/menus/#topic-application-menus)
+-   [Module 3: Images](/curricula/developer-modules/images/) -- explain coding techniques to provide text alternatives for images and relates them to how people with disabilities use the Web
+    -   [Topic: Text Alternatives](/curricula/developer-modules/images/#topic-text-alternatives)
+    -   [Topic: Functional Images](/curricula/developer-modules/images/#topic-functional-images)
+    -   [Topic: Complex Images](/curricula/developer-modules/images/#topic-complex-images)
+-   [Module 4: Tables](/curricula/developer-modules/tables/) -- explain coding techniques to create accessible tables and relates them to how people with disabilities use the Web
+    -   [Topic: Simple Tables](/curricula/developer-modules/tables/#topic-simple-tables)
+    -   [Topic: Complex Tables](/curricula/developer-modules/tables/#topic-complex-tables)
+    -   [Topic: Table Descriptions](/curricula/developer-modules/tables/#topic-table-descriptions)
+-   [Module 5: Forms](/curricula/developer-modules/forms/) -- explain coding techniques to create accessible forms and relates them to how people with disabilities use the Web
+    -   [Topic: Controls and Labels](/curricula/developer-modules/forms/#topic-controls-and-labels)
+    -   [Topic: Instructions](/curricula/developer-modules/forms/#topic-instructions)
+    -   [Topic: Notifications](/curricula/developer-modules/forms/#topic-notifications)
+-   [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/) -- explain coding techniques to create accessible custom widgets and relates them to how people with disabilities use the Web
+    -   [Topic: Role Definitions](/curricula/developer-modules/custom-widgets/#topic-role-definitions)
+    -   [Topic: Accessible Names and Descriptions](/curricula/developer-modules/custom-widgets/#topic-accessible-names-and-descriptions)
+    -   [Topic: States and Properties](/curricula/developer-modules/custom-widgets/#topic-states-and-properties)
+    -   [Topic: Keyboard and Focus Management](/curricula/developer-modules/custom-widgets/#topic-keyboard-and-focus-management)
+-   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications) -- explain coding techniques to create accessible rich applications and relates them to how people with disabilities use the Web
+    -   [Topic: Structure and Relationships](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
+    -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboard-and-focus-interactions)
+    -   [Topic: Concurrent Notifications](/curricula/developer-modules/rich-applications#topic-concurrent-notifications)
