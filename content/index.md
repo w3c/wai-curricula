@@ -21,14 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides outlines for a variety of teaching modules to create courses on web accessibility or to include web accessibility in broader digital technology training. These modules address different roles, such as developers, designers, and content authors.
-
-This resource includes the following parts:
-
-* [Foundation Modules](/curricula/foundation-modules) suitable for everybody involved in digital technologies
-* [Developer Modules](/curricula/developer-modules/) primarily related to front-end development
-* Designer Modules (in progress) primarily related to visual and user-experience (UX) design
-* Author Modules (in progress) primarily related to content authoring
+This resource provides a variety of modules to help you create courses on digital accessibility. You can also use these modules to include accessibility in courses on digital technology. These modules address different roles, such as developers, designers, and content authors.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -49,7 +42,7 @@ This resource includes the following parts:
 ## Overview
 
 <table class="dense">
- <caption>Available Materials and Future Plans</caption>
+ <caption>Available and Upcoming Modules</caption>
     <tr>
       <th colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </th>
     </tr>
