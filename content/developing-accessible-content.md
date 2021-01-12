@@ -25,8 +25,8 @@ The developer modules guide the creation of courses that:
 * introduce key accessibility terms for developers
 * demonstrate and explain how accessible coding enables people with disabilities to use the Web
 * teach accessible markup and coding techniques for:
-  * page structure
-  * navigation
+  * page structure, orientation, and navigation
+  * menus
   * images
   * tables
   * forms
@@ -37,7 +37,7 @@ These modules focus on accessible markup and coding techniques. They are primari
 
 ## Prerequisites for Students
 
-The developer modules expect that students have achieved the learning outcomes from the prior [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
+The developer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](https://www.w3.org/WAI/curricula/foundation-modules/what-is-web-accessibility/)
   * Topic: Stories of People with Disabilities
@@ -52,7 +52,7 @@ The developer modules expect that students have achieved the learning outcomes f
 * [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
-The developer modules also expect students' knowledge of HTML and CSS.
+In addition, students' should have knowledge of HTML and CSS.
 
 ## Modules in this Curriculum
 
