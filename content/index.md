@@ -122,16 +122,16 @@ This resource is designed for a wide range of situations. For example:
 
 Each part of this curricula (Foundation, Developer, Designer, Author) has:
 
-* Prerequisites &mdash; Competencies expected for students to have previously acquired.
-* Modules &mdash; Designed to be taught and assessed in their entirety.<br>Each module consists of:
-  * Learning Outcomes for Module &mdash; What students will learn and should be able to demonstrate.
-  * Competencies &mdash; Skills required for students and instructors to teach the curriculum.
-  * Topics to Teach &mdash; Recommended themes, to be taught in any order.<br>Each topic consists of:
-    * Learning Outcomes for Topic &mdash; Detailed description of what students will learn and should be able to demonstrate.
-    * Teaching Ideas for Topic &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-    * Ideas to assess knowledge for Topic &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
-  * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
-  * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
+* **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
+* **Modules** &mdash; Designed to be taught and assessed in their entirety.<br>Each module consists of:
+  * **Learning Outcomes for Module** &mdash; What students will learn and should be able to demonstrate.
+  * **Competencies** &mdash; Skills required for students and instructors to teach the curriculum.
+  * **Topics to Teach** &mdash; Recommended themes, to be taught in any order.<br>Each topic consists of:
+    * **Learning Outcomes for Topic** &mdash; Detailed description of what students will learn and should be able to demonstrate.
+    * **Teaching Ideas for Topic** &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
+    * **Ideas to assess knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+  * **Ideas to Assess Knowledge for Module** &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
+  * **Teaching Resources** &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
 Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How People with Disabilities Use the Web](/people-use-web).
 
