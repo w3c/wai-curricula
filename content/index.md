@@ -71,35 +71,35 @@ This resource includes modules that cover accessibility foundations that apply b
     <tr>
       <td>
         <ul>
-         <li> <a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Forms</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Custom Widgets</a></li>
-          <li> <a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Rich Applications</a></li>
+         <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
+          <li><a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
+          <li><a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
+          <li><a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
+          <li><a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Forms</a></li>
+          <li><a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Custom Widgets</a></li>
+          <li><a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Rich Applications</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li> Navigation and Orientation </li>
-          <li> Layout and Structure </li>
-          <li> Colors, Fonts, and Graphics </li>
-          <li> Information Architecture </li>
-          <li> Forms, Instructions, and Feedback </li>
-          <li> Custom Widgets and Interaction</li>
-          <li> &hellip; </li>
+          <li>Navigation and Orientation </li>
+          <li>Layout and Structure </li>
+          <li>Colors, Fonts, and Graphics </li>
+          <li>Information Architecture </li>
+          <li>Forms, Instructions, and Feedback </li>
+          <li>Custom Widgets and Interaction</li>
+          <li>&hellip; </li>
         </ul>
       </td>
       <td>
         <ul>
-          <li> Headings and Structure</li>
-          <li> Navigational Cues </li>
-          <li> Alternatives for Images, Graphics, and Multimedia </li>
-          <li> Document accessibility </li>
-          <li> Tables and Data Representation</li>
-          <li> Form Instructions and Feedback </li>
-          <li> &hellip; </li>
+          <li>Headings and Structure</li>
+          <li>Navigational Cues </li>
+          <li>Alternatives for Images, Graphics, and Multimedia </li>
+          <li>Document accessibility </li>
+          <li>Tables and Data Representation</li>
+          <li>Form Instructions and Feedback </li>
+          <li>&hellip; </li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,9 @@ This resource includes modules that cover accessibility foundations that apply b
 
 ## How to Use This Resource
 
-This resource is designed for you to use in a wide range of situations. For example:
+This resource is designed as a framework for instructors to build their own courses; or, for evaluating courses. It provides guidance and encourages customization based on specific situations. It suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation. 
+
+This resource is designed for a wide range of situations. For example:
 
 * **faculty lecturer** &mdash; to teach computer science students about accessibility
 * **accessibility professional** &mdash; to create a series of digital accessibility training courses
@@ -115,7 +117,6 @@ This resource is designed for you to use in a wide range of situations. For exam
 * **procurer** &mdash; to include requirements in a training Request for Proposals (RFP)
 * **hiring manager** &mdash; to compare competencies assessed for different certificates
 
-This resource provides guidance and encourages customization based on your situation. It suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation. 
 
 ## Structure and Terminology
 
@@ -132,9 +133,9 @@ Each part of this curricula (Foundation, Developer, Designer, Author) has:
   * Ideas to Assess Knowledge for Module &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * Teaching Resources &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
-Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How people with disabilities use the Web](/people-use-web).
+Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How People with Disabilities Use the Web](/people-use-web).
 
-## Tips for Accessibility Courses
+## Tips
 
 The following tips help you provide more effective courses, training, and certification programs on accessibility:
 * **Involve people with disabilities** &mdash; Involve people with disabilities in courses so that students get perspectives from real people on the  impact of accessibility barriers and accessibility features. Invite people with disabilities to show how they use assistive technologies and adaptive strategies, the accessibility features they rely on, and barriers they encounter. If you cannot invite people with disabilities, consider using videos instead. {@@ see comments in “conversation”}<s>Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings.</s> For guidance on working with people with disabilities, ethical considerations, and cautions, see [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
@@ -146,4 +147,5 @@ The following tips help you provide more effective courses, training, and certif
    * the online learning platform, the classroom, computer lab, and training venue are accessible
    * captions, sign-language, and large-print is provided when needed
    * instructors describe visual information, including text on the screen
+
 For specific guidance, see [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
