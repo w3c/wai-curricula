@@ -41,9 +41,11 @@ This resource provides teaching modules to help create courses on digital access
 
 ## Overview
 
-This curriculum provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop robust digital accessibility courses. You can use it to include shorter accessibility topics in other courses, such as programming or graphics design.
-This curriculum includes modules that cover accessibility foundations that apply broadly, and modules specific for developers, designers, and content authors.
-The Foundation and Developing modules are available now. The Designer and Author modules will be available in 2021.
+This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop robust digital accessibility courses. You can use it to include shorter accessibility topics in other courses, such as programming or graphics design.
+
+You can also use this resource to evaluate existing or proposed courses.
+
+This resource includes modules that cover accessibility foundations that apply broadly, and modules specific for developers, designers, and content authors. The Foundation and Developing modules are available now. The Designer and Author modules will be available in 2021.
 
 <table class="dense">
  <caption>Curricula Modules</caption>
@@ -63,41 +65,41 @@ The Foundation and Developing modules are available now. The Designer and Author
     </tr>
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
-      <th>Designer Modules (<abbr title="To be Developed">TBD</abbr>)</th>
-      <th>Author Modules (<abbr title="To be Developed">TBD</abbr>)</th>
+      <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
     </tr>
     <tr>
       <td>
         <ul>
-         <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
-          <li><a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
-          <li><a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
-          <li><a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
-          <li><a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Forms</a></li>
-          <li><a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Custom Widgets</a></li>
-          <li><a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Rich Applications</a></li>
+         <li> <a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/forms/' | relative_url }}">Forms</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/custom-widgets/' | relative_url }}">Custom Widgets</a></li>
+          <li> <a href="{{ '/curricula/developer-modules/rich-applications/' | relative_url }}">Rich Applications</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Navigation and Orientation<li>
-          <li>Layout and Structure<li>
-          <li>Colors, Fonts, and Graphics<li>
-          <li>Information Architecture<li>
-          <li>Forms, Instructions, and Feedback<li>
-          <li>Custom Widgets and Interaction</li>
-          <li>&hellip;<li>
+          <li> Navigation and Orientation </li>
+          <li> Layout and Structure </li>
+          <li> Colors, Fonts, and Graphics </li>
+          <li> Information Architecture </li>
+          <li> Forms, Instructions, and Feedback </li>
+          <li> Custom Widgets and Interaction</li>
+          <li> &hellip; </li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Headings and Structure</li>
-          <li>Navigational Cues<li>
-          <li>Alternatives for Images, Graphics, and Multimedia<li>
-          <li>Document accessibility<li>
-          <li>Tables and Data Representation</li>
-          <li>Form Instructions and Feedback<li>
-          <li>&hellip;<li>
+          <li> Headings and Structure</li>
+          <li> Navigational Cues </li>
+          <li> Alternatives for Images, Graphics, and Multimedia </li>
+          <li> Document accessibility </li>
+          <li> Tables and Data Representation</li>
+          <li> Form Instructions and Feedback </li>
+          <li> &hellip; </li>
         </ul>
       </td>
     </tr>
