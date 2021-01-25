@@ -107,7 +107,7 @@ This resource includes modules that cover accessibility foundations that apply b
 
 ## How to Use This Resource
 
-This resource is designed as a framework for instructors to build their own courses; or, for evaluating courses. It provides guidance and encourages customization based on specific situations. It suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation. 
+This resource is designed as a framework for instructors to build their own courses; or, for evaluating courses. It provides guidance and encourages customization based on specific situations. For example, teaching accessibility to computer science students could involve foundation, developer, and designer modules. Assessing the accessibility knowledge of front-end developers could involve foundation and developer modules. This resource suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation.
 
 This resource is designed for a wide range of situations. For example:
 
