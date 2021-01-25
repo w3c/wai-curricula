@@ -10,7 +10,7 @@ github:
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 footer: >
-  <p><strong>Date:</strong> $Date</p>
+  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility sections in other courses. These modules cover accessibility foundations that apply broadly, and specifics for development, designing, and content authoring.
+This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility sections in other courses. These modules cover accessibility foundations that apply broadly, and specifics on developing, designing, and content authoring.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -45,7 +45,7 @@ This curricula resource provides material for teaching accessibility, and for re
 
 You can also use this resource to evaluate existing or proposed courses.
 
-This resource includes modules that cover accessibility foundations that apply broadly, and modules specific for developers, designers, and content authors. The Foundation and Developing modules are available now. The Designer and Author modules will be available in 2021.
+This resource includes modules that cover accessibility foundations that apply broadly, and modules specific to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
 
 <table class="dense">
  <caption>Curricula Modules</caption>
