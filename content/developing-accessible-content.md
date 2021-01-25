@@ -52,7 +52,7 @@ The developer modules are designed for students who have achieved the learning o
 * [Module 5: Getting Started with Accessibility](https://www.w3.org/WAI/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
-In addition, students' should have knowledge of HTML and CSS.
+In addition, students should have knowledge of HTML and CSS.
 
 ## Modules in this Curriculum
 
