@@ -123,10 +123,12 @@ This resource is designed for a wide range of situations. For example:
 Each part of this curricula (Foundation, Developer, Designer, Author) has:
 
 * **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
-* **Modules** &mdash; Designed to be taught and assessed in their entirety.<br>Each module consists of:
+* **Modules** &mdash; Designed to be taught and assessed in their entirety.  
+Each module consists of:
   * **Learning Outcomes for Module** &mdash; What students will learn and should be able to demonstrate.
   * **Competencies** &mdash; Skills required for students and instructors to teach the curriculum.
-  * **Topics to Teach** &mdash; Recommended themes, to be taught in any order.<br>Each topic consists of:
+  * **Topics to Teach** &mdash; Recommended themes, to be taught in any order.  
+  Each topic consists of:
     * **Learning Outcomes for Topic** &mdash; Detailed description of what students will learn and should be able to demonstrate.
     * **Teaching Ideas for Topic** &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
     * **Ideas to assess knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
@@ -148,4 +150,4 @@ The following tips help you provide more effective courses, training, and certif
    * captions, sign-language, and large-print is provided when needed
    * instructors describe visual information, including text on the screen
 
-For specific guidance, see [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+   For specific guidance, see [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
