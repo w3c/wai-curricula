@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility sections in other courses. These modules cover accessibility foundations that apply broadly, and specifics on developing, designing, and content authoring.
+This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility in other courses. These modules cover foundations that apply broadly, and specifics on developing, designing, and content authoring.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -41,11 +41,11 @@ This resource provides teaching modules to help create courses on digital access
 
 ## Overview
 
-This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop robust digital accessibility courses. You can use it to include shorter accessibility topics in other courses, such as programming or graphics design.
+This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop digital accessibility courses. You can use it to include accessibility topics in other courses, such as programming or graphics design.
 
 You can also use this resource to evaluate existing or proposed courses.
 
-This resource includes modules that cover accessibility foundations that apply broadly, and modules specific to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
+This resource includes foundation modules that apply broadly, and modules specific to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
 
 <table class="dense">
  <caption>Curricula Modules</caption>
