@@ -54,7 +54,7 @@ The developer modules are designed for students who have achieved the learning o
 
 In addition, students should have knowledge of HTML and CSS.
 
-## Modules in this Curriculum
+## Modules
 
 -   [Module 1: Page Structure](/curricula/developer-modules/page-structure/) -- Explains coding techniques to convey the structure and semantics in accessible content and relates those techniques to how people with disabilities use the Web
     -   [Topic: Section Headings](/curricula/developer-modules/page-structure/#topic-section-headings)
