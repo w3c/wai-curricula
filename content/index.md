@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility sections in other courses. These modules cover accessibility foundations that apply broadly, and specifics on developing, designing, and content authoring.
+This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility content in other courses. These modules cover foundations that apply broadly, and specifics on developing, designing, and content authoring.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -39,13 +39,21 @@ This resource provides teaching modules to help create courses on digital access
 {% include toc.html type="end" %}
 {:/}
 
-## Overview
+## Gist
 
-This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop robust digital accessibility courses. You can use it to include shorter accessibility topics in other courses, such as programming or graphics design.
+This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop in-depth digital accessibility courses. You can use it to include accessibility topics in other courses, such as programming or graphics design.
 
-You can also use this resource to evaluate existing or proposed courses.
+You can also use this resource to evaluate existing or proposed courses. The curricula suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation.
 
-This resource includes modules that cover accessibility foundations that apply broadly, and modules specific to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
+This resource includes modules that cover accessibility foundations that apply broadly, and modules that cover accessibility specifics to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
+
+This resource is designed for a wide range of situations. For example:
+
+* **faculty lecturer** &mdash; to teach computer science students about accessibility
+* **accessibility professional** &mdash; to create a series of digital accessibility training courses
+* **employee training coordinator** &mdash; to compare course content offered by different providers
+* **procurer** &mdash; to include requirements in a training Request for Proposals (RFP)
+* **hiring manager** &mdash; to compare competencies assessed for different certificates
 
 <table class="dense">
  <caption>Curricula Modules</caption>
@@ -104,19 +112,6 @@ This resource includes modules that cover accessibility foundations that apply b
       </td>
     </tr>
 </table>
-
-## How to Use This Resource
-
-This resource is designed as a framework for instructors to build their own courses; or, for evaluating courses. It provides guidance and encourages customization based on specific situations. For example, teaching accessibility to computer science students could involve foundation, developer, and designer modules. Assessing the accessibility knowledge of front-end developers could involve foundation and developer modules. This resource suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation.
-
-This resource is designed for a wide range of situations. For example:
-
-* **faculty lecturer** &mdash; to teach computer science students about accessibility
-* **accessibility professional** &mdash; to create a series of digital accessibility training courses
-* **employee training coordinator** &mdash; to compare course content offered by different providers
-* **procurer** &mdash; to include requirements in a training Request for Proposals (RFP)
-* **hiring manager** &mdash; to compare competencies assessed for different certificates
-
 
 ## Structure and Terminology
 
