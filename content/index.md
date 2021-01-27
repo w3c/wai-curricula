@@ -49,11 +49,11 @@ This resource includes modules that cover accessibility foundations that apply b
 
 This resource is designed for a wide range of situations. For example:
 
-* **faculty lecturer** &mdash; to teach computer science students about accessibility
-* **accessibility professional** &mdash; to create a series of digital accessibility training courses
-* **employee training coordinator** &mdash; to compare course content offered by different providers
-* **procurer** &mdash; to include requirements in a training Request for Proposals (RFP)
-* **hiring manager** &mdash; to compare competencies assessed for different certificates
+* **faculty lecturer** &mdash; selects pieces from the Foundation, Developer, and Designer modules to teach computer science students about accessibility
+* **accessibility professional** &mdash; selects pieces from the Foundation, Developer, Designer, and Author modules to create a series of digital accessibility training courses
+* **employee training coordinator** &mdash; reviews the curricula to compare course content offered by different providers
+* **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on curricula contents
+* **hiring manager** &mdash; reviews the curricula to compare competencies assessed for different certificates
 
 <table class="dense">
  <caption>Curricula Modules</caption>
