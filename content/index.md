@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility content in other courses. These modules cover foundations that apply broadly, and specifics on developing, designing, and content authoring.
+This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility content in other courses. These modules cover accessibility foundations that apply broadly, and accessibility specifics on developing, designing, and content authoring.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -139,6 +139,7 @@ The following tips help you provide more effective courses, training, and certif
 * **Include the reasons for accessibility features** &mdash; Include the *why*, not just the *how*. For example, students should know why to provide alternative text, not just how to. When students understand the reasons behind accessibility features and how people with disabilities use them, then students can implement more effective accessibility.
 * **Cover all disabilities** &mdash; Avoid inadvertently prioritizing some types of disabilities over others. For guidance on cross-disability aspects, see [How People with Disabilities Use the Web](/people-use-web).
 * **Explain roles and responsibilities** &mdash; Ensure that students understand the relationships between different roles (for example, developer, designer, writer), and the implications on different tasks.
+* **Approach accessibility holistically** &mdash; Help students understand how accessibility can be part of the overall organization strategy to favor diversity and to promote inclusion. When organizations embrace accessibility as one of their core values, it is much more feasible to sustain accessibility throughout the design and development processes.
 * **Make it accessible** &mdash; Ensure that the course itself is accessible. For example:
    * all presentations, teaching materials, exercises, assessments, and other student interactions are accessible
    * the online learning platform, the classroom, computer lab, and training venue are accessible
