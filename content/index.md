@@ -21,7 +21,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help create courses on digital accessibility, or to include accessibility content in other courses. These modules cover accessibility foundations that apply broadly, and accessibility specifics on developing, designing, and content authoring.
+This resource provides teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, content authors, and others.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -39,21 +39,27 @@ This resource provides teaching modules to help create courses on digital access
 {% include toc.html type="end" %}
 {:/}
 
-## Gist
+## Overview
 
-This curricula resource provides material for teaching accessibility, and for reviewing accessibility courses. You can use it to develop in-depth digital accessibility courses. You can use it to include accessibility topics in other courses, such as programming or graphics design.
+This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
 
-You can also use this resource to evaluate existing or proposed courses. The curricula suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation.
+You can also use this resource to review existing or proposed courses.
 
-This resource includes modules that cover accessibility foundations that apply broadly, and modules that cover accessibility specifics to developing, designing, and content authoring. The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
+Some example uses of this resource include:
 
-This resource is designed for a wide range of situations. For example:
+* **faculty lecturer** &mdash; selects topics from the Foundation, Developer, and Designer modules to teach computer science students about accessibility
+* **accessibility professional** &mdash; selects topics from the Foundation, Developer, Designer, and Author modules to create accessibility training courses
+* **employee training coordinator** &mdash; compares the course content offered by different providers based on the modules provided in this resource
+* **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
+* **hiring manager** &mdash; compares the competencies assessed for different certificates based on the modules provided in this resource
 
-* **faculty lecturer** &mdash; selects pieces from the Foundation, Developer, and Designer modules to teach computer science students about accessibility
-* **accessibility professional** &mdash; selects pieces from the Foundation, Developer, Designer, and Author modules to create a series of digital accessibility training courses
-* **employee training coordinator** &mdash; reviews the curricula to compare course content offered by different providers
-* **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on curricula contents
-* **hiring manager** &mdash; reviews the curricula to compare competencies assessed for different certificates
+This resource is organized in granular modules that you can combine to create light-weight or in-depth training on accessibility. It does not prescribe duration, effort, or accreditation.
+
+## Contents
+
+This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing, designing, and authoring accessible digital content.
+
+The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
 
 <table class="dense">
  <caption>Curricula Modules</caption>
@@ -135,14 +141,14 @@ Terminology specifically related to people with disabilities, assistive technolo
 ## Tips
 
 The following tips help you provide more effective courses, training, and certification programs on accessibility:
-* **Involve people with disabilities** &mdash; Involve people with disabilities in courses so that students get perspectives from real people on the  impact of accessibility barriers and accessibility features. Invite people with disabilities to show how they use assistive technologies and adaptive strategies, the accessibility features they rely on, and barriers they encounter. If you cannot invite people with disabilities, consider using videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. For guidance on working with people with disabilities, ethical considerations, and cautions, see [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
-* **Include the reasons for accessibility features** &mdash; Include the *why*, not just the *how*. For example, students should know why to provide alternative text, not just how to. When students understand the reasons behind accessibility features and how people with disabilities use them, then students can implement more effective accessibility.
-* **Cover all disabilities** &mdash; Avoid inadvertently prioritizing some types of disabilities over others. For guidance on cross-disability aspects, see [How People with Disabilities Use the Web](/people-use-web).
-* **Approach accessibility holistically** &mdash; Explain that the goal is not just to pass a checklist; the goal is to improve the user experience of people with disabilities. Help students understand the broad benefits of accessibility, including for users without disabilities. For examples, see [Media, User Experiences and Benefits to Organizations](/media/av/users-orgs/) and [Web Accessibility Perspectives Videos](/perspective-videos/). Explain how accessibility is related to usability and inclusive design. See [Accessibility, Usability, and Inclusion](/fundamentals/accessibility-usability-inclusion/).
+* **Involve people with disabilities** &mdash; Involve people with disabilities in your courses so that students get perspectives from real people on the impact of accessibility barriers and accessibility features. Invite people with disabilities to show how they use assistive technologies and adaptive strategies, the accessibility features they rely on, and barriers they encounter. If you cannot invite people with disabilities, consider using videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. For guidance on working with people with disabilities, ethical considerations, and cautions, see [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
+* **Include the reasons for accessibility features** &mdash; Include the *why*, not just the *how*. For example, students should know why to provide text alternatives, not just how to. Students learn and implement accessibility more effectively when they understand the reasons behind accessibility features and how people with disabilities use them.
+* **Cover all disabilities** &mdash; Avoid inadvertently prioritizing some types of disabilities over others. Digital accessibility is essential for people with many different types of disabilities, including auditory, cognitive and learning, physical, speech, and visual. For guidance on cross-disability aspects, see [How People with Disabilities Use the Web](/people-use-web).
+* **Approach accessibility holistically** &mdash; Communicate accessibility as part of the broader umbrella of inclusion and diversity. Explain that accessibility is not effectively addressed with a checklist mindset; the goal of accessibility is to improve the user experience of people with disabilities, which provides many benefits, including for users without disabilities. For an explanation of how accessibility is related to usability and inclusive design, see [Accessibility, Usability, and Inclusion](/fundamentals/accessibility-usability-inclusion/).
 * **Make it accessible** &mdash; Ensure that the course itself is accessible. For example:
    * all presentations, teaching materials, exercises, assessments, and other student interactions are accessible
    * the online learning platform, the classroom, computer lab, and training venue are accessible
    * captions, sign-language, and large-print is provided when needed
    * instructors describe visual information, including text on the screen
 
-   For specific guidance, see [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
+   For specific guidance on making your training accessible, see [How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/).
