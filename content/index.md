@@ -41,9 +41,9 @@ This resource provides teaching modules to help you create courses on digital ac
 
 ## Overview
 
-This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
+This resource provides granular modules that you can combine to create light-weight or in-depth training on digital accessibility. You can use it to develop courses specifically on accessibility, or to include accessibility in other courses, such as programming or graphics design.
 
-You can also use this resource to review existing or proposed courses.
+You can also use this resource to review existing or proposed courses. The curricula suggests learning outcomes for each module. Yet, it does not prescribe duration, effort, or accreditation.
 
 Some example uses of this resource include:
 
@@ -53,7 +53,6 @@ Some example uses of this resource include:
 * **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
 * **hiring manager** &mdash; compares the competencies assessed for different certificates based on the modules provided in this resource
 
-This resource is organized in granular modules that you can combine to create light-weight or in-depth training on accessibility. It does not prescribe duration, effort, or accreditation.
 
 ## Contents
 
