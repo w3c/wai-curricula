@@ -39,7 +39,7 @@ This resource provides teaching modules to help you create courses on digital ac
 {% include toc.html type="end" %}
 {:/}
 
-## Overview
+## Using this Curricula
 
 This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
 
@@ -138,7 +138,7 @@ Each module consists of:
 
 Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How People with Disabilities Use the Web](/people-use-web).
 
-## Tips
+## Essentials for Teaching Accessibility
 
 The following tips help you provide more effective courses, training, and certification programs on accessibility:
 * **Involve people with disabilities** &mdash; Involve people with disabilities in your courses so that students get perspectives from real people on the impact of accessibility barriers and accessibility features. Invite people with disabilities to show how they use assistive technologies and adaptive strategies, the accessibility features they rely on, and barriers they encounter. If you cannot invite people with disabilities, consider using videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. For guidance on working with people with disabilities, ethical considerations, and cautions, see [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
