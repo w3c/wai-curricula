@@ -39,7 +39,7 @@ This resource provides teaching modules to help you create courses on digital ac
 {% include toc.html type="end" %}
 {:/}
 
-## Using this Curricula
+## Using these Curricula
 
 This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
 
