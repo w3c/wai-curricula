@@ -256,6 +256,9 @@
         url: "/curricula/developer-modules/custom-widgets/"
       - name: "Rich Applications"
         url: "/curricula/developer-modules/rich-applications/"
+    - name: "Changelog" 
+      url: "/curricula/changelog/
+      hide: true
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training
