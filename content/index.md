@@ -1,6 +1,7 @@
 ---
 title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
 title_html: "Curricula on Web Accessibility: <br /><small>A Framework to Build Your Own Courses</small>"
+nav_title: "Curricula on Web Accessibility"
 permalink: /curricula/
 ref: /curricula/
 lang: en

@@ -1,5 +1,6 @@
 ---
 title: "[Draft] Developer Modules"
+nav_title: "Developer Modules"
 permalink: /curricula/developer-modules/
 ref: /curricula/developer-modules/
 lang: en
