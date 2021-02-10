@@ -1,6 +1,7 @@
 ---
 title: "Curricula on Web Accessibility: A Framework to Build Your Own Courses"
 title_html: "Curricula on Web Accessibility: <br /><small>A Framework to Build Your Own Courses</small>"
+nav_title: "Curricula on Web Accessibility"
 permalink: /curricula/
 ref: /curricula/
 lang: en
@@ -9,8 +10,9 @@ github:
   path: content/index.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
+changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019.</p>
+  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
@@ -39,7 +41,7 @@ This resource provides teaching modules to help you create courses on digital ac
 {% include toc.html type="end" %}
 {:/}
 
-## Overview
+## Using the Curricula
 
 This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
 
@@ -121,7 +123,7 @@ The Foundation and Developer modules are available now. The Designer and Author 
 
 ## Structure and Terminology
 
-Each part of this curricula (Foundation, Developer, Designer, Author) has:
+Each part of these curricula (Foundation, Developer, Designer, Author) has:
 
 * **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
 * **Modules** &mdash; Designed to be taught and assessed in their entirety.  
@@ -138,13 +140,13 @@ Each module consists of:
 
 Terminology specifically related to people with disabilities, assistive technologies, and adaptive strategies is provided in [How People with Disabilities Use the Web](/people-use-web).
 
-## Tips
+## Essentials for Teaching Accessibility
 
 The following tips help you provide more effective courses, training, and certification programs on accessibility:
 * **Involve people with disabilities** &mdash; Involve people with disabilities in your courses so that students get perspectives from real people on the impact of accessibility barriers and accessibility features. Invite people with disabilities to show how they use assistive technologies and adaptive strategies, the accessibility features they rely on, and barriers they encounter. If you cannot invite people with disabilities, consider using videos instead. Yet make sure to guide your students through the process to avoid perpetuating existing misunderstandings. For guidance on working with people with disabilities, ethical considerations, and cautions, see [Involving Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/).
 * **Include the reasons for accessibility features** &mdash; Include the *why*, not just the *how*. For example, students should know why to provide text alternatives, not just how to. Students learn and implement accessibility more effectively when they understand the reasons behind accessibility features and how people with disabilities use them.
 * **Cover all disabilities** &mdash; Avoid inadvertently prioritizing some types of disabilities over others. Digital accessibility is essential for people with many different types of disabilities, including auditory, cognitive and learning, physical, speech, and visual. For guidance on cross-disability aspects, see [How People with Disabilities Use the Web](/people-use-web).
-* **Approach accessibility holistically** &mdash; Communicate accessibility as part of the broader umbrella of inclusion and diversity. Explain that accessibility is not effectively addressed with a checklist mindset; the goal of accessibility is to improve the user experience of people with disabilities, which provides many benefits, including for users without disabilities. For an explanation of how accessibility is related to usability and inclusive design, see [Accessibility, Usability, and Inclusion](/fundamentals/accessibility-usability-inclusion/).
+* **Approach accessibility holistically** &mdash; Communicate accessibility as part of the broader umbrella of inclusion and diversity. Explain that accessibility is not effectively addressed with a checklist mindset. The goal of accessibility is to improve the user experience for people with disabilities. It provides many benefits, including for users without disabilities. For an explanation of how accessibility is related to usability and inclusive design, see [Accessibility, Usability, and Inclusion](/fundamentals/accessibility-usability-inclusion/).
 * **Make it accessible** &mdash; Ensure that the course itself is accessible. For example:
    * all presentations, teaching materials, exercises, assessments, and other student interactions are accessible
    * the online learning platform, the classroom, computer lab, and training venue are accessible
