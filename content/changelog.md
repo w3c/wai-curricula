@@ -13,6 +13,13 @@ github:
 
 ---
 
+## February 10 2021
+
+### Developer Modules
+
+* Minor edits to improve readability:
+  * Throughout: some instances of "or" changed to "and". They could be interpreted as "one or the other" when we mean "both".
+
 ## February 9 2021
 
 ### Foundation Modules
@@ -25,6 +32,7 @@ github:
 
 ### Developer Modules
 
+* Minor edits to improve readability:
   * In overview page: fixed links to foundation modules "What is Web Accessibility" and "Getting Started with Accessibility".
   * In module "Menus", topic "Labels", "Teaching Ideas", third bullet: changed "rely on them" to "rely on labels"
   * In module "Menus", topic "Flyout Menus" "Learning Outcomes for Topic", third bullet: removed "the" before keyboard. "write code for fly-out menus that support different input devices, including keyboard only and voice interaction"
