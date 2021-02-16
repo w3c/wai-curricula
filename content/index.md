@@ -43,13 +43,13 @@ This resource provides teaching modules to help you create courses on digital ac
 
 ## Using the Curricula
 
-This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming or graphics design.
+This resource provides material for teaching accessibility. You can use it to develop courses specifically on digital accessibility, or to include accessibility in other courses, such as programming and graphics design.
 
-You can also use this resource to review existing or proposed courses.
+You can also use this resource to review existing and proposed courses.
 
 Some example uses of this resource include:
 
-* **faculty lecturer** &mdash; selects topics from the Foundation, Developer, and Designer modules to teach computer science students about accessibility
+* **faculty lecturer** &mdash; selects topics from the Foundation, Developer, and Designer modules to teach accessibility to computer science students
 * **accessibility professional** &mdash; selects topics from the Foundation, Developer, Designer, and Author modules to create accessibility training courses
 * **employee training coordinator** &mdash; compares the course content offered by different providers based on the modules provided in this resource
 * **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
