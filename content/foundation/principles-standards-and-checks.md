@@ -6,7 +6,7 @@ ref: /curricula/foundation-modules/principles-standards-and-checks/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-4.md
+  path: content/foundation/principles-standards-and-checks.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

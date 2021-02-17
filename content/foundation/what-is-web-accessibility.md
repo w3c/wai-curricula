@@ -6,7 +6,7 @@ ref: /curricula/foundation-modules/what-is-web-accessibility/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-1.md
+  path: content/foundation/what-is-web-accessibility.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/page-structure/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-1.md
+  path: content/developer/page-structure.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

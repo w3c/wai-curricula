@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/tables/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-4.md
+  path: content/developer/tables.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

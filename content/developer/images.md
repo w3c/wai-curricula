@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/images/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-3.md
+  path: content/developer/images.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

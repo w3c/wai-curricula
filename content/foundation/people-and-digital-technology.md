@@ -6,7 +6,7 @@ ref: /curricula/foundation-modules/people-and-digital-technology/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-2.md
+  path: content/foundation/people-and-digital-technology.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

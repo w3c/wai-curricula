@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/rich-applications/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-7.md
+  path: content/developer/rich-applications.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/forms/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-5.md
+  path: content/developer/forms.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

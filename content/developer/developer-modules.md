@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/developing-accessible-content.md
+  path: content/developer/developer-modules.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

@@ -6,7 +6,7 @@ ref: /curricula/foundation-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/intro.md
+  path: content/foundation/foundation-modules.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

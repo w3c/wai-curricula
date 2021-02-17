@@ -6,7 +6,7 @@ ref: /curricula/developer-modules/menus/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/2-2.md
+  path: content/developer/menus.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

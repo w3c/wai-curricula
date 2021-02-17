@@ -6,7 +6,7 @@ ref: /curricula/foundation-modules/getting-started-with-accessibility/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-5.md
+  path: content/foundation/getting-started-with-accessibility.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
