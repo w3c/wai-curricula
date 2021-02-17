@@ -81,7 +81,7 @@ The Foundation and Developer modules are available now. The Designer and Author 
     </tr>
 </table>
 
-<table>
+<table class="dense">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
