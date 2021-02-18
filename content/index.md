@@ -63,7 +63,7 @@ This resource includes modules that cover accessibility foundations that apply b
 
 The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
 
-#### Curricula Modules
+### Curricula Modules
 
 <table class="dense" style="width: 100%; margin-bottom: -1px;" role="presentation">
     <tr>
