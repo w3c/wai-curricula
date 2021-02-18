@@ -82,7 +82,7 @@ The Foundation and Developer modules are available now. The Designer and Author 
     </tr>
 </table>
 
-<table summary="Specifics for developers, designers, and content authors. Column one contains the developer modules. Column two contains outlines for the designer and content author modules respectively." class="dense" style="width: 100%;">
+<table summary="Specifics for developers, designers, and content authors. Column one contains the developer modules. Columns two and three contain outlines for the designer and content author modules respectively." class="dense" style="width: 100%;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
