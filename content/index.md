@@ -63,7 +63,7 @@ This resource includes modules that cover accessibility foundations that apply b
 
 The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
 
-<table class="dense" role="presentation">
+<table class="dense" style="width: 100%; margin-bottom: -1px;" role="presentation">
   <caption>Curricula Modules</caption>
     <tr>
       <th colspan="3"> <a href="{{ '/curricula/foundation-modules/' | relative_url }}">Foundation Modules</a> </th>
@@ -81,7 +81,7 @@ The Foundation and Developer modules are available now. The Designer and Author 
     </tr>
 </table>
 
-<table class="dense">
+<table class="dense" style="width: 100%; margin-bottom: -1px;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
