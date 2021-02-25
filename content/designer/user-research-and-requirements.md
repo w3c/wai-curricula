@@ -31,8 +31,9 @@ Courses based on this module should:
 Students should be able to:
 
 * describe how involving users with disabilities early and throughout in the design and development process can lead to overall improved usability for everybody, including people without disabilities
-* ensure people with disabilities are included in design methodologies and techniques, for example in use cases, user analysis, personas, scenarios, and usability testing
 * identify different groups of people with disabilities and explain strategies they use to interact with the Web
+* ensure legal requirements related to accessibility are researched and included in the design phase
+* ensure people with disabilities are included in design methodologies and techniques, for example in use cases, user analysis, personas, scenarios, and usability testing
 * ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
 * ensure informed consent and other ethical considerations in research practice are observed when working with people, including people with disabilities
 * ensure people with disabilities who participate in user research always understand the purpose of the research, and are aware of their right to opt out at any time if so desired
@@ -49,7 +50,24 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-[To be developed
+### Topic: User Requirements
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* describe the use of different assistive technologies and adaptive strategies by people with disabilities to interact with webpages and applications,
+* ensure different types of disabilities are included in user groups
+* ensure personas with disabilities are included in your persons
+* ensure use cases and scenarios include useof the Web or application with assistive technologies and adaptive strategies
+
+different types of user requirements that relate to people with disabilities, such as adequate contrast ratios, keyobard compatibility, and use of technology that is accessibility supported
+
+
+
+
+### Topic: Involving Users with Disabilities
+
 
 ## Ideas to Assess Knowledge for Module
 
