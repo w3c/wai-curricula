@@ -19,6 +19,7 @@ parent_in_h1:
     name: nav_title
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
+navigation:
   previous: /curricula/foundation-modules/what-is-web-accessibility/
   next: /curricula/foundation-modules/business-case-and-benefits/
 ---
