@@ -18,7 +18,7 @@ parent_in_h1:
   - ref: /curricula/developer-modules/
     name: nav_title
   - ref: /curricula/
-    name: nav_title
+    name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/developer-modules/tables/
   next: /curricula/developer-modules/custom-widgets/

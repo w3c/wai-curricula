@@ -18,7 +18,7 @@ parent_in_h1:
   - ref: /curricula/foundation-modules/
     name: nav_title
   - ref: /curricula/
-    name: nav_title
+    name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/foundation-modules/people-and-digital-technology/
   next: /curricula/foundation-modules/principles-standards-and-checks/
