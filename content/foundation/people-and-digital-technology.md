@@ -18,7 +18,7 @@ parent_in_h1:
   - ref: /curricula/foundation-modules/
     name: nav_title
   - ref: /curricula/
-    name: "Curricula"
+    name: nav_title
 navigation:
   previous: /curricula/foundation-modules/what-is-web-accessibility/
   next: /curricula/foundation-modules/business-case-and-benefits/

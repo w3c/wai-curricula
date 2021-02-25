@@ -18,7 +18,7 @@ parent_in_h1:
   - ref: /curricula/developer-modules/
     name: nav_title
   - ref: /curricula/
-    name: "Curricula"
+    name: nav_title
 navigation:
   previous: /curricula/developer-modules/custom-widgets/
 ---
