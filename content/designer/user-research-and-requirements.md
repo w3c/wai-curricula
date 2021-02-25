@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Research and Requirements"
-nav_title: "Research and Requirements"
-permalink: /curricula/designer-modules/research-and-requirements/
-ref: /curricula/designer-modules/research-and-requirements/
+title: "[Draft] Module 1: User Research and Requirements"
+nav_title: "User Research and Requirements"
+permalink: /curricula/designer-modules/user-research-and-requirements/
+ref: /curricula/designer-modules/user-research-and-requirements/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/research-and-requirements.md
+  path: content/designer/user-research-and-requirements.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
