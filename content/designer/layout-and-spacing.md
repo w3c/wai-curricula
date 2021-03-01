@@ -45,8 +45,6 @@ Students should be able to:
 * create designs that allow text resizing without loss of content and functionality
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
 
-{% include excol.html type="all" %}
-
 ## Competencies
 
 Skills required for this module:
@@ -70,7 +68,7 @@ Students should be able to:
 
 ### Topic: Responsive Design
 
-#### Learning Outcomes for Module
+#### Learning Outcomes for Topic
 
 Students should be able to:
 
@@ -81,7 +79,7 @@ Students should be able to:
 * create designs that allow text resizing up to 200% without loss of content and functionality
 * create designs that allow users to set the orientation to  portrait or landscape, or that include show or hide controls to access contents in portrait and landscape orientations
 
-### TRopic: Text Spacing
+### Topic: Text Spacing
 
 #### Learning Outcomes for Topic
 

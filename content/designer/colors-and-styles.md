@@ -42,8 +42,6 @@ Students should be able to:
 * ensure that different page regions and user interface components are conveyed using distinguishable styles
 * ensure additional mechanisms are available apart from color alone to convey information, such as text cues and icons
 
-{% include excol.html type="all" %}
-
 ## Competencies
 
 Skills required for this module:
@@ -76,7 +74,7 @@ Students should be able to:
 * create designs that allow content that does not flash more than three times in a second
 * create designs that allow to disable motion animation triggered by interaction
 
-#### Topic: Content Identification
+### Topic: Content Identification
 
 #### Learning Outcomes for Topic
 

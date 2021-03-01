@@ -43,8 +43,6 @@ Students should be able to:
 * ensure informed consent and other ethical considerations in research practice are observed when working with people, including people with disabilities
 * ensure people with disabilities who participate in user research always understand the purpose of the research, and are aware of their right to opt out at any time if so desired
 
-{% include excol.html type="all" %}
-
 ## Competencies
 
 Skills required for this module:
@@ -80,7 +78,6 @@ Students should be able to:
 * ensure people with disabilities understand the purpose of your interviews, surveys, and questionnaires and are comfortable during the research activities
 * ensure people with disabilities can opt out at any time if they desire
 
-
 ### Topic: Test
 
 #### Learning Outcomes for Topic
@@ -91,7 +88,6 @@ Students should be able to:
 * ensure recruitment of participants consider the variety of disabilities, assistive technologies, adaptive strategies, and levels of experience in conjunction with overall usability requirements
 * ensure adequate location is chosen to conduct the tests depending on the test goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
 * ensure adequate time for participants to carry on tasks is allocated, such as different time sets for different levels of experience and familiarity with the web or application
-
 
 ## Ideas to Assess Knowledge for Module
 
