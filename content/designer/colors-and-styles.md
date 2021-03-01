@@ -14,9 +14,14 @@ footer: >
   <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+parent_in_h1:
+  - ref: /curricula/designer-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/forms/
-  next: /curricula/designer-modules/rich-applications/
+  previous: /curricula/designer-modules/user-research-and-requirements/
+  next: /curricula/designer-modules/layout-and-spacing/
 ---
 
 ## Introduction
@@ -31,9 +36,9 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on colors and styles to identify and distinguish different user interface components
-* create designs that allow for  adequate contrast ratios between foreground user interface components, such as text, images of text, and controls and their corresponding background
+* create designs that allow for  adequate contrast ratios between foreground user interface components (such as text, images of text, and controls) and their corresponding background
 * create designs that allow for clear and distinguishable focus indicators, for example using surrounding lines, background color, and highlighting
-* create designs that allow for content that does not flash or create physical reactions
+* create designs that allow to avoid seizures and other physical reactions
 * ensure that different page regions and user interface components are conveyed using distinguishable styles
 * ensure additional mechanisms are available apart from color alone to convey information, such as text cues and icons
 
