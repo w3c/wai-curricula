@@ -11,7 +11,7 @@ license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
+  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
@@ -32,11 +32,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on colors and styles to identify and distinguish different user interface components
 * create designs that allow for  adequate contrast ratios between foreground user interface components, such as text, images of text, and controls and their corresponding background
-* ensure distinguishable styles are used to identify different components, such as text, links, buttons, or form elements
 * create designs that allow for clear and distinguishable focus indicators, for example using surrounding lines, background color, and highlighting
-* ensure that different page regions are conveyed using distinguishable styles
-* ensure flashing content is below the general flash and red flash thresholds, or that there is no content that flashes more than three times in a second
-* ensure additional mechanisms are available apart from color alone to convey information, such as labels and icons
+* create designs that allow for content that does not flash or create physical reactions
+* ensure that different page regions and user interface components are conveyed using distinguishable styles
+* ensure additional mechanisms are available apart from color alone to convey information, such as text cues and icons
 
 {% include excol.html type="all" %}
 
@@ -50,7 +49,39 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-[To be developed
+### Topic: Contrast Ratios
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* explain how contrast ratios allow people with disabilities to read, understand, and distinguish foreground content from background
+* create designs that allow text and images of text to have a contrast ratio of at least 4.5:1 
+* create designs that allow for large-scale text and images of text to have a contrast ratio of at least 3:1
+* create designs that allow user interface components and graphical elements to have a contrast ratio of at least 3:1
+* ensure focus indicators have a contrast ratio that allows them to be perceived by users
+
+### Topic: Seizures and Physical Reactions
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* ensure flashing content is below the general flash and red flash thresholds
+* create designs that allow content that does not flash more than three times in a second
+* create designs that allow to disable motion animation triggered by interaction
+
+#### Topic: Content Identification
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* Ensure distinguishable styles are applied to different page regions, such as header, navigation, main, or footer
+* ensure distinguishable styles are used to identify different components, such as text, links, buttons, or form elements
+* create designs that allow for text cues to convey any information that is conveyed using color alone, such as required form fields in a form
+* ensure that information conveyed through differences in text color is also conveyed using other visual cues, such as underline, bold, and italics
+* ensure that information provided using differences in color is also provided using different patterns, shapes, and icons
 
 ## Ideas to Assess Knowledge for Module
 
