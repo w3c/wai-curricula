@@ -72,7 +72,7 @@ Skills required for this module:
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
-  * [WCAG 2 Success Criterion 2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/?#no-keyboard-trap)
+  * [WCAG 2 Success Criterion 2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
   * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
