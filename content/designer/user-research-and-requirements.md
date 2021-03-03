@@ -53,39 +53,37 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Observation and Understanding
+### Topic: Researching
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* describe the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with web pages and applications
+* explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with web pages and applications
 * ensure different groups of users with disabilities are included when defining user groups
 * ensure applicable accessibility guidelines, standards, and policies are included in the overall requirements
-* ensure different types of user requirements that relate to people with disabilities are researched and considered, such as adequate contrast ratios, keyboard compatibility, and use of technology that is compatible with assistive technologies and adaptive strategies
 
-### Topic: Analysis
+### Topic: Incorporating
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
+* ensure different types of user requirements that relate to people with disabilities are researched and considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
 * create personas that include people with different types of disabilities and different levels of experience using the Web
 * create use cases and scenarios that include use of the Web or application with different types of assistive technologies and adaptive strategies
-* ensure appropriate relationships are developed when working with people with disabilities
-* ensure treatment of people with disabilities is respectful, same as when working with everybody else
-* ensure appropriate compensation is provided to people with disabilities
-* ensure people with disabilities understand the purpose of your interviews, surveys, and questionnaires and are comfortable during the research activities
-* ensure people with disabilities can opt out at any time if they desire
 
-### Topic: Test
+### Topic: Interacting
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * determine the characteristics of participants in usability testing based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
-* ensure recruitment of participants consider the variety of disabilities, assistive technologies, adaptive strategies, and levels of experience in conjunction with overall usability requirements
+* ensure treatment of people with disabilities is respectful and avoids clichés and myths
+* ensure appropriate compensation is provided to people with disabilities
+* ensure people with disabilities understand the purpose of your interviews, surveys, and questionnaires and are comfortable during the research activities
+* ensure people with disabilities can opt out at any time if they desire
 * ensure adequate location is chosen to conduct the tests depending on the test goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
 * ensure adequate timings for participants to carry on tasks is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
 
