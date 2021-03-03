@@ -59,10 +59,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* describe the use of different assistive technologies and adaptive strategies by people with disabilities to interact with web pages and applications
-* ensure different groups of users with disabilities are included when working with user groups
-* ensure standards and policies that relate to people with disabilities are considered in research, such as accessibility standards or laws promoting inclusion of people with disabilities
-* ensure different types of user requirements that relate to people with disabilities are considered, such as adequate contrast ratios, keyboard compatibility, and use of technology that is compatible with assistive technologies and adaptive strategies
+* describe the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with web pages and applications
+* ensure different groups of users with disabilities are included when defining user groups
+* ensure applicable accessibility guidelines, standards, and policies are included in the overall requirements
+* ensure different types of user requirements that relate to people with disabilities are researched and considered, such as adequate contrast ratios, keyboard compatibility, and use of technology that is compatible with assistive technologies and adaptive strategies
 
 ### Topic: Analysis
 
@@ -87,7 +87,7 @@ Students should be able to:
 * determine the characteristics of participants in usability testing based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
 * ensure recruitment of participants consider the variety of disabilities, assistive technologies, adaptive strategies, and levels of experience in conjunction with overall usability requirements
 * ensure adequate location is chosen to conduct the tests depending on the test goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
-* ensure adequate time for participants to carry on tasks is allocated, such as different time sets for different levels of experience and familiarity with the web or application
+* ensure adequate timings for participants to carry on tasks is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
 
 ## Ideas to Assess Knowledge for Module
 

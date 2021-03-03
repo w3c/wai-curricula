@@ -37,10 +37,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on colors and styles to identify and distinguish different user interface components
 * create designs that allow for  adequate contrast ratios between foreground user interface components (such as text, images of text, and controls) and their corresponding background
-* create designs that allow for clear and distinguishable focus indicators, for example using surrounding lines, background color, and highlighting
+* create designs that allow for clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * create designs that allow to avoid seizures and other physical reactions
 * ensure that different page regions and user interface components are conveyed using distinguishable styles
-* ensure additional mechanisms are available apart from color alone to convey information, such as text cues and icons
+* ensure additional mechanisms are available apart from color alone to convey information, such as text cues, patterns, and icons
 
 ## Competencies
 
@@ -59,9 +59,9 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * explain how contrast ratios allow people with disabilities to read, understand, and distinguish foreground content from background
-* create designs that allow text and images of text to have a contrast ratio of at least 4.5:1 
-* create designs that allow for large-scale text and images of text to have a contrast ratio of at least 3:1
-* create designs that allow user interface components and graphical elements to have a contrast ratio of at least 3:1
+* create designs that allow text and images of text to have a contrast ratio of at least 4.5:1 with respect to their background
+* create designs that allow for large-scale text and images of text to have a contrast ratio of at least 3:1 with respect to their background
+* create designs that allow user interface components and graphical elements to have a contrast ratio of at least 3:1 with respect to their background
 * ensure focus indicators have a contrast ratio that allows them to be perceived by users
 
 ### Topic: Seizures and Physical Reactions
