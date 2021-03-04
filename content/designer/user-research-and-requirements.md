@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/
-  next: /curricula/designer-modules/colors-and-styles/
+  next: /curricula/designer-modules/colors-styles-and-animations/
 ---
 
 ## Introduction
