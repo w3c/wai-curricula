@@ -47,6 +47,7 @@ Students should be able to:
 Skills required for this module:
 
 [To be developed]
+
 {% comment %}
 
 Skills required for this module:
@@ -79,6 +80,7 @@ Skills required for this module:
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
+
 ### Topic: Navigational Mechanisms
 
 #### Learning Outcomes for Topic
@@ -89,7 +91,7 @@ Students should be able to:
   * a link at the top of each page that goes directly to the main content area 
   * a link at the beginning of a block of repeated content to go to the end of the block 
   * links at the top of the page that go to each area of the content
-  * an expandable and collapsible menu to bypass block of content 
+  * an expandable and collapsible menu to make it easier for users to skip that menu
 * create designs that support site maps to provide an overview of the entire site
 * create designs that support breadcrumb trails to provide information about the user's location in a set of web pages
 * create designs that support table of contents to give an overview of the whole site or document and to allow users to go to specific parts of the content
@@ -101,7 +103,7 @@ Students should be able to:
 Students should be able to:
 
 * create designs that allow users to turn off existing time limits
-* create designs that allow users to adjust existing time limits at least ten times the original setting
+* create designs that allow users to adjust existing time limits up to at least ten times the original setting
 * create designs that support extending existing time limits by warning the user at least twenty seconds before the time limit expires
 * ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
 
@@ -109,9 +111,9 @@ Students should be able to:
 
 Students should be able to:
 
-* create designs that support alternatives to multi-pointer gestures using single pointer activation
-* ensure down event on single pointer gestures either:
-  * do not perform any action
+* create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* ensure down event on single pointer gestures:
+  * do not perform any action, or
   * have available mechanisms to abort or undo any action carried on
 * create designs that support alternatives to devise or user motion such as shaking, by using user interface components that do not require motion
 * ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device

@@ -29,13 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on colors and styles to interact with websites and applications
+* demonstrate how people with disabilities use colors and styles to identify and distinguish websites and applications
+* @@@
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on colors and styles to identify and distinguish different user interface components
+* explain how people with disabilities use colors and styles to identify and distinguish different user interface components
 * create designs that allow for  adequate contrast ratios between foreground user interface components (such as text, images of text, and controls) and their corresponding background
 * create designs that allow for clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * create designs that allow to avoid seizures and other physical reactions
@@ -72,7 +73,7 @@ Students should be able to:
 
 * ensure flashing content is below the general flash and red flash thresholds
 * create designs that allow content that does not flash more than three times in a second
-* create designs that allow to disable motion animation triggered by interaction
+* create designs that allow to disable motion animation triggered by interaction, such as additional animations when scrolling
 
 ### Topic: Content Identification
 

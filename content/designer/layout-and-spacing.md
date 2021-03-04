@@ -35,12 +35,12 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on layout and spacing to orient themselves in web pages and applications
+* explain how people with disabilities use layout and spacing to orient themselves in web pages and applications
 * ensure page regions are placed where expected depending on their type and function, for example, page headers  at the top and page footers at the bottom
 * ensure headings are nested according to the hierarchical structure of the page and describe the topic of the section they entitle 
 * ensure white space and proximity help users determine the relations between different page regions and contents
 * create designs that allow for target sizes that can be tapped by users with mobility impairments and using different input methods
-* ensure meaningful sequence and content are preserved when  using different viewport sizes or different devices to access content
+* ensure meaningful sequence, content, and functionality are preserved when using different viewport sizes, screen configurations, and devices to access content
 * create designs that allow to preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
 * create designs that allow text resizing without loss of content and functionality
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
@@ -73,7 +73,7 @@ Students should be able to:
 Students should be able to:
 
 * ensure target sizes that are at least 44 by 44 CSS pixels
-* ensure content can be presented without loss of information and functionality, and that accessing such content does not require scrolling:
+* ensure content can be presented without loss of information and functionality, and that accessing such content does not require two dimensional scrolling:
   * vertically at a width equivalent to 320 CSS pixels
   * horizontally at a height equivalent to 256 CSS pixels
 * create designs that allow text resizing up to 200% without loss of content and functionality
@@ -85,10 +85,10 @@ Students should be able to:
 
 Students should be able to:
 
-* create designs that prevent loss of content and functionality for the following properties:
-  * line spacing to at least 1.5 times the font size
-  * Spacing following paragraphs to at least 2 times the font size
-  * Letter spacing (tracking) to at least 0.12 times the font size
+* create designs that allow users to modify the following properties without loss of content and functionality:
+  * line spacing -- to at least 1.5 times the font size
+  * spacing following paragraphs -- to at least 2 times the font size
+  * Letter spacing (tracking) -- to at least 0.12 times the font size
 
 ## Ideas to Assess Knowledge for Module
 

@@ -37,7 +37,7 @@ Students should be able to:
 
 * describe how involving users with disabilities early and throughout in the design and development process can lead to overall improved usability for everybody, including people without disabilities
 * identify different groups of people with disabilities and explain strategies they use to interact with the Web
-* ensure legal requirements related to accessibility are researched and included in the design phase
+* ensure accessibility standards and legal requirements are researched and included in the design phase
 * ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
 * ensure people with disabilities are included in design methodologies and techniques, for example in use cases, user analysis, personas, scenarios, and usability testing
 * ensure informed consent and other ethical considerations in research practice are observed when working with people, including people with disabilities
@@ -53,7 +53,7 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Researching
+### Topic: Research
 
 #### Learning Outcomes for Topic
 
@@ -61,19 +61,20 @@ Students should be able to:
 
 * explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with web pages and applications
 * ensure different groups of users with disabilities are included when defining user groups
-* ensure applicable accessibility guidelines, standards, and policies are included in the overall requirements
+* ensure different types of accessibility barriers and features are included in the research phase
+* ensure applicable accessibility guidelines, standards, and policies are included in the research phase
 
-### Topic: Incorporating
+### Topic: Requirements
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* ensure different types of user requirements that relate to people with disabilities are researched and considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
+* ensure different types of user requirements that relate to people with disabilities are considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
 * create personas that include people with different types of disabilities and different levels of experience using the Web
-* create use cases and scenarios that include use of the Web or application with different types of assistive technologies and adaptive strategies
+* create scenarios that include use of the Web or application with different types of assistive technologies and adaptive strategies
 
-### Topic: Interacting
+### Topic: Working with People with Disabilities
 
 #### Learning Outcomes for Topic
 

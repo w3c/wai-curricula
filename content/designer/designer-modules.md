@@ -33,5 +33,6 @@ These modules focus on user experience, visual, and interaction aspects to desig
 
 * user experience designer
 * visual designer
+* content designer
 * interaction designer
-@@@
+* information designer
