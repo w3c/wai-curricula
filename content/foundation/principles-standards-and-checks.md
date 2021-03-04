@@ -1,25 +1,33 @@
 ---
 title: "Module 4: Principles, Standards, and Checks"
-permalink: /curricula/introduction-to-web-accessibility/principles-standards-and-checks/
-ref: /curricula/introduction-to-web-accessibility/principles-standards-and-checks/
+nav_title: "Principles, Standards, and Checks"
+permalink: /curricula/foundation-modules/principles-standards-and-checks/
+ref: /curricula/foundation-modules/principles-standards-and-checks/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-4.md
+  path: content/foundation/principles-standards-and-checks.md
 license: creative-commons
+acknowledgements: /curricula/acknowledgements/
+changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> First published 3 December 2019 </p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+parent_in_h1: 
+  - ref: /curricula/foundation-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/introduction-to-web-accessibility/business-case-and-benefits/
-  next: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
+  previous: /curricula/foundation-modules/business-case-and-benefits/
+  next: /curricula/foundation-modules/getting-started-with-accessibility/
 ---
 
 ## Introduction
 {:.no-display}
 
-Courses based on this module:
+Courses based on this module should:
 
 * Introduce the accessibility principles: Perceivable, Operable, Understandable, and Robust.
 * Introduce W3C accessibility standards, and their supporting resources.
@@ -178,7 +186,7 @@ Optional ideas to support assessment:
 Optional ideas to support assessment:
 
 * Presentation &mdash; Students explain the POUR principles of web accessibility and refer to specifics. For example, students elaborate on setting the language of a web page, under the principle Understandable.
-* Short Answer questions &mdash; From specific examples of accessibility features, students identify which principle they belong to and which users it helps. For example, Functionality Available from the Keyboard belongs to the principle Operable and helps keyboard users as well as people using voice recognition software.
+* Short Answer questions &mdash; From specific examples of accessibility features, students identify which principle they belong to and which users it helps. For example, "functionality is available from the keyboard" belongs to the principle Operable and helps keyboard users as well as people using speech recognition software.
 * Concept Map &mdash; Students relate the principles of accessible design to web content, authoring tools, and user agents.
 * Report &mdash; Students summarize the scope of the W3C accessibility standards and explain some of their guidelines and success criteria.
 * Practice &mdash; Students carry out basic accessibility evaluation.
