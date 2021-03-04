@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 2: Colors and Styles"
-nav_title: "Colors and Styles"
-permalink: /curricula/designer-modules/colors-and-styles/
-ref: /curricula/designer-modules/colors-and-styles/
+title: "[Draft] Module 2: Colors, Styles, and Animations"
+nav_title: "Colors, Styles, and Animations"
+permalink: /curricula/designer-modules/colors-styles-and-animations/
+ref: /curricula/designer-modules/colors-styles-and-animations/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/colors-and-styles.md
+  path: content/designer/colors-styles-and-animations.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
