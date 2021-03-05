@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 1: Layout and Spacing"
+title: "[Draft] Module 3: Layout and Spacing"
 nav_title: "Layout and Spacing"
 permalink: /curricula/designer-modules/layout-and-spacing/
 ref: /curricula/designer-modules/layout-and-spacing/
