@@ -81,7 +81,7 @@ Students should be able to:
 
 Students should be able to:
 
-* Ensure distinguishable styles are applied to different page regions, such as header, navigation, main, or footer
+* ensure distinguishable styles are applied to different page regions, such as header, navigation, main, or footer
 * ensure distinguishable styles are used to identify different components, such as text, links, buttons, or form elements
 * create designs that allow for text cues to convey any information that is conveyed using color alone, such as required form fields in a form
 * ensure that information conveyed through differences in text color is also conveyed using other visual cues, such as underline, bold, and italics
