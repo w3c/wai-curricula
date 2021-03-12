@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 4: Navigation and Interaction"
-nav_title: "Navigation and Interaction"
-permalink: /curricula/designer-modules/navigation-and-interaction/
-ref: /curricula/designer-modules/navigation-and-interaction/
+title: "[Draft] Module 4: Navigation and Input"
+nav_title: "Navigation and Input"
+permalink: /curricula/designer-modules/navigation-and-input/
+ref: /curricula/designer-modules/navigation-and-input/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/navigation-and-interaction.md
+  path: content/designer/navigation-and-input.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -91,7 +91,7 @@ Students should be able to:
   * a link at the top of each page that goes directly to the main content area 
   * a link at the beginning of a block of repeated content to go to the end of the block 
   * links at the top of the page that go to each area of the content
-  * an expandable and collapsible menu to make it easier for users to skip that menu
+  * an expandable and collapsible menu to make it easier for users to skip the menu
 * create designs that support site maps to provide an overview of the entire site
 * create designs that support breadcrumb trails to provide information about the user's location in a set of web pages
 * create designs that support table of contents to give an overview of the whole site or document and to allow users to go to specific parts of the content
