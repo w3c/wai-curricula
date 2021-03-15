@@ -86,7 +86,7 @@ Students should be able to:
   * those that are part of tests or exercises that would be invalid if presented in text
   * those that are primarily intended to create a specific sensory experience
 * provide text alternatives that identify and describe the purpose of graphical elements that are used to confirm that content is accessed by a person rather than a computer, such as captcha
-* ensure several modalities of captcha that rely on different sensory characteristics are provided
+* provide several modalities of captcha that rely on different sensory characteristics
 
 ### Topic: Tabular Information
 
