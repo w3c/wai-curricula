@@ -3,6 +3,7 @@ title: "Module 1: What is Web Accessibility"
 nav_title: "What is Web Accessibility"
 permalink: /curricula/foundation-modules/what-is-web-accessibility/
 ref: /curricula/foundation-modules/what-is-web-accessibility/
+redirect_from: /curricula/introduction-to-web-accessibility/what-is-web-accessibility/
 lang: en
 github:
   repository: w3c/wai-curricula

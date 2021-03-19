@@ -3,6 +3,7 @@ title: "Foundation Modules"
 nav_title: "Foundation Modules"
 permalink: /curricula/foundation-modules/
 ref: /curricula/foundation-modules/
+redirect_from: /curricula/introduction-to-web-accessibility/
 lang: en
 github:
   repository: w3c/wai-curricula

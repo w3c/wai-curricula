@@ -3,6 +3,7 @@ title: "Module 4: Principles, Standards, and Checks"
 nav_title: "Principles, Standards, and Checks"
 permalink: /curricula/foundation-modules/principles-standards-and-checks/
 ref: /curricula/foundation-modules/principles-standards-and-checks/
+redirect_from: /curricula/introduction-to-web-accessibility/principles-standards-and-checks/
 lang: en
 github:
   repository: w3c/wai-curricula

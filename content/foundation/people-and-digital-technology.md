@@ -3,6 +3,7 @@ title: "Module 2: People and Digital Technology"
 nav_title: "People and Digital Technology"
 permalink: /curricula/foundation-modules/people-and-digital-technology/
 ref: /curricula/foundation-modules/people-and-digital-technology/
+redirect_from: /curricula/introduction-to-web-accessibility/people-and-digital-technology
 lang: en
 github:
   repository: w3c/wai-curricula

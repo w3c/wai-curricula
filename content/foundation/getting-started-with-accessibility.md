@@ -3,6 +3,7 @@ title: "Module 5: Getting Started with Accessibility"
 nav_title: "Getting Started with Accessibility"
 permalink: /curricula/foundation-modules/getting-started-with-accessibility/
 ref: /curricula/foundation-modules/getting-started-with-accessibility/
+redirect_from: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility
 lang: en
 github:
   repository: w3c/wai-curricula
