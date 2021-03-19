@@ -256,7 +256,7 @@
         url: "/curricula/developer-modules/custom-widgets/"
       - name: Rich Applications
         url: "/curricula/developer-modules/rich-applications/"
-    - name: Designer Modules
+      - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
       - name: User Research and Requirements

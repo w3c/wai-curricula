@@ -35,13 +35,12 @@ Courses based on this module should:
 
 Students should be able to:
 
-* describe how involving users with disabilities early and throughout in the design and development process can lead to overall improved usability for everybody, including people without disabilities
-* identify different groups of people with disabilities and explain strategies they use to interact with the Web
+* describe how involving users with disabilities early and throughout in the design and development process can lead to better accessibility of websites and applications
+* explain strategies that people with disabilities use to interact with the Web
 * ensure accessibility standards and legal requirements are researched and included in the design phase
 * ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
-* ensure people with disabilities are included in design methodologies and techniques, for example in use cases, user analysis, personas, scenarios, and usability testing
-* ensure informed consent and other ethical considerations in research practice are observed when working with people, including people with disabilities
-* ensure people with disabilities who participate in user research always understand the purpose of the research, and are aware of their right to opt out at any time if so desired
+* ensure people with disabilities are included in user research activities, for example in focus groups, use cases, user analysis, personas, scenarios, and usability testing
+* ensure people with disabilities can provide informed consent, respond to questions, and perform any other activity required of the research process in an accessible way
 
 ## Competencies
 
@@ -63,6 +62,8 @@ Students should be able to:
 * ensure different groups of users with disabilities are included when defining user groups
 * ensure different types of accessibility barriers and features are included in the research phase
 * ensure applicable accessibility guidelines, standards, and policies are included in the research phase
+* determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
+* ensure people with disabilities are involved early and throughout the research processes, including in focus groups, questionnaires, and surveys
 
 ### Topic: Requirements
 
@@ -73,6 +74,8 @@ Students should be able to:
 * ensure different types of user requirements that relate to people with disabilities are considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
 * create personas that include people with different types of disabilities and different levels of experience using the Web
 * create scenarios that include use of the Web or application with different types of assistive technologies and adaptive strategies
+* ensure adequate location is chosen to conduct the activities depending on the activity goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
+* ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
 
 ### Topic: Working with People with Disabilities
 
@@ -80,14 +83,8 @@ Students should be able to:
 
 Students should be able to:
 
-* determine the characteristics of participants in usability testing based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
-* ensure treatment of people with disabilities is respectful and avoids clichés and myths
-* ensure appropriate compensation is provided to people with disabilities
 * ensure people with disabilities understand the purpose of your interviews, surveys, and questionnaires and are comfortable during the research activities
 * ensure people with disabilities can opt out at any time if they desire
-* ensure adequate location is chosen to conduct the tests depending on the test goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
-* ensure adequate timings for participants to carry on tasks is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
-
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:

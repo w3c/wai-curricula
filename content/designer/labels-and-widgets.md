@@ -65,6 +65,19 @@ Students should be able to:
   * labels for radio buttons or checkboxes to the right of the field or below it in left-to-right languages or to the left of the field or below it in right-to-left languages
 * identify related requirements for developers to ensure that labels are programmatically associated to their corresponding user interface component
 
+### Topic: Keyboard Input
+
+* provide designs that support operation with different input devices, such as keyboard
+* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
+* provide keyboard shortcuts that do not conflict with the operating system, browser,  and assistive technology shortcuts
+  
+### Topic: Help and Feedback
+
+#### Learning Outcomes for Topic
+
+* create designs that support mechanisms to queu and prioritize notifications from different user interface compontents and custom widgets
+
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
