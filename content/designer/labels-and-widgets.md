@@ -54,7 +54,7 @@ Topics to achieve the learning outcomes:
 
 ### Topic: Labels and Names
 
-### Learning outcomes for Topic
+#### Learning outcomes for Topic
 
 Students should be able to:
 
