@@ -37,10 +37,10 @@ Students should be able to:
 
 * describe how involving users with disabilities early and throughout in the design and development process can lead to better accessibility of websites and applications
 * explain strategies that people with disabilities use to interact with the Web
-* ensure accessibility standards and legal requirements are researched and included in the design phase
-* ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
+* ensure applicable accessibility requirements, such as standards and  policies, are researched and included in the overall project requirements
 * ensure people with disabilities are included in user research activities, for example in focus groups, use cases, user analysis, personas, scenarios, and usability testing
-* ensure people with disabilities can provide informed consent, respond to questions, and perform any other activity required of the research process in an accessible way
+* ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
+* ensure people with disabilities can provide informed consent, respond to questions, and perform any other activity required by the research process in an accessible way
 
 ## Competencies
 
@@ -77,14 +77,6 @@ Students should be able to:
 * ensure adequate location is chosen to conduct the activities depending on the activity goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
 * ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
 
-### Topic: Working with People with Disabilities
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* ensure people with disabilities understand the purpose of your interviews, surveys, and questionnaires and are comfortable during the research activities
-* ensure people with disabilities can opt out at any time if they desire
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:

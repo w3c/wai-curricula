@@ -261,17 +261,17 @@
       pages:
       - name: User Research and Requirements
         url: /curricula/designer-modules/user-research-and-requirements/
-      - name: Colors, Styles, and Animations
-        url: /curricula/designer-modules/colors-styles-and-animations/
-      - name: Layout and Spacing
-        url: /curricula/designer-modules/layout-and-spacing/
+      - name: Wireframes and Prototypes
+        url: /curricula/designer-modules/wireframes-and-prototypes/
+      - name: Responsive Design
+        url: /curricula/designer-modules/responsive-design/
       - name: Navigation and Input
         url: /curricula/designer-modules/navigation-and-input/
-      - name: Informational Design
-        url: /curricula/designer-modules/informational-design/
-      - name: Instructions and Feedback [TBD]
+      - name: Information Perception
+        url: /curricula/designer-modules/information-perception/
+      - name: Instructions and Feedback
         url: /curricula/designer-modules/instructions-and-feedback/
-      - name: Labels and Widgets [TBD]
+      - name: Labels and Widgets
         url: /curricula/designer-modules/labels-and-widgets/
     - name: Changelog
       url: "/curricula/changelog/"

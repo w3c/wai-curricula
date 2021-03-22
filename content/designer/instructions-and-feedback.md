@@ -30,17 +30,17 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on instructions and feedback to understand and interact with components such as forms and widgets
+* explain how people with disabilities perceive and understand instructions and feedback to  interact with components such as forms and widgets
 * provide overall instructions to help users understand and interact with forms and widgets, such as:
   * allowed data formats
   * required and optional input
   * explanations of what will happen when a change in a control results in a change of context
   * ways to stop and resume sessions
-* provide clear instructions about the current and total number of step and about existing time limits in a form
+* provide clear instructions about the current and total number of steps and about existing time limits in a form
 * provide meaningful and descriptive notification messages about imminent time limits, errors, successes, or any other event resulting from user input
 * ensure that notification messages are easy to understand and can be distinguished from any other component
-* provide suggestions for error correction when they are known
-* provide clear warnings about imminent time limits,, and ensure mechanisms are available to stop and extend time limits
+* provide suggestions for error correction when the suggestions are known
+* provide clear warnings about imminent time limits, and ensure mechanisms are available to stop, adjust, and extend time limits
 * create designs that allow for mechanisms to reverse, check, and confirm submissions in legal or financial transactions
 * identify related requirements for developers to ensure that instructions and feedback can be programmatically associated with their corresponding control or component
 
@@ -63,7 +63,6 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * provide overall instructions to help users understand the purpose and intent of interactive user interface components, such as form fields
-* provide overall instructions about how data should be entered, such as date formats and particular patterns that specific form fields may require
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
   * including text, icons, and color in the label of each of the required form fields that indicates that they are required
@@ -77,11 +76,10 @@ Students should be able to:
 
 Students should be able to:
 
-* ensure notification messages are easy to understand, and can be distinguished from any other user component
-* provide textual information about errors, successes, or any other information resulting from user input 
+* ensure notification messages are easy to understand and can be distinguished from any other user component
+* provide textual information about errors, successes, or any other event resulting from user input 
 * create designs that allow to associate notification messages, errors, and warnings to the component that generated such messages
 * describe related requirements for developers to ensure that notification messages are associated to their corresponding user interface component and can be rendered by assistive technologies
-
 
 ### Topic: Help and Error Prevention
 
@@ -89,8 +87,16 @@ Students should be able to:
 
 Students should be able to:
 
-
-
+* create designs that support identification of form fields with automatically detected errors
+* create designs that support textual descriptions of errors that can be automatically identified
+* provide labels and  instructions about how data should be entered, such as date formats and specific ways to introduce identification and phone numbers
+* create designs that support provision of suggestions for input errors that are automatically detected when these suggestions are known
+* create designs that support reversing, checking, and confirming data entered by the user at least for the following types of information
+  * financial
+  * legal
+  * modifications and deletions of user-controllable data  collected in data storage systems
+  * submissions of user test responses
+* create designs that support context help methods for form fields, such as a "help" link next to the form
 
 ## Ideas to Assess Knowledge for Module
 

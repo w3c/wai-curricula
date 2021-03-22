@@ -33,7 +33,7 @@ Students should be able to:
 * explain strategies that people with disabilities use to navigate and interact with web pages
 * create designs that allow users to bypass blocks of repeated content
 * create designs that allow for multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
-* create designs that allow for mechanisms to stop, adjust, and extend time limits
+* create designs that allow for mechanisms to stop, adjust, and extend time limits, for example time limits in a form or times for which information is shown
 * ensure interactions do not rely solely on multipoint or path-based gestures, such as swipe or pinch
 * ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
 * identify related requirements for developers to ensure that navigational mechanisms can be used with the keyboard and other input devices
@@ -113,7 +113,7 @@ Students should be able to:
 * ensure down event on single pointer gestures:
   * do not perform any action, or
   * have available mechanisms to abort or undo any action carried on
-* create designs that support alternatives to devise or user motion such as shaking, by using user interface components that do not require motion
+* create designs that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
 * ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device
 
 ## Ideas to Assess Knowledge for Module

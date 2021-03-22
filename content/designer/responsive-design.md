@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 3: Layout and Structure"
-nav_title: "Layout and Structure"
-permalink: /curricula/designer-modules/layout-and-structure/
-ref: /curricula/designer-modules/layout-and-structure/
+title: "[Draft] Module 3: Responsive Design"
+nav_title: "Responsive Design"
+permalink: /curricula/designer-modules/responsive-design/
+ref: /curricula/designer-modules/responsive-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/layout-and-structure.md
+  path: content/designer/responsive-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -29,17 +29,16 @@ navigation:
 
 Courses based on this module should:
 
+{% comment %}
+
 * explain how people with disabilities rely on layout and structure to orient themselves in websites and applications
+
+{% endcomment %}
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities use layout and structure to orient themselves in web pages and applications
-* ensure page regions are placed where expected depending on their type and function, for example, page headers  at the top and page footers at the bottom
-* ensure headings describe the topic of the section they entitle
-* identify related requirements for developers to ensure that headings are nested according to the hierarchical structure of the page
-* ensure white space and proximity help users determine the relations between different page regions and contents
 * create designs that allow for target sizes that can be tapped by users with mobility impairments and using different input methods
 * ensure meaningful sequence, content, and functionality are preserved when using different viewport sizes, screen configurations, and devices to access content
 * create designs that allow to preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
@@ -69,17 +68,6 @@ Students should be able to:
   * horizontally at a height equivalent to 256 CSS pixels
 * create designs that allow text resizing up to 200% without loss of content and functionality
 * create designs that allow users to set the orientation to  portrait or landscape, or that include show or hide controls to access contents in portrait and landscape orientations
-
-### Topic: Page Layout
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* provide distinctive styles for each of the page regions, heading levels, and user interface components
-* ensure positioning of page regions falls under user expectations, such as headers at the top, footers at the bottom, and navigation regions at the top left
-* ensure heading levels are used to convey the hierarchical structure of the content
-* ensure heading texts describe the purpose of the section they entitle
 
 ### Topic: Text Spacing
 

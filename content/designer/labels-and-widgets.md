@@ -33,7 +33,7 @@ Students should be able to:
 * provide clear and distinguishable names that allow to identify different types of user interface components
 * ensure that custom widgets have appropriate labels that describe their purpose
 * ensure that meaningful sequence and clear focus indicators for custom widgets are provided through the widget's lifetime
-* create designs for custom widgets that support interaction using multiple input devices, such as keyboard, 
+* create designs for custom widgets that support operation using the keyboard
 * define custom interaction patterns, such as where to place focus when a dialog is open or closed, and what the focus management should be within those dialogs
 * define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to create designs using native HTML elements to the extent possible and describe their benefits in relation to non-native elements
@@ -52,7 +52,7 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Names and Labels
+### Topic: Labels and Names
 
 ### Learning outcomes for Topic
 
@@ -67,16 +67,23 @@ Students should be able to:
 
 ### Topic: Keyboard Input
 
-* provide designs that support operation with different input devices, such as keyboard
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide designs that support operation with the keyboard
 * describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
-* provide keyboard shortcuts that do not conflict with the operating system, browser,  and assistive technology shortcuts
+* identify situations when it may be necessary to provide  additional keyboard shortcuts, for example when designing a custom functionality
+* create designs that allow provision of keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
+* create designs that allow for consistent focus indicators through the whole widget or application lifetime
   
-### Topic: Help and Feedback
+### Topic: Notifications
 
 #### Learning Outcomes for Topic
 
-* create designs that support mechanisms to queu and prioritize notifications from different user interface compontents and custom widgets
-
+* create designs that allow users to switch notifications on or off to avoid 
+* identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
+* create designs that support mechanisms to queue and prioritize application notifications coming from different user interface components and custom widgets
 
 ## Ideas to Assess Knowledge for Module
 
