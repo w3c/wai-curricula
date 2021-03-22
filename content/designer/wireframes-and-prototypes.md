@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/user-research-and-requirements/
-  next: /curricula/designer-modules/layout-and-structure/
+  next: /curricula/designer-modules/responsive-design/
 ---
 
 ## Introduction
@@ -42,15 +42,15 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities identify and distinguish different user interface components based on color properties
+* explain how people with disabilities identify and distinguish different user interface components based on color, structure, layout, pattern, and spacing
 * create designs that allow for adequate contrast ratios between foreground user interface components (such as text, images of text, and controls) and their corresponding background
 * ensure additional mechanisms apart from color alone are available to convey information, such as text cues, patterns, and icons
 * create designs that allow for clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * create designs that allow for mechanisms to pause, stop, and hide any moving, blinking, scrolling, and auto-updating content, such as animations and carousels
 * create designs that allow for mechanisms to stop or control the volume of audio that plays automatically
-* ensure different page regions and user interface components are placed where users expect them and are distinguishable from one another through different ways, such as color, typography, borders, and spacing
-* provide clear and descriptive heading texts that allow users to identify different sections of the web and parts of the content
-* identify related requirements for developers to ensure that headings are nested according to the hierarchical structure of the page
+* ensure different page regions and user interface components are placed where users expect them and are distinguishable from one another through different ways, such as through color, typography, patterns, and spacing
+* provide clear and descriptive heading texts that allow users to identify different sections of the website and parts of the content
+* identify related requirements for developers to ensure that headings are coded appropriately and are nested according to the hierarchical structure of the page
 
 ## Competencies
 
@@ -86,7 +86,7 @@ Students should be able to:
 * ensure that information conveyed through differences in text color is also conveyed using other visual cues, such as underline, bold, and italics
 * ensure that information provided using differences in color is also provided using different patterns, shapes, and icons
 
-### Topic: Context, Movement and Timing
+### Topic: Movement, Timing, and Context
 
 #### Learning Outcomes for Topic
 
@@ -94,17 +94,11 @@ Students should be able to:
 
 * create designs that allow to pause, stop, or hide any content that blinks, moves, or auto-updates
 * ensure flashing content is below the general flash and red flash thresholds
-* create designs that allow content that does not flash more than three times in a second
+* create designs that allow to provide content that does not flash more than three times in a second
 * create designs that allow to disable motion animation triggered by interaction, such as additional animations when scrolling
 * create designs that allow to stop, adjust, or extend any time limit set by the content
 * create designs that support mechanisms to stop or control the volume of any audio that plays automatically for more than 3 seconds
 * create designs that prevent changes of context unless the user is aware of them or has explicitly requested such changes
-
-## Ideas to Assess Knowledge for Module
-
-Optional ideas to support assessment:
-
-[To be developed]
 
 ### Topic: Structure and Layout
 
@@ -115,7 +109,13 @@ Students should be able to:
 * provide distinctive styles for each of the page regions, heading levels, and user interface components
 * ensure positioning of page regions falls under user expectations, such as headers at the top, footers at the bottom, and navigation regions at the top left
 * ensure heading levels are used to convey the hierarchical structure of the content
-* ensure heading texts describe the purpose of the section they entitle
+* identify related requirements for developers to ensure headings are coded appropriately, perceived by assistive technologies, and nested according to the specifications
+
+## Ideas to Assess Knowledge for Module
+
+Optional ideas to support assessment:
+
+[To be developed]
 
 ## Teaching Resources
 
