@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/
-  next: /curricula/designer-modules/colors-styles-and-animations/
+  next: /curricula/designer-modules/wireframes-and-prototypes/
 ---
 
 ## Introduction
@@ -37,7 +37,7 @@ Students should be able to:
 
 * describe how involving users with disabilities early and throughout in the design and development process can lead to better accessibility of websites and applications
 * explain strategies that people with disabilities use to interact with the Web
-* ensure applicable accessibility requirements, such as standards and  policies, are researched and included in the overall project requirements
+* ensure applicable accessibility requirements, such as those collected in standards and  policies, are researched and included in the overall project requirements
 * ensure people with disabilities are included in user research activities, for example in focus groups, use cases, user analysis, personas, scenarios, and usability testing
 * ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
 * ensure people with disabilities can provide informed consent, respond to questions, and perform any other activity required by the research process in an accessible way
@@ -58,10 +58,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with web pages and applications
-* ensure different groups of users with disabilities are included when defining user groups
+* explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
+* ensure different types of disabilities are included when defining user groups
 * ensure different types of accessibility barriers and features are included in the research phase
-* ensure applicable accessibility guidelines, standards, and policies are included in the research phase
+* ensure research is conducted on accessibility guidelines, standards, and policies to define and include accessibility requirements in the overall project requirements
 * determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
 * ensure people with disabilities are involved early and throughout the research processes, including in focus groups, questionnaires, and surveys
 
@@ -73,9 +73,9 @@ Students should be able to:
 
 * ensure different types of user requirements that relate to people with disabilities are considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
 * create personas that include people with different types of disabilities and different levels of experience using the Web
-* create scenarios that include use of the Web or application with different types of assistive technologies and adaptive strategies
+* create scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 * ensure adequate location is chosen to conduct the activities depending on the activity goals, assistive technology needs, custom setups, transportation means, accessibility of the facilities, and others
-* ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the web or application
+* ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the website or application
 
 ## Ideas to Assess Knowledge for Module
 
