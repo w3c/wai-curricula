@@ -15,7 +15,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/designer-modules/layout-and-structure/
+  previous: /curricula/designer-modules/responsive-design/
   next: /curricula/designer-modules/instructions-and-feedback/
 ---
 
@@ -30,15 +30,13 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to navigate and interact with web pages
+* explain strategies that people with disabilities use to navigate and interact with web pages and applications
 * create designs that allow users to bypass blocks of repeated content
 * create designs that allow for multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
-* create designs that allow for mechanisms to stop, adjust, and extend time limits, for example time limits in a form or times for which information is shown
-* ensure interactions do not rely solely on multipoint or path-based gestures, such as swipe or pinch
+* create designs that allow users to stop, adjust, and extend  existing time limits set by the content
+* ensure input modalities do not rely solely on multipoint or path-based gestures, such as swipe or pinch
 * ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
 * identify related requirements for developers to ensure that navigational mechanisms can be used with the keyboard and other input devices
-
-{% include excol.html type="all" %}
 
 ## Competencies
 
@@ -90,9 +88,9 @@ Students should be able to:
   * a link at the beginning of a block of repeated content to go to the end of the block 
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
-* create designs that support site maps to provide an overview of the entire site
+* create designs that support site maps to provide an overview of the entire website
 * create designs that support breadcrumb trails to provide information about the user's location in a set of web pages
-* create designs that support table of contents to give an overview of the whole site or document and to allow users to go to specific parts of the content
+* create designs that support table of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
 ### Topic: Enough Time
 
@@ -100,12 +98,14 @@ Students should be able to:
 
 Students should be able to:
 
-* create designs that allow users to turn off existing time limits
-* create designs that allow users to adjust existing time limits up to at least ten times the original setting
-* create designs that support extending existing time limits by warning the user at least twenty seconds before the time limit expires
+* create designs that allow users to turn off time limits, for example time limits in a form or times for which information is shown
+* create designs that allow users to adjust existing time limits up to at least 10 times the original setting
+* create designs that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
 * ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
 
 ### Topic: Input Modalities
+
+#### Learning Outcomes for Topic
 
 Students should be able to:
 
