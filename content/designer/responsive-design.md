@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/color-and-movement/
+  previous: /curricula/designer-modules/wireframes-and-prototypes/
   next: /curricula/designer-modules/navigation-and-input/
 ---
 
@@ -29,16 +29,13 @@ navigation:
 
 Courses based on this module should:
 
-{% comment %}
-
-* explain how people with disabilities rely on layout and structure to orient themselves in websites and applications
-
-{% endcomment %}
+[To be developed.]
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
+* explain how people with disabilities use different screen sizes, screen configurations, and style sheets to access websites and applications
 * create designs that allow for target sizes that can be tapped by users with mobility impairments and using different input methods
 * ensure meaningful sequence, content, and functionality are preserved when using different viewport sizes, screen configurations, and devices to access content
 * create designs that allow to preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
@@ -55,21 +52,20 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Responsive Design
+### Topic: Zooming, Scrolling, and Resizing
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* create designs that preserve content and functionality when accessed using a variety of screen sizes and configurations
-* ensure target sizes that are at least 44 by 44 CSS pixels
+* create designs that preserve content and functionality when accessed using a variety of screen sizes, screen configurations, and style sheets
 * ensure content can be presented without loss of information and functionality, and that accessing such content does not require two-dimensional scrolling:
-  * vertically at a width equivalent to 320 CSS pixels
-  * horizontally at a height equivalent to 256 CSS pixels
+  * verticall (at a width equivalent to 320 CSS pixels)
+  * horizontall (at a height equivalent to 256 CSS pixels)
 * create designs that allow text resizing up to 200% without loss of content and functionality
 * create designs that allow users to set the orientation to  portrait or landscape, or that include show or hide controls to access contents in portrait and landscape orientations
 
-### Topic: Text Spacing
+### Topic: Targets and Spacing
 
 #### Learning Outcomes for Topic
 
@@ -79,6 +75,7 @@ Students should be able to:
   * line spacing -- to at least 1.5 times the font size
   * spacing following paragraphs -- to at least 2 times the font size
   * Letter spacing (tracking) -- to at least 0.12 times the font size
+* ensure target sizes that are at least 44 by 44 CSS pixels
 
 ## Ideas to Assess Knowledge for Module
 
