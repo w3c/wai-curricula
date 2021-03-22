@@ -265,10 +265,10 @@
         url: /curricula/designer-modules/wireframes-and-prototypes/
       - name: Responsive Design
         url: /curricula/designer-modules/responsive-design/
-      - name: Navigation and Input
-        url: /curricula/designer-modules/navigation-and-input/
       - name: Information Perception
         url: /curricula/designer-modules/information-perception/
+      - name: Navigation and Input
+        url: /curricula/designer-modules/navigation-and-input/
       - name: Instructions and Feedback
         url: /curricula/designer-modules/instructions-and-feedback/
       - name: Labels and Widgets

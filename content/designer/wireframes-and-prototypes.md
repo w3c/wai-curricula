@@ -31,18 +31,11 @@ Courses based on this module should:
 
 [To be developed.]
 
-{% comment %}
-
-* demonstrate how people with disabilities read and understand information in websites and applications based on color properties
-* explain how different types of content movement (such as blinking and scrolling) affect the ability of people with disabilities to perceive information
-
-{% endcomment %}
-
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities identify and distinguish different user interface components based on color, structure, layout, pattern, and spacing
+* explain how people with disabilities identify and distinguish user interface components based on different features such as color, structure, layout, pattern, and spacing
 * create designs that allow for adequate contrast ratios between foreground user interface components (such as text, images of text, and controls) and their corresponding background
 * ensure additional mechanisms apart from color alone are available to convey information, such as text cues, patterns, and icons
 * create designs that allow for clear and distinguishable focus indicators, for example using borders, background color, and highlighting
@@ -104,7 +97,7 @@ Students should be able to:
 
 Students should be able to:
 
-* provide distinctive styles for each of the page regions, heading levels, and user interface components
+* provide distinctive styles and descriptive names for each of the page regions, heading levels, and user interface components
 * ensure positioning of page regions falls under user expectations, such as headers at the top, footers at the bottom, and navigation regions at the top left
 * ensure heading levels are used to convey the hierarchical structure of the content
 * identify related requirements for developers to ensure headings are coded appropriately, perceived by assistive technologies, and nested according to the specifications
