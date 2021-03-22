@@ -67,7 +67,7 @@ Students should be able to:
   * including information about each of the required form fields before the form control
   * including text, icons, and color in the label of each of the required form fields that indicates that they are required
 * provide clear instructions of changes in context that happen when there is a change  on a control before the control, for example when launching a new window when the user checks a check box or selects a list item
-* provide overall instructions about existing time limits in a form and about how they can be turned of,, adjusted, or extended
+* provide overall instructions about existing time limits in a form and about how they can be turned off, adjusted, or extended
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
 
 ### Topic: Feedback and Notifications

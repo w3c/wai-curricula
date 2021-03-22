@@ -30,7 +30,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on different means, structures, and techniques for preceiving information, such as textual, graphical, tabular, audio, or video information
+* explain how people with disabilities rely on different means, structures, and techniques for perceiving information, such as textual, graphical, tabular, audio, or video information
 * identify and describe different uses of text, such as for labels, static content, or dynamic messages
 * describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
 * identify and describe different types of images from an accessibility perspective, such as informative, textual, decorative, functional, and complex images
@@ -92,7 +92,7 @@ Students should be able to:
 
 #### Learning Outcomes for Topic
 
-Students should be able toÑ
+Students should be able to:
 
 * define the following types of tables from an accessibility perspective
   * simple
