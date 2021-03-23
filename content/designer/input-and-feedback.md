@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 6: Input and Feedback"
+title: "[Draft] Module 7: Input and Feedback"
 nav_title: "Input and Feedback"
 permalink: /curricula/designer-modules/instructions-and-feedback/
 ref: /curricula/designer-modules/instructions-and-feedback/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/instructions-and-feedback.md
+  path: content/designer/input-and-feedback.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

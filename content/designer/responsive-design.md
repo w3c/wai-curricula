@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 3: Responsive Design"
+title: "[Draft] Module 6: Responsive Design"
 nav_title: "Responsive Design"
 permalink: /curricula/designer-modules/responsive-design/
 ref: /curricula/designer-modules/responsive-design/
@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/wireframes-and-prototypes/
-  next: /curricula/designer-modules/navigation-and-input/
+  previous: /curricula/designer-modules/multimedia-and-animations/
+  next: /curricula/designer-modules/widgets-interaction-and-feedback/
 ---
 
 ## Introduction

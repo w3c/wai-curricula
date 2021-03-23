@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Navigation and Orientation"
+title: "[Draft] Module 3: Navigation and Orientation"
 nav_title: "Navigation and Orientation"
 permalink: /curricula/designer-modules/navigation-and-orientation/
 ref: /curricula/designer-modules/navigation-and-orientation/

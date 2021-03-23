@@ -259,20 +259,22 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: User Research and Requirements
-        url: /curricula/designer-modules/user-research-and-requirements/
-      - name: Wireframes and Prototypes
-        url: /curricula/designer-modules/wireframes-and-prototypes/
+      - name: Inclusive Design
+        url: /curricula/designer-modules/inclusuive-design/
+      - name: Page Layout
+        url: /curricula/designer-modules/page-layout/
+      - name: Navigation and Orientation
+        url: /curricula/designer-modules/navigation-and-orientation/
+      - name: "Images"
+        url: /curricula/designer-modules/images/
+      - name: "Multimedia and Animations"
+        url: /curricula/designer-modules/multimedia-and-animations/
       - name: Responsive Design
+        url: /curricula/input-and-feedback/
+      - name: "Input and Feedback"
         url: /curricula/designer-modules/responsive-design/
-      - name: Information Perception
-        url: /curricula/designer-modules/information-perception/
-      - name: Navigation and Input
-        url: /curricula/designer-modules/navigation-and-input/
-      - name: Instructions and Feedback
-        url: /curricula/designer-modules/instructions-and-feedback/
-      - name: Labels and Widgets
-        url: /curricula/designer-modules/labels-and-widgets/
+      - name: Widgets and Interaction
+          url: /curricula/designerr-modules/widgets-and-interaction
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
