@@ -1,6 +1,6 @@
 ---
-title: "[Draft] Module 6: Instructions and Feedback"
-nav_title: "Instructions and Feedback"
+title: "[Draft] Module 6: Input and Feedback"
+nav_title: "Input and Feedback"
 permalink: /curricula/designer-modules/instructions-and-feedback/
 ref: /curricula/designer-modules/instructions-and-feedback/
 lang: en
@@ -30,7 +30,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities perceive and understand instructions and feedback to  interact with components such as forms and widgets
+* explain how people with disabilities  perceive and understand  feedback to  interact with components such as forms and widgets
 * provide overall instructions to help users understand and interact with forms and widgets, such as:
   * allowed data formats
   * required and optional input
@@ -42,7 +42,7 @@ Students should be able to:
 * provide suggestions for error correction when the suggestions are known
 * provide clear warnings about imminent time limits, and ensure mechanisms are available to stop, adjust, and extend time limits
 * create designs that allow for mechanisms to reverse, check, and confirm submissions in legal or financial transactions
-* identify related requirements for developers to ensure that instructions and feedback can be programmatically associated with their corresponding control or component
+* identify related requirements for developers to ensure that feedback can be programmatically associated with their corresponding control or component
 
 {% include excol.html type="all" %}
 

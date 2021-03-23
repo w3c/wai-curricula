@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 7: Labels and Widgets"
-nav_title: "Labels and Widgets"
-permalink: /curricula/designer-modules/labels-and-widgets/
-ref: /curricula/designer-modules/labels-and-widgets/
+title: "[Draft] Module 7: Widgets and Interaction"
+nav_title: "Widgets and Interaction"
+permalink: /curricula/designer-modules/widgets-and-interaction/
+ref: /curricula/designer-modules/widgets-and-interaction/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/labels-and-widgets.md
+  path: content/designer/widgets-and-interaction.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -33,6 +33,7 @@ Students should be able to:
 * provide clear and distinguishable names that allow to identify different types of user interface components
 * ensure that custom widgets have appropriate labels that describe their purpose
 * ensure that meaningful sequence and clear focus indicators for custom widgets are provided through the widget's lifetime
+* create designs that allow for mechanisms to pause, stop, and hide any moving, blinking, scrolling, auto-updating, and auto-playing content, such as animations, carousels, or auto-playing audio
 * create designs for custom widgets that support operation using the keyboard
 * define custom interaction patterns, such as where to place focus when a dialog is open or closed, and what the focus management should be within those dialogs
 * define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
@@ -77,6 +78,19 @@ Students should be able to:
 * create designs that allow provision of keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
 * create designs that allow for consistent focus indicators through the whole widget or application lifetime
   
+### Topic: Movement and Context
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* create designs that allow to pause, stop, or hide any content that blinks, moves, or auto-updates
+* ensure flashing content is below the general flash and red flash thresholds
+* create designs that allow to provide content that does not flash more than three times in a second
+* create designs that allow to disable motion animation triggered by interaction, such as additional animations when scrolling
+* create designs that support mechanisms to stop or control the volume of any audio that plays automatically for more than 3 seconds
+* create designs that prevent changes of context unless the user is aware of them or has explicitly requested such changes
+
 ### Topic: Notifications
 
 #### Learning Outcomes for Topic
