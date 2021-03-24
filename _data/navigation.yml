@@ -270,7 +270,7 @@
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Responsive Design
-        url: "/curricula/responsive-design/"
+        url: "/curricula/designer-modules/responsive-design/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
     - name: Changelog
