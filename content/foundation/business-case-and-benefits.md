@@ -3,7 +3,6 @@ title: "Module 3: Business Case and Benefits"
 nav_title: "Business Case and Benefits"
 permalink: /curricula/foundation-modules/business-case-and-benefits/
 ref: /curricula/foundation-modules/business-case-and-benefits/
-redirect_from: /curricula/introduction-to-web-accessibility/business-case-and-benefits/
 lang: en
 github:
   repository: w3c/wai-curricula
