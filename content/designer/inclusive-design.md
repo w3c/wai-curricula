@@ -81,14 +81,13 @@ Students should be able to:
 
 Students should be able to:
 
-* ensure people with disabilities are involved in all design process where testing is required, for example in testing prototypes and usability testing
-* ensure adequate location is chosen to conduct the activities depending on:
+* ensure people with disabilities are involved in all design process where testing is required, for example in testing prototypes, iterative testing phases, and  usability testing
+* ensure adequate location is chosen to conduct the activities, for example depending on:
   * accessibility of the facilities
   * assistive technology needs
   * custom setups
   * activity goals
   * accessibility of transportation means
-  * and others
 * ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the website or application
 
 ## Ideas to Assess Knowledge for Module
