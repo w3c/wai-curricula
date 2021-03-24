@@ -274,7 +274,7 @@
       - name: "Input and Feedback"
         url: /curricula/designer-modules/responsive-design/
       - name: Widgets and Interaction
-          url: /curricula/designerr-modules/widgets-and-interaction
+          url: "/curricula/designer-modules/widgets-and-interaction/
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
