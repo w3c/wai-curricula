@@ -34,8 +34,6 @@ Students should be able to:
 * create designs that allow users to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
 * create designs that allow for multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
 * create designs that allow users to stop, adjust, and extend  existing time limits set by the content
-* ensure input modalities do not rely solely on multipoint or path-based gestures, such as swipe or pinch
-* ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
 * identify related requirements for developers to ensure that navigational mechanisms can be used with the keyboard and other input devices
 
 ## Competencies
@@ -114,31 +112,6 @@ Students should be able to:
 * create designs that allow users to adjust existing time limits up to at least 10 times the original setting
 * create designs that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
 * ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-### Topic: Input Modalities
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* ensure down event on single pointer gestures:
-  * do not perform any action, or
-  * have available mechanisms to abort or undo any action carried on
-* create designs that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
-* ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device
 
 #### Teaching Ideas for Topic
 

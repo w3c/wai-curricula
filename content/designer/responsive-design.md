@@ -41,6 +41,8 @@ Students should be able to:
 * create designs that allow to preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
 * create designs that allow text resizing without loss of content and functionality
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
+* ensure input modalities do not rely solely on multipoint or path-based gestures, such as swipe or pinch
+* ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
 
 ## Competencies
 
@@ -88,6 +90,31 @@ Students should be able to:
   * spacing following paragraphs -- to at least 2 times the font size
   * Letter spacing (tracking) -- to at least 0.12 times the font size
 * ensure target sizes that are at least 44 by 44 CSS pixels
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Input Modalities
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* ensure down event on single pointer gestures:
+  * do not perform any action, or
+  * have available mechanisms to abort or undo any action carried on
+* create designs that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
+* ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device
 
 #### Teaching Ideas for Topic
 
