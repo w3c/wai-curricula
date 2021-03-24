@@ -30,7 +30,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to navigate and orientate themselves in web pages and applications
+* explain strategies that people with disabilities use to navigate and orient themselves in web pages and applications
 * create designs that allow users to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
 * create designs that allow for multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
 * create designs that allow users to stop, adjust, and extend  existing time limits set by the content
