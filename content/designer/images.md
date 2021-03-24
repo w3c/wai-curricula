@@ -60,6 +60,18 @@ Students should be able to:
   * complex
 * create designs that support use of text when the information presented is intended to be read as text, instead of using images of text
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Text Alternatives
 
 #### Learning Outcomes for Topic
@@ -70,6 +82,29 @@ Students should be able to:
 * provide descriptive textual information for the following types of graphical information:
   * those that are part of tests or exercises that would be invalid if presented in text
   * those that are primarily intended to create a specific sensory experience
-* provide text alternatives that identify and describe the purpose of graphical elements that are used to confirm that content is accessed by a person rather than a computer, such as captcha
+* provide text alternatives that identify and describe the purpose of captcha and other graphical elements used to confirm that content is accessed by a person rather than a computer
 * provide several modalities of captcha that rely on different sensory characteristics, such as visual or auditory
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+## Ideas to Assess Knowledge for Module
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+## Teaching Resources
+
+Suggested resources to support your teaching:
+
+[To be developed]

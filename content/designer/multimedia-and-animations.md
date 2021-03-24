@@ -62,7 +62,19 @@ Students should be able to
 * create designs that allow to provide captions and audio descriptions for any prerecorded and live audio content in synchronized media
 * create designs that allow to provide sign language interpretation for all prerecorded audio content in synchronized media
 
-### Topic: Animations
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Movement and Animations
 
 #### Learning Outcomes for Topic
 

@@ -38,9 +38,9 @@ Students should be able to:
 * describe how involving users with disabilities early and throughout in the design and development process can lead to better accessibility of websites and applications
 * explain strategies that people with disabilities use to interact with the Web
 * ensure applicable accessibility requirements, such as those collected in standards and  policies, are researched and included in the overall project requirements
-* ensure people with disabilities are included in user research activities, for example in focus groups,  personas, scenarios, and usability testing
-* ensure that collected user input in user research includes different groups of users with disabilities and various levels of experience using the Web
-* ensure people with disabilities can provide informed consent, respond to questions, and perform any other activity required by the research process in an accessible way
+* ensure people with disabilities are included in different design and development processes and stages, for example in focus groups,  personas, scenarios, and usability testing
+* ensure that collected user input includes different groups of users with disabilities and various levels of experience using the Web
+* ensure people with disabilities can provide informed consent, respond to questions, and otherwise participate in the design and development processes in an accessible way
 
 ## Competencies
 
@@ -65,15 +65,39 @@ Students should be able to:
 * determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
 * ensure people with disabilities are involved early and throughout the research processes, including in focus groups, questionnaires, and surveys
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Gathering Requirements
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* ensure different types of user requirements that relate to people with disabilities are considered, for example adequate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
+* ensure different types of user requirements that relate to people with disabilities are considered, for example appropriate contrast ratios, availability of content and functionality in different screen sizes and configurations, keyboard compatibility, and use with assistive technologies and adaptive strategies
 * create personas that include people with different types of disabilities and different levels of experience using the Web
 * create scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ### Topic: Testing
 
@@ -81,14 +105,25 @@ Students should be able to:
 
 Students should be able to:
 
-* ensure people with disabilities are involved in all design process where testing is required, for example in testing prototypes, iterative testing phases, and  usability testing
-* ensure adequate location is chosen to conduct the activities, for example depending on:
-  * accessibility of the facilities
+* ensure people with disabilities are involved in all stages where testing is scheduled, for example in testing prototypes, iterative testing phases, and  usability testing
+* ensure the following factors are taken into account when testing needs to be conducted at a specific location:
+  * location and accessibility of the facilities
   * assistive technology needs
-  * custom setups
-  * activity goals
+  * custom setups that users may require
   * accessibility of transportation means
-* ensure adequate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the website or application
+* ensure appropriate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the website or application
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ## Ideas to Assess Knowledge for Module
 

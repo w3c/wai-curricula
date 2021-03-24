@@ -92,6 +92,18 @@ Students should be able to:
 * create designs that support breadcrumb trails to provide information about the user's location in a set of web pages
 * create designs that support table of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Enough Time
 
 #### Learning Outcomes for Topic
@@ -102,6 +114,18 @@ Students should be able to:
 * create designs that allow users to adjust existing time limits up to at least 10 times the original setting
 * create designs that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
 * ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ### Topic: Input Modalities
 
@@ -115,6 +139,18 @@ Students should be able to:
   * have available mechanisms to abort or undo any action carried on
 * create designs that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
 * ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ## Ideas to Assess Knowledge for Module
 

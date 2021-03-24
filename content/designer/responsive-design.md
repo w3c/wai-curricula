@@ -65,6 +65,18 @@ Students should be able to:
 * create designs that allow text resizing up to 200% without loss of content and functionality
 * create designs that allow users to set the orientation to  portrait or landscape, or that include show or hide controls to access contents in portrait and landscape orientations
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Targets and Spacing
 
 #### Learning Outcomes for Topic
@@ -76,6 +88,18 @@ Students should be able to:
   * spacing following paragraphs -- to at least 2 times the font size
   * Letter spacing (tracking) -- to at least 0.12 times the font size
 * ensure target sizes that are at least 44 by 44 CSS pixels
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ## Ideas to Assess Knowledge for Module
 

@@ -52,6 +52,30 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
+### Topic: Keyboard Input
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide designs that support operation with the keyboard
+* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
+* identify situations when it may be necessary to provide  additional keyboard shortcuts, for example when designing a custom functionality
+* create designs that allow provision of keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
+* create designs that allow for consistent focus indicators through the whole widget or application lifetime
+  
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Labels and Instructions
 
 #### Learning outcomes for Topic
@@ -70,18 +94,17 @@ Students should be able to:
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
 * identify related requirements for developers to ensure that labels and instructions are programmatically associated to their corresponding user interface component
 
-### Topic: Feedback and Notifications
+#### Teaching Ideas for Topic
 
-#### Learning Outcomes for Topic
+Optional ideas to teach the learning outcomes:
 
-Students should be able to:
+[To be developed.]
 
-* ensure notification messages are easy to understand and can be distinguished from any other user interface component
-* provide textual information about errors, successes, or any other event resulting from user input 
-* create designs that allow to switch notifications on or off to allow notifications processing at the users pace
-* identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
-* create designs that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
-* describe related requirements for developers to ensure that notification messages are associated to their corresponding user interface component and can be rendered by assistive technologies
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
 
 ### Topic: Help and Error Prevention
 
@@ -100,18 +123,43 @@ Students should be able to:
   * submissions of user test responses
 * create designs that support context help methods for form fields, such as a "help" link next to the form
 
-### Topic: Keyboard Input
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Feedback and Notifications
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* provide designs that support operation with the keyboard
-* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
-* identify situations when it may be necessary to provide  additional keyboard shortcuts, for example when designing a custom functionality
-* create designs that allow provision of keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
-* create designs that allow for consistent focus indicators through the whole widget or application lifetime
-  
+* ensure notification messages are easy to understand and can be distinguished from any other user interface component
+* provide textual information about errors, successes, or any other event resulting from user input 
+* create designs that allow to switch notifications on or off to allow notifications processing at the users pace
+* identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
+* create designs that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
+* describe related requirements for developers to ensure that notification messages are associated to their corresponding user interface component and can be rendered by assistive technologies
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
