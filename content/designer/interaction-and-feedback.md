@@ -29,11 +29,11 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to identify, operate, and interact with user interface components, such as forms and custom widgets
-* provide clear and distinguishable names and instructions that allow to identify user interface components, such as form fields and custom widgets
-* provide meaningful and descriptive notification messages about imminent time limits, errors, suggestions for corrections, successes, or any other event resulting from user input
-* ensure that meaningful sequence and clear focus indicators for user interface components are provided
+* explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components, such as forms and custom widgets
 * ensure all interactive user interface components can be operated using the keyboard
+* provide clear and distinguishable names and instructions that allow to identify interactive user interface components, such as form fields and custom widgets
+* provide meaningful and descriptive notification messages about imminent time limits, errors, suggestions for corrections, successes, or any other event resulting from user input
+* create designs that allow for interactive user interface components to have meaningful sequence and clear focus indicators both individually and when operated in the  context of a rich application
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to create designs using native HTML elements to the extent possible and describe their benefits in relation to non-native elements
@@ -58,7 +58,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* provide overall labels and instructions to help users understand the purpose and intent of interactive user interface components, such as form fields and custom widgets
+* provide overall labels and instructions to help users understand the purpose and intent of interactive user interface components, such as names for form fields and custom widgets and instructions about how to operate custom widgets
 * create designs that allow to position labels where users expect them, for example
   * labels for form fields to the left of the field or above in left-to-right languages, or to the right of the field or above it in right-to-left languages
   * labels for radio buttons or checkboxes to the right of the field or below it in left-to-right languages or to the left of the field or below it in right-to-left languages
@@ -80,7 +80,7 @@ Students should be able to:
 * provide textual information about errors, successes, or any other event resulting from user input 
 * create designs that allow to switch notifications on or off to allow notifications processing at the users pace
 * identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
-* create designs that support mechanisms to queue and prioritize application notifications coming from different user interface components and custom widgets
+* create designs that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
 * describe related requirements for developers to ensure that notification messages are associated to their corresponding user interface component and can be rendered by assistive technologies
 
 ### Topic: Help and Error Prevention
