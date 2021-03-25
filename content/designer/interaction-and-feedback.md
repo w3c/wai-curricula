@@ -15,7 +15,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/designer-modules/responsive-design/
+  previous: /curricula/designer-modules/multimedia-and-animations/
 ---
 
 ## Introduction
@@ -37,7 +37,7 @@ Students should be able to:
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to use native HTML elements to the extent possible and describe their benefits in relation to non-native elements
-* identify related requirements for developers to ensure that properties of custom user interrface components, such as names, states, and instructions are perceived visually  and can be programmaticaly determined
+* identify related requirements for developers to ensure that properties of custom user interface components, such as names, states, and instructions are perceived visually  and can be programmatically determined
 * identify related requirements for developers to write code for specific keyboard interactions that custom widgets may require
 
 {% include excol.html type="all" %}
@@ -142,7 +142,7 @@ Optional ideas to support assessment:
 Students should be able to:
 
 * ensure notification messages are easy to understand and can be distinguished from any other user interface component
-* provide textual information about errors, successes, or any other event resulting from user input 
+* provide textual information about errors, successes, or any other event resulting from user input
 * create designs that allow to switch notifications on or off to allow notifications processing at the users pace
 * identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
 * create designs that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
@@ -171,4 +171,3 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed]
-

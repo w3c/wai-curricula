@@ -82,8 +82,8 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * create designs that support skipping blocks of repeated content providing at least one of the following:
-  * a link at the top of each page that goes directly to the main content area 
-  * a link at the beginning of a block of repeated content to go to the end of the block 
+  * a link at the top of each page that goes directly to the main content area
+  * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
 * create designs that support site maps to provide an overview of the entire website
@@ -136,4 +136,3 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed]
-

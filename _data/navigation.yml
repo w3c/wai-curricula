@@ -267,10 +267,10 @@
         url: "/curricula/designer-modules/navigation-and-orientation/"
       - name: Images
         url: "/curricula/designer-modules/images/"
-      - name: Multimedia and Animations
-        url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Responsive Design
         url: "/curricula/designer-modules/responsive-design/"
+      - name: Multimedia and Animations
+        url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
     - name: Changelog

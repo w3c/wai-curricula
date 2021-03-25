@@ -106,7 +106,7 @@ Optional ideas to support assessment:
 Students should be able to:
 
 * ensure people with disabilities are involved in all stages where testing is scheduled, for example in testing prototypes, iterative testing phases, and  usability testing
-* ensure the following factors are taken into account when testing needs to be conducted at a specific location:
+* ensure the following factors are considered when testing needs to be conducted at a specific location:
   * location and accessibility of the facilities
   * assistive technology needs
   * custom setups that users may require

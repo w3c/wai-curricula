@@ -16,10 +16,11 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/navigation-and-orientation/
-  next: /curricula/designer-modules/multimedia-and-animations/
+  next: /curricula/designer-modules/responsive-design/
 ---
 
 ## Introduction
+{:.no-display}
 
 Courses based on this module should:
 
@@ -35,7 +36,7 @@ Students should be able to:
 * provide appropriate text alternatives for images included in the design phase, such as logos or graphical components
 * provide text that allows users to identify graphical interactive elements such as links or menu items
 * describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
-* create designs that allow to provide accurate descriptions for components such as charts or infographics
+* create designs that allow to provide accurate descriptions for components such as charts or diagrams
 * identify related requirements for developers to ensure alternatives and descriptions are programmatically associated to their corresponding component
 
 ## Competencies

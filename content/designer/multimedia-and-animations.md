@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Multimedia and Animations"
+title: "[Draft] Module 6: Multimedia and Animations"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/
@@ -15,8 +15,8 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/designer-modules/images/
-  next: /curricula/designer-modules/responsive-design/
+  previous: /curricula/designer-modules/responsive-design/
+  next: /curricula/designer-modules/interaction-and-feedback
 ---
 
 ## Introduction
