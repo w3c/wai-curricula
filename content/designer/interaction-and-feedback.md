@@ -36,7 +36,7 @@ Students should be able to:
 * create designs that allow for interactive user interface components to have meaningful sequence and clear focus indicators both individually and when operated in the  context of a rich application
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
-* identify related requirements for developers to create designs using native HTML elements to the extent possible and describe their benefits in relation to non-native elements
+* identify related requirements for developers to use native HTML elements to the extent possible and describe their benefits in relation to non-native elements
 * identify related requirements for developers to ensure that properties of custom user interrface components, such as names, states, and instructions are perceived visually  and can be programmaticaly determined
 * identify related requirements for developers to write code for specific keyboard interactions that custom widgets may require
 

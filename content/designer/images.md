@@ -29,6 +29,8 @@ Courses based on this module should:
 
 Students should be able to:
 
+* explain how people with disabilities obtain information contained in images through different methods, such as through text alternatives and descriptions
+* explain how images can help some groups of people with disabilities better understand the context and functionality of user interface components
 * identify and describe different types of images from an accessibility perspective, such as informative, textual, decorative, functional, and complex images
 * provide appropriate text alternatives for images included in the design phase, such as logos or graphical components
 * provide text that allows users to identify graphical interactive elements such as links or menu items
@@ -78,10 +80,30 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* provide names for controls and components that accept user input, for example search, print, and save buttons
+* provide short text that serves as brief description of complex non textual pieces of information, such as charts or diagrams
 * provide descriptive textual information for the following types of graphical information:
   * those that are part of tests or exercises that would be invalid if presented in text
   * those that are primarily intended to create a specific sensory experience
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Functional Images
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide short text alternatives for controls and components that accept user input, for example search, print, and save buttons
 * provide text alternatives that identify and describe the purpose of captcha and other graphical elements used to confirm that content is accessed by a person rather than a computer
 * provide several modalities of captcha that rely on different sensory characteristics, such as visual or auditory
 

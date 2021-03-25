@@ -40,7 +40,7 @@ Students should be able to:
 * ensure additional mechanisms apart from color alone are available to convey information, such as text cues, patterns, and icons
 * create designs that allow for clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * ensure different page regions and user interface components are placed where users expect them and are distinguishable from one another through different ways, such as through color, typography, patterns, and spacing
-* provide clear and descriptive heading texts that allow users to identify different sections of the website and parts of the content
+* provide clear and descriptive heading texts that allow users to identify different sections of the web page and parts of the content
 * identify related requirements for developers to ensure that headings are coded appropriately and are nested according to the hierarchical structure of the page
 
 ## Competencies
@@ -108,7 +108,7 @@ Optional ideas to support assessment:
 Students should be able to:
 
 * provide distinctive styles and descriptive names for each of the page regions, headings, and for individual user interface components such as links, buttons, or form fields
-* ensure positioning of page regions falls under user expectations, such as headers at the top, footers at the bottom, and navigation regions at the top left
+* ensure positioning of page regions falls under user expectations, such as headers at the top, footers at the bottom, and navigation regions at the top left in a desktop view
 * ensure appropriate heading levels are used to convey the hierarchical structure of the content
 * identify related requirements for developers to ensure headings are coded appropriately, perceived by assistive technologies, and nested according to the specifications
 
