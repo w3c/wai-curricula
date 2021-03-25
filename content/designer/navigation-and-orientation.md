@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/page-layout/
-  next: /curricula/designer-modules/images/
+  next: /curricula/designer-modules/information-design/
 ---
 
 ## Introduction

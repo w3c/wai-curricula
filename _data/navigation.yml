@@ -265,14 +265,16 @@
         url: "/curricula/designer-modules/page-layout/"
       - name: Navigation and Orientation
         url: "/curricula/designer-modules/navigation-and-orientation/"
+      - name: Information Design
+        url: "curricula/designer-modules/information-design"
       - name: Images
         url: "/curricula/designer-modules/images/"
-      - name: Responsive Design
-        url: "/curricula/designer-modules/responsive-design/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
+      - name: Responsive Design
+        url: "/curricula/designer-modules/responsive-design/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
