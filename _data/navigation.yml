@@ -266,7 +266,7 @@
       - name: Navigation and Orientation
         url: "/curricula/designer-modules/navigation-and-orientation/"
       - name: Information Design
-        url: "curricula/designer-modules/information-design"
+        url: "/curricula/designer-modules/information-design/"
       - name: Images
         url: "/curricula/designer-modules/images/"
       - name: Multimedia and Animations
