@@ -24,7 +24,7 @@ navigation:
 
 Courses based on this module should:
 
-[To be developed]
+[To be developed.]
 
 ## Learning Outcomes for Module
 
@@ -40,7 +40,7 @@ Students should be able to:
 
 Skills required for this module:
 
-[To be developed]
+[To be developed.]
 
 {% comment %}
 
@@ -129,10 +129,10 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-[To be developed]
+[To be developed.]
 
 ## Teaching Resources
 
 Suggested resources to support your teaching:
 
-[To be developed]
+[To be developed.]

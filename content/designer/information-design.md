@@ -24,28 +24,26 @@ navigation:
 
 Courses based on this module should:
 
-[To be developed]
+[To be developed.]
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain how people with disabilities perceive and access different types of information and perform different tasks within websites and applications
-* explain how different users may prefer to access long pieces of textual information in different ways, for example accessing all the text at once and accessing smaller pieces one at a time
-* identify different uses of text, for example for labels, static content, or dynamic messages, and describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
-* identify and describe different types of tables from an accessibility perspective, such as layout, simple, and complex tables
-* describe different ways in which information presented in tables can be consumed, such as using nested lists, using groups of simpler tables, or using information in plain text
-* ensure different user journeys, flows, and processes are accessible to all users, for example different flows to perform a task within a website or different ways to check the details of a given product
+* explain how different long pieces of text can be presented and visualized in different ways, for example presenting all the text at once and presenting smaller pieces one at a time
+* identify different uses of text, for example for labels, static content, and dynamic messages, and describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
+* identify and define different types of tables from an accessibility perspective, such as layout, simple, and complex tables
+* describe different ways in which information presented in tables can be consumed, such as using nested lists, splitting the table into simpler tables, or presenting information in plain text
+* ensure different journeys, flows, and processes are accessible to all users, for example different flows to perform a task within a website or different ways to check the details of a given product
 * describe different techniques to group information in form fields to make it more understandable by all users, such as splitting the form into several more comprehensive steps and providing clear instructions for users to understand what is expected from their input
-* identify related requirements for developers to ensure that table header cells are programmatically associated to their corresponding data cells
-
-{% include excol.html type="all" %}
+* identify related requirements for developers to ensure that instructions for form controls are programmatically associated to their corresponding control and that table header cells are programmatically associated to their corresponding data cells
 
 ## Competencies
 
 Skills required for this module:
 
-[To be developed]
+[To be developed.]
 
 ## Topics to Teach
 
@@ -109,18 +107,30 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* ensure similar form controls, such as those related to personal information, payment methods, and prompts to accept legal conditions are presented each in its corresponding step of the form or are grouped together in a way its relationship is apparent to users
-* ensure examples of expected input are provided, such as how a phone number should be entered and what the different credit card fields should be filled in
+* ensure related form controls, such as those collecting personal information, payment methods, and consent to legal conditions are presented each in its corresponding step of the form or are grouped together in a way its relationship is apparent to all users
+* ensure examples of expected input are provided, such as how a phone number should be entered and what the different credit card fields should contain
 * ensure related links, such as those from a navigation menu or from a product category are grouped together visually and programmatically
 
-### Topic: User Flows and Journeys
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Journeys and Flows
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * ensure different products of a store and parts of the content are accessible through different user journeys, such as a navigation menu and a search functionality
-* ensure robust and understandable grouping of information is considered, such as grouping related information in the same form step, and categorizing similar products under the same section
+* create designs that support robust and understandable grouping of information, such as grouping related information in the same form step and categorizing similar products under the same section
 * ensure information that is presented  visually can also be accessed through different means, for example through equivalent descriptions of a product image
 
 #### Teaching Ideas for Topic

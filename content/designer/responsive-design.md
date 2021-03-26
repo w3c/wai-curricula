@@ -47,7 +47,7 @@ Students should be able to:
 
 Skills required for this module:
 
-[To be developed]
+[To be developed.]
 
 ## Topics to Teach
 
@@ -131,11 +131,11 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-[To be developed]
+[To be developed.]
 
 ## Teaching Resources
 
 Suggested resources to support your teaching:
 
-[To be developed]
+[To be developed.]
 
