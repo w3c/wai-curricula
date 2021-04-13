@@ -30,13 +30,12 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities obtain information contained in images through different methods, such as through text alternatives and descriptions
-* explain how images help people with different types of disabilities better understand the information, context, and functionality 
-* provide appropriate text alternatives for graphical components included in the design phase, such as logos, links`, and menu items
-* describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
+* explain how images affect processing of information and understanding of context and functionality by people with disabilities
+* provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
+* describe ways to illustrate information presented in text, including use of graphics, color, or shapes
 * create designs that consider descriptions for images and graphics such as charts or diagrams
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding images and graphics
-* identify related requirements for content authors to provide appropriate text alternatives for different types of images, including informative, textual, decorative, functional, and complex
+* identify related requirements for content authors to provide appropriate text alternatives for images
 
 ## Competencies
 

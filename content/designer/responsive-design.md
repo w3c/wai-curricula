@@ -40,8 +40,8 @@ Students should be able to:
 * create designs that preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
 * create designs that support text resizing without loss of content and functionality
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
-* ensure input modalities do not rely solely on multipoint or path-based gestures, such as swipe or pinch
-* ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
+* create designs that support alternatives to multipoint or path-based gestures, such as swipe or pinch
+* create designs with mechanisms to undo or abort an action carried out with pointer operations
 
 ## Competencies
 

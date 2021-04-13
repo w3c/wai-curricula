@@ -33,14 +33,15 @@ Students should be able to:
 * explain how people with disabilities perceive and access different types of information and perform different tasks within websites and applications
 * explain the use of headings and pages to divide longer passages of text into smaller pieces
 * describe supplemental ways to convey information presented in text, such as using graphics, color, or shapes
-* describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the contents
+* describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table content
 * explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
 * manage the accessibility implications of different processes (including user journeys and workflows), for example different methods to perform a task within a website or application
 * describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
-* describe ways to make forms more understandable, for example providing labels and instructions and grouping related form fields into their corresponding step
+* describe mechanisms to make forms more understandable, including labels and instructions 
+* create designs that support grouping related form fields into their corresponding step
+* identify related requirements for developers to programmatically associate headings to their corresponding text
 * identify related requirements for developers to programmatically associate table header cells to their corresponding data cells
 * identify related requirements for developers to programmatically associate instructions for form controls to their corresponding control
-* identify related requirements for developers to programmatically associate headings to their corresponding text
 
 ## Competencies
 

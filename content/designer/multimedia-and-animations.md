@@ -31,12 +31,12 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio or video content
-* create designs that consider alternatives to multimedia content, such as transcripts for audio and audio described content,
+* create designs that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content,
 * create designs with mechanisms to switch transcripts and audio described content on or off
 * create designs with mechanisms to pause, stop, and hide any moving and auto-updating content, including animations and carousels
 * create designs with mechanisms to stop or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
-* identify related requirements for content authors to provide appropriate text alternatives for different types of media content, including video and audio
+* identify related requirements for content authors to provide appropriate text alternatives and audio descriptions for different types of media content, including video and audio
 
 {% include excol.html type="all" %}
 
