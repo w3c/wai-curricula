@@ -31,9 +31,8 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate and orient themselves in web pages and applications
-* create designs that allow users to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
-* create designs that allow for multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
-* create designs that allow users to stop, adjust, and extend  existing time limits set by the content
+* create designs with mechanisms to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
+* create designs with multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
 * identify related requirements for developers to ensure that navigational mechanisms can be used with the keyboard and other input devices
 
 ## Competencies
@@ -108,7 +107,7 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* create designs that allow users to turn off time limits, for example time limits in a form or times for which information is shown
+* create designs that allow users to turn off time limits, for example to complete a form or to visualize information at the users pace
 * create designs that allow users to adjust existing time limits up to at least 10 times the original setting
 * create designs that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
 * ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content

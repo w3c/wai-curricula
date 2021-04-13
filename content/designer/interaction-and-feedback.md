@@ -31,14 +31,16 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components, such as forms and custom widgets
-* ensure all interactive user interface components can be operated using the keyboard
-* provide clear and distinguishable names and instructions that allow to identify interactive user interface components, such as form fields and custom widgets
-* provide meaningful and descriptive notification messages about imminent time limits, errors, suggestions for corrections, successes, or any other event resulting from user input
-* create designs that allow for interactive user interface components to have meaningful sequence and clear focus indicators both individually and when operated in the  context of a rich application
+* ??? create designs with mechanisms to operate all interactive user interface components with the keyboard
+* ??? provide clear and distinguishable names to identify interactive user interface components, such as form fields and custom widgets
+* ??? provide clear instructions to help understand the purpose of user interface components, such as form fields or custom widgets
+* provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
+* create designs with meaningful sequence of interactive user interface components
+* ??? create designs that preserve visibility and operability both individually and in the context of a rich application
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
-* define mechanisms that allow users to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
+* define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to use native HTML elements to the extent possible and describe their benefits in relation to non-native elements
-* identify related requirements for developers to ensure that properties of custom user interface components, such as names, states, and instructions are perceived visually  and can be programmatically determined
+* identify related requirements for developers to programmatically associate properties of custom user interface components, such as names, states, and instructions to their corresponding component
 * identify related requirements for developers to write code for specific keyboard interactions that custom widgets may require
 
 {% include excol.html type="all" %}

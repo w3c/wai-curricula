@@ -259,16 +259,16 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Inclusive Design
-        url: "/curricula/designer-modules/inclusive-design/"
+      - name: Inclusive Design Process
+        url: "/curricula/designer-modules/inclusive-design-process/"
       - name: Page Layout
         url: "/curricula/designer-modules/page-layout/"
       - name: Navigation and Orientation
         url: "/curricula/designer-modules/navigation-and-orientation/"
       - name: Information Design
         url: "/curricula/designer-modules/information-design/"
-      - name: Images
-        url: "/curricula/designer-modules/images/"
+      - name: Images and Graphics
+        url: "/curricula/designer-modules/images-and-graphics/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback

@@ -15,7 +15,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/designer-modules/images/
+  previous: /curricula/designer-modules/images-and-graphics/
   next: /curricula/designer-modules/interaction-and-feedback/
 ---
 
@@ -30,11 +30,13 @@ Courses based on this module should:
 
 Students should be able to:
 
-* identify  different types of audio or video content and relate each of them to the user needs of people with disabilities
-* create designs that allow to provide alternatives to multimedia content, such as transcripts for audio and audio described content,
-* create designs that allow for mechanisms to pause, stop, and hide any moving, blinking, scrolling, auto-updating, and auto-playing content, such as animations, carousels, or auto-playing audio
-* identify  different types of audio or video content and relate each of them to the user needs of people with disabilities
-* create designs that allow to provide alternatives to multimedia content, such as transcripts for audio and audio described content,
+* identify accessibility requirements for different types of audio or video content
+* ??? create designs that consider alternatives to multimedia content, such as transcripts for audio and audio described content,
+* ??? create designs with mechanisms to switch transcripts and audio described content on or off
+* ??? create designs with mechanisms to pause, stop, and hide any moving and auto-updating content, including animations and carousels
+* ??? create designs with mechanisms to stop or control the volume of auto-playing audio
+* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
+* identify related requirements for content authors to provide appropriate text alternatives for different types of media content, including video and audio
 
 {% include excol.html type="all" %}
 

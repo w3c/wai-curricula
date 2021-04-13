@@ -35,10 +35,10 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities use different screen sizes, screen configurations, and style sheets to access websites and applications
-* create designs that allow for target sizes that can be tapped by users with mobility impairments and using different input methods
-* ensure meaningful sequence, content, and functionality are preserved when using different viewport sizes, screen configurations, and devices to access content
-* create designs that allow to preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
-* create designs that allow text resizing without loss of content and functionality
+* create designs with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
+* create designs that preserve meaningful sequence, content, and functionality when using different viewport sizes, screen configurations, and devices to access content
+* create designs that preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
+* create designs that support text resizing without loss of content and functionality
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
 * ensure input modalities do not rely solely on multipoint or path-based gestures, such as swipe or pinch
 * ensure that mechanisms to undo or abort an action carried out with pointer operations are always available
@@ -87,7 +87,7 @@ Students should be able to:
 * create designs that allow users to modify the following properties without loss of content and functionality:
   * line spacing -- to at least 1.5 times the font size
   * spacing following paragraphs -- to at least 2 times the font size
-  * Letter spacing (tracking) -- to at least 0.12 times the font size
+  * letter spacing (tracking) -- to at least 0.12 times the font size
 * ensure target sizes that are at least 44 by 44 CSS pixels
 
 #### Teaching Ideas for Topic

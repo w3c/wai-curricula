@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 5: Images"
-nav_title: "Images"
-permalink: /curricula/designer-modules/images/
-ref: /curricula/designer-modules/images/
+title: "[Draft] Module 5: Images and Graphics"
+nav_title: "Images and Graphics"
+permalink: /curricula/designer-modules/images-and-graphics/
+ref: /curricula/designer-modules/images-and-graphics/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/images.md
+  path: content/designer/images-and-graphics.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -31,13 +31,12 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities obtain information contained in images through different methods, such as through text alternatives and descriptions
-* explain how images can help some groups of people with disabilities better understand the context and functionality of user interface components
-* identify and describe different types of images from an accessibility perspective, such as informative, textual, decorative, functional, and complex images
-* provide appropriate text alternatives for images included in the design phase, such as logos or graphical components
-* provide text that allows users to identify graphical interactive elements such as links or menu items
+* explain how images help people with different types of disabilities better understand the information, context, and functionality 
+* provide appropriate text alternatives for graphical components included in the design phase, such as logos, links`, and menu items
 * describe alternative ways to convey information presented in text, such as using graphics, color, or shapes
-* create designs that allow to provide accurate descriptions for components such as charts or diagrams
-* identify related requirements for developers to ensure alternatives and descriptions are programmatically associated to their corresponding component
+* create designs that consider descriptions for images and graphics such as charts or diagrams
+* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding images and graphics
+* identify related requirements for content authors to provide appropriate text alternatives for different types of images, including informative, textual, decorative, functional, and complex
 
 ## Competencies
 
