@@ -38,8 +38,8 @@ Students should be able to:
 * describe how involving users with disabilities early and throughout in the design and development process leads to better accessibility of websites and applications
 * explain strategies and assistive technologies that people with disabilities use to interact with the Web
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
-* ??? manage the involvement of people with disabilities in different stages of the design and development process, for example in focus groups, personas, scenarios, and usability testing
-* ??? manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
+* manage the involvement of people with disabilities in different stages of the design and development process, for example in focus groups, personas, scenarios, and usability testing
+* manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
 * ensure people with disabilities can provide informed consent, respond to questions, and otherwise participate in the design and development processes in an accessible way
 
 ## Competencies

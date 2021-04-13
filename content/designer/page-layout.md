@@ -35,12 +35,12 @@ Courses based on this module should:
 
 Students should be able to:
 
-* ??? explain how people with disabilities identify and distinguish user interface components based on different features such as color, layout, spacing, position, landmarks, and naming
+* explain how people with disabilities identify and distinguish user interface components based on different features such as color, layout, spacing, position, landmarks, and naming
 * create designs with sufficient contrast ratios between foreground user interface components, including text, images of text, and controls, and their corresponding background
-* ??? create designs with text cues, patterns, and icons to supplement information conveyed through color
+* create designs with text cues, patterns, and icons to supplement information conveyed through color
 * create designs with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
-* ??? ensure different regions and user interface components are placed where users expect them and are distinguishable from one another, for example through color, typography, patterns, spacing, position and naming
-* ??? provide clear and descriptive heading texts that allow users to identify different regions and parts of the content
+* ensure different regions and user interface components are placed where users expect them and are distinguishable from one another, for example through color, typography, patterns, spacing, position and naming
+* provide clear and descriptive heading texts that allow users to identify different regions and parts of the content
 * identify related requirements for developers to ensure that headings are coded appropriately and are nested according to the hierarchical structure of the page
 
 ## Competencies
