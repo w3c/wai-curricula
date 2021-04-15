@@ -46,7 +46,7 @@ Students should be able to:
 * describe ways to make documentation for user research activities accessible to people with disabilities, including the use of accessible digital formats
 * explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision or screen reader testing for people who are blind
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -147,4 +147,4 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
-{% endcomment %}
+{%- endcomment -%}

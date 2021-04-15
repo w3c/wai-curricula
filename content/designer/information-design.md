@@ -44,7 +44,7 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate table header cells to their corresponding data cells
 * identify related requirements for developers to programmatically associate instructions for form controls to their corresponding control
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -162,4 +162,4 @@ Suggested resources to support your teaching:
 
 [To be developed
 
-{% endcomment %}
+{%- endcomment -%}

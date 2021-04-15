@@ -43,7 +43,7 @@ Students should be able to:
 * create designs that support alternatives to multipoint or path-based gestures, such as swipe or pinch
 * create designs with mechanisms to undo or abort an action carried out with pointer operations
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -141,4 +141,4 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
-{% endcomment %}
+{%- endcomment -%}

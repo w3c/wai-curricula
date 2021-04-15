@@ -41,7 +41,7 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
 * identify related requirements for developers to write code for custom keyboard interactions that interactive user interface components may require
 
-{% comment %}
+{%- comment -%}
 
 {% include excol.html type="all" %}
 
@@ -174,4 +174,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{% endcomment %}
+{%- endcomment -%}

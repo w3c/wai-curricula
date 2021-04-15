@@ -40,7 +40,7 @@ Students should be able to:
 * identify related requirements for developers to code landmarks and headings appropriately
 * identify related requirements for developers to make navigational mechanisms usable with the keyboard and other input devices
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -48,7 +48,7 @@ Skills required for this module:
 
 [To be developed.]
 
-{% comment %}
+{%- comment -%}
 
 Skills required for this module:
 
@@ -75,7 +75,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
 
-{% endcomment %}
+{%- endcomment -%}
 
 ## Topics to Teach
 
@@ -142,4 +142,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{% comment %}
+{%- comment -%}

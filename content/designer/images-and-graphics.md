@@ -37,7 +37,7 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding images and graphics
 * identify related requirements for content authors to provide appropriate text alternatives for images
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -131,4 +131,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{% endcomment %}
+{%- endcomment -%}

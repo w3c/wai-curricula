@@ -42,7 +42,7 @@ Students should be able to:
 * creaate designs with color, visual cues, and text to convey information
 * create designs with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 
-{% comment %}
+{%- comment -%}
 
 ## Competencies
 
@@ -124,4 +124,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{% endcomment %}
+{%- endcomment -%}
