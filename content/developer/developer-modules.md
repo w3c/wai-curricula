@@ -88,7 +88,7 @@ In addition, students should have knowledge of HTML and CSS.
     -   [Topic: Accessible Names and Descriptions](/curricula/developer-modules/custom-widgets/#topic-accessible-names-and-descriptions)
     -   [Topic: States and Properties](/curricula/developer-modules/custom-widgets/#topic-states-and-properties)
     -   [Topic: Keyboard and Focus Management](/curricula/developer-modules/custom-widgets/#topic-keyboard-and-focus-management)
--   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications) -- Explains coding techniques to create accessible rich applications and relates them to how people with disabilities use the Web
+-   [Module 7: Rich Applications](/curricula/developer-modules/rich-applications/) -- Explains coding techniques to create accessible rich applications and relates them to how people with disabilities use the Web
     -   [Topic: Structure and Relationships](/curricula/developer-modules/rich-applications#topic-structure-and-relationships)
     -   [Topic: Keyboard and Focus Interactions](/curricula/developer-modules/rich-applications#topic-keyboard-and-focus-interactions)
     -   [Topic: Concurrent Notifications](/curricula/developer-modules/rich-applications#topic-concurrent-notifications)
