@@ -38,6 +38,8 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
 * identify related requirements for content authors to provide appropriate text alternatives and audio descriptions for different types of media content, including video and audio
 
+{% comment %}
+
 {% include excol.html type="all" %}
 
 ## Competencies
@@ -100,3 +102,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
+{% endcomment %}

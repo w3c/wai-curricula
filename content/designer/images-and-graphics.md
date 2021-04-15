@@ -33,9 +33,11 @@ Students should be able to:
 * explain how images affect processing of information and understanding of context and functionality by people with disabilities
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
 * describe ways to illustrate information presented in text, including use of graphics, color, or shapes
-* create designs that consider descriptions for images and graphics such as charts or diagrams
+* create designs that consider descriptions for images and graphics, including charts or diagrams
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding images and graphics
 * identify related requirements for content authors to provide appropriate text alternatives for images
+
+{% comment %}
 
 ## Competencies
 
@@ -129,3 +131,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
+{% endcomment %}

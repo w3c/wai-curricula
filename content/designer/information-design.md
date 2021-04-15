@@ -30,18 +30,21 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities perceive and access different types of information and perform different tasks within websites and applications
+* explain how textual, tabular, or graphical information, are processed differently depending on the type of disability
 * explain the use of headings and pages to divide longer passages of text into smaller pieces
 * describe supplemental ways to convey information presented in text, such as using graphics, color, or shapes
-* describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table content
+* describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table contents
 * explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
-* manage the accessibility implications of different processes (including user journeys and workflows), for example different methods to perform a task within a website or application
+* describe the accessibility implications of different processes (including user journeys and workflows), for example different methods to perform a task within a website or application
 * describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
-* describe mechanisms to make forms more understandable, including labels and instructions 
-* create designs that support grouping related form fields into their corresponding step
+* describe methods to make forms more understandable, including labels and instructions 
+* create designs that support grouping related form fields (such as those to enter dates or addresses) into their corresponding step of the process
+* describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into shorter chunks
 * identify related requirements for developers to programmatically associate headings to their corresponding text
 * identify related requirements for developers to programmatically associate table header cells to their corresponding data cells
 * identify related requirements for developers to programmatically associate instructions for form controls to their corresponding control
+
+{% comment %}
 
 ## Competencies
 
@@ -62,9 +65,9 @@ Students should be able to:
 * create designs that support additional ways to convey information presented in text, such as required form fields, using icons, shapes, and colors
 * create designs that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * create designs that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
-* create designs that support alternatives to text that require reading ability more advanced than the lower secondary education level
-* describe related requirements for developers to make language of page and language of parts programmatically determined
-* describe related requirements for content authors to provide texts that do not require reading ability more advanced than the lower secondary education level
+* create designs with clear language and easy-to-read content wherever possible
+* describe related requirements for developers to make language programmatically determined
+* describe related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
 #### Teaching Ideas for Topic
 
@@ -158,3 +161,5 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed
+
+{% endcomment %}

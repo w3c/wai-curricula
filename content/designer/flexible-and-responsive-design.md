@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 8: Responsive Design"
-nav_title: "Responsive Design"
-permalink: /curricula/designer-modules/responsive-design/
-ref: /curricula/designer-modules/responsive-design/
+title: "[Draft] Module 8: Flexible and Responsive Design"
+nav_title: "Flexible and Responsive Design"
+permalink: /curricula/designer-modules/flexible-and-responsive-design/
+ref: /curricula/designer-modules/flexible-and-responsive-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/responsive-design.md
+  path: content/designer/flexible-and-responsive-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -34,7 +34,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities use different screen sizes, screen configurations, and style sheets to access websites and applications
+* explain how use of different screen sizes, screen configurations, and style sheets affects the ability of people with disabilities to identify, distinguish, and process websites and applications
 * create designs with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
 * create designs that preserve meaningful sequence, content, and functionality when using different viewport sizes, screen configurations, and devices to access content
 * create designs that preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
@@ -42,6 +42,8 @@ Students should be able to:
 * create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
 * create designs that support alternatives to multipoint or path-based gestures, such as swipe or pinch
 * create designs with mechanisms to undo or abort an action carried out with pointer operations
+
+{% comment %}
 
 ## Competencies
 
@@ -139,3 +141,4 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
+{% endcomment %}

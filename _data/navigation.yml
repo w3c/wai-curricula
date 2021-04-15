@@ -273,8 +273,8 @@
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
-      - name: Responsive Design
-        url: "/curricula/designer-modules/responsive-design/"
+      - name: Flexible and Responsive Design
+        url: "/curricula/designer-modules/flexible-and-responsive-design/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

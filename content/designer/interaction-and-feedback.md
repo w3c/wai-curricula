@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/multimedia-and-animations/
-  next: /curricula/designer-modules/responsive-design/
+  next: /curricula/designer-modules/flexible-and-responsive-design/
 ---
 
 ## Introduction
@@ -30,7 +30,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components, such as forms and custom widgets
+* explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components
 * create designs that consider different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, visual cues, and icons
@@ -38,8 +38,10 @@ Students should be able to:
 * create designs with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
-* identify related requirements for developers to programmatically associate properties of custom user interface components, such as names, states, and instructions to their corresponding component
-* identify related requirements for developers to write code for custom keyboard interactions that custom widgets may require
+* identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
+* identify related requirements for developers to write code for custom keyboard interactions that interactive user interface components may require
+
+{% comment %}
 
 {% include excol.html type="all" %}
 
@@ -172,3 +174,4 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
+{% endcomment %}
