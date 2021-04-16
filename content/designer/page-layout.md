@@ -39,7 +39,7 @@ Students should be able to:
 * create designs with appropriate contrast ratios between foreground user interface components, including text, images of text, and controls, and their corresponding background
 * create designs with appropriate font sizes to support content processing
 * create designs with adequate spacing to help distinguish different user interface components from one another
-* creaate designs with color, visual cues, and text to convey information
+* create designs with text cues, patterns, and icons to supplement information conveyed through color
 * create designs with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 
 {%- comment -%}

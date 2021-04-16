@@ -30,12 +30,10 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how textual, tabular, or graphical information, are processed differently depending on the type of disability
+* explain how different types of information, including textual, tabular, or graphical information, are processed differently by different groups of people with disabilities
 * explain the use of headings and pages to divide longer passages of text into smaller pieces
-* describe supplemental ways to convey information presented in text, such as using graphics, color, or shapes
 * describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table contents
 * explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
-* describe the accessibility implications of different processes (including user journeys and workflows), for example different methods to perform a task within a website or application
 * describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
 * describe methods to make forms more understandable, including labels and instructions 
 * create designs that support grouping related form fields (such as those to enter dates or addresses) into their corresponding step of the process

@@ -32,10 +32,11 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate and orient themselves in web pages and applications
 * create designs with mechanisms to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
-* create designs with multiple navigational mechanisms, such as menus, search boxes, breadcrumb trails, tables of contents, and sitemaps
-* create designs with text cues, patterns, and icons to supplement information conveyed through color
+* create designs that support search functionalities
+* create designs that consider accessibility aspects of multiple menus, such as navigational, fly-out, and application menus
+* create designs that support additional navigational mechanisms, including breadcrumb trails, tables of contents, and sitemaps
 * create designs that support placement of different regions and user interface components where users expect them
-* provide clear and distinguishable landmark names that allow users to identify the different regions
+* provide clear and distinguishable landmark names that allow users to identify different regions of a page or application
 * provide clear and descriptive heading texts that allow users to identify different parts of the content
 * identify related requirements for developers to code landmarks and headings appropriately
 * identify related requirements for developers to make navigational mechanisms usable with the keyboard and other input devices
