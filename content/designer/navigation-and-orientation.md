@@ -48,8 +48,6 @@ Skills required for this module:
 
 [To be developed.]
 
-{%- comment -%}
-
 Skills required for this module:
 
 {% include excol.html type="start" %}
@@ -74,8 +72,6 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 2.4.5 Multiple Ways](https://www.w3.org/WAI/WCAG21/quickref/#multiple-ways)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
-
-{%- endcomment -%}
 
 ## Topics to Teach
 
@@ -142,4 +138,6 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{%- comment -%}
+
+{%- endcomment -%}
+
