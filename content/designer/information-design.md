@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/navigation-and-orientation/
-  next: /curricula/designer-modules/images-and-graphics/
+  next: /curricula/designer-modules/multimedia-and-animations/
 ---
 
 ## Introduction
@@ -30,17 +30,17 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how different types of information, including textual, tabular, or graphical information, are processed differently by different groups of people with disabilities
+* explain how different types of information, including textual, tabular, or graphical, are processed differently by various groups of people with disabilities
 * explain the use of headings and pages to divide longer passages of text into smaller pieces
 * describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table contents
 * explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
 * describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
 * describe methods to make forms more understandable, including labels, instructions, and grouping
 * create designs that support grouping related form fields (such as those to enter dates or addresses) into their corresponding step of the process
-* describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into shorter chunks
-* identify related requirements for developers to programmatically associate headings to their corresponding text
-* identify related requirements for developers to programmatically associate table header cells to their corresponding data cells
-* identify related requirements for developers to programmatically associate instructions for form controls to their corresponding control
+* describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into smaller chunks
+* describe ways to supplement information presented in text, including use of graphics, color, or shapes
+* create designs that consider descriptions for images and graphics, including charts or diagrams
+* identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
 
 {%- comment -%}
 
