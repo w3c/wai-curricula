@@ -32,7 +32,7 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate and orient themselves in web pages and applications
 * create designs with mechanisms to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
-* create designs that support search functionalities
+* create designs that support search functionalities to help users find specific words or phrases
 * create designs that consider accessibility aspects of multiple menus, such as navigational, fly-out, and application menus
 * create designs that support additional navigational mechanisms, including breadcrumb trails, tables of contents, and sitemaps
 * create designs that support placement of different regions and user interface components where users expect them

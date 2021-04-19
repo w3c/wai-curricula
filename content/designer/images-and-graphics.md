@@ -30,7 +30,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how images affect processing of information and understanding of context and functionality by people with disabilities
+* explain how images affect processing of information, content identifications, and understanding of functionality by people with disabilities
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
 * describe ways to illustrate information presented in text, including use of graphics, color, or shapes
 * create designs that consider descriptions for images and graphics, including charts or diagrams

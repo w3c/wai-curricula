@@ -35,7 +35,7 @@ Students should be able to:
 * describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table contents
 * explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
 * describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
-* describe methods to make forms more understandable, including labels and instructions 
+* describe methods to make forms more understandable, including labels, instructions, and grouping
 * create designs that support grouping related form fields (such as those to enter dates or addresses) into their corresponding step of the process
 * describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into shorter chunks
 * identify related requirements for developers to programmatically associate headings to their corresponding text

@@ -43,8 +43,8 @@ Students should be able to:
 * manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
 * describe different means to communicate with people with disabilities, such as use of braille or sign language 
 * describe and apply ethical considerations to consider when working with people with disabilities, for example avoiding clichés and myths
-* describe ways to make documentation for user research activities accessible to people with disabilities, including the use of accessible digital formats
-* explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision or screen reader testing for people who are blind
+* describe ways to make documentation for user research activities accessible to people with disabilities, including the use of braille, sign language, and large font sizes
+* explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision and screen reader testing for people who are blind
 
 {%- comment -%}
 
