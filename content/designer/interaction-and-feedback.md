@@ -43,8 +43,6 @@ Students should be able to:
 
 {%- comment -%}
 
-{% include excol.html type="all" %}
-
 ## Competencies
 
 Skills required for this module:

@@ -102,7 +102,7 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
-### Topic: Page Structure 
+### Topic: Page Structure
 
 #### Learning Outcomes for Topic
 

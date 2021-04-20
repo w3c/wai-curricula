@@ -64,7 +64,7 @@ Students should be able to:
 * create designs that preserve content and functionality when accessed using a variety of screen sizes, screen configurations, and style sheets
 * ensure content can be presented without loss of information and functionality, and that accessing such content does not require two-dimensional scrolling:
   * vertical (at a width equivalent to 320 CSS pixels)
-  * horizontall (at a height equivalent to 256 CSS pixels)
+  * horizontal (at a height equivalent to 256 CSS pixels)
 * create designs that allow text resizing up to 200% without loss of content and functionality
 * create designs that allow users to set the orientation to  portrait or landscape, or that include show or hide controls to access contents in portrait and landscape orientations
 

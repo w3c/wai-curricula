@@ -41,7 +41,7 @@ Students should be able to:
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
 * manage the recruitment and involvement of people with disabilities for the different user research activities of a project, including in focus groups, personas, scenarios, and usability testing
 * manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe different means to communicate with people with disabilities, such as use of braille or sign language 
+* describe different means to communicate with people with disabilities, such as use of braille or sign language
 * describe and apply ethical considerations to consider when working with people with disabilities, for example avoiding clichés and myths
 * describe ways to make documentation for user research activities accessible to people with disabilities, including the use of braille, sign language, and large font sizes
 * explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision and screen reader testing for people who are blind
@@ -67,7 +67,7 @@ Students should be able to:
 * explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
 * ensure different types of users with disabilities are included when defining user groups
 * ensure different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure, are included in the research phase
-* ensure research is conducted on accessibility guidelines, standards, and policies to define and include accessibilityin the overall project requirements
+* ensure research is conducted on accessibility guidelines, standards, and policies to define and include accessibility in the overall project requirements
 * determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
 * ensure people with disabilities are involved early and throughout the research processes, including in focus groups, questionnaires, and surveys
 
