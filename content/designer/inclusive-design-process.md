@@ -37,14 +37,14 @@ Students should be able to:
 
 * describe how involving users with disabilities early and throughout in the design and development process leads to better accessibility of websites and applications
 * explain strategies and assistive technologies that people with disabilities use to interact with the Web
-* identify the scope of accessibility in inclusive design processes and relate accessibility to other disciplines, including usability and inclusion
+* identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
-* manage the recruitment and involvement of people with disabilities for the different user research activities of a project, including in focus groups, personas, scenarios, and usability testing
+* manage the involvement of people with disabilities for the different user research activities of a project, including in focus groups, personas, scenarios, and usability testing
 * manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe different means to communicate with people with disabilities, such as use of braille or sign language
-* describe and apply ethical considerations to consider when working with people with disabilities, for example avoiding clichés and myths
-* describe ways to make documentation for user research activities accessible to people with disabilities, including the use of braille, sign language, and large font sizes
+* describe different accomodation means for involving people with disabilities in user research activities
+* describe and apply ethical considerations when working with people with disabilities, for example those related to informed consent or to avoiding clichés and myths
 * explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision and screen reader testing for people who are blind
+* describe related requirements for project owners to involve people with disabilities early and throughout in the design and development processes
 
 {%- comment -%}
 

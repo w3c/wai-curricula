@@ -34,14 +34,14 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how use of different screen sizes, screen configurations, and style sheets affects the ability of people with disabilities to identify, distinguish, and process websites and applications
-* create designs with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
-* create designs that preserve meaningful sequence, content, and functionality when using different viewport sizes, screen configurations, and devices to access content
-* create designs that preserve content and functionality when line height as well as spacing between paragraphs, words, and letters are modified by the user
-* create designs that support text resizing without loss of content and functionality
-* create designs that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
-* create designs that support alternatives to multipoint or path-based gestures, such as swipe or pinch
-* create designs with mechanisms to undo or abort an action carried out with pointer operations
+* explain how the use of different screen sizes, screen configurations, and style sheets affects the ability of people with disabilities to identify, distinguish, and process websites and applications
+* design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
+* design user interfaces that adapt their sequence, content, and functionality when used with different viewport sizes, screen configurations, and devices to access content
+* design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
+* design user interfaces that support text resizing without loss of content and functionality
+* design user interfaces that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
+* design user interfaces that support alternatives to multipoint or path-based gestures, such as swipe or pinch
+* design user interfaces that undoing or aborting an action carried out with pointer operations
 
 {%- comment -%}
 
@@ -61,7 +61,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* create designs that preserve content and functionality when accessed using a variety of screen sizes, screen configurations, and style sheets
+* design user interfaces that preserve content and functionality when accessed using a variety of screen sizes, screen configurations, and style sheets
 * ensure content can be presented without loss of information and functionality, and that accessing such content does not require two-dimensional scrolling:
   * vertical (at a width equivalent to 320 CSS pixels)
   * horizontal (at a height equivalent to 256 CSS pixels)

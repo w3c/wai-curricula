@@ -31,9 +31,7 @@ The designer modules guide the creation of courses that:
 
 These modules focus on user experience, visual, and interaction aspects to design accessible web pages and applications. The modules primarily address the following roles:
 
-* product owner
 * user experience designer
 * visual designer
-* content designer
-* interaction designer
 * information designer
+* interaction designer

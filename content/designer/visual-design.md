@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 2: Page Layout"
-nav_title: "Page Layout"
-permalink: /curricula/designer-modules/page-layout/
-ref: /curricula/designer-modules/page-layout/
+title: "[Draft] Module 2: Visual Design"
+nav_title: "Visual Design"
+permalink: /curricula/designer-modules/visual-design/
+ref: /curricula/designer-modules/visual-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/page-layout.md
+  path: content/designer/visual-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/inclusive-design-process/
-  next: /curricula/designer-modules/navigation-and-orientation/
+  next: /curricula/designer-modules/navigation/
 ---
 
 ## Introduction
@@ -36,11 +36,12 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
-* create designs with appropriate contrast ratios between foreground user interface components, including text, images of text, and controls, and their corresponding background
-* create designs with appropriate font sizes to support content processing
-* create designs with adequate spacing to help distinguish different user interface components from one another
-* create designs with text cues, patterns, and icons to supplement information conveyed through color
-* create designs with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
+* design user interfaces with alternative means to communicate information conveyed through vision, for example using headings, lists, and textual information
+* design user interfaces with appropriate contrast ratios for text, images of text, and controls
+* design user interfaces with appropriate font sizes to support content processing
+* design user interfaces with adequate spacing to help distinguish different components from one another
+* design user interfaces with text cues, patterns, and icons to supplement information conveyed through color
+* design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 
 {%- comment -%}
 
@@ -59,7 +60,7 @@ Topics to achieve the learning outcomes:
 #### Learning Outcomes for Topic
 
 Students should be able to:
-
+ 
 * explain how appropriate contrast ratios allow people with disabilities to read, understand, and distinguish user interface components
 * create designs that allow text and images of text to have a contrast ratio of at least 4.5:1 with respect to their background
 * create designs that allow for large-scale text and images of text to have a contrast ratio of at least 3:1 with respect to their background

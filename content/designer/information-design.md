@@ -31,15 +31,15 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how different types of information, including textual, tabular, or graphical, are processed differently by various groups of people with disabilities
-* explain the use of headings and pages to divide longer passages of text into smaller pieces
-* describe the accessibility challenges that complex tables create, including the difficulty to process the relationships between header and data cells and the need to scroll horizontally and vertically to visualize the table contents
-* explain different ways to present information in tables, including splitting complex tables into simpler tables, lists, and plain text where possible
-* describe the accessibility challenges in form fields, including THE difficulty to relate labels to form controls and the difficulty to understand the purpose of form fields
-* describe methods to make forms more understandable, including labels, instructions, and grouping
-* create designs that support grouping related form fields (such as those to enter dates or addresses) into their corresponding step of the process
+* describe approaches to break down different types of content into smaller and more manageable pieces, including:
+  * the use of headings and pages to divide longer passages of text into smaller pieces
+  * the use of lists, simpler tables, and plain text to convey information presented in complex tables
+  * the use of labels and instructions to make information in forms more understandable
+  * the use of groups of form controls that share a common purpose
+  * the use of search functionalities that allow to select small amounts of data from large data sets
 * describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into smaller chunks
 * describe ways to supplement information presented in text, including use of graphics, color, or shapes
-* create designs that consider descriptions for images and graphics, including charts or diagrams
+* design user interfaces that consider descriptions for images and graphics, including charts or diagrams
 * identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
 
 {%- comment -%}

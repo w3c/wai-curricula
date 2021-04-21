@@ -261,10 +261,10 @@
       pages:
       - name: Inclusive Design Process
         url: "/curricula/designer-modules/inclusive-design-process/"
-      - name: Page Layout
-        url: "/curricula/designer-modules/page-layout/"
-      - name: Navigation and Orientation
-        url: "/curricula/designer-modules/navigation-and-orientation/"
+      - name: Visual Design
+        url: "/curricula/designer-modules/visual-design/"
+      - name: Navigation
+        url: "/curricula/designer-modules/navigation/"
       - name: Information Design
         url: "/curricula/designer-modules/information-design/"
       - name: Multimedia and Animations
