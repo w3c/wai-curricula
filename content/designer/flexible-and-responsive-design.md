@@ -41,7 +41,7 @@ Students should be able to:
 * design user interfaces that support text resizing without loss of content and functionality
 * design user interfaces that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
 * design user interfaces that support alternatives to multipoint or path-based gestures, such as swipe or pinch
-* design user interfaces that undoing or aborting an action carried out with pointer operations
+* design user interfaces that support undoing or aborting an action carried out with pointer operations
 
 {%- comment -%}
 
