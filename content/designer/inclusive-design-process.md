@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/
-  next: /curricula/designer-modules/page-layout/
+  next: /curricula/designer-modules/visual-design/
 ---
 
 ## Introduction
@@ -35,15 +35,15 @@ Courses based on this module should:
 
 Students should be able to:
 
-* describe how involving users with disabilities early and throughout in the design and development process leads to better accessibility of websites and applications
+* explain how involving users with disabilities early and throughout in the design and development process leads to better accessibility of websites and applications
 * explain strategies and assistive technologies that people with disabilities use to interact with the Web
 * identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
-* manage the involvement of people with disabilities for the different user research activities of a project, including in focus groups, personas, scenarios, and usability testing
+* manage the involvement of people with disabilities for the different user research activities of a project, including focus groups, personas, scenarios, and usability testing
 * manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe different accomodation means for involving people with disabilities in user research activities
-* describe and apply ethical considerations when working with people with disabilities, for example those related to informed consent or to avoiding clichés and myths
-* explain and select different testing methods depending on different types of disabilities, for example wireframe testing for people who have vision and screen reader testing for people who are blind
+* describe different accommodation means for involving people with disabilities in user research activities
+* describe and apply ethical considerations when working with people with disabilities, for example avoiding clichés and myths
+* describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
 * describe related requirements for project owners to involve people with disabilities early and throughout in the design and development processes
 
 {%- comment -%}

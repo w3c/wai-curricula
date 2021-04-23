@@ -31,11 +31,11 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components
-* design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
+* design user experiences that support different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, visual cues, and icons
 * provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
-* design user interfaces with meaningful sequence of interactive user interface components
+* design user experiences with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component

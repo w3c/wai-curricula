@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/navigation-and-orientation/
-  next: /curricula/designer-modules/multimedia-and-animations/
+  next: /curricula/designer-modules/images-and-graphics/
 ---
 
 ## Introduction
@@ -34,12 +34,9 @@ Students should be able to:
 * describe approaches to break down different types of content into smaller and more manageable pieces, including:
   * the use of headings and pages to divide longer passages of text into smaller pieces
   * the use of lists, simpler tables, and plain text to convey information presented in complex tables
-  * the use of labels and instructions to make information in forms more understandable
   * the use of groups of form controls that share a common purpose
-  * the use of search functionalities that allow to select small amounts of data from large data sets
-* describe accessibility challenges created when visualizing and interacting with large amounts of data, and describe ways to split these data into smaller chunks
-* describe ways to supplement information presented in text, including use of graphics, color, or shapes
-* design user interfaces that consider descriptions for images and graphics, including charts or diagrams
+  * the use of search functionalities that filter large data sets to display small data subsets
+* describe the use of labels and instructions to make information in forms more understandable
 * identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
 
 {%- comment -%}

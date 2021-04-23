@@ -30,9 +30,14 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how images affect processing of information, content identifications, and understanding of functionality by people with disabilities
+* explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
+* describe ways to supplement information presented in text, including use of graphics, color, or shapes
+* provide equivalent textual information that helps identify the purpose of an image conveying function
+* design user interfaces that consider descriptions for images and graphics, including charts or diagrams
+* identify related requirements for developers to code text alternatives appropriately
 * identify related requirements for content authors to provide appropriate text alternatives for images
+* identify related requirements for content authors to use text instead of images of text
 
 {%- comment -%}
 
