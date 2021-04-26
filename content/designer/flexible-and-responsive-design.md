@@ -43,8 +43,6 @@ Students should be able to:
 * design user interfaces that support alternatives to multipoint or path-based gestures, such as swipe or pinch
 * design user interfaces that support undoing or aborting an action carried out with pointer operations
 
-{%- comment -%}
-
 ## Competencies
 
 Skills required for this module:
@@ -141,4 +139,3 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
-{%- endcomment -%}

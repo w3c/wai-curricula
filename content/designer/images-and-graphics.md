@@ -31,15 +31,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
+* identify and describe different uses of images within a user interfaces, including informative, functional, and decorative
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
 * describe ways to supplement information presented in text, including use of graphics, color, or shapes
 * provide equivalent textual information that helps identify the purpose of an image conveying function
 * design user interfaces that consider descriptions for images and graphics, including charts or diagrams
-* identify related requirements for developers to code text alternatives appropriately
-* identify related requirements for content authors to provide appropriate text alternatives for images
-* identify related requirements for content authors to use text instead of images of text
-
-{%- comment -%}
+* identify related requirements for developers to code images and text alternatives appropriately
+* identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase
+* identify related requirements for content authors to present information as text wherever possible, instead of using images of text
 
 ## Competencies
 
@@ -51,42 +50,15 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Image Types
+### Topic: Text Alternatives and Descriptions
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define the following types of images from an accessibility perspective:
-  * informative
-  * textual
-  * decorative
-  * functional
-  * complex
-* create designs that support use of text when the information presented is intended to be read as text, instead of using images of text
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-### Topic: Text Alternatives
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* provide short text that serves as brief description of complex non textual pieces of information, such as charts or diagrams
-* provide descriptive textual information for the following types of graphical information:
-  * those that are part of tests or exercises that would be invalid if presented in text
-  * those that are primarily intended to create a specific sensory experience
+* identify and describe different uses of images to convey information
+* provide text alternatives that present equivalent information as that contained in the image
+* describe related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
 
 #### Teaching Ideas for Topic
 
@@ -106,9 +78,10 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
+* identify and describe different uses of images and graphics to convey function
 * provide short text alternatives for controls and components that accept user input, for example search, print, and save buttons
-* provide text alternatives that identify and describe the purpose of captcha and other graphical elements used to confirm that content is accessed by a person rather than a computer
-* provide several modalities of captcha that rely on different sensory characteristics, such as visual or auditory
+* provide text alternatives that identify and describe the purpose of human verification systems, such as captcha 
+* manage the provision of several modalities of captcha that rely on different sensory characteristics, such as visual, auditory, and logical
 
 #### Teaching Ideas for Topic
 
@@ -122,6 +95,15 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+### Topic: Decorative Images
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* identify and describe different uses of images with decorative meaning
+* identify related requirements for developers to code decorative images appropriately
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
@@ -133,4 +115,3 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{%- endcomment -%}

@@ -41,8 +41,6 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
 * identify related requirements for developers to write code for custom keyboard interactions that interactive user interface components may require
 
-{%- comment -%}
-
 ## Competencies
 
 Skills required for this module:
@@ -94,6 +92,29 @@ Students should be able to:
 * provide overall instructions about existing time limits in a form and about how they can be turned off, adjusted, or extended
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
 * identify related requirements for developers to ensure that labels and instructions are programmatically associated to their corresponding user interface component
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[To be developed.]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Enough Time
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* design user interfaces that allow users to turn off time limits, for example to complete a form or to visualize information at the users pace
+* design user interfaces that allow users to adjust existing time limits up to at least 10 times the original setting
+* design user interfaces that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
+* ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
 
 #### Teaching Ideas for Topic
 
@@ -172,4 +193,3 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 [To be developed.]
-{%- endcomment -%}

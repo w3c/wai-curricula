@@ -36,10 +36,8 @@ Students should be able to:
   * the use of lists, simpler tables, and plain text to convey information presented in complex tables
   * the use of groups of form controls that share a common purpose
   * the use of search functionalities that filter large data sets to display small data subsets
-* describe the use of labels and instructions to make information in forms more understandable
+* describe the use of labels and instructions to make information in forms understandable
 * identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
-
-{%- comment -%}
 
 ## Competencies
 
@@ -57,10 +55,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* create designs that support additional ways to convey information presented in text, such as required form fields, using icons, shapes, and colors
-* create designs that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
-* create designs that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
-* create designs with clear language and easy-to-read content wherever possible
+* design user interfaces that support additional ways to convey information presented in text, such as required form fields, using icons, shapes, and colors
+* design user interfaces that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
+* design user interfaces that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
+* design user interfaces with clear language and easy-to-read content wherever possible
 * describe related requirements for developers to make language programmatically determined
 * describe related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
@@ -86,9 +84,9 @@ Students should be able to:
   * simple
   * complex
   * layout
-* create designs that allow presentation of tables in multiple ways, such as using several lists, or splitting a complex table into several simpler ones
-* create designs that allow to establish a relationship between the table cells both visually and programmatically, included for headers and data cells
-* create designs that support the inclusion of table  descriptions
+* design user interfaces that allow presentation of tables in multiple ways, such as using several lists, or splitting a complex table into several simpler ones
+* design user interfaces that allow to establish a relationship between the table cells both visually and programmatically, included for headers and data cells
+* design user interfaces that support the inclusion of table  descriptions
 * describe related requirements for developers to ensure that table header and data cells are programmatically associated
 
 #### Teaching Ideas for Topic
@@ -125,28 +123,6 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
-### Topic: Journeys and Flows
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* ensure different products of a store and parts of the content are accessible through different user journeys, such as a navigation menu and a search functionality
-* create designs that support robust and understandable grouping of information, such as grouping related information in the same form step and categorizing similar products under the same section
-* ensure information that is presented  visually can also be accessed through different means, for example through equivalent descriptions of a product image
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
@@ -157,4 +133,3 @@ Suggested resources to support your teaching:
 
 [To be developed
 
-{%- endcomment -%}

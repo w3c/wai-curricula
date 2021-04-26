@@ -41,8 +41,6 @@ Students should be able to:
 * identify related requirements for developers to code landmarks and headings appropriately
 * identify related requirements for developers to make navigational mechanisms usable with the keyboard and other input devices
 
-{%- comment -%}
-
 ## Competencies
 
 Skills required for this module:
@@ -86,37 +84,14 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* create designs that support skipping blocks of repeated content providing at least one of the following:
+* design user interfaces that support skipping blocks of repeated content providing at least one of the following:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
-* create designs that support site maps to provide an overview of the entire website
-* create designs that support breadcrumb trails to provide information about the user's location in a set of web pages
-* create designs that support table of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-### Topic: Enough Time
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* create designs that allow users to turn off time limits, for example to complete a form or to visualize information at the users pace
-* create designs that allow users to adjust existing time limits up to at least 10 times the original setting
-* create designs that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
-* ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
+* design user interfaces with site maps to provide an overview of the entire website
+* design user interfaces with breadcrumb trails to provide information about the user's location in a set of web pages
+* design user interfaces with tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
 #### Teaching Ideas for Topic
 
@@ -142,4 +117,3 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
-{%- endcomment -%}

@@ -46,8 +46,6 @@ Students should be able to:
 * describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
 * describe related requirements for project owners to involve people with disabilities early and throughout in the design and development processes
 
-{%- comment -%}
-
 ## Competencies
 
 Skills required for this module:
@@ -65,11 +63,12 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
-* ensure different types of users with disabilities are included when defining user groups
-* ensure different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure, are included in the research phase
-* ensure research is conducted on accessibility guidelines, standards, and policies to define and include accessibility in the overall project requirements
-* determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of experience, use of assistive technology, and type of disability
-* ensure people with disabilities are involved early and throughout the research processes, including in focus groups, questionnaires, and surveys
+* define  user groups that include different types of users with disabilities
+* research different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure
+* research accessibility guidelines, standards, and policies, 
+* determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of skills, use of assistive technology, and type of disability
+* manage involvement of people with disabilities early and throughout the research processes, including in focus groups, questionnaires, and surveys
+* identify related requirements for project managers to include accessibility in the overall project requirements
 
 #### Teaching Ideas for Topic
 
@@ -89,12 +88,13 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* ensure different types of user requirements that relate to people with disabilities are considered, such as:
+* consider different functional requirements that relate to people with disabilities, for example:
   * appropriate contrast ratios
   * availability of content and functionality in different screen sizes and configurations
   * keyboard compatibility
   * use with assistive technologies and adaptive strategies
-* create personas that include people with different types of disabilities and different levels of experience using the Web
+  * consider different non functional accessibility requirements, for example WCAG and applicable accessibility policies
+* create personas that include people with different types of disabilities and different levels of skills using the Web
 * create scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 
 #### Teaching Ideas for Topic
@@ -115,8 +115,8 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* ensure people with disabilities are involved in all stages where testing is scheduled, for example in testing prototypes, iterative testing phases, and  usability testing
-* ensure the following factors are considered when testing needs to be conducted at a specific location:
+* involve people with disabilities in all stages where testing is scheduled, for example in testing prototypes, iterative testing phases, and  usability testing
+* consider the following factors when testing needs to be conducted at a specific location:
   * location and accessibility of the facilities
   * assistive technology needs
   * custom setups that users may require
@@ -147,4 +147,3 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
-{%- endcomment -%}
