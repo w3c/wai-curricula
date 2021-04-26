@@ -64,6 +64,7 @@ Students should be able to:
 
 * explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
 * define  user groups that include different types of users with disabilities
+* research the current accessibility state of a website or application from the perspective of people with disabilities
 * research different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure
 * research accessibility guidelines, standards, and policies, 
 * determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of skills, use of assistive technology, and type of disability

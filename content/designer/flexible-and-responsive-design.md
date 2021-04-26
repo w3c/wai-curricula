@@ -60,7 +60,7 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * design user interfaces that preserve content and functionality when accessed using a variety of screen sizes, screen configurations, and style sheets
-* ensure content can be presented without loss of information and functionality, and that accessing such content does not require two-dimensional scrolling:
+* create user interfaces that support presentation of content without loss of information and functionality, and that accessing such content does not require two-dimensional scrolling:
   * vertical (at a width equivalent to 320 CSS pixels)
   * horizontal (at a height equivalent to 256 CSS pixels)
 * create designs that allow text resizing up to 200% without loss of content and functionality
@@ -88,7 +88,7 @@ Students should be able to:
   * line spacing -- to at least 1.5 times the font size
   * spacing following paragraphs -- to at least 2 times the font size
   * letter spacing (tracking) -- to at least 0.12 times the font size
-* ensure target sizes that are at least 44 by 44 CSS pixels
+* create user interfaces with target sizes that are at least 44 by 44 CSS pixels
 
 #### Teaching Ideas for Topic
 
@@ -109,11 +109,11 @@ Optional ideas to support assessment:
 Students should be able to:
 
 * create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* ensure down event on single pointer gestures:
+* design user interfaces with down events on single pointer gestures that:
   * do not perform any action, or
   * have available mechanisms to abort or undo any action carried on
 * create designs that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
-* ensure response to motion can be disabled by the user to prevent accidental actuation, such as undoing an action by shaking a device
+* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
 
 #### Teaching Ideas for Topic
 
