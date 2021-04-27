@@ -33,8 +33,6 @@ These modules focus on user experience, visual, and interaction aspects to desig
 
 * User Experience (UX) Designer
 * User Researcher
-* UX Researcher
-* User Experience Analyst
-* Service Designer
+* Visual Designer
 * Information Architect
 * Interaction Designer
