@@ -40,7 +40,7 @@ Students should be able to:
 * identify related requirements for developers to:
   * code landmarks and headings appropriately
   * make navigational mechanisms usable with the keyboard and other input devices
-  * provide clear and descriptive naems for landmarks and headings
+  * provide clear and descriptive names for landmarks and headings
 
 ## Competencies
 
