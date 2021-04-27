@@ -35,7 +35,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how involving users with disabilities early and throughout in the design and development process leads to better accessibility of websites and applications
+* explain how involving users with disabilities in the design and development process leads to better accessibility
 * explain strategies and assistive technologies that people with disabilities use to interact with the Web
 * identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
