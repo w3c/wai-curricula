@@ -40,11 +40,11 @@ Students should be able to:
 * identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
 * manage the involvement of people with disabilities for the different user research activities of a project, including focus groups, personas, scenarios, and usability testing
-* manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
 * describe different accommodation means for involving people with disabilities in user research activities
+* manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
 * describe and apply ethical considerations when working with people with disabilities, for example avoiding clichés and myths
 * describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
-* describe related requirements for project owners to involve people with disabilities early and throughout in the design and development processes
+* describe related requirements for project owners to plan for the involvement of people with disabilities early and throughout in the design and development processes
 
 {%- comment -%}
 
