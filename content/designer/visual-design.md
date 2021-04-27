@@ -36,12 +36,13 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
-* design user interfaces with means to supplement information conveyed visually, for example using headings, lists, and textual information
+* design user interfaces that communicate the meaning of  components using different sensory characteristics
 * design user interfaces with appropriate contrast ratios for text, images of text, and controls
-* design user interfaces with appropriate font sizes to support content processing
-* design user interfaces with adequate spacing to help distinguish different components from one another
-* design user interfaces with text cues, patterns, and icons to supplement information conveyed through color
+* design user interfaces with adjustable font sizes to support readability
+* design user interfaces with adequate spacing to support readability
+* design user interfaces with landmarks, text cues, patterns, and icons to supplement information conveyed through color
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
+* identify related requirements for developers to apply the necessary semantics to user interface components
 
 ## Competencies
 

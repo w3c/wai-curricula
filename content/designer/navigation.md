@@ -34,12 +34,13 @@ Students should be able to:
 * design user interfaces with mechanisms to bypass blocks of repeated content, such as navigation links, header contents, or advertisements
 * design user interfaces with search functionalities to help users find content
 * design user interfaces that support accessibility features of multiple menus, such as navigational, fly-out, and application menus
-* design user interfaces with additional navigational mechanisms, including breadcrumb trails, tables of contents, and sitemaps
+* design user interfaces that support different types of navigational mechanisms, including breadcrumb trails, tables of contents, and sitemaps
 * design user interfaces that support placement of different regions and user interface components where users expect them
-* provide clear and descriptive landmark names that allow users to identify different regions of a page or application
-* provide clear and descriptive heading texts that allow users to identify different parts of the content
-* identify related requirements for developers to code landmarks and headings appropriately
-* identify related requirements for developers to make navigational mechanisms usable with the keyboard and other input devices
+* provide headings and landmarks to identify different regions of a page or application
+* identify related requirements for developers to:
+  * code landmarks and headings appropriately
+  * make navigational mechanisms usable with the keyboard and other input devices
+  * provide clear and descriptive naems for landmarks and headings
 
 ## Competencies
 

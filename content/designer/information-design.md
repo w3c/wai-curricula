@@ -35,8 +35,8 @@ Students should be able to:
   * the use of headings and pages to divide longer passages of text into smaller pieces
   * the use of lists, simpler tables, and plain text to convey information presented in complex tables
   * the use of groups of form controls that share a common purpose
-  * the use of search functionalities that filter large data sets to display small data subsets
-* describe the use of labels and instructions to make information in forms understandable
+  * the use of filters to display small data subsets from a given data set
+* describe the use of labels and instructions to make information in forms more understandable
 * identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
 
 ## Competencies
