@@ -36,15 +36,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how involving users with disabilities in the design and development process leads to better accessibility
-* explain strategies and assistive technologies that people with disabilities use to interact with the Web
 * identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
-* manage the involvement of people with disabilities for the different user research activities of a project, including focus groups, personas, scenarios, and usability testing
-* describe different accommodation means for involving people with disabilities in user research activities
+* manage direct or indirect involvement of people with disabilities for the different user research activities of a project
+* describe different accommodation needs for people with disabilities
 * manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
 * describe and apply ethical considerations when working with people with disabilities, for example avoiding clichés and myths
 * describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
-* describe related requirements for project owners to plan for the involvement of people with disabilities early and throughout in the design and development processes
+* describe related requirements for product owners and other team roles to plan for the involvement of people with disabilities early and throughout in the design and development processes
 
 ## Competencies
 
