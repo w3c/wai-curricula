@@ -123,6 +123,16 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+### Topic: Data Visualization
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* create user interfaces that allow to filter data using different mechanisms such as search boxes or subsets of data
+* create user interfaces that allow to use the keyboard to navigate to specific pieces of data
+* create user interfaces that allow customizing the resultsthat are shown at a given time
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:

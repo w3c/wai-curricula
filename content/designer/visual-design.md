@@ -42,7 +42,7 @@ Students should be able to:
 * design user interfaces with adequate spacing to support readability
 * design user interfaces with landmarks, text cues, patterns, and icons to supplement information conveyed through color
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
-* identify related requirements for developers to apply the necessary semantics to user interface components
+* design user interfaces that support placement of different regions and user interface components where users expect them* identify related requirements for developers to apply the necessary semantics to user interface components
 
 ## Competencies
 

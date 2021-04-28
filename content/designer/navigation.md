@@ -40,13 +40,9 @@ Students should be able to:
 * identify related requirements for developers to:
   * code landmarks and headings appropriately
   * make navigational mechanisms usable with the keyboard and other input devices
-  * provide clear and descriptive names for landmarks and headings
+  * implement clear and descriptive names for landmarks and headings
 
 ## Competencies
-
-Skills required for this module:
-
-[To be developed.]
 
 Skills required for this module:
 
@@ -79,7 +75,19 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-### Topic: Navigational Mechanisms
+### Topic: Menu Types
+
+#### Learning OUtcomes for Topic
+
+Students should be able to:
+
+* identify uses of different types of menus, such as navigational, fly-out, and application menus
+* design user interfaces that support use of menus with the mouse, keyboard, and touch
+* design user interfaces that support expanding and collapsing menu items using different methods, such as hovering, tabbing, and tapping
+* design user interfaces that support different menu states, such as open, closed, expanded, or collapsed
+
+
+### Topic: Other Navigational Mechanisms
 
 #### Learning Outcomes for Topic
 
@@ -90,9 +98,9 @@ Students should be able to:
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
-* design user interfaces with site maps to provide an overview of the entire website
-* design user interfaces with breadcrumb trails to provide information about the user's location in a set of web pages
-* design user interfaces with tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
+* design user interfaces that support site maps to provide an overview of the entire website
+* design user interfaces that support breadcrumb trails to provide information about the user's location in a set of web pages
+* design user interfaces that support tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
 #### Teaching Ideas for Topic
 

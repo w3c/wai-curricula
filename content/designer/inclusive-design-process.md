@@ -56,6 +56,13 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
+### Topic: Accommodations for People with Disabilities
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+
 ### Topic: User Research
 
 #### Learning Outcomes for Topic
@@ -63,10 +70,9 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
-* define  user groups that include different types of users with disabilities
-* research the current accessibility state of a website or application from the perspective of people with disabilities
+* define user groups that include different types of users with disabilities
 * research different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure
-* research accessibility guidelines, standards, and policies, 
+* research applicable accessibility guidelines, standards, and policies, such as WCAG 
 * determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of skills, use of assistive technology, and type of disability
 * manage involvement of people with disabilities early and throughout the research processes, including in focus groups, questionnaires, and surveys
 * identify related requirements for project managers to include accessibility in the overall project requirements
@@ -94,7 +100,7 @@ Students should be able to:
   * availability of content and functionality in different screen sizes and configurations
   * keyboard compatibility
   * use with assistive technologies and adaptive strategies
-  * consider different non functional accessibility requirements, for example WCAG and applicable accessibility policies
+* consider different non functional accessibility requirements, for example WCAG and applicable accessibility policies
 * create personas that include people with different types of disabilities and different levels of skills using the Web
 * create scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 
@@ -123,6 +129,7 @@ Students should be able to:
   * custom setups that users may require
   * accessibility of transportation means
 * ensure appropriate timings for participants to carry on activities is allocated, for example different time sets for different levels of experience with the assistive technology and different levels of familiarity with the website or application
+* describe how different testing methods can be made accessible
 
 #### Teaching Ideas for Topic
 
