@@ -40,8 +40,8 @@ Students should be able to:
 * research and communicate applicable design requirements, such as those defined by accessibility standards and policies
 * manage direct or indirect involvement of people with disabilities for the different user research activities of a project
 * describe different accommodation needs for people with disabilities
-* manage representation of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe and apply ethical considerations when working with people with disabilities, for example avoiding clichés and myths
+* manage user needs of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
+* describe ethical considerations when working with people with disabilities, for example avoiding clichés and myths
 * describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
 * describe related requirements for product owners and other team roles to plan for the involvement of people with disabilities early and throughout in the design and development processes
 
