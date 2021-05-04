@@ -37,13 +37,14 @@ Students should be able to:
 
 * explain how involving users with disabilities in the design and development process leads to better accessibility
 * identify the scope of accessibility in inclusive design processes and relate accessibility to usability and inclusion
-* research and communicate applicable design requirements, such as those defined by accessibility standards and policies
-* manage direct or indirect involvement of people with disabilities for the different user research activities of a project
-* describe different accommodation needs for people with disabilities
-* manage user needs of diverse groups of users with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe ethical considerations when working with people with disabilities, for example avoiding clichés and myths
-* describe accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
-* describe related requirements for product owners and other team roles to plan for the involvement of people with disabilities early and throughout in the design and development processes
+* research and communicate applicable design requirements for accessibility, such as those defined by accessibility standards and policies
+* research and communicate different methods to involve people with disabilities depending on the project scope and the planned research activities
+* research and communicate different accommodation needs for people with disabilities
+* research and communicate user needs of diverse groups of people with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
+* research and communicate accessibility characteristics and limitations of different testing methods, such as paper prototype testing and screen reader testing
+* describe related requirements for product owners and other team roles to plan for the involvement of people with disabilities
+
+{%- comment -%}
 
 ## Competencies
 
@@ -68,13 +69,11 @@ Students should be able to:
 
 Students should be able to:
 
-* explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities to interact with websites and applications
-* define user groups that include different types of users with disabilities
+* explain the use of different assistive technologies and adaptive strategies by various groups of people with disabilities
 * research different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure
 * research applicable accessibility guidelines, standards, and policies, such as WCAG 
-* determine the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of skills, use of assistive technology, and type of disability
-* manage involvement of people with disabilities early and throughout the research processes, including in focus groups, questionnaires, and surveys
-* identify related requirements for project managers to include accessibility in the overall project requirements
+* research the characteristics of participants in user research activities based on different factors, such as overall project requirements, level of skills, use of assistive technology, and type of disability
+* identify related requirements for project managers and other team members to include accessibility in the overall project requirements
 
 #### Teaching Ideas for Topic
 
@@ -99,9 +98,9 @@ Students should be able to:
   * availability of content and functionality in different screen sizes and configurations
   * keyboard compatibility
   * use with assistive technologies and adaptive strategies
-* consider different non functional accessibility requirements, for example WCAG and applicable accessibility policies
-* create personas that include people with different types of disabilities and different levels of skills using the Web
-* create scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
+* research different non functional accessibility requirements, for example WCAG and applicable accessibility policies
+* research personas that include people with different types of disabilities and different levels of skills using the Web
+* research scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 
 #### Teaching Ideas for Topic
 
@@ -154,3 +153,4 @@ Suggested resources to support your teaching:
 
 [To be developed.]
 
+{%- endcomment -%}
