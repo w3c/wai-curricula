@@ -37,12 +37,13 @@ Students should be able to:
 
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
 * design user interfaces that communicate the meaning of  components using different sensory characteristics
-* design user interfaces with appropriate contrast ratios for text, images of text, and controls
 * design user interfaces with adjustable font sizes to support readability
 * design user interfaces with adequate spacing to support readability
 * design user interfaces with landmarks, text cues, patterns, and icons to supplement information conveyed through color
+* design user interfaces with appropriate contrast ratios for text, images of text, and controls
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
-* design user interfaces that support placement of different regions and user interface components where users expect them* identify related requirements for developers to apply the necessary semantics to user interface components
+* design user interfaces that support placement of different regions and user interface components where users expect them
+* identify related requirements for developers to apply the necessary semantics to user interface components
 
 ## Competencies
 
@@ -54,6 +55,34 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
+### Topic: Content Perception
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* design user interfaces with distinguishable styles for different components, such as text, links, buttons, or form elements
+* design user interfaces with font sizes that allow content readability
+* design user interfaces with adequate spacing to support content identification
+* design user interfaces with text cues to convey any information that is provided using color alone, such as an asterisk to convey required form fields in a form
+* design user interfaces with different patterns, shapes, and icons to supplement information provided only with differences in color
+* provide other visual cues, such as underline, bold, and italics, to supplement information conveyed through differences in text color
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Demonstrate use of different styles for different user interface components, such as links ,buttons, texts, and menus. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another. For references on how to apply distinguishable styles for user interface components, see @@@
+* Demonstrate use of different font sizes and explain how they affect readability of the content. For reference on how to apply font sizes that allow content readability, see @@@
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allow to distinguish different pieces of content from one another. For references on how to apply adequate spacing, see @@@
+* Show examples where information is conveyed exclusively with differences sin color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see @@@
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
 ### Topic: Contrast Ratios
 
 #### Learning Outcomes for Topic
@@ -61,7 +90,7 @@ Topics to achieve the learning outcomes:
 Students should be able to:
  
 * explain how appropriate contrast ratios allow people with disabilities to read, understand, and distinguish user interface components
-* design user interfaces that allow text and images of text to have a contrast ratio of at least 4.5:1 with respect to their background
+* design user interfaces that allow text (including images of text) to have a contrast ratio of at least 4.5:1 with respect to their background
 * design user interfaces that allow for large-scale text and images of text to have a contrast ratio of at least 3:1 with respect to their background
 * design user interfaces that allow components and graphics to have a contrast ratio of at least 3:1 with respect to their background
 * design user interfaces with focus indicators that have a contrast ratio that allows them to be perceived by users
@@ -70,38 +99,23 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
+* Show examples of different foreground and background combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another. For references on contrast ratios , see @@@
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see @@@
+* @@@
+* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see@@@
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
+* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ration should be. Assess how students understand and distinguish contrast ratios for different user interface components.
+* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing
 
-### Topic: Content Perception
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* design user interfaces with distinguishable styles for different page regions, such as header, navigation, main, and footer
-* design user interfaces with distinguishable styles for different components, such as text, links, buttons, or form elements
-* design user interfaces with font sizes to perceive and distinguish content
-* design user interfaces with text cues to convey any information that is provided using color alone, such as an asterisk to convey required form fields in a form
-* provide information using different patterns, shapes, and icons to supplement information provided only with differences in color
-* provide other visual cues, such as underline, bold, and italics, to supplement information conveyed through differences in text color
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
+## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
 
-[To be developed.]
+[To be developed].
 
 ## Teaching Resources
 
