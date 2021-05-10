@@ -62,6 +62,8 @@ Students should be able to:
 * describe related requirements for developers to make language programmatically determined
 * describe related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -73,6 +75,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: Tabular Information
 
@@ -89,6 +93,8 @@ Students should be able to:
 * design user interfaces that support the inclusion of table  descriptions
 * describe related requirements for developers to ensure that table header and data cells are programmatically associated
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -100,6 +106,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: Grouping and Sorting Information
 
@@ -111,6 +119,8 @@ Students should be able to:
 * ensure examples of expected input are provided, such as how a phone number should be entered and what the different credit card fields should contain
 * ensure related links, such as those from a navigation menu or from a product category are grouped together visually and programmatically
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -123,6 +133,8 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+{%- endcomment -%}
+
 ### Topic: Data Visualization
 
 #### Learning Outcomes for Topic
@@ -132,6 +144,26 @@ Students should be able to:
 * create user interfaces that allow to filter data using different mechanisms such as search boxes or subsets of data
 * create user interfaces that allow to use the keyboard to navigate to specific pieces of data
 * create user interfaces that allow customizing the results that are shown at a given time
+
+{%- comment -%}
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of different foreground and background combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another. For references on contrast ratios , see @@@
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see @@@
+* @@@
+* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see@@@
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ration should be. Assess how students understand and distinguish contrast ratios for different user interface components.
+* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing
+
+{%- endcomment -%}
 
 ## Ideas to Assess Knowledge for Module
 

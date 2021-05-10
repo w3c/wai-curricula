@@ -83,6 +83,8 @@ Students should be able to:
 * provide text alternatives that identify and describe the purpose of human verification systems, such as captcha 
 * manage the provision of several modalities of captcha that rely on different sensory characteristics, such as visual, auditory, and logical
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -96,6 +98,8 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+{%- endcomment -%}
+
 ### Topic: Decorative Images
 
 #### Learning Outcomes for Topic
@@ -104,6 +108,26 @@ Students should be able to:
 
 * identify and describe different uses of images with decorative meaning
 * identify related requirements for developers to code decorative images appropriately
+
+{%- comment -%}
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of different foreground and background combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another. For references on contrast ratios , see @@@
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see @@@
+* @@@
+* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see@@@
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ration should be. Assess how students understand and distinguish contrast ratios for different user interface components.
+* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing
+
+{%- endcomment -%}
 
 ## Ideas to Assess Knowledge for Module
 

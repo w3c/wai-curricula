@@ -85,6 +85,8 @@ Students should be able to:
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
 * identify related requirements for developers to convey different menu states, such as open, closed, expanded, or collapsed
 
+{%- comment -%}
+
 #### Teaching Ideas
 
 Optional ideas to teach the learning outcomes:
@@ -93,11 +95,13 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. Explain that menus need to be operable with all of these input methods. For example, activating a menu option by tapping, pressing the Enter key, or clicking it with the mouse.
 * Show examples of different menu interaction patterns, such as expanding an collapsing submenu options. Explain that these patterns need to support interaction with the keyboard, mouse, and touch as well. Emphasize that the states of these menu items need to be communicated using styles, icons, and semantics. Explain that providing the icons and style is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
-#### Ideas to Assess Knowledge
+#### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment.
 
 [To be developed].
+
+{%- endcomment -%}
 
 ### Topic: Other Navigational Mechanisms
 
@@ -115,6 +119,8 @@ Students should be able to:
 * design user interfaces that support site maps to provide an overview of the entire website
 * design user interfaces that support tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -129,6 +135,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ## Ideas to Assess Knowledge for Module
 

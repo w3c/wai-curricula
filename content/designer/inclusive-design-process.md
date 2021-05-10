@@ -65,6 +65,8 @@ Students should be able to:
 * identify different mechanisms to include people with disabilities in user research activities, such as recruiting people with disabilities, asking for experts advice, or following documented best practices
 * articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -76,6 +78,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: User Research
 
@@ -91,6 +95,8 @@ Students should be able to:
 * describe the characteristics of potential participants in user research activities based on different factors, such as overall project requirements, type of disability, and level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -102,6 +108,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: Establishing Requirements
 
@@ -120,6 +128,8 @@ Students should be able to:
 * identify personas that include people with different types of disabilities and different levels of skills using the Web
 * identify scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -131,6 +141,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: Including Real People with Disabilities
 
@@ -150,6 +162,8 @@ Students should be able to:
   * accessibility of transportation means to get to the chosen venue
 * identify the need for appropriate timings for participants with different levels of skills to conduct the research activities
 * relate different testing methods to different accessibility outcomes
+
+{%- endcomment -%}
 
 #### Teaching Ideas for Topic
 

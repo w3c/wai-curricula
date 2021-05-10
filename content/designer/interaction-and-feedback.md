@@ -62,6 +62,8 @@ Students should be able to:
 * design user interfaces that support keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
 * describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
   
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -71,6 +73,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ### Topic: Labels and Instructions
 
@@ -88,6 +92,8 @@ Students should be able to:
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
 * identify related requirements for developers to code labels and instructions appropriately
 
+{%- comment -%}
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -104,6 +110,8 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+{%- endcomment -%}
+
 ### Topic: Feedback and Notifications
 
 #### Learning Outcomes for Topic
@@ -115,6 +123,8 @@ Students should be able to:
 * design user interfaces that allow to switch notifications on or off to allow notifications processing at the users pace
 * design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
 * describe related requirements for developers to code notification messages appropriately
+
+{%- comment -%}
 
 #### Teaching Ideas for Topic
 
@@ -142,7 +152,7 @@ Students should be able to:
 * design user interfaces with down events on single pointer gestures that:
   * do not perform any action, or
   * have available mechanisms to abort or undo any action carried on
-S
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -154,6 +164,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
+
+{%- endcomment -%}
 
 ## Ideas to Assess Knowledge for Module
 
