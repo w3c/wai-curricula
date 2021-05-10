@@ -65,7 +65,7 @@ Students should be able to:
 
 * assess and communicate the need for involving people with disabilities depending on the project scope
 * identify different mechanisms to include people with disabilities in user research activities, such as recruiting people with disabilities, asking for experts advice, or following documented best practices
-* articulate and communicate the potential risks of not involving users with disabilities, for example higher costs to implement accessibility at a later stage
+* articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 
 #### Teaching Ideas for Topic
 
@@ -134,7 +134,7 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
-### Topic: Including Users with Disabilities
+### Topic: Including Real People with Disabilities
 
 Discuss different aspects to consider when working with real people with disabilities.
 
@@ -148,7 +148,7 @@ Students should be able to:
 * identify the following needs when research activities are conducted at a specific location:
   * accessibility of the facilities
   * assistive technology needs
-  * custom setups that users may require
+  * custom setups that people with disabilities may require
   * accessibility of transportation means to get to the chosen venue
 * identify the need for appropriate timings for participants with different levels of skills to conduct the research activities
 * relate different testing methods to different accessibility outcomes
@@ -161,7 +161,7 @@ Optional ideas to teach the learning outcomes:
 
 {%- comment -%}
 
-* Discuss the different levels of skills that users may have when using an assistive technology or an adaptive strategy. Explain that different people may need different amounts of time to conduct the proposed activities. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the website or application
+* Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the website or application
 * Explain different testing methods that exist, such as testing with an assistive technology, testing a paper prototype, or testing an HTML template. Explain that each of these methods delivers different types of outputs. For example, testing a paper prototype is more likely to deliver results related to vision, and assistive technology testing is more likely to deliver results related to the compatibility of the product with assistive technology.
 
 {%- endcomment -%}
