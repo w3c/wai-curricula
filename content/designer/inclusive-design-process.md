@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/itneraction-and-feedback/
+  previous: /curricula/designer-modules/interaction-and-feedback/
   next:
 ---
 
@@ -29,7 +29,7 @@ navigation:
 
 Courses based on this module should:
 
-* discuss benefits of involving people with disabilities and risks of not involving people with disabilities
+* discuss benefits of involving people with disabilities and risks of not involving people with disabilities in user research activities
 * discuss user requirements and accommodation needs of people with disabilities
 
 ## Learning Outcomes for Module
@@ -55,14 +55,14 @@ Topics to achieve the learning outcomes:
 
 ### Topic: Assessing the Involvement of People with Disabilities
 
-Explain how involving people with disabilities can lead to better accessibility of websites and applications. Discuss scenarios where recruiting people with disabilities may not be feasible, and explain the potential risks of not involving people with disabilities.
+Explain how involving people with disabilities can lead to better accessibility of websites and applications. Discuss scenarios where including real people with disabilities may not be feasible and discuss other alternatives, for example requesting for experts advice or adhering to established best practices. Explain the potential risks of not involving people with disabilities.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * assess and communicate the need for involving people with disabilities depending on the project scope
-* identify different mechanisms to include people with disabilities in user research activities, such as recruiting people with disabilities, asking for experts advice, or following documented best practices
+* identify different mechanisms to include people with disabilities in user research activities, such as including real people with disabilities, asking for experts advice, or following documented best practices
 * articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 
 #### Teaching Ideas for Topic
@@ -79,7 +79,7 @@ Optional ideas to support assessment:
 
 ### Topic: User Research
 
-Explain different aspects for organizations conducting user research to involve people with disabilities. 
+Refer back to [foundation module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/). Discuss how organizations conducting user research can include different accessibility features, barriers, and requirements that relate to people with disabilities. 
 
 #### Learning Outcomes for Topic
 
@@ -162,13 +162,13 @@ Optional ideas to teach the learning outcomes:
 * Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the website or application
 * Explain different testing methods that exist, such as testing with an assistive technology, testing a paper prototype, or testing an HTML template. Explain that each of these methods delivers different types of outputs. For example, testing a paper prototype is more likely to deliver results related to vision, and assistive technology testing is more likely to deliver results related to the compatibility of the product with assistive technology.
 
+{%- endcomment -%}
+
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ## Ideas to Assess Knowledge for Module
 
