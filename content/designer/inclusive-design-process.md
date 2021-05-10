@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* discuss the importance of involving people with disabilities
-* discuss user requirements and needs of people with disabilities
+* discuss benefits of involving people with disabilities and risks of not involving people with disabilities
+* discuss user requirements and accommodation needs of people with disabilities
 
 ## Learning Outcomes for Module
 
@@ -41,8 +41,6 @@ Students should be able to:
 * examine applicable design requirements for accessibility, such as those defined by accessibility standards and policies
 * articulate the potential risks of not involving people with disabilities
 * describe different accommodation needs for people with disabilities
-* describe user needs of diverse groups of people with disabilities, including people with various levels of skills using assistive technologies and adaptive strategies
-* describe accessibility characteristics and limitations of different testing methods
 * identify related requirements for product owners and other team roles to plan for the involvement of people with disabilities
 
 ## Competencies
