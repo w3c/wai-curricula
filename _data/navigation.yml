@@ -259,10 +259,8 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Inclusive Design Process
-        url: "/curricula/designer-modules/inclusive-design-process/"
-      - name: Visual Design
-        url: "/curricula/designer-modules/visual-design/"
+Flexible and Responsive Design
+        url: "/curricula/designer-modules/flexible-and-responsive-design/"
       - name: Navigation
         url: "/curricula/designer-modules/navigation/"
       - name: Information Design
@@ -273,8 +271,8 @@
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
-      - name: Flexible and Responsive Design
-        url: "/curricula/designer-modules/flexible-and-responsive-design/"
+      - name: Inclusive Design Process
+        url: "/curricula/designer-modules/inclusive-design-process/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

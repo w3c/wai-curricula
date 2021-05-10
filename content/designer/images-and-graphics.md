@@ -64,7 +64,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
+* Show examples of different images that convey information, such as images to provide instructions, or to identify objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. For references on how to provide text alternatives for images, see
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -72,7 +72,7 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
-### Topic: Functional Images
+### Topic: Images Conveying Function
 
 #### Learning Outcomes for Topic
 
@@ -87,7 +87,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
+* Show examples of different images used to convey functionality, such as for printing, searching, or saving. Explain that it is necessary to provide  and equivalent, succinct text alternative that explain the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see
+* Show examples of different verification systems, such as captcha, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. SFor references on how to provide accessible captcha, see
 
 #### Ideas to Assess Knowledge for Topic
 

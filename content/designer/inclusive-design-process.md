@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/
-  next: /curricula/designer-modules/visual-design/
+  previous: /curricula/designer-modules/itneraction-and-feedback/
+  next:
 ---
 
 ## Introduction

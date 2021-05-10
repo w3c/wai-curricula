@@ -15,7 +15,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
-  previous: /curricula/designer-modules/visual-design/
+  previous: /curricula/designer-modules/flexible-and-responsive-design/
   next: /curricula/designer-modules/information-design/
 ---
 
@@ -31,12 +31,10 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate web pages and applications
+* design user interfaces that support different types of navigational mechanisms, including breadcrumb trails, tables of contents, and site maps
 * design user interfaces with mechanisms to bypass blocks of repeated content, such as navigation links and header contents
 * design user interfaces with search functionalities to help users find content
 * design user interfaces that support accessibility features of multiple menus, such as navigational, fly-out, and application menus
-* design user interfaces that support different types of navigational mechanisms, including breadcrumb trails, tables of contents, and site maps
-* design user interfaces that support placement of different regions and user interface components where users expect them
-* provide headings and landmarks to identify different regions of a page or application
 * identify related requirements for developers to:
   * code landmarks and headings appropriately
   * make navigational mechanisms usable with the keyboard and other input devices

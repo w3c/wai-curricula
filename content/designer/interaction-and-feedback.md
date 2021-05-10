@@ -31,11 +31,11 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components
-* design user experiences that support different input mechanisms, including mouse, touch, and keyboard
+* design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, visual cues, and icons
 * provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
-* design user experiences with meaningful sequence of interactive user interface components
+* design user interfaces with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
@@ -57,17 +57,14 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* provide designs that support operation with the keyboard
-* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
+* design user interfaces that support operation with the keyboard
 * identify situations when it may be necessary to provide  additional keyboard shortcuts, for example when designing a custom functionality
-* create designs that allow provision of keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
-* create designs that allow for consistent focus indicators through the whole widget or application lifetime
+* design user interfaces that support keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
+* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
   
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
-
-[To be developed.]
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -81,75 +78,25 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* provide overall labels and instructions to help users understand the purpose and intent of interactive user interface components, such as names for form fields and custom widgets and instructions about how to operate custom widgets
-* create designs that allow to position labels where users expect them, for example
-  * labels for form fields to the left of the field or above in left-to-right languages, or to the right of the field or above it in right-to-left languages
-  * labels for radio buttons or checkboxes to the right of the field or below it in left-to-right languages or to the left of the field or below it in right-to-left languages
+* provide names to help users understand the purpose and intent of interactive user interface components
+* design user interfaces that allow to position labels where users expect them, for example
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
   * including text, icons, and color in the label of each of the required form fields that indicates that they are required
 * provide clear instructions about changes in context that happen when there is a change  on a control before the control, for example when launching a new window when the user checks a check box or selects a list item
 * provide overall instructions about existing time limits in a form and about how they can be turned off, adjusted, or extended
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
-* identify related requirements for developers to ensure that labels and instructions are programmatically associated to their corresponding user interface component
+* identify related requirements for developers to code labels and instructions appropriately
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-### Topic: Enough Time
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* design user interfaces that allow users to turn off time limits, for example to complete a form or to visualize information at the users pace
-* design user interfaces that allow users to adjust existing time limits up to at least 10 times the original setting
-* design user interfaces that support extending existing time limits by warning the user at least 20 seconds before the time limit expires
-* ensure content that auto scrolls can be paused and resumed from where it was left to allow users to better read and process content
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-### Topic: Help and Error Prevention
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* create designs that support identification of form fields with automatically detected errors
-* create designs that support textual descriptions of errors that can be automatically identified
-* provide labels and  instructions about how data should be entered, such as date formats and specific ways to introduce identification and phone numbers
-* create designs that support provision of suggestions for input errors that are automatically detected when these suggestions are known
-* create designs that support reversing, checking, and confirming data entered by the user at least for the following types of information
-  * financial
-  * legal
-  * modifications and deletions of user-controllable data  collected in data storage systems
-  * submissions of user test responses
-* create designs that support context help methods for form fields, such as a "help" link next to the form
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
+* Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see
+* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. FOr example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see
+* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, or icons. For references on how to communicate that form fields are required, see
+* Discuss reasons for implementing time limits, such as exams or security purposes. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be put in place to stop, adjust, or extend time limits. Explain that providing the instructions is a responsibility of the designer, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
+*( Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -163,13 +110,39 @@ Optional ideas to support assessment:
 
 Students should be able to:
 
-* ensure notification messages are easy to understand and can be distinguished from any other user interface component
-* provide textual information about errors, successes, or any other event resulting from user input
-* create designs that allow to switch notifications on or off to allow notifications processing at the users pace
-* identify different types of notifications based on their priority, relevance, and relation to specific parts of the application or to the application as a whole
-* create designs that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
-* describe related requirements for developers to ensure that notification messages are associated to their corresponding user interface component and can be rendered by assistive technologies
+* design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
+* provide meaningful and descriptive messages about errors, suggestions for corrections, successes, or any other event
+* design user interfaces that allow to switch notifications on or off to allow notifications processing at the users pace
+* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
+* describe related requirements for developers to code notification messages appropriately
 
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and pop up windows.
+* Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
+* Show examples of overlapping notifications in the context of a web applications. Explain that some users may find it daunting to process several notifications at the same time, so there should be a mechanism that allows to prioritize notifications based on their relevance.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+[To be developed.]
+
+### Topic: Gestures and Animations
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* design user interfaces that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
+* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
+* create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* design user interfaces with down events on single pointer gestures that:
+  * do not perform any action, or
+  * have available mechanisms to abort or undo any action carried on
+S
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
