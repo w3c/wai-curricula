@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 1: Inclusive Design Process"
+title: "[Draft] Module 7: Inclusive Design Process"
 nav_title: "Inclusive Design Process"
 permalink: /curricula/designer-modules/inclusive-design-process/
 ref: /curricula/designer-modules/inclusive-design-process/

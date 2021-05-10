@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 7: Interaction and Feedback"
+title: "[Draft] Module 6: Interaction and Feedback"
 nav_title: "Interaction and Feedback"
 permalink: /curricula/designer-modules/interaction-and-feedback/
 ref: /curricula/designer-modules/interaction-and-feedback/

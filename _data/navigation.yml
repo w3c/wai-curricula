@@ -259,7 +259,7 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-Flexible and Responsive Design
+      - name: Flexible and Responsive Design
         url: "/curricula/designer-modules/flexible-and-responsive-design/"
       - name: Navigation
         url: "/curricula/designer-modules/navigation/"
