@@ -65,8 +65,6 @@ Students should be able to:
 * identify different mechanisms to include people with disabilities in user research activities, such as recruiting people with disabilities, asking for experts advice, or following documented best practices
 * articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -78,8 +76,6 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ### Topic: User Research
 
