@@ -91,8 +91,6 @@ Students should be able to:
 * describe the characteristics of potential participants in user research activities based on different factors, such as overall project requirements, type of disability, and level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -104,8 +102,6 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ### Topic: Establishing Requirements
 
@@ -124,8 +120,6 @@ Students should be able to:
 * identify personas that include people with different types of disabilities and different levels of skills using the Web
 * identify scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -137,8 +131,6 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ### Topic: Including Real People with Disabilities
 
@@ -159,13 +151,13 @@ Students should be able to:
 * identify the need for appropriate timings for participants with different levels of skills to conduct the research activities
 * relate different testing methods to different accessibility outcomes
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 [To be developed.]
+
+{%- comment -%}
 
 * Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the website or application
 * Explain different testing methods that exist, such as testing with an assistive technology, testing a paper prototype, or testing an HTML template. Explain that each of these methods delivers different types of outputs. For example, testing a paper prototype is more likely to deliver results related to vision, and assistive technology testing is more likely to deliver results related to the compatibility of the product with assistive technology.
