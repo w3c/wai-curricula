@@ -132,7 +132,7 @@ Students should be able to:
 * design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
 * design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
 * design user interfaces that support text resizing without loss of content and functionality
-* design user interfaces that do not restrict the content view and operation to a single display orientation, such as portrait or landscape
+* design user interfaces that support content view and operation in both portrait and landscape orientations
 * design user interfaces that support alternatives to multi-pointer or path-based gestures, such as swipe or pinch
 * design user interfaces that support undoing or aborting an action carried out with pointer operations
 
