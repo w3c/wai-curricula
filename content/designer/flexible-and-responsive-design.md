@@ -37,7 +37,7 @@ Students should be able to:
 
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
 * design user interfaces with landmarks, text cues, patterns, and icons to supplement information conveyed through color alone
-* design user interfaces with adjustable font sizes, adequate spacing, and sufficient targets to support readability
+* design user interfaces with adjustable font sizes and adequate spacing to support readability
 * design user interfaces with appropriate contrast ratios for text, images of text, and controls
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * design user interfaces that support placement of different regions and user interface components where users expect them
