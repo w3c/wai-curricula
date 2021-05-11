@@ -66,24 +66,24 @@ Students should be able to:
 * design user interfaces with different patterns, shapes, and icons to supplement information provided only with differences in color
 * provide other visual cues, such as underline, bold, and italics, to supplement information conveyed through differences in text color
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
+
+{%- comment -%}
 
 * Demonstrate use of different styles for different user interface components, such as links ,buttons, texts, and menus. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another. For references on how to apply distinguishable styles for user interface components, see @@@
 * Demonstrate use of different font sizes and explain how they affect readability of the content. For reference on how to apply font sizes that allow content readability, see @@@
 * Show examples of different page layouts with and without adequate spacing. Explain how spacing allow to distinguish different pieces of content from one another. For references on how to apply adequate spacing, see @@@
 * Show examples where information is conveyed exclusively with differences sin color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see @@@
 
+{%- endcomment -%}
+
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ### Topic: Contrast Ratios
 
@@ -97,20 +97,24 @@ Students should be able to:
 * design user interfaces that allow components and graphics to have a contrast ratio of at least 3:1 with respect to their background
 * design user interfaces with focus indicators that have a contrast ratio that allows them to be perceived by users
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
+
+{%- comment -%}
 
 * Show examples of different foreground and background combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another. For references on contrast ratios , see @@@
 * Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see @@@
 * @@@
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see@@@
 
+{%- endcomment -%}
+
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
+
+{%- comment -%}
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ration should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing
@@ -132,20 +136,24 @@ Students should be able to:
 * design user interfaces that support alternatives to multi-pointer or path-based gestures, such as swipe or pinch
 * design user interfaces that support undoing or aborting an action carried out with pointer operations
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
+
+{%- comment -%}
 
 * Show examples of different foreground and background combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another. For references on contrast ratios , see @@@
 * Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see @@@
 * @@@
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see@@@
 
+{%- endcomment -%}
+
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
+
+{%- comment -%}
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ration should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing
