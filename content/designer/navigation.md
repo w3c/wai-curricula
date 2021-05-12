@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 2: Navigation"
+title: "[Draft] Module 3: Navigation"
 nav_title: "Navigation"
 permalink: /curricula/designer-modules/navigation/
 ref: /curricula/designer-modules/navigation/

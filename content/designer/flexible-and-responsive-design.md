@@ -1,6 +1,6 @@
 ---
+title: "[Draft] Module 2: Flexible and Responsive Design"
 nav_title: "Flexible and Responsive Design"
-title: "[Draft] Module 1: Flexible and Responsive Design"
 permalink: /curricula/designer-modules/flexible-and-responsive-design/
 ref: /curricula/designer-modules/flexible-and-responsive-design/
 lang: en

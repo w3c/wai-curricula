@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 7: Inclusive Design Process"
-nav_title: "Inclusive Design Process"
-permalink: /curricula/designer-modules/inclusive-design-process/
-ref: /curricula/designer-modules/inclusive-design-process/
+title: "[Draft] Module 1: Understanding and Involving Users"
+nav_title: "Understanding and Involving Users"
+permalink: /curricula/designer-modules/understanding-and-involving-users/
+ref: /curricula/designer-modules/understanding-and-involving-users/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/inclusive-design-process.md
+  path: content/designer/understanding-and-involving-users.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/interaction-and-feedback/
-  next:
+  previous: /curricula/designer-modules/
+  next: /curricula/designer-modules/flexible-and-responsive-design/
 ---
 
 ## Introduction
@@ -29,14 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-* discuss benefits of involving people with disabilities and risks of not involving people with disabilities in user research activities
-* discuss user requirements and accommodation needs of people with disabilities
+* discuss aspects related to involving people with disabilities when conducting user research activities
+* discuss the impact of involving people with disabilities to create more accessible designs
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how involving people with disabilities in the design and development process leads to better accessibility
+* explain how involving people with disabilities can lead to more accessible designs
 * assess and communicate the need for involvement of people with disabilities
 * examine applicable design requirements for accessibility, such as those defined by accessibility standards and policies
 * articulate the potential risks of not involving people with disabilities
@@ -55,27 +55,15 @@ Topics to achieve the learning outcomes:
 
 ### Topic: Assessing the Involvement of People with Disabilities
 
-Explain how involving people with disabilities can lead to better accessibility of websites and applications. Discuss scenarios where including real people with disabilities may not be feasible and discuss other alternatives, for example requesting for experts advice or adhering to established best practices. Explain the potential risks of not involving people with disabilities.
+Explain how involving people with disabilities can lead to more accessible designs. Discuss scenarios where including real people with disabilities may not be feasible and present possible workarounds, for example requesting for experts advice and adhering to established best practices. Explain the potential risks of not involving people with disabilities.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* assess and communicate the need for involving people with disabilities depending on the project scope
-* identify different mechanisms to include people with disabilities in user research activities, such as including real people with disabilities, asking for experts advice, or following documented best practices
+* describe the impact of including real people with disabilities in user research activities
+* describe desktop research activities to conduct when it is not possible to include real people with disabilities, such as asking for experts advice, or following documented best practices
 * articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
 
 ### Topic: User Research
 
@@ -85,27 +73,15 @@ Refer back to [foundation module 2: People and Digital Technology](/curricula/fo
 
 Students should be able to:
 
-* describe the use of different assistive technologies and adaptive strategies by various groups of people with disabilities
-* describe different types of accessibility barriers and features, such as appropriate contrast ratios and meaningful page structure
-* describe applicable accessibility guidelines, standards, and policies, such as WCAG 
+* describe the impact of including real people with disabilities in user research activities
+* describe desktop research activities to conduct when it is not feasible to include real people with disabilities, such as asking for experts advice, or following documented best practices
+* articulate and communicate the consequences of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 * describe the characteristics of potential participants in user research activities based on different factors, such as overall project requirements, type of disability, and level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements
 
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
 ### Topic: Establishing Requirements
 
-Present accessibility standards (such as WCAG2) and policies that may apply in the students' region. Discuss functional and non-functional requirements related to people with disabilities.
+Present accessibility standards (such as WCAG2) and policies that apply in the students' region. Discuss functional and non-functional requirements related to people with disabilities.
 
 #### Learning Outcomes for Topic
 
@@ -117,20 +93,8 @@ Students should be able to:
   * keyboard compatibility
   * compatibility with assistive technologies and adaptive strategies
 * identify different non-functional accessibility requirements, for example those included in WCAG and in applicable accessibility policies
-* identify personas that include people with different types of disabilities and different levels of skills using the Web
-* identify scenarios that include use of the website or application with different types of assistive technologies and adaptive strategies
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
+* identify and create personas that include people with different types of disabilities and different levels of skills using the Web
+* identify scenarios that include use of the product with different types of assistive technologies and adaptive strategies
 
 ### Topic: Including Real People with Disabilities
 
