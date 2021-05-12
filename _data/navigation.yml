@@ -259,6 +259,8 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
+      - name: Understanding and Involving User
+        url: "/curricula/designer-modules/understanding-and-involving-users/"
       - name: Flexible and Responsive Design
         url: "/curricula/designer-modules/flexible-and-responsive-design/"
       - name: Navigation
@@ -271,8 +273,6 @@
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Interaction and Feedback
         url: "/curricula/designer-modules/interaction-and-feedback/"
-      - name: Inclusive Design Process
-        url: "/curricula/designer-modules/inclusive-design-process/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
