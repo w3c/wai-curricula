@@ -259,7 +259,7 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Understanding and Involving User
+      - name: Understanding and Involving Users
         url: "/curricula/designer-modules/understanding-and-involving-users/"
       - name: Flexible and Responsive Design
         url: "/curricula/designer-modules/flexible-and-responsive-design/"
