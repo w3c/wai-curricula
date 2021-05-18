@@ -23,16 +23,35 @@ navigation:
 ---
 
 ## Introduction
+{:.no-display}
 
 The designer modules guide the creation of courses that:
 
 * @@@
-...
+* @@@
 
-These modules focus on user experience, visual, and interaction aspects to design accessible web pages and applications. The modules primarily address the following roles:
+These modules focus on user research, visual, and interaction aspects to design accessible web pages and applications. The modules primarily address the following roles:
 
 * User Experience (UX) Designer
 * User Researcher
 * Visual Designer
 * Information Architect
 * Interaction Designer
+
+### Prerequisites for Students
+
+The designer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
+
+* [Module 1: What is Web accessibility](/curricula/foundation-modules/what-is-web-accessibility/)
+  * Topic: Stories of People with Disabilities
+  * Topic: Scope of Web Accessibility
+* [Module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/)
+  * Topic: Diverse Abilities, Tools, and Strategies
+  * Topic: Components of Web Accessibility
+* [Module 4: Principles, Standards, and Checks](/curricula/foundation-modules/principles-standards-and-checks/)
+  * Topic: Principles of Web Accessibility
+  * Topic: W3C Accessibility Standards
+  * Topic: Hands-on Experience of Standards
+* [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
+  * Topic: Roles and Responsibilities
+
