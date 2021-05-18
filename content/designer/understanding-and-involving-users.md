@@ -29,82 +29,154 @@ navigation:
 
 Courses based on this module should:
 
-* discuss aspects related to involving people with disabilities when conducting user research activities
-* discuss the impact of involving people with disabilities to create more accessible designs
+* explain aspects related to involving people with disabilities when conducting user research activities
+* explain the impact of involving people with disabilities to create more accessible designs
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain how involving people with disabilities can lead to more accessible designs
-* assess and communicate the need for involvement of people with disabilities
 * examine applicable design requirements for accessibility, such as those defined by accessibility standards and policies
 * articulate the potential risks of not involving people with disabilities
-* describe different accommodation needs for people with disabilities
+* describe different accommodations for people with disabilities
 * identify related requirements for product owners and other team roles to plan for the involvement of people with disabilities
+
+{% include excol.html type="all" %}
 
 ## Competencies
 
 Skills required for this module:
 
-[To be developed.]
+{% include excol.html type="start" %}
+
+### Students
+
+{% include excol.html type="middle" %}
+
+* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Instructors
+
+{% include excol.html type="middle" %}
+
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+
+{% include excol.html type="end" %}
 
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
-
-### Topic: Assessing the Involvement of People with Disabilities
-
-Explain how involving people with disabilities can lead to more accessible designs. Discuss scenarios where including real people with disabilities may not be feasible and present possible workarounds, for example requesting for experts advice and adhering to established best practices. Explain the potential risks of not involving people with disabilities.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* describe the impact of including real people with disabilities in user research activities
-* describe desktop research activities to conduct when it is not possible to include real people with disabilities, such as asking for experts advice, or following documented best practices
-* articulate and communicate the potential risks of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
+ 
+{% include excol.html type="start" %}
 
 ### Topic: User Research
 
-Refer back to [foundation module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/). Discuss how organizations conducting user research can include different accessibility features, barriers, and requirements that relate to people with disabilities. 
+{% include excol.html type="middle" %}
+
+Refer back to [foundation module 2: People and Digital Technology](/curricula/foundation-modules/people-and-digital-technology/). Discuss how organizations conducting user research can include feedback on different accessibility features, barriers, and requirements that relate to people with disabilities. 
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * describe the impact of including real people with disabilities in user research activities
-* describe desktop research activities to conduct when it is not feasible to include real people with disabilities, such as asking for experts advice, or following documented best practices
+* describe desktop research activities to be conducted in situations where it is not feasible to include real people with disabilities, such as asking for experts advice, or following documented best practices
 * articulate and communicate the consequences of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
-* describe the characteristics of potential participants in user research activities based on different factors, such as overall project requirements, type of disability, and level of skills using assistive technologies and adaptive strategies
+* describe the characteristics of potential participants in user research activities based on different factors, such as the type of disability and the level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements
+
+### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+{%- comment -%}
+
+* Discuss different examples of involving people with disabilities. Explain that this gives user researchers the opportunity to collect direct feedback from people with disabilities on products that are working for them and on products that are not. Emphasize that you can then include that feedback in the research conclusions, and that will lead to better overall design for everybody.
+* Discuss scenarios where it might not be economically feasible to involve people with disabilities. Explain different search methods that can be used to get an understanding of how people with disabilities interact with technology and to get an understanding about different solutions to common pitfalls that people with disabilities may encounter when interacting with a product or service.
+* Explain the consequences of not involving people with disabilities in design processes. Emphasize that accessibility remediation is often difficult and can lead to higher costs when  implementing accessibility later on in the development phase.
+* Present characteristics of potential participants in user research activities based on several factors, such as the type of disability and the level of skills using assistive technologies and adaptive strategies.
+
+{%- endcomment -%}
+
+### Ideas to Assess Knowledge
+
+Optional ideas to support assessment.
+
+{%- comment -%}
+
+* Short Answer Questions &mdash; Students reflect about how they could include people with disabilities in their user research activities. Assess how students understand the added value of involving people with disabilities.
+* Short Answer Questions &mdash; Students reflect about the characteristics of potential participants with disabilities in user  research activities. Assess how students understand the diversity among people with disabilities.
+
+{%- endcomment -%}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
 
 ### Topic: Establishing Requirements
 
-Present accessibility standards (such as WCAG2) and policies that apply in the students' region. Discuss functional and non-functional requirements related to people with disabilities.
+{% include excol.html type="middle" %}
+
+Present accessibility standards (such as WCAG2) and policies that apply in the students' region. Explain functional and non-functional requirements related to people with disabilities.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
+* identify different non-functional accessibility requirements, for example those included in WCAG and in applicable accessibility policies
 * consider different functional requirements that relate to people with disabilities, for example:
   * appropriate contrast ratios
   * availability of content and functionality in different screen sizes and configurations
   * keyboard compatibility
   * compatibility with assistive technologies and adaptive strategies
-* identify different non-functional accessibility requirements, for example those included in WCAG and in applicable accessibility policies
 * identify and create personas that include people with different types of disabilities and different levels of skills using the Web
 * identify scenarios that include use of the product with different types of assistive technologies and adaptive strategies
 
+### Teaching Ideas
+
+Optional ideas to support assessment:
+
+{%- comment -%}
+
+* Refer back to foundation [Module 4 principles, Standards, and Checks](/curricula/foundation-modules/principles-standards-and-checks) explain the importance of including international standards.
+* Explain some functional requirements of products and services, such as compatibility with assistive technologies and adaptive strategies and keyboard support.
+* Reflect on the diversity of people with disabilities. Explain that, when creating personas, these need to reflect the different types of abilities people have and their level of skills using assistive technologies and adaptive strategies.
+
+{%- endcomment -%}
+
+### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+{%- comment -%}
+
+* Short answer questions &mdash; Ask students about three different types of non-functional requirements included in accessibility standards, such as WCAG2. Assess how students understand non-functional requirements included in accessibility standards.
+* Short Answer Questions &mdash; Ask students about three types of functional requirements that are related to people with disabilities. Assess how students understand functional requirements that relate to people with disabilities.
+* Practical &mdash; Students create several personas that include different types of disabilities and different levels of skills using assistive technologies and adaptive strategies. Assess how students understand diversity among people with disabilities.
+
+{%- endcomment -%}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Including Real People with Disabilities
 
-Discuss different aspects to consider when working with real people with disabilities.
+{% include excol.html type="middle" %}
+
+Discuss different aspects to consider when working with real people with disabilities, such as accommodations, accessibility of the facilities, and specific setups people with disabilities may require.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* assess and communicate the need for including real people with disabilities depending on the project scope and the activities to be conducted
+* identify the need for including real people with disabilities depending on the project requirements and the activities to be conducted
 * articulate the advantages and disadvantages of remote versus face-to-face participation when working with people with disabilities
 * articulate the advantages and disadvantages of guided and non-guided testing
 * identify the following needs when research activities are conducted at a specific location:
@@ -119,11 +191,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
-
 {%- comment -%}
 
-* Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the website or application
+* Explain how including real people with disabilities can help better inform the decisions taken in iterative design processes. For example, mention complex interaction patterns, such as complex form fields or custom dialogs, and reinforce the idea that feedback on expected behaviors and interaction patterns will help take the best decision.
+* Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. Present different strategies to include these differences. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the product.
 * Explain different testing methods that exist, such as testing with an assistive technology, testing a paper prototype, or testing an HTML template. Explain that each of these methods delivers different types of outputs. For example, testing a paper prototype is more likely to deliver results related to vision, and assistive technology testing is more likely to deliver results related to the compatibility of the product with assistive technology.
 
 {%- endcomment -%}
@@ -134,14 +205,25 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
 
-[To be developed.]
+{%- comment -%}
+
+* Portfolio &mdash; Students design a focus group involving users with disabilities to research about people with disabilities needs for a chat bot application. Assess how students include real people with disabilities in user research activities.
+
+{%- endcomment -%}
 
 ## Teaching Resources
 
 Suggested resources to support your teaching:
+
+* [[Involving Users in Web Projects for Better, Easier Accessibility]](https://www.w3.org/WAI/planning/involving-users/) &mdash; Helps you understand real-world accessibility issues, such as how people with disabilities and older people use the web with adaptive strategies and assistive technologies.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 
 [To be developed.]
