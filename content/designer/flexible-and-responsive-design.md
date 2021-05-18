@@ -100,7 +100,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on different style properties such as font sizes, and spacing to perceive contents.
+Explain how people with disabilities rely on different style properties, such as font sizes and spacing, to perceive contents.
 
 #### Learning Outcomes for Topic
 
