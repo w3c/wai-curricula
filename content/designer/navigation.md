@@ -24,23 +24,21 @@ navigation:
 
 Courses based on this module should:
 
-[To be developed.]
+* introduce strategies that people with disabilities use to navigate multi page websites and applications
+* explain some behaviors, visual affordances, and interaction patterns of menus and relate them to accessibility
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to navigate multipages websites and applications
+* explain strategies that people with disabilities use to navigate multipage websites and applications
 * design user interfaces that support different types of navigations, including menus, breadcrumb trails, tables of contents, and site maps
-* define bllocks of repeated content and coordinate with developers to implement mechanisms to bypass such blocks
 * define keyboard, mouse, and touch interaction for menus and other navigational mechanisms
-* provide clear and consistent styles for navigational mechanisms, including menus, menu item states, and other navigational mechanisms
+* provide clear and consistent visual cues for navigational mechanisms, including menus, menu item states, and other navigational mechanisms
+* define blocks of repeated content and coordinate with developers to implement mechanisms that bypass such blocks
 * identify related requirements for developers to:
-  * code landmarks and headings appropriately
   * implement keyboard, mouse, and touch interactions for navigational mechanisms
   * implement clear and descriptive names for navigational mechanisms
-
-{%- comment -%}
 
 ## Competencies
 
@@ -53,7 +51,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for Students](/curricula/designer-modules/#prerequisites-for-students)
-* [Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/) from [Developer Modules](/curricula/developer-modules/)
+* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/) from [Designer Modules](/curricula/designer-modules/)
 
 {% include excol.html type="end" %}
 
@@ -64,7 +62,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG Success Criterion 1.3.1 Info And Relationships]()
+  * [WCAG Success Criterion 1.3.1 Info And Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
   * [WCAG 2 Success Criterion 2.4.5 Multiple Ways](https://www.w3.org/WAI/WCAG21/quickref/#multiple-ways)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
@@ -72,20 +70,24 @@ Skills required for this module:
 
 {% include excol.html type="end" %}
 
-{%- endcomment -%}
-
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
 
-### Topic: Menu Behavior
+{% include excol.html type="start" %}
+
+### Topic: Menu Behaviors and Patterns
+
+{% include excol.html type="middle" %}
+
+Explain menu conventions that relate to accessibility, such as clear and consistent styling to convey menu states, and different patterns for mouse, keyboard, and touch interactions.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* identify and describe uses of different types of menus, for example to navigate across web pages and across application
-* provide distinguishable styles for menus that allow to distinguish them from otehr components, and consistent styling for menus across a set of web pages
+* identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
+* provide visual cues for menus that allow to distinguish them from other components, and consistent styling for menu identification across a set of web pages
 * define mouse, keyboard, and touch interactions within menus
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
 * identify related requirements for developers to implement semantics for different menu states and properties, such as open, closed, expanded, or collapsed
@@ -94,21 +96,23 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-{%- comment -%}
-
-* Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus, see @@@
-* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. Explain that menus need to be operable with all of these input methods. For example, activating a menu option by tapping, pressing the Enter key, or clicking it with the mouse.
-* Show examples of different menu interaction patterns, such as expanding an collapsing submenu options. Explain that these patterns need to support interaction with the keyboard, mouse, and touch as well. Emphasize that the states of these menu items need to be communicated using styles, icons, and semantics. Explain that providing the icons and style is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-
-{%- endcomment -%}
+* Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see @@@
+* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. Explain that users operate menus  with all of these input methods. For example, activating a menu option by tapping, pressing the Enter key, or clicking it with the mouse.
+* Show examples of different menu interaction patterns, such as expanding an collapsing submenu items. Explain that these patterns need to support interaction with the keyboard, mouse, and touch as well. Emphasize that the states of these menu items need to be communicated using visual cues and semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment.
 
-[To be developed].
+* Practical &mdash; Students design mouse, keyboard, and touch interactions for menus. for example how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
 
 ### Topic: Other Navigational Mechanisms
+
+Introduce other navigational mechanisms that may be used depending on the characteristics of the website or application. Emphasize that there should be multiple ways to reach a specific web page or application view, but that it is not compulsory to use every single navigational mechanisms described.
 
 #### Learning Outcomes for Topic
 
@@ -128,26 +132,24 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-{%- comment -%}
-
 * Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that people using the keyboard only find it very frustrating to navigate through sets of repeated blocks of content, such as navigation bars or header contents. For references on how to provide a mechanism to bypass blocks of repeated content, see @@@
 * Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see @@@
 * Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to more easily find its way through it. For references on how to provide a site map, see @@@
 * Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content.
 
-{%- endcomment -%}
-
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
+* Practical &mdash; Students define the block of repeated content within a  website and coordinate with developers to provide a way for users to bypass that block. Assess how students understand the concept of block of repeated content and how they provide a mechanism to bypass it.
+* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Asses how students provide multiple navigational mechanisms where appropriate, such as tables of contents and sitemaps.
+* Practice &mdash; Present students with a second-level web page within a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students provide a breadcrumb trail.
 
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
 
-[To be developed.]
+* Portfolio &mdash; Students add navigation across web pages or applications views. Assess how students understand accessibility features of navigation across multipage websites and applications 
 
 ## Teaching Resources
 
