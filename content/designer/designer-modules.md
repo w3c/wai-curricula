@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/developer-modules/rich-applications/
-  next: /curricula/designer-modules/flexible-and-responsive-design/
+  next: /curricula/designer-modules/understanding-and-involving-users/
 ---
 
 ## Introduction
