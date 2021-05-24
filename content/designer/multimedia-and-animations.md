@@ -69,14 +69,14 @@ Students should be able to
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of captions. Explain that these are needed for people who cannot hear the audiok, and they can be very useful in other situations. Explain that identifying the situations where captions are needed is a designer's responsibility, whereas providing such captions is a responsibility shared with  the content author. For reference on how to provide captions, see
-*( Show examples of audio described content. Explain that it is needed for people who cannot see the video. Explain that identifying the situations where audio dewscribed content is needes is a designer's responsibility, whereas providing the audio description is a responsibility shared with the content author.For references on how to provide audio descriptions, see
+* Show examples of captions. Explain that these are needed for people who cannot hear the audio, and that they  are useful in other situations. Explain that identifying the situations where captions are needed is a designer's responsibility, whereas providing such captions is a responsibility shared with  the content author. For reference on how to provide captions, see
+*( Show examples of audio described content. Explain that it is needed for people who cannot see the video. Explain that identifying the situations where audio described content is needed is a designer's responsibility, whereas providing the audio description is a responsibility shared with the content author. For references on how to provide audio descriptions, see
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Short Answer Questions &mdash; Give students some pieces of multimedia contnet and ask them whether or not they should contain captions and audio descriptions. Assess students' understanding of the requirements for alternatives to multimedia content.
+* Short Answer Questions &mdash; Give students some pieces of multimedia content and ask them whether or not they should contain captions and audio descriptions. Assess students' understanding of the requirements for alternatives to multimedia content.
 
 ### Topic: Movement and Animations
 
@@ -88,7 +88,7 @@ Students should be able to:
 * design user interfaces with flashing content that is below the general flash and red flash thresholds
 * design user interfaces that allow to provide content that does not flash more than three times in a second
 * design user interfaces that support disabling motion animation triggered by interaction, such as additional animations when scrolling
-* design user interfaces that support stopping or controling the volume of any audio that plays automatically for more than 3 seconds
+* design user interfaces that support stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
 * design user interfaces that prevent changes of context unless the user is aware of them or has explicitly requested such changes
 
 #### Teaching Ideas for Topic

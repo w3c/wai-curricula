@@ -64,7 +64,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG Success Criterion 1.3.1 Info And Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
   * [WCAG 2 Success Criterion 2.4.5 Multiple Ways](https://www.w3.org/WAI/WCAG21/quickref/#multiple-ways)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
@@ -107,7 +107,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment.
 
-* Practical &mdash; Students define mouse, keyboard, and tactile interactions for menus. for example how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
+* Practical &mdash; Students define mouse, keyboard, and tactile interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Present students with different menu states, such as expanded, collapsed, open, and closed, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
 
 {% include excol.html type="end" %}
@@ -118,7 +118,7 @@ Optional ideas to support assessment.
 
 {% include excol.html type="middle" %}
 
-Introduce other navigation mechanisms that may be used depending on the characteristics of the website or application. Emphasize that there should be multiple ways to reach a specific web page or application view, but that it is not required to use every single navigation mechanisms described.
+Introduce other navigation mechanisms that may be used depending on the characteristics of the website or application. Emphasize that there should be multiple ways to reach a specific web page or application view, but that it is not required to use every single navigation mechanism described.
 
 #### Learning Outcomes for Topic
 
@@ -140,7 +140,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that people using the keyboard only find it very frustrating to navigate through sets of repeated blocks of content, such as navigation bars or header contents. For references on how to provide a mechanism to bypass blocks of repeated content, see @@@
 * Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see @@@
-* Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to more easily find its way through it. For references on how to provide a site map, see @@@
+* Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see @@@
 * Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content.
 
 #### Ideas to Assess Knowledge for Topic

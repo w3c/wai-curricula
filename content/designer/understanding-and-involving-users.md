@@ -86,7 +86,7 @@ Refer back to [Foundation Module 2: People and Digital Technology](/curricula/fo
 Students should be able to:
 
 * describe the impact of including real people with disabilities in user research activities
-* describe desktop research activities to be conducted in situations where it is not feasible to include real people with disabilities, such as asking for experts advice, or following documented best practices
+* describe desktop research activities to be conducted in situations where it is not feasible to include real people with disabilities, such as asking for experts' advice, or following documented best practices
 * articulate and communicate the consequences of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 * describe the characteristics of potential participants in user research activities based on different factors, such as the type of disability and the level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements

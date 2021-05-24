@@ -25,7 +25,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to interact with and operate user interface components
-* describe some accessibilty requirements related to keyboard interactions, input gesture, labels, instructions, notifications and feedback
+* describe some accessibility requirements related to keyboard interactions, input gesture, labels, instructions, notifications, and feedback
 
 ## Learning Outcomes for Module
 
@@ -97,7 +97,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do ont require motion for these gestures.
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require motion for these gestures.
 * Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
 * Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interface need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
@@ -138,7 +138,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Practical &mdash; Present students with a form fields and ask them to define labels for each. Assess how students provide clear and descriptive names for each of the form fields.
-* Practical &mdash; Give students a form field and ask them to provide the necessary instructions for users to understand and fill in the form. Assess how sutdents provide clear and concise instructions.
+* Practical &mdash; Give students a form field and ask them to provide the necessary instructions for users to understand and fill in the form. Assess how students provide clear and concise instructions.
 
 ### Topic: Feedback and Notifications
 
@@ -148,7 +148,7 @@ Students should be able to:
 
 * design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
 * provide meaningful and descriptive messages about errors, suggestions for corrections, successes, or any other event
-* design user interfaces that allow to switch notifications on or off to allow notifications processing at the users pace
+* design user interfaces that allow to switch notifications on or off to allow notifications processing at the users' pace
 * design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
 * describe related requirements for developers to code notification messages appropriately
 
@@ -156,7 +156,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and pop up windows.
+* Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and popup windows.
 * Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
 * Show examples of overlapping notifications in the context of web applications. Explain that some users may find it daunting to process several notifications at the same time, so there should be a mechanism that allows to prioritize notifications based on their relevance.
 
@@ -164,7 +164,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each wrong form fields, together with suggestions for corrections whenever possible. Assess how sutdents provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
+* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each wrong form fields, together with suggestions for corrections whenever possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
 
 ## Ideas to Assess Knowledge for Module
 

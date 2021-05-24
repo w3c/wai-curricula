@@ -68,13 +68,13 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of borders and icons that do not convey function or information. Explain that they serve ornamental purposes.
-* Provide examples of images and graphics that are necessary to understand the overall content, and explain that they have a contrast ratio requirement of at least 3:1. 
+* Provide examples of images and graphics that are necessary to understand the overall content and explain that they have a contrast ratio requirement of at least 3:1. 
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devicess. Assess how students understand the requirement for decorative images to have appropriate contrast ratios and to resize depending on the user needs and preferences.
+* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the requirement for decorative images to have appropriate contrast ratios and to resize depending on the user needs and preferences.
 
 ### Topic: Text Alternatives
 
@@ -104,7 +104,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Practice &mdash; Give students a set of images conveying fiction, such as print or search buttons, and ask them to provide their corresponding text alternative. Assess how students identify images that convey function and provide their corresponding text alternative.
-* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used, and ask them to provide authentication alternatives for other sensory characteristics different than vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to captcha.
+* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics different than vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to captcha.
 
 ## Ideas to Assess Knowledge for Module
 

@@ -127,7 +127,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when presenting a list of events with their date and venue.
-* Refer back to [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones, and using lists to group the logically related information.
+* Refer back to [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand the relationship between these two types of cells, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
 
 #### Ideas to Assess Knowledge for Topic

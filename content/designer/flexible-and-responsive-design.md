@@ -105,8 +105,8 @@ Explain how people with disabilities rely on different style properties, such as
 Students should be able to:
 
 * design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
-* design user interfaces with font sizes that allow content readability
-* design user interfaces with adequate spacing to support readability
+* design user interfaces with font sizes that enhance content readability
+* design user interfaces with adequate spacing to support readability and content identification
 * design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
 * design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
 
@@ -187,7 +187,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
 * Explain that people with low vision often need to resize text to be able to read it properly. This includes resizing settings in the assistive technology, browser, and operating system.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is crucial for people who cannot change their device orientation due to mobility impairments.
-* Show examples of different tap targets, and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be large enough to accommodate different people's needs.
+* Show examples of different tap targets and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be large enough to accommodate different people's needs.
 
 #### Ideas to Assess Knowledge for Topic
 
