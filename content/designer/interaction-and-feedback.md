@@ -24,16 +24,17 @@ navigation:
 
 Courses based on this module should:
 
-[To be developed.]
+* explain strategies that people with disabilities use to interact with and operate user interface components
+* describe some accessibilty requirements related to keyboard interactions, input gesture, labels, instructions, notifications and feedback
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to identify, distinguish, and operate interactive user interface components
+* explain strategies that people with disabilities use to operate interactive user interface components
 * design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
-* provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, visual cues, and icons
+* provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues icons
 * provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
 * design user interfaces with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
@@ -45,36 +46,66 @@ Students should be able to:
 
 Skills required for this module:
 
+### Instructors
+
+* Applied expertise in teaching:
+  * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold ](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
+  * [WCAG Success Criterion 2.3.2 Three Flashes](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes)
+
 [To be developed.]
 
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
 
-### Topic: Keyboard Input
+### Topic: Keyboard Interaction
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces that support operation with the keyboard
-* identify situations when it may be necessary to provide  additional keyboard shortcuts, for example when designing a custom functionality
-* design user interfaces that support keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies keyboard shortcuts
-* describe related requirements for developers to ensure every user interface component can be entered, operated, and exited using the keyboard only
+* design custom user interfaces that support operation with the keyboard
+* identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
+* design user interfaces that wherever possible avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies
+* describe related requirements for developers to write code for user interface components to be entered, operated, and exited using the keyboard only
   
-{%- comment -%}
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through lists items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interaction is a designer's responsibility, whereas implementing such interaction is a responsibility shared with the developer. is a responsibility 
+* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys. Explain that these keystrokes should be avoided wherever possible.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+* Practice &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions wherever possible.
+
+### Topic: Gestures and Animations
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* design user interfaces that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
+* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
+* design user interfaces that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* design user interfaces that support undoing or aborting an action carried out with path-based operations
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
+
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do ont require motion for these gestures.
+* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interface need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
 [To be developed.]
-
-{%- endcomment -%}
 
 ### Topic: Labels and Instructions
 
@@ -86,31 +117,28 @@ Students should be able to:
 * design user interfaces that allow to position labels where users expect them, for example
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
-  * including text, icons, and color in the label of each of the required form fields that indicates that they are required
-* provide clear instructions about changes in context that happen when there is a change  on a control before the control, for example when launching a new window when the user checks a check box or selects a list item
+  * including color, text, and visual cues in the label of each of the required form fields that indicates that they are required
+* provide clear instructions about changes in context before the control that originates such changes
 * provide overall instructions about existing time limits in a form and about how they can be turned off, adjusted, or extended
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
 * identify related requirements for developers to code labels and instructions appropriately
-
-{%- comment -%}
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see
-* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. FOr example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see
-* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, or icons. For references on how to communicate that form fields are required, see
-* Discuss reasons for implementing time limits, such as exams or security purposes. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be put in place to stop, adjust, or extend time limits. Explain that providing the instructions is a responsibility of the designer, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
-*( Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
+* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see
+* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, and other visual cues. For references on how to communicate that form fields are required, see
+* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be put in place to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a responsibility of the designer, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
-
-{%- endcomment -%}
+* Practical &mdash; Present students with a form fields and ask them to define labels for each. Assess how students provide clear and descriptive names for each of the form fields.
+* Practical &mdash; Give students a form field and ask them to provide the necessary instructions for users to understand and fill in the form. Assess how sutdents provide clear and concise instructions.
 
 ### Topic: Feedback and Notifications
 
@@ -124,48 +152,19 @@ Students should be able to:
 * design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
 * describe related requirements for developers to code notification messages appropriately
 
-{%- comment -%}
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and pop up windows.
 * Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
-* Show examples of overlapping notifications in the context of a web applications. Explain that some users may find it daunting to process several notifications at the same time, so there should be a mechanism that allows to prioritize notifications based on their relevance.
+* Show examples of overlapping notifications in the context of web applications. Explain that some users may find it daunting to process several notifications at the same time, so there should be a mechanism that allows to prioritize notifications based on their relevance.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
-
-### Topic: Gestures and Animations
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* design user interfaces that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
-* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
-* create designs that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* design user interfaces with down events on single pointer gestures that:
-  * do not perform any action, or
-  * have available mechanisms to abort or undo any action carried on
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-{%- endcomment -%}
+* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each wrong form fields, together with suggestions for corrections whenever possible. Assess how sutdents provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
 
 ## Ideas to Assess Knowledge for Module
 

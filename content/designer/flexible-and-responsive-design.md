@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
 * explain how people with disabilities use different screen sizes, screen configurations, break points, and style sheets to identify, distinguish, and process contents
+* explain accessibility requirements that relate to color, layout, spacing, and position
 
 ## Learning Outcomes for Module
 
@@ -81,8 +81,6 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
   * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
   * [WCAG Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
-  * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold ](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
-  * [WCAG Success Criterion 2.3.2 Three Flashes](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes)
   * [WCAG Success Criterion 2.4.2 Page Titled](https://www.w3.org/WAI/WCAG21/quickref/#page-titled)
   * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
@@ -109,7 +107,7 @@ Students should be able to:
 * design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
 * design user interfaces with font sizes that allow content readability
 * design user interfaces with adequate spacing to support readability
-* design user interfaces with text cues to convey any information that is provided through vision only, such as an asterisk to convey required form fields in a form
+* design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
 * design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
 
 #### Teaching Ideas for Topic
@@ -126,7 +124,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different styles and style properties to make content perceivable and to distinguish contents from one another.
+* Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties to make content perceivable and to distinguish contents from one another.
 * Practical &mdash: Give students examples of color alone used to provide information and ask them to provide text information and visual cues to supplement that information. Assess how students provide the necessary textual information and visual cues to supplement information provided exclusively with color.
 
 {% include excol.html type="end" %}
@@ -187,15 +185,19 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
-* Explain that people with disabilities may need to resize text to be able to read it properly. This includes resizing settings in the assistive technology, browser, and operating system.
+* Explain that people with low vision often need to resize text to be able to read it properly. This includes resizing settings in the assistive technology, browser, and operating system.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is crucial for people who cannot change their device orientation due to mobility impairments.
-* Show examples of different tap targets, and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be big enough to accommodate different people's needs.
+* Show examples of different tap targets, and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be large enough to accommodate different people's needs.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
 * Practice &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters while designing user interfaces.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
 
@@ -207,4 +209,5 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-[To be developed.]
+* @@@
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
