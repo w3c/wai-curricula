@@ -63,6 +63,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
@@ -70,6 +72,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
+  * @@@
 
 {% include excol.html type="end" %}
 
@@ -92,8 +95,9 @@ Students should be able to:
 * identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
 * provide visual cues for menus to distinguish them from other components, and consistent styling for menu identification across a set of web pages
 * define mouse, keyboard, and tactile interactions within menus
+* design user interfaces that support appropriate sizing of menus and menu items to fit all text in different viewports and screen configurations
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
-* identify related requirements for developers to implement semantics for different menu states and properties, such as open, closed, expanded, or collapsed
+* identify related requirements for developers to implement semantics for different menu states and properties, such as hover, focus, current, active, and visited
 
 #### Teaching Ideas
 
@@ -101,14 +105,15 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see @@@
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and tactile. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of different menu states, such as expanded, collapsed, open, and closed menu and submenu items. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these text need to resize so that they are perceived in their entirety.
+* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment.
 
 * Practical &mdash; Students define mouse, keyboard, and tactile interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
-* Practical &mdash; Present students with different menu states, such as expanded, collapsed, open, and closed, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
+* Practical &mdash; Present students with different menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
 
 {% include excol.html type="end" %}
 

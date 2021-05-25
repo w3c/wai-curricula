@@ -144,7 +144,7 @@ Optional ideas to support assessment:
 
 * Short answer questions &mdash; Ask students about three different types of non-functional requirements included in accessibility standards, such as WCAG2. Assess how students understand non-functional requirements included in accessibility standards.
 * Short Answer Questions &mdash; Ask students about three types of functional requirements that are related to people with disabilities. Assess how students understand functional requirements that relate to people with disabilities.
-* Practical &mdash; Students create several personas   different types of disabilities and different levels of skills using assistive technologies and adaptive strategies. Assess how students understand diversity among people with disabilities.
+* Practical &mdash; Students create several personas that include different types of disabilities and different levels of skills using assistive technologies and adaptive strategies. Assess how students understand diversity among people with disabilities.
 * Practical &mdash; Students create several scenarios that include use of the product with different assistive technologies and adaptive strategies. Assess how students understand different scenarios that include use of the product with different assistive technologies and adaptive strategies.
 
 {% include excol.html type="end" %}

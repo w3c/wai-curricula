@@ -36,24 +36,62 @@ Students should be able to:
 
 * identify accessibility requirements for different types of audio or video content
 * design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content,
-* design user interfaces with that support switching transcripts and audio described content on or off
+* design user interfaces that support switching transcripts and audio described content on or off
 * design user interfaces that consider accessibility implications of images and graphics with decorative purposes
 * design user interfaces with mechanisms to pause, stop, and hide any moving and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
 * identify related requirements for content authors to provide appropriate text alternatives and audio descriptions for different types of media content, including video and audio
 
+{% include excol.html type="all" %}
+
 ## Competencies
 
 Skills required for this module:
 
-[To be developed.]
+{% include excol.html type="start" %}
+
+### Students
+
+{% include excol.html type="middle" %}
+
+* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Module 4: Information Design](/curricula/designer-modules/information-design/)
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Instructors
+
+{% include excol.html type="middle" %}
+
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* Applied expertise in teaching:
+  * [WCAG Success Criterion 1.2.1	Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded0
+  * [WCAG Success Criterion 1.2.2	Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
+  * [WCAG Success Criterion 1.2.3	Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
+  * [WCAG Success Criterion 1.4.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
+  * [WCAG Success Criterion 1.2.5 Audio Descriptions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
+  * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
+  * @@@
+
+{% include excol.html type="end" %}
 
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
 
+{% include excol.html type="start" %}
+
 ### Topic: Captions and Audio Descriptions
+
+{% include excol.html type="middle" %}
+
+Audio descriptions are essential for people who cannot see the video. Captions and text alternatives are essential for people who cannot hear the audio.
 
 #### Learning Outcomes for Topic
 
@@ -78,7 +116,15 @@ Optional ideas to support assessment:
 
 * Short Answer Questions &mdash; Give students some pieces of multimedia content and ask them whether or not they should contain captions and audio descriptions. Assess students' understanding of the requirements for alternatives to multimedia content.
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Movement and Animations
+
+Show examples of different types of animations. Explain that they can cause seizures or physical reactions for some people, so additional requirements when designing animations should be considered.
+
+{% include excol.html type="middle" %}
 
 #### Learning Outcomes for Topic
 
@@ -95,9 +141,17 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+[To be developed].
+
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
+
+[To be developed].
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
 

@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * explain how people with disabilities use different screen sizes, screen configurations, break points, and style sheets to identify, distinguish, and process contents
-* explain accessibility requirements that relate to color, layout, spacing, and position
+* explain accessibility requirements for user interface components that relate to color, layout, spacing, and position
 
 ## Learning Outcomes for Module
 
@@ -106,7 +106,7 @@ Students should be able to:
 
 * design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
 * design user interfaces with font sizes that enhance content readability
-* design user interfaces with adequate spacing to support readability and content identification
+* design user interfaces with adequate spacing to support readability and to help distinguish components from one another
 * design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
 * design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
 
@@ -116,7 +116,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of styles for distinguishing user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another. For references on how to apply distinguishable styles for user interface components, see @@@
 * Demonstrate use of different font sizes and explain how they affect readability of the content. For reference on how to apply font sizes that allow content readability, see @@@
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different pieces of content from one another. For references on how to apply adequate spacing, see @@@
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. For references on how to apply adequate spacing, see @@@
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. 
 * Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see @@@
 
@@ -124,7 +124,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties to make content perceivable and to distinguish contents from one another.
+* Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties to make content perceivable and to distinguish components from one another.
 * Practical &mdash: Give students examples of color alone used to provide information and ask them to provide text information and visual cues to supplement that information. Assess how students provide the necessary textual information and visual cues to supplement information provided exclusively with color.
 
 {% include excol.html type="end" %}
@@ -193,7 +193,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters while designing user interfaces.
+* Practical &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters while designing user interfaces.
 
 {% include excol.html type="end" %}
 

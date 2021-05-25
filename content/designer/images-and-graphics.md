@@ -34,7 +34,7 @@ Students should be able to:
 * explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
 * identify and describe different uses of images, including for informative, functional, and decorative purposes
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
-* design user interfaces with alternative methods to verify human interaction 
+* design user interfaces with alternative systems to verify captcha and other methods to verify human interaction 
 * provide images with appropriate contrast ratios and ensure images  resize as required
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase
@@ -45,8 +45,6 @@ Students should be able to:
 ## Competencies
 
 Skills required for this module:
-
-[To be developed.]
 
 {% include excol.html type="start" %}
 
@@ -124,27 +122,26 @@ Explain several uses of text alternatives, such as to describe the function of a
 
 Students should be able to:
 
-* identify and describe different uses of text alternatives, such as to describe function or to describe information conveyed in an image
-* provide short text alternatives for controls and components that accept user input, for example search, print, and save buttons
 * identify situations where it is necessary to provide text alternatives that present equivalent information as that contained in the image
+* provide short text alternatives for controls and components that accept user input, for example search, print, and save buttons
 * provide text alternatives that identify and describe the purpose of human verification systems, such as captcha 
-* manage the provision of several modalities of captcha that rely on different sensory characteristics, such as visual, auditory, and logical
-* [in topic complex images] describe related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
+* collaborate with other team members to implement several modalities of captcha that rely on other sensory characteristics apart from vision, such as visual, auditory, and logical
+* describe related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different images used to convey functionality, such as for printing, searching, or saving a document. Explain that it is necessary to provide  and equivalent, succinct text alternative that explain the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see
-* Show examples of different images that convey information, such as images to provide instructions, or to identify objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination between designers, developers, and content authors. For references on how to provide text alternatives for images, see
-* Show examples of different verification systems, such as captcha, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. For references on how to provide accessible captcha, see
+* Show examples of different images used to convey functionality, such as for printing, searching, or saving a document. Explain that it is necessary to provide  and equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see @@@
+* Show examples of different images that convey information, such as images to provide instructions, or to identify objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination between designers, developers, and content authors. For references on how to provide text alternatives for images, see @@@
+* Show examples of different verification systems, such as captcha, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. For references on how to provide accessible captcha, see @@@
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Give students a set of images conveying fiction, such as print or search buttons, and ask them to provide their corresponding text alternative. Assess how students identify images that convey function and provide their corresponding text alternative.
-* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics different than vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to captcha.
+* Practice &mdash; Give students a set of images conveying function, such as print or search buttons, and ask them to provide their corresponding text alternative. Assess how students identify images that convey function and provide their corresponding text alternative.
+* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics apart from vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to captcha.
 
 {% include excol.html type="end" %}
 

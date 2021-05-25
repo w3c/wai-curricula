@@ -25,7 +25,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to interact with and operate user interface components
-* describe some accessibility requirements related to keyboard interactions, input gesture, labels, instructions, notifications, and feedback
+* describe some accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
 
 ## Learning Outcomes for Module
 
@@ -34,7 +34,7 @@ Students should be able to:
 * explain strategies that people with disabilities use to operate interactive user interface components
 * design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
-* provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues icons
+* provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
 * design user interfaces with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
@@ -42,23 +42,47 @@ Students should be able to:
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
 * identify related requirements for developers to write code for custom keyboard interactions that interactive user interface components may require
 
+{% include excol.html type="all" %}
+
 ## Competencies
 
 Skills required for this module:
 
+{% include excol.html type="start" %}
+
+### Students
+
+{% include excol.html type="middle" %}
+
+* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* Prior [Designer Modules](/curricula/designer-modules/)
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Instructors
 
-* Applied expertise in teaching:
-  * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold ](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
-  * [WCAG Success Criterion 2.3.2 Three Flashes](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes)
+{% include excol.html type="middle" %}
 
-[To be developed.]
+* Applied expertise in teaching:
+  * @@@
+
+{% include excol.html type="end" %}
 
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
 
+{% include excol.html type="start" %}
+
 ### Topic: Keyboard Interaction
+
+{% include excol.html type="middle" %}
+
+Discuss standard keyboard interactions, such as the use of the Tab, Enter, or arrow keys. Explain that if non-standard keyboard interactions are to be used,  designers need to define them and collaborate with developers to implement them.
+
+{% include excol.html type="middle" %}
 
 #### Learning Outcomes for Topic
 
@@ -82,7 +106,17 @@ Optional ideas to support assessment:
 
 * Practice &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions wherever possible.
 
-### Topic: Gestures and Animations
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Gestures and Motion
+
+{% include excol.html type="middle" %}
+
+Discuss some gestures that require dragging and  drawing specific shapes on a tactile screen. Explain that these are difficult for some people with mobility impairments.
+
+@@@ [Reference to motion]
 
 #### Learning Outcomes for Topic
 
@@ -107,7 +141,15 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Labels and Instructions
+
+{% include excol.html type="middle" %}
+
+Show examples of labels and instructions for form controls and custom widgets. Explain that they are essential for cognitive disabilities to understand and interact with these components.
 
 #### Learning outcomes for Topic
 
@@ -140,7 +182,17 @@ Optional ideas to support assessment:
 * Practical &mdash; Present students with a form fields and ask them to define labels for each. Assess how students provide clear and descriptive names for each of the form fields.
 * Practical &mdash; Give students a form field and ask them to provide the necessary instructions for users to understand and fill in the form. Assess how students provide clear and concise instructions.
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Feedback and Notifications
+
+{% include excol.html type="middle" %}
+
+Show examples of notification messages. Explain that they need to be distinguishable by all users, including through visual cues and programmatically.
+
+Explain that applications may have different levels of priority when in the context of a complex application, so defining such levels of priority and which types of notifications each of them should contain is a designers responsibility.
 
 #### Learning Outcomes for Topic
 
@@ -165,6 +217,10 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each wrong form fields, together with suggestions for corrections whenever possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
 
