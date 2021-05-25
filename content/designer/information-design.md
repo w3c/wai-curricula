@@ -202,6 +202,8 @@ Optional ideas to support assessment:
 
 {% include excol.html type="end" %}
 
+{% include excol.html type="all" %}
+
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to support assessment:
