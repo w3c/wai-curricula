@@ -176,6 +176,8 @@ Optional ideas to support assessment:
 
 ### Topic: Data Visualization
 
+{% include excol.html type="middle" %}
+
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -184,18 +186,17 @@ Students should be able to:
 * create user interfaces that allow to use the keyboard to navigate to specific pieces of data
 * create user interfaces that allow customizing the results that are shown at a given time
 
-
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed].
+[To be developed.]
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed].
+[To be developed.]
 
 {% include excol.html type="end" %}
 
