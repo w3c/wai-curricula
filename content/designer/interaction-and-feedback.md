@@ -24,7 +24,7 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to interact with and operate user interface components
+* explain strategies that people with disabilities use to  operate interactive user interface components
 * describe some accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
 
 ## Learning Outcomes for Module
@@ -82,8 +82,6 @@ Topics to achieve the learning outcomes:
 
 Discuss standard keyboard interactions, such as the use of the Tab, Enter, or arrow keys. Explain that if non-standard keyboard interactions are to be used,  designers need to define them and collaborate with developers to implement them.
 
-{% include excol.html type="middle" %}
-
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -97,8 +95,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through lists items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interaction is a designer's responsibility, whereas implementing such interaction is a responsibility shared with the developer. is a responsibility 
-* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys. Explain that these keystrokes should be avoided wherever possible.
+* Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interaction is a designer's responsibility, whereas implementing such interaction is a responsibility shared with the developer.
+* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided wherever possible.
 
 #### Ideas to Assess Knowledge for Topic
 

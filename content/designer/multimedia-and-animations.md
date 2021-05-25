@@ -27,9 +27,6 @@ Courses based on this module should:
 * explain strategies that people with disabilities use to access multimedia contents, such as audio and video
 * explain accessibility requirements for multimedia content, such as captions, sign language, and audio descriptions
 
-
-[To be developed.]
-
 ## Learning Outcomes for Module
 
 Students should be able to:
@@ -37,7 +34,6 @@ Students should be able to:
 * identify accessibility requirements for different types of audio or video content
 * design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content,
 * design user interfaces that support switching transcripts and audio described content on or off
-* design user interfaces that consider accessibility implications of images and graphics with decorative purposes
 * design user interfaces with mechanisms to pause, stop, and hide any moving and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
@@ -108,7 +104,7 @@ Students should be able to
 Optional ideas to teach the learning outcomes:
 
 * Show examples of captions. Explain that these are needed for people who cannot hear the audio, and that they  are useful in other situations. Explain that identifying the situations where captions are needed is a designer's responsibility, whereas providing such captions is a responsibility shared with  the content author. For reference on how to provide captions, see
-*( Show examples of audio described content. Explain that it is needed for people who cannot see the video. Explain that identifying the situations where audio described content is needed is a designer's responsibility, whereas providing the audio description is a responsibility shared with the content author. For references on how to provide audio descriptions, see
+* Show examples of audio described content. Explain that it is needed for people who cannot see the video. Explain that identifying the situations where audio described content is needed is a designer's responsibility, whereas providing the audio description is a responsibility shared with the content author. For references on how to provide audio descriptions, see
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -122,9 +118,9 @@ Optional ideas to support assessment:
 
 ### Topic: Movement and Animations
 
-Show examples of different types of animations. Explain that they can cause seizures or physical reactions for some people, so additional requirements when designing animations should be considered.
-
 {% include excol.html type="middle" %}
+
+Show examples of different types of animations. Explain that they can cause seizures or physical reactions for some people, so additional requirements when designing animations should be considered.
 
 #### Learning Outcomes for Topic
 
