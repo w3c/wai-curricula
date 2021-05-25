@@ -40,17 +40,51 @@ Students should be able to:
 * identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase
 * identify related requirements for content authors to present information as text wherever possible, instead of using images of text
 
+{% include excol.html type="all" %}
+
 ## Competencies
 
 Skills required for this module:
 
 [To be developed.]
 
+{% include excol.html type="start" %}
+
+### Students
+
+{% include excol.html type="middle" %}
+
+* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Module 4: Information Design](/curricula/designer-modules/information-design/)
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Instructors
+
+{% include excol.html type="middle" %}
+
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* Applied expertise in teaching:
+  * [WCAG Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
+  * [WCAG Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
+  * @@@
+
+{% include excol.html type="end" %}
+
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
 
+{% include excol.html type="start" %}
+
 ### Topic: Decorative Images
+
+{% include excol.html type="middle" %}
 
 Decorative images are those which convey no information or function and are used for ornamental purposes. Discuss examples of these types of images and explain accessibility requirements that these images have, such as contrast ratios and ability of the image to resize.
 
@@ -76,7 +110,13 @@ Optional ideas to support assessment:
 
 * Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the requirement for decorative images to have appropriate contrast ratios and to resize depending on the user needs and preferences.
 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Text Alternatives
+
+{% include excol.html type="middle" %}
 
 Explain several uses of text alternatives, such as to describe the function of a  user interface component or to describe the images so that they can be understood without looking at them. Explain that describing the functions of user interface components is a designer's responsibility, whereas providing other text alternatives and descriptions is a responsibility shared with the content author.
 
@@ -105,6 +145,10 @@ Optional ideas to support assessment:
 
 * Practice &mdash; Give students a set of images conveying fiction, such as print or search buttons, and ask them to provide their corresponding text alternative. Assess how students identify images that convey function and provide their corresponding text alternative.
 * Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics different than vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to captcha.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
 
