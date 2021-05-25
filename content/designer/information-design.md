@@ -37,7 +37,7 @@ Students should be able to:
   * the use of groups of form controls that share a common purpose
   * the use of filters to display small data subsets from a given data set
 * describe the use of labels and instructions to make information in forms more understandable
-* identify related requirements for developers to programmatically associate text alternatives, headings, table header and data cells, and form labels and instructions, to their corresponding control
+* identify related requirements for developers to programmatically associate text alternatives, headings, table header cells and data cells, and form labels and instructions, to their corresponding control
 
 {% include excol.html type="all" %}
 
@@ -52,6 +52,8 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Module 3: Navigation](/curricula/designer-mdoules/navigation/)
 
 {% include excol.html type="end" %}
 
@@ -61,8 +63,11 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
+  * @@@
 
 {% include excol.html type="end" %}
 
@@ -118,7 +123,7 @@ Students should be able to:
 
 * identify uses of tables to present data that share a logical relationship
 * design user interfaces that support multiple ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
-* define table header and data cells, and provide clear and distinguishable styles for each
+* define table header cells and data cells, and provide clear and distinguishable styles for each
 * identify related requirements for content authors to write table descriptions that provide information about what the table is about
 * identify related requirements for developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
 
@@ -128,13 +133,13 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when presenting a list of events with their date and venue.
 * Refer back to [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones and using lists to group the logically related information.
-* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand the relationship between these two types of cells, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
+* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand the relationship between these two types of cells, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Give students  a set of tables and ask them to define their header and data cells. Assess how students understand the difference between header and data cells.
+* Practical &mdash; Give students  a set of tables and ask them to define their header cells and data cells. Assess how students understand the difference between header cells and data cells.
 * Practical &mdash; Present students with a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
 
 {% include excol.html type="end" %}
@@ -142,6 +147,8 @@ Optional ideas to support assessment:
 {% include excol.html type="start" %}
 
 ### Topic: Grouping and Sorting Information
+
+{% include excol.html type="middle" %}
 
 #### Learning Outcomes for Topic
 
