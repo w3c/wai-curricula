@@ -53,7 +53,7 @@ Skills required for this module:
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
-* [Module 3: Navigation](/curricula/designer-mdoules/navigation/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
 
 {% include excol.html type="end" %}
 
@@ -177,6 +177,8 @@ Optional ideas to support assessment:
 ### Topic: Data Visualization
 
 {% include excol.html type="middle" %}
+
+Show examples of how different groups of people visualize large amounts of data, such as a list of countries. Explain that some prefer filtering out data into smaller piece to better handle them, some other prefer to type the first letters of their desire option to select it more efficiently.
 
 #### Learning Outcomes for Topic
 
