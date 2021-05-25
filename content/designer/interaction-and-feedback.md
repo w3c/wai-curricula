@@ -131,7 +131,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require motion for these gestures.
 * Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
-* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interface need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
+* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, thus user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -154,7 +154,7 @@ Show examples of labels and instructions for form controls and custom widgets. E
 Students should be able to:
 
 * provide names to help users understand the purpose and intent of interactive user interface components
-* design user interfaces that allow to position labels where users expect them, for example
+* design user interfaces that allow to position labels where users expect them
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
   * including color, text, and visual cues in the label of each of the required form fields that indicates that they are required
@@ -190,7 +190,7 @@ Optional ideas to support assessment:
 
 Show examples of notification messages. Explain that they need to be distinguishable by all users, including through visual cues and programmatically.
 
-Explain that applications may have different levels of priority when in the context of a complex application, so defining such levels of priority and which types of notifications each of them should contain is a designers responsibility.
+Explain that applications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers responsibility.
 
 #### Learning Outcomes for Topic
 
@@ -214,7 +214,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each wrong form fields, together with suggestions for corrections whenever possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
+* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each form field that contains errors, together with suggestions for corrections whenever possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
 
 {% include excol.html type="end" %}
 
