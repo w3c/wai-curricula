@@ -198,7 +198,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters while designing user interfaces.
+* Practical &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
 
 {% include excol.html type="end" %}
 
@@ -208,7 +208,7 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Portfolio &mdash; Students design a prototype of a single web page. Assess how students use color, layout, spacing, and position to support content perception and identification.
+* Portfolio &mdash; Students design a prototype of a web page. Assess how students use color, layout, spacing, and position to support content perception and identification.
 
 ## Teaching Resources
 

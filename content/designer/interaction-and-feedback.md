@@ -66,7 +66,6 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * @@@
 
 {% include excol.html type="end" %}
 

@@ -25,20 +25,20 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to interact with images
-* explain accessibility requirements related to images and graphics, such as text alternatives for images
+* explain accessibility requirements related to images and graphics, such as text alternatives, text descriptions, or contrast ratios
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
-* identify and describe different uses of images, including for informative, functional, and decorative purposes
+* identify and describe different uses of images, for example informative, functional, and decorative purposes
 * provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
 * design user interfaces with alternative systems to verify captcha and other methods to verify human interaction 
-* provide images with appropriate contrast ratios and ensure images  resize as required
+* provide images with appropriate contrast ratios
+* create user interfaces that present information as text wherever possible, instead of using images of text
 * identify related requirements for developers to code images and text alternatives appropriately
-* identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase
-* identify related requirements for content authors to present information as text wherever possible, instead of using images of text
+* identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase, such as complex graphics and charts
 
 {% include excol.html type="all" %}
 
@@ -70,45 +70,13 @@ Skills required for this module:
 * Applied expertise in teaching:
   * [WCAG Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
-  * @@@
+  * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
 
 {% include excol.html type="end" %}
 
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
-
-{% include excol.html type="start" %}
-
-### Topic: Ornamental Graphics
-
-{% include excol.html type="middle" %}
-
-Decorative images are those which convey no information or function and are used for ornamental purposes. Discuss examples of these types of images and explain accessibility requirements that these images have, such as contrast ratios and ability of the image to resize.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* identify and describe different uses of images with decorative meaning, such as visual and ornamental  
-* provide decorative images with appropriate contrast ratios when these images are necessary to understand the content
-* provide decorative images that resize according to user needs and preferences
-* identify related requirements for developers to code decorative images appropriately
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Show examples of borders and icons that do not convey function or information. Explain that they serve ornamental purposes.
-* Provide examples of images and graphics that are necessary to understand the overall content and explain that they have a contrast ratio requirement of at least 3:1. 
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the requirement for decorative images to have appropriate contrast ratios and to resize depending on the user needs and preferences.
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
@@ -145,9 +113,67 @@ Optional ideas to support assessment:
 
 {% include excol.html type="end" %}
 
+{% include excol.html type="start" %}
+
 ### Topic: Data Visualization
 
-[to be developed].
+{% include excol.html type="middle" %}
+
+Images of text are those which are intended to be read as text, but are coded as an image. Complex images are those whose description requires more than a short phrase. Show examples of these types of images and explain that coordination among different team members is required to create accessible complex images. Explain accessibility requirements that these images have, such as appropriate contrast ratios.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* create user interfaces that support appropriate contrast ratios for complex images when they are required to understand the contents
+* create user interfaces that support use of text instead of images of text as much as possible
+* identify related requirements for content authors to provide descriptions for complex images that serve the same purpose as the graphical object
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Provide examples of complex images and graphics, such as charts and diagrams. Explain that they need to have a contrast ratio requirement of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
+* Refer back to examples of complex images and graphics. Explain that they need to have text alternatives and descriptions  that allow people to understand and interpret such images without having to look at them. Explain that providing these text alternatives is a designers responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
+
+#### IDeas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Practical &mdash; Students add complex images to a website, such as charts or diagrams, and ensure they have the required contrast ratio. Assess how students understand the contrast requirements for complex images.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Ornamental Graphics
+
+{% include excol.html type="middle" %}
+
+Decorative images are used for ornamental purposes and convey no information or function. Explain that these images do not require text alternatives, as these would add clutter to the information that assistive technologies provide to users.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* identify and describe different uses of images with decorative purpose, such as ornamental  
+* create user interfaces with decorative images that do not overlap with user interface components and contents when viewed using different screen sizes, configurations, and setups
+* identify related requirements for developers to code decorative images so that they are ignored by assistive technologies
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of borders and icons that do not convey function or information. Explain that they serve ornamental purposes.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the need for decorative images to adapt to the different user needs and preferences.
+
+{% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
 

@@ -67,7 +67,6 @@ Skills required for this module:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
-  * @@@
 
 {% include excol.html type="end" %}
 
@@ -162,7 +161,7 @@ Show examples of how different groups of people interact with large amounts of s
 Students should be able to:
 
 * design user interfaces that support grouping of related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
-* design user interfaces that support filtering data, for example using search boxes or spliting the data set into smaller subsets of data
+* design user interfaces that support filtering data, for example using search boxes or splitting the data set into smaller subsets of data
 * design user interfaces that support navigating to specific pieces of data using the keyboard
 * design user interfaces that support customizing the results that are shown at a given time
 
