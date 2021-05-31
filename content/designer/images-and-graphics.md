@@ -119,7 +119,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Images of text are those which are intended to be read as text, but are coded as an image. Complex images are those whose description requires more than a short phrase. Show examples of these types of images and explain that coordination among different team members is required to create accessible complex images. Explain accessibility requirements that these images have, such as appropriate contrast ratios.
+Images of text are those which are intended to be read as text but are coded as an image. Complex images are those whose description requires more than a short phrase. Show examples of these types of images and explain that coordination among different team members is required to create accessible complex images. Explain accessibility requirements that these images have, such as appropriate contrast ratios.
 
 #### Learning Outcomes for Topic
 
@@ -135,9 +135,9 @@ Optional ideas to teach the learning outcomes:
 
 * Provide examples of complex images and graphics, such as charts and diagrams. Explain that they need to have a contrast ratio requirement of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
-* Refer back to examples of complex images and graphics. Explain that they need to have text alternatives and descriptions  that allow people to understand and interpret such images without having to look at them. Explain that providing these text alternatives is a designers responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
+* Refer back to examples of complex images and graphics. Explain that they need to have text alternatives and descriptions  that allow people to understand and interpret such images without having to look at them. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
-#### IDeas to Assess Knowledge for Topic
+#### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
@@ -188,4 +188,8 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-[To be developed.]
+* @@@
+* [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
+* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+

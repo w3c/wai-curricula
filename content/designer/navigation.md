@@ -106,7 +106,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain menu conventions that relate to accessibility, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and tactile interaction with menus.
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and tactile. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these text need to resize so that they are perceived in their entirety.
+* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these texts need to resize so that they are perceived in their entirety.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic

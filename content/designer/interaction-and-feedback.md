@@ -152,7 +152,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion based gestures inadvertently, some others may not be able to perform them at all. Discuss some alternatives to motion-based gestures. 
+Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, some others may not be able to perform them at all. Discuss some alternatives to motion-based gestures. 
 
 Discuss some gestures that require dragging and drawing specific shapes on a tactile screen. Explain that these are difficult (and sometimes impossible) for some people with mobility impairments.
 
@@ -178,7 +178,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
-* Practical &mdash; Give students an interface that uses a multi path based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
+* Practical &mdash; Give students an interface that uses a multi path-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
 
 {% include excol.html type="end" %}
 
@@ -190,7 +190,7 @@ Optional ideas to support assessment:
 
 Show examples of notification messages. Explain that they need to be distinguishable by all users, including through visual cues and programmatically.
 
-Explain that applications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers responsibility.
+Explain that applications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers' responsibility.
 
 #### Learning Outcomes for Topic
 
@@ -230,4 +230,7 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-[To be developed.]
+* @@@
+* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

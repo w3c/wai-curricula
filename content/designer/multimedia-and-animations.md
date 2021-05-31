@@ -136,14 +136,14 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of contents that move or blink, such as animations and carousels. Explain that these can cause problems for some users that cannot keep up with the pace of the auto-updating content or that these animations can cause seizure and physical reactions. For references on how to design suer interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
+* Show examples of contents that move or blink, such as animations and carousels. Explain that these can cause problems for some users that cannot keep up with the pace of the auto-updating content or that these animations can cause seizure and physical reactions. For references on how to design user interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
   * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4)
   * [G11: Creating content that blinks for less than 5 seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G11)
   * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152)
   * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186)
   * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187)
 * Show examples of flashing content and explain that they can cause seizures or physical reactions for some people. Emphasize that all components of the content need to be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole web page or application. For references on how to design interfaces that support flashing below the general flash and red flash thresholds or that support flashing below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
-* Show examples of itneractions triggered  by animations, such as additional movements when scrolling. Explain that these animations can cause distraction and vestibular disorders such as dizziness, nausea, and headaches for some people. Discuss different ways to resolve these issues, such as including a preference to disable animations or using technology specific properties to reduce such animations.
+* Show examples of interactions triggered  by animations, such as additional movements when scrolling. Explain that these animations can cause distraction and vestibular disorders such as dizziness, nausea, and headaches for some people. Discuss different ways to resolve these issues, such as including a preference to disable animations or using technology specific properties to reduce such animations.
 * Use a screen reader to navigate an application that plays audio automatically for more than 3 seconds, such as a video player with audio that is longer than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a mechanism to pause or control the volume of that audio. Explain that the operating system often provides such mechanism. For references on how to design interfaces that support mechanisms to pause or control the volume of any audio that plays automatically, see the following techniques:
   * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html)
   * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html)
@@ -169,4 +169,6 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-[To be developed.]
+* @@@
+* [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

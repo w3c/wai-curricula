@@ -101,15 +101,15 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of large amounts of text, for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate, for example by using headings or several pages.
 * Show examples of how icons, charts, and graphics can complement information presented in text. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
-* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that users with cognitive disabilities or those not familiar with such words need definitions to understand the meaning of such words.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the conten author. For references on how to provide the definition of a word or phrase used in an unusual or restricted way, see technique [G101: Providing the definition of a word or phrase used in an unusual or restricted way](https://www.w3.org/WAI/WCAG21/Techniques/general/G101.html).
-* Show examples of abbreviations  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the conten author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
+* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that users with cognitive disabilities or those not familiar with such words need definitions to understand the meaning of such words.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author. For references on how to provide the definition of a word or phrase used in an unusual or restricted way, see technique [G101: Providing the definition of a word or phrase used in an unusual or restricted way](https://www.w3.org/WAI/WCAG21/Techniques/general/G101.html).
+* Show examples of abbreviations  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical mdash; Present students with an ebook and ask them todefine how it should be split into smaller and more manageable pieces to that it can be easier to navigate and understand. Assess how students use mechanisms to divide large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbleviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
+* Practical mdash; Present students with an ebook and ask them to define how it should be split into smaller and more manageable pieces to that it can be easier to navigate and understand. Assess how students use mechanisms to divide large amounts of text into smaller and more manageable pieces.
+* Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
 
@@ -169,13 +169,14 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
+* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to interact and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations is a designers' responsibility, whereas coding those relations is a developers' responsibility.
+* Show examples of long lists of data, such as lists of countries or cities on a travel application. Explain that these lists are difficult to navigate with the keyboard, as it takes a long time to go through the different options one by one by pressing the arrow keys. Discuss several ways to make these interactions more efficient, such as providing ways for the user to type the first letters of their desired option, which reduces the amount of shown results.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
+* Practical &mdash; Ask students to group related information in a form that asks for information to open a bank account. Asses how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how they provide ways for users to identify each of the groups.
 
 {% include excol.html type="end" %}
 
@@ -185,11 +186,13 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-[To be developed].
+* Portfolio &mdash; Students include different pieces of information on a website, for example text, forms, and images. Assess how students provide for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
 
 ## Teaching Resources
 
 Suggested resources to support your teaching:
 
-[To be developed].
-
+* @@@
+* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
