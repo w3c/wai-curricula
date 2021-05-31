@@ -89,7 +89,7 @@ Refer back to [Foundation Module 2: People and Digital Technology](/curricula/fo
 Students should be able to:
 
 * describe the impact of including real people with disabilities in user research activities
-* describe desktop research activities to be conducted in situations where it is not feasible to include real people with disabilities, such as asking for experts' advice, or following documented best practices for accessibility
+* describe desk research activities to be conducted in situations where it is not feasible to include real people with disabilities, such as asking for experts' advice, or following documented best practices for accessibility
 * articulate and communicate the consequences of not involving people with disabilities, for example higher costs to implement accessibility at a later stage
 * describe the characteristics of potential participants in user research activities based on different factors, such as the type of disability and the level of skills using assistive technologies and adaptive strategies
 * identify related requirements for project managers and other team members to include accessibility in the overall project requirements
@@ -187,11 +187,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-{%- comment -%}
-
+* Practice &mdash; Ask students to select a venue where they would conduct a face-to-face research activity with people with disabilities. Assess how students understand different accommodations and needs of people with disabilities, such as accessibility of the facilities, transportation means, and others.
 * Practice &mdash; Give students an activity and ask them to provide different timings depending on the different levels of skills with adaptive strategies and assistive technologies that users have. Assess how students consider different timings depending on the participants' level of skills using assistive technologies and adaptive strategies.
-
-{%- endcomment -%}
 
 {% include excol.html type="end" %}
 
