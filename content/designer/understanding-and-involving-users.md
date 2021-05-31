@@ -187,8 +187,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Ask students to select a venue where they would conduct a face-to-face research activity with people with disabilities. Assess how students understand different accommodations and needs of people with disabilities, such as accessibility of the facilities, transportation means, and others.
-* Practice &mdash; Give students an activity and ask them to provide different timings depending on the different levels of skills with adaptive strategies and assistive technologies that users have. Assess how students consider different timings depending on the participants' level of skills using assistive technologies and adaptive strategies.
+* Practical &mdash; Ask students to select a venue where they would conduct a face-to-face research activity with people with disabilities. Assess how students understand different accommodations and needs of people with disabilities, such as accessibility of the facilities, transportation means, and others.
+* Practical &mdash; Give students an activity and ask them to provide different timings depending on the different levels of skills with adaptive strategies and assistive technologies that users have. Assess how students consider different timings depending on the participants' level of skills using assistive technologies and adaptive strategies.
 
 {% include excol.html type="end" %}
 
