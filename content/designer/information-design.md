@@ -89,7 +89,8 @@ Discuss mechanisms to supplement information presented only with text, such as u
 
 Students should be able to:
 
-* design user interfaces that support additional ways to convey information presented in text, using icons and other visual cues
+* design user interfaces that support splitting large amounts of text into several smaller and more manageable pieces, for example by using headings or pages
+* design user interfaces that support additional ways to convey information presented in text, for example using icons and other visual cues
 * design user interfaces that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * design user interfaces that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for developers to make language programmatically determined
@@ -99,13 +100,17 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed.]
+* Show examples of large amounts of text, for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate, for example by using headings or several pages.
+* Show examples of how icons, charts, and graphics can complement information presented in text. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
+* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that users with cognitive disabilities or those not familiar with such words need definitions to understand the meaning of such words.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the conten author. For references on how to provide the definition of a word or phrase used in an unusual or restricted way, see technique [G101: Providing the definition of a word or phrase used in an unusual or restricted way](https://www.w3.org/WAI/WCAG21/Techniques/general/G101.html).
+* Show examples of abbreviations  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the conten author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-[To be developed.]
+* Practical mdash; Present students with an ebook and ask them todefine how it should be split into smaller and more manageable pieces to that it can be easier to navigate and understand. Assess how students use mechanisms to divide large amounts of text into smaller and more manageable pieces.
+* Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbleviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
 
@@ -115,7 +120,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Explain different ways in which people with disabilities visualize tabular information, for example split into several simpler tables or putting the information in lists.
+Explain different ways in which people with disabilities access tabular information. For example, splitting a complex table into several simpler tables, and splitting the information in the table into individual lists.
 
 #### Learning Outcomes for Topic
 
@@ -131,9 +136,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when presenting a list of events with their date and venue.
+* Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when displaying a list of events with their date and venue.
 * Refer back to [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones and using lists to group the logically related information.
-* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand the relationship between these two types of cells, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
+* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand their relations, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -150,43 +155,16 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
+Show examples of how different groups of people interact with large amounts of selectable data, such as a list of countries. Explain that some prefer filtering out data into smaller pieces to better handle them, some other prefer to type the first letters of their desire option to select it more efficiently.
+
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design user interfaces that support grouping of related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
-* provide examples of expected input wherever possible, such as how a phone number should be entered and what the different credit card fields should contain
-* design user interfaces that support programmatic and visual grouping of related links, such as those from a navigation menu or from a product category
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[To be developed.]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to support assessment:
-
-[To be developed.]
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Data Visualization
-
-{% include excol.html type="middle" %}
-
-Show examples of how different groups of people visualize large amounts of data, such as a list of countries. Explain that some prefer filtering out data into smaller piece to better handle them, some other prefer to type the first letters of their desire option to select it more efficiently.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* create user interfaces that support filtering of data using different mechanisms such as search boxes or subsets of data
-* create user interfaces that allow to use the keyboard to navigate to specific pieces of data
-* create user interfaces that allow customizing the results that are shown at a given time
+* design user interfaces that support filtering data, for example using search boxes or spliting the data set into smaller subsets of data
+* design user interfaces that support navigating to specific pieces of data using the keyboard
+* design user interfaces that support customizing the results that are shown at a given time
 
 #### Teaching Ideas for Topic
 

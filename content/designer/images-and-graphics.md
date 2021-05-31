@@ -80,7 +80,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Decorative Images
+### Topic: Ornamental Graphics
 
 {% include excol.html type="middle" %}
 
@@ -116,7 +116,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Explain several uses of text alternatives, such as to describe the function of a  user interface component or to describe the images so that they can be understood without looking at them. Explain that describing the functions of user interface components is a designer's responsibility, whereas providing other text alternatives and descriptions is a responsibility shared with the content author.
+Explain several uses of text alternatives, such as to describe the function of graphical user interface component (functional images) and to describe the images so that users can understand their purpose without looking at them (informational images). Explain that describing the functions of user graphical interface components is a designer's responsibility, whereas providing text alternatives for informative images is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -132,9 +132,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different images used to convey functionality, such as for printing, searching, or saving a document. Explain that it is necessary to provide  and equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see @@@
-* Show examples of different images that convey information, such as images to provide instructions, or to identify objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination between designers, developers, and content authors. For references on how to provide text alternatives for images, see @@@
-* Show examples of different verification systems, such as captcha, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. For references on how to provide accessible captcha, see @@@
+* Show examples of different images used to convey functionality, such as for printing, searching, or saving a document. Explain that it is necessary to provide  and equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Show examples of different images that convey information, such as images to provide instructions, or to identify objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination between designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
+* Show examples of different verification systems, such as captcha, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. For references on how to provide accessible captcha, see [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -145,6 +145,10 @@ Optional ideas to support assessment:
 
 {% include excol.html type="end" %}
 
+### Topic: Data Visualization
+
+[to be developed].
+
 {% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
@@ -153,6 +157,7 @@ Optional ideas to support assessment:
 
 [To be developed.]
 
+* Portfolio &mdash; Students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design.
 ## Teaching Resources
 
 Suggested resources to support your teaching:

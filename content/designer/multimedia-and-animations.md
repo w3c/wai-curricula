@@ -34,7 +34,7 @@ Students should be able to:
 * identify accessibility requirements for different types of audio or video content
 * design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content,
 * design user interfaces that support switching transcripts and audio described content on or off
-* design user interfaces with mechanisms to pause, stop, and hide any moving and auto-updating content, including animations and carousels
+* design user interfaces with mechanisms to pause, stop, and hide any moving, blinking, and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
 * identify related requirements for content authors to provide appropriate text alternatives and audio descriptions for different types of media content, including video and audio
@@ -72,7 +72,9 @@ Skills required for this module:
   * [WCAG Success Criterion 1.2.3	Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
   * [WCAG Success Criterion 1.4.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
   * [WCAG Success Criterion 1.2.5 Audio Descriptions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
+  * [WCAG Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide)
   * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
+  * [WCAG Success Criterion 3.2.1 On Focus](https://www.w3.org/WAI/WCAG21/quickref/#on-focus)
   * @@@
 
 {% include excol.html type="end" %}
@@ -126,18 +128,27 @@ Show examples of different types of animations. Explain that they can cause seiz
 
 Students should be able to:
 
-*  design user interfaces that support pausing, stopping, or hiding any content that blinks, moves, or auto-updates
-* design user interfaces with flashing content that is below the general flash and red flash thresholds
-* design user interfaces that allow to provide content that does not flash more than three times in a second
+* design user interfaces that support pausing, stopping, or hiding any content that blinks, moves, or auto-updates
+* design user interfaces that support flashing below the general flash and red flash thresholds or with content that does not flash more than three times in any one second
 * design user interfaces that support disabling motion animation triggered by interaction, such as additional animations when scrolling
 * design user interfaces that support stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
-* design user interfaces that prevent changes of context unless the user is aware of them or has explicitly requested such changes
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-[To be developed].
+* Show examples of contents that move or blink, such as animations and carousels. Explain that these can cause problems for some users that cannot keep up with the pace of the auto-updating content or that these animations can cause seizure and physical reactions. For references on how to design suer interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
+  * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4)
+  * [G11: Creating content that blinks for less than 5 seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G11)
+  * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152)
+  * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186)
+  * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187)
+* Show examples of flashing content and explain that they can cause seizures or physical reactions for some people. Emphasize that all components of the content need to be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole web page or application. For references on how to design interfaces that support flashing below the general flash and red flash thresholds or that support flashing below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
+* Show examples of itneractions triggered  by animations, such as additional movements when scrolling. Explain that these animations can cause distraction and vestibular disorders such as dizziness, nausea, and headaches for some people. Discuss different ways to resolve these issues, such as including a preference to disable animations or using technology specific properties to reduce such animations.
+* Use a screen reader to navigate an application that plays audio automatically for more than 3 seconds, such as a video player with audio that is longer than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a mechanism to pause or control the volume of that audio. Explain that the operating system often provides such mechanism. For references on how to design interfaces that support mechanisms to pause or control the volume of any audio that plays automatically, see the following techniques:
+  * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html)
+  * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html)
+  * [G171: Playing sounds only on user request](https://www.w3.org/WAI/WCAG21/Techniques/general/G171.html).
 
 #### Ideas to Assess Knowledge for Topic
 
