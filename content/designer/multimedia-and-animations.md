@@ -25,14 +25,15 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access multimedia contents, such as audio and video
-* explain accessibility requirements for multimedia content, such as captions, sign language, and audio descriptions
+* explain accessibility requirements for multimedia content, such as transcripts for audio, sign language, and audio descriptions
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * identify accessibility requirements for different types of audio or video content
-* design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content,
+* research and promote accessible media players to access transcripts for audio, audio descriptions, and sign language
+* design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content
 * design user interfaces that support switching transcripts and audio described content on or off
 * design user interfaces with mechanisms to pause, stop, and hide any moving, blinking, and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
@@ -70,8 +71,9 @@ Skills required for this module:
   * [WCAG Success Criterion 1.2.1	Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded0
   * [WCAG Success Criterion 1.2.2	Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
   * [WCAG Success Criterion 1.2.3	Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
-  * [WCAG Success Criterion 1.4.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
+  * [WCAG Success Criterion 1.2.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
   * [WCAG Success Criterion 1.2.5 Audio Descriptions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
+  * [WCAG Success Criterion 1.4.6 Sign Language (prerecorded](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded)
   * [WCAG Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide)
   * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
   * [WCAG Success Criterion 3.2.1 On Focus](https://www.w3.org/WAI/WCAG21/quickref/#on-focus)
@@ -94,7 +96,7 @@ Audio descriptions are essential for people who cannot see the video. Captions a
 
 Students should be able to
 
-* identify and distinguish the different types of multimedia content, such as pre-recorded versus live, synchronous versus asynchronous audio and video
+* identify and distinguish the different types of multimedia content, such as prerecorded versus live, synchronous versus asynchronous audio and video
 * create designs that support equivalent text alternatives for prerecorded audio-only content
 * create designs that support text alternatives and audio track for a prerecorded video-only content that presents equivalent information
 * create designs that allow to provide captions and audio descriptions for any prerecorded and live audio content in synchronized media
@@ -163,8 +165,8 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-[To be developed.]
-
+* Research &mdash; Students research an accessible media player and explain how different groups of people with disabilities use the player. Assess how students understand how people with disabilities interact with multimedia content and players.
+* Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including transcripts for audio, audio descriptions, and sign language.
 ## Teaching Resources
 
 Suggested resources to support your teaching:
