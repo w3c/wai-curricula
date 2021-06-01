@@ -206,5 +206,5 @@ Optional ideas to support assessment:
 Suggested resources to support your teaching:
 
 * [[Involving Users in Web Projects for Better, Easier Accessibility]](https://www.w3.org/WAI/planning/involving-users/) &mdash; Helps you understand real-world accessibility issues, such as how people with disabilities and older people use the web with adaptive strategies and assistive technologies.
-* [Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/perspective-videos/) &mdash; Explore the impact of accessibility and the benefits for everyone in a variety of situations.
+* [Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/) &mdash; Explore the impact of accessibility and the benefits for everyone in a variety of situations.
 * [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
