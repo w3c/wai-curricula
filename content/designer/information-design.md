@@ -25,19 +25,19 @@ navigation:
 Courses based on this module should:
 
 * present strategies to split large blocks of information into smaller pieces 
-* present strategies to group information that shares a common purpose so that it is easier to process
+* present strategies for grouping information that shares a common purpose so that it is easier to understand
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * describe approaches to break down different types of content into smaller and more manageable pieces, including:
-  * the use of headings and pages to divide longer passages of text into smaller pieces
+  * the use of headings, pages, and chapter marks to divide longer passages of text into smaller pieces
   * the use of lists, simpler tables, and plain text to convey information presented in complex tables
   * the use of groups of form controls that share a common purpose
-  * the use of filters to display small data subsets from a given data set
+  * the use of filters to display smaller data subsets from a given large data set
 * describe the use of labels and instructions to make information in forms more understandable
-* identify related requirements for developers to programmatically associate text alternatives, headings, table header cells and data cells, and form labels and instructions, to their corresponding control
+* identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}
 
@@ -66,6 +66,10 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
+  * @@@
+  * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
+  * [WCAG Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
 
 {% include excol.html type="end" %}
@@ -80,7 +84,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Present ways to split large amounts of text into smaller pieces, such as by using headings or pages.
+Present ways to split large amounts of text into smaller pieces, such as by using headings and chapter marks to identify parts of the content and pages to split the content into logical units.
 
 Discuss mechanisms to supplement information presented only with text, such as use of icons and other visual cues.
 
@@ -88,7 +92,7 @@ Discuss mechanisms to supplement information presented only with text, such as u
 
 Students should be able to:
 
-* design user interfaces that support splitting large amounts of text into several smaller and more manageable pieces, for example by using headings or pages
+* design user interfaces that support splitting large amounts of text into several smaller and more manageable pieces, for example by using headings, pages, and chapter marks
 * design user interfaces that support additional ways to convey information presented in text, for example using icons and other visual cues
 * design user interfaces that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * design user interfaces that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
@@ -99,16 +103,16 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of large amounts of text, for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate, for example by using headings or several pages.
+* Show examples of large amounts of text, for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate, for example by using headings and several pages.
 * Show examples of how icons, charts, and graphics can complement information presented in text. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that users with cognitive disabilities or those not familiar with such words need definitions to understand the meaning of such words.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author. For references on how to provide the definition of a word or phrase used in an unusual or restricted way, see technique [G101: Providing the definition of a word or phrase used in an unusual or restricted way](https://www.w3.org/WAI/WCAG21/Techniques/general/G101.html).
-* Show examples of abbreviations  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
+* Show examples of abbreviations,  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical mdash; Present students with an ebook and ask them to define how it should be split into smaller and more manageable pieces to that it can be easier to navigate and understand. Assess how students use mechanisms to divide large amounts of text into smaller and more manageable pieces.
+* Practical &mdash; Present students with an ebook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use mechanisms to split large amounts of text into smaller and more manageable pieces, such as headings, pages, and chapter marks.
 * Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
@@ -136,7 +140,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when displaying a list of events with their date and venue.
-* Refer back to [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones and using lists to group the logically related information.
+* Refer back to Module 2: Flexible Layout and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include splitting complex tables into simpler ones and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically for users to understand their relations, and that clear styles should be provided. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developers.
 
 #### Ideas to Assess Knowledge for Topic
@@ -161,22 +165,22 @@ Show examples of how different groups of people interact with large amounts of s
 Students should be able to:
 
 * design user interfaces that support grouping of related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
-* design user interfaces that support filtering data, for example using search boxes or splitting the data set into smaller subsets of data
-* design user interfaces that support navigating to specific pieces of data using the keyboard
+* design user interfaces that support filtering data from data lists and grids, for example using search boxes or splitting the data set into smaller subsets of data
+* design user interfaces that support keyboard navigation to specific list items of data lists and grids, for example using first letter navigation
 * design user interfaces that support customizing the results that are shown at a given time
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to interact and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations is a designers' responsibility, whereas coding those relations is a developers' responsibility.
-* Show examples of long lists of data, such as lists of countries or cities on a travel application. Explain that these lists are difficult to navigate with the keyboard, as it takes a long time to go through the different options one by one by pressing the arrow keys. Discuss several ways to make these interactions more efficient, such as providing ways for the user to type the first letters of their desired option, which reduces the amount of shown results.
+* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to interact and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
+* Show examples of long lists of data, such as lists of countries or cities on a travel application. Explain that these lists are difficult to navigate with the keyboard, as it takes a long time to go through the different options one by one by pressing the arrow keys. Discuss several ways to make these interactions more efficient, such as providing ways for the user to type the first letters of their desired option, which reduces the amount of shown results, and providing ways for people to filter the datat they want revealed by the use of pseudo-search boxes.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Ask students to group related information in a form that asks for information to open a bank account. Asses how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how they provide ways for users to identify each of the groups.
+* Practical &mdash; Students group related information in a form that asks for information to open a bank account. Asses how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how students provide ways for users to identify each of the groups.
 
 {% include excol.html type="end" %}
 
@@ -186,7 +190,7 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Portfolio &mdash; Students include different pieces of information on a website, for example text, forms, and images. Assess how students provide for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
+* Portfolio &mdash; Students include different pieces of information on a website, for example text, forms, and images. Assess how students provide mechanisms for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
 
 ## Teaching Resources
 

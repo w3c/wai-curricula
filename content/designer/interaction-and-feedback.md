@@ -36,11 +36,10 @@ Students should be able to:
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
-* design user interfaces with meaningful sequence of interactive user interface components
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
-* identify related requirements for developers to write code for custom keyboard interactions that interactive user interface components may require
+* identify related requirements for developers to write code for custom keyboard interactions that interactive components may require
 
 {% include excol.html type="all" %}
 
@@ -56,6 +55,7 @@ Skills required for this module:
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Prior [Designer Modules](/curricula/designer-modules/)
+* Knowledge of interaction design
 
 {% include excol.html type="end" %}
 
@@ -66,6 +66,9 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
+  * @@@
+* In-depth knowledge of:
+  * Interaction design
 
 {% include excol.html type="end" %}
 
@@ -94,7 +97,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interaction is a designer's responsibility, whereas implementing such interaction is a responsibility shared with the developer.
+* Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
 * Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided wherever possible.
 
 #### Ideas to Assess Knowledge for Topic
@@ -111,7 +114,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Show examples of labels and instructions for form controls and custom widgets. Explain that they are essential for cognitive disabilities to understand and interact with these components.
+Show examples of labels and instructions for form controls and custom widgets. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand and interact with these components.
 
 #### Learning outcomes for Topic
 
@@ -121,7 +124,7 @@ Students should be able to:
 * design user interfaces that allow to position labels where users expect them
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
-  * including color, text, and visual cues in the label of each of the required form fields that indicates that they are required
+  * including color, text, and visual cues in the label of each of the required form fields that indicate that they are required
 * provide clear instructions about changes in context before the control that originates such changes
 * provide overall instructions about existing time limits in a form and about how they can be turned off, adjusted, or extended
 * provide clear instructions about the current step and about the total number of steps involved in a multi-step form
@@ -131,18 +134,18 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see
-* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see
-* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, and other visual cues. For references on how to communicate that form fields are required, see
-* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be put in place to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a responsibility of the designer, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
-* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
+* Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see @@@
+* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see @@@
+* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, and other visual cues. For references on how to communicate that form fields are required, see @@@
+* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved. For reference on how to provide instructions for multi-step forms, see @@@
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with a form fields and ask them to define labels for each. Assess how students provide clear and descriptive names for each of the form fields.
-* Practical &mdash; Give students a form field and ask them to provide the necessary instructions for users to understand and fill in the form. Assess how students provide clear and concise instructions.
+* Practical &mdash; Present students with a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
+* Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
 
 {% include excol.html type="end" %}
 
@@ -169,9 +172,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require motion for these gestures.
-* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, thus user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
-* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, thus user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
+* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -184,13 +187,13 @@ Optional ideas to support assessment:
 
 {% include excol.html type="start" %}
 
-### Topic: Feedback and Notifications
+### Topic: Notifications and Feedback
 
 {% include excol.html type="middle" %}
 
 Show examples of notification messages. Explain that they need to be distinguishable by all users, including through visual cues and programmatically.
 
-Explain that applications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers' responsibility.
+Explain that notifications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers' responsibility.
 
 #### Learning Outcomes for Topic
 
@@ -198,7 +201,7 @@ Students should be able to:
 
 * design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
 * provide meaningful and descriptive messages about errors, suggestions for corrections, successes, or any other event
-* design user interfaces that allow to switch notifications on or off to allow notifications processing at the users' pace
+* design user interfaces that support switching notifications on or off to allow notifications processing at the users' pace
 * design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
 * describe related requirements for developers to code notification messages appropriately
 
@@ -208,7 +211,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and popup windows.
 * Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
-* Show examples of overlapping notifications in the context of web applications. Explain that some users may find it daunting to process several notifications at the same time, so there should be a mechanism that allows to prioritize notifications based on their relevance.
+* Show examples of overlapping notifications in the context of applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -233,4 +236,5 @@ Suggested resources to support your teaching:
 * @@@
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

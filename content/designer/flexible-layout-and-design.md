@@ -121,9 +121,9 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of styles for distinguishing user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another. For references on how to apply distinguishable styles for user interface components, see @@@
 * Demonstrate the use of different font sizes and explain how they affect readability of the content. For reference on how to apply font sizes that allow content readability, see @@@
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. For references on how to apply adequate spacing, see @@@
-* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to provide information using sensory characteristics apart from vision, see technique [• G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see techniques [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. EMphasize that spacing also allows for better readability of contents and for better identifications of the different parts of the user interface. For references on how to apply adequate spacing, see @@@
+* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed and those with visual clues only to communicate that a product is sold out. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -156,7 +156,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different foreground and background color combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another.
-* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios need to be at least 4.5:1. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see technique [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 
 #### Ideas to Assess Knowledge for Topic
@@ -180,19 +180,19 @@ Explain how people with disabilities use different screen sizes, screen configur
 
 Students should be able to:
 
-* design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
 * design user interfaces that support text resizing without loss of content and functionality
 * design user interfaces that support content view and operation in both portrait and landscape orientations
 * design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
+* design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
-* Explain that people with low vision often need to resize text to be able to read it properly. This includes resizing settings in the assistive technology, browser, and operating system.
+* Explain that people with low vision often need to resize text to be able to read it properly. This includes resizing text up to  200% using browsers functionality. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is crucial for people who cannot change their device orientation due to mobility impairments.
 * Show examples of different tap targets and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be large enough to accommodate different people's needs.
+* Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
 
 #### Ideas to Assess Knowledge for Topic
 

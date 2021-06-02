@@ -25,7 +25,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to navigate multi page websites and applications
-* present some behaviors, visual affordances, and interaction patterns of menus that relate to accessible design
+* present behaviors, visual affordances, and interaction patterns of menus that relate to accessible design
 
 ## Learning Outcomes for Module
 
@@ -35,7 +35,7 @@ Students should be able to:
 * design user interfaces that support different types of navigations, including menus, breadcrumb trails, tables of contents, and site maps
 * define keyboard, mouse, and tactile interactions for menus and other navigation mechanisms
 * provide clear and consistent visual cues for menus, menu item states, and other navigation mechanisms
-* define blocks of repeated content and coordinate with developers to implement mechanisms that bypass such blocks
+* define blocks of repeated content and collaborate with developers to implement mechanisms that bypass such blocks
 * identify related requirements for developers to:
   * implement keyboard, mouse, and tactile interactions for navigation mechanisms
   * implement clear and descriptive names for navigation mechanisms
@@ -87,14 +87,14 @@ Topics to achieve the learning outcomes:
 
 Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI website tutorials [Menus](https://www.w3.org/WAI/tutorials/menus/).
 
-Explain styling conventions for menus, such as location, appropriate size and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI website tutorial, [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
+Explain styling conventions for menus, such as location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI website tutorial, [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
-* provide visual cues for menus to distinguish them from other components, and consistent styling for menu identification across a set of web pages
+* provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
 * define mouse, keyboard, and tactile interactions within menus
 * design user interfaces that support appropriate sizing of menus and menu items to fit all text in different viewports and screen configurations
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
@@ -104,9 +104,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain menu conventions that relate to accessibility, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and tactile interaction with menus.
+* Explain menu conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and tactile interaction with menus.
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and tactile. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these texts need to resize so that they are perceived in their entirety.
+* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these texts may need to wrap so that they are perceived in their entirety.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -130,22 +130,22 @@ Introduce other navigation mechanisms that may be used depending on the characte
 
 Students should be able to:
 
-* design user interfaces that support skipping blocks of repeated content providing at least one of the following:
+* define blocks of repeated content, such as navigation bars or header contents, and define mechanisms to skipp such blocks using at least one of the following:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
-* assess the need for other navigation mechanisms, such as search functionalities, breadcrumb trails, tables of contents, and sitemaps depending on the characteristics of the user interface
-* provide search functionalities that support navigating to specific parts of the site
-* design user interfaces that support breadcrumb trails to provide information about the users' location in a set of web pages
-* design user interfaces that support site maps to provide an overview of the entire website
-* design user interfaces that support tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
+* provide other navigation mechanisms to ensure web pages or application views can be reached using several of the following methods:
+  * search functionalities that support navigating to specific parts of the site
+  * breadcrumb trails to provide information about the users' location in a set of web pages
+  * site maps to provide an overview of the entire website
+  * tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that people using the keyboard only find it very frustrating to navigate through sets of repeated blocks of content, such as navigation bars or header contents. For examples  on how to provide a mechanism to bypass blocks of repeated content, see techniques [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html), [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
+* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using the tab key only is time consuming. For examples  on how to provide a mechanism to bypass blocks of repeated content, see techniques [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html), [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
 * Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
 ](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
@@ -156,9 +156,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Students define the block of repeated content within a  website and coordinate with developers to provide a way for users to bypass that block. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass it.
-* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as tables of contents and sitemaps.
-* Practice &mdash; Present students with a second-level web page within a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students provide a breadcrumb trail.
+* Practical &mdash; Students define the blocks of repeated content within a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
+* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
+* Practical &mdash; Present students with a web page that is deep in the hierarchy of a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hiearrchical structore of a web page within a set of web pages.
 
 {% include excol.html type="end" %}
 
@@ -168,7 +168,7 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Portfolio &mdash; Students add navigation across web pages or applications views. Assess how students understand accessibility features of navigation across multipage websites and applications 
+* Portfolio &mdash; Students design naviganion menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications .
 
 ## Teaching Resources
 
