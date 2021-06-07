@@ -209,6 +209,7 @@ Explain how people with disabilities use different screen sizes, screen configur
 Students should be able to:
 
 * design user interfaces that support text resizing without loss of content and functionality
+* design user interfaces that support zomming and enlarging text in different viewport sizes and through multiple break-points
 * design user interfaces that support content view and operation in both portrait and landscape orientations
 * design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
 * design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
@@ -218,6 +219,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Explain that people with low vision often need to resize text to be able to read it properly. This includes resizing text up to  200% using browsers functionality. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
+* Discuss the use of multiple break-points by people with low vision. Explain that these break points often go beyond the traditional mobile, tablet, and desktop break-points.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is crucial for people who cannot change their device orientation due to mobility impairments.
 * Show examples of different tap targets and explain that some people have difficulty to tap smaller targets due to mobility impairments.  Explain that tap targets need to be large enough to accommodate different people's needs.
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
