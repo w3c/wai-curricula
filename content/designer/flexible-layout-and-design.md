@@ -99,7 +99,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Content Perception
+### Topic: Text Styling
 
 {% include excol.html type="middle" %}
 
@@ -112,41 +112,68 @@ Students should be able to:
 * design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
 * design user interfaces with font sizes that enhance content readability
 * design user interfaces with adequate spacing to support readability and to help distinguish components from one another
-* design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
-* design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles for distinguishing user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another. For references on how to apply distinguishable styles for user interface components, see @@@
-* Demonstrate the use of different font sizes and explain how they affect readability of the content. For reference on how to apply font sizes that allow content readability, see @@@
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. EMphasize that spacing also allows for better readability of contents and for better identifications of the different parts of the user interface. For references on how to apply adequate spacing, see @@@
-* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed and those with visual clues only to communicate that a product is sold out. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Demonstrate the use of styles for distinguishing user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another.
+* Demonstrate the use of different font sizes and explain how they affect readability of the content.
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. Emphasize that spacing also allows for better readability of contents and for better identifications of the different parts of the user interface. apply adequate spacing, see @@@
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
 * Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties to make content perceivable and to distinguish components from one another.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Landmarks and Cues
+
+{% include excol.html type="middle" %}
+
+Discuss strategies to provide mechanisms for users to perceive different web page regions. Present different strategies to complement different content types, such as visual and textual, through the use of visual and text cues.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* define page regions by using appropriate landmarks
+* design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of different regions of web pages. Explain that the use of landmarks is needed for people to perceive such regions. Explain that defining landmarks is a designers' responsibility, whereas implementing such landmarks is a responsibility shared with the developer.
+* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed and those with visual cues only to communicate that a product is sold out. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
+
+#### Ideas to Assess Knowledge
+
+Optional ideas to support assessment:
+
+* Practical &mdash; Give students a web page and ask them to identify its regions and to define the appropriate landmarks for users to perceive such regions. Assess how students identify page regions and provide mechanisms for people to perceive such regions.
 * Practical &mdash: Give students examples of color alone used to provide information and ask them to provide text information and visual cues to supplement that information. Assess how students provide the necessary textual information and visual cues to supplement information provided exclusively with color.
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-### Topic: Contrast Ratios
+### Topic: Color
 
 {% include excol.html type="middle" %}
 
-Explain how contrast ratios are essential for people with low vision to perceive, distinguish, and understand contents.
+Describe how some people use color to understand and distinguish contents. Explain different ways to convey information that is conveyed using color alone, such as shapes or icons. Explain how contrast ratios are essential for people with low vision to perceive, distinguish, and understand contents.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
- 
-* explain how appropriate contrast ratios allow people with disabilities to read, understand, and distinguish user interface components
+
+* explain how appropriate use of color allow people with disabilities to read, understand, and distinguish user interface components
+* design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
 * design user interfaces with texts and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design user interfaces with large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design user interfaces with components and graphics that have a contrast ratio of at least 3:1 with respect to their background
@@ -155,6 +182,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 * Show examples of different foreground and background color combinations. Explain how contrast ratios between foreground and background allow users to perceive content and distinguish components from one another.
 * Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1. For techniques on how to add contrast ratios for graphics and interface components, see technique [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
