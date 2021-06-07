@@ -35,7 +35,7 @@ Students should be able to:
 * design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
 * provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
-* provide meaningful and descriptive notifications about imminent time limits, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
+* provide meaningful and descriptive notifications about imminent time limits, steps, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
 * define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
@@ -82,7 +82,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Discuss standard keyboard interactions, such as the use of the Tab, Enter, or arrow keys. Explain that if non-standard keyboard interactions are to be used,  designers need to define them and collaborate with developers to implement them.
+Discuss standard keyboard interactions, such as the use of the Tab, Enter, or arrow keys. Explain that when non-standard keyboard interactions are to be used, designers need to define them and collaborate with developers to implement them.
 
 #### Learning Outcomes for Topic
 
@@ -91,7 +91,7 @@ Students should be able to:
 * design custom user interfaces that support operation with the keyboard
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * design user interfaces that wherever possible avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies
-* describe related requirements for developers to write code for user interface components to be entered, operated, and exited using the keyboard only
+* describe related requirements for developers to implement keyboard support for interactive user interface components
   
 #### Teaching Ideas for Topic
 
@@ -104,7 +104,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions wherever possible.
+* Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions wherever possible.
 
 {% include excol.html type="end" %}
 
@@ -114,7 +114,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Show examples of labels and instructions for form controls and custom widgets. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand and interact with these components.
+Show examples of labels and instructions for interactive user interface components. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
 
 #### Learning outcomes for Topic
 
@@ -134,9 +134,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see @@@
-* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages. For references on how to place labels for form fields, see @@@
-* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, and other visual cues. For references on how to communicate that form fields are required, see @@@
+* Show examples of different interactive components, such as buttons, links, or widgets, and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
+* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
+* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including color, text, and other visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved. For reference on how to provide instructions for multi-step forms, see @@@
 
@@ -145,6 +145,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Practical &mdash; Present students with a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
+* Practical &mdash; Give students an application and ask them to provide names for each of the application subsections. Assess how students identify application section and provide clear and understandable names for each.
 * Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
 
 {% include excol.html type="end" %}
@@ -200,9 +201,9 @@ Explain that notifications may have different levels of priority when in the con
 Students should be able to:
 
 * design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
-* provide meaningful and descriptive messages about errors, suggestions for corrections, successes, or any other event
+* provide meaningful and descriptive messages about errors, suggestions for corrections, and successes
 * design user interfaces that support switching notifications on or off to allow notifications processing at the users' pace
-* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components, such as form fields and custom widgets
+* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components
 * describe related requirements for developers to code notification messages appropriately
 
 #### Teaching Ideas for Topic
@@ -211,13 +212,13 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and popup windows.
 * Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
-* Show examples of overlapping notifications in the context of applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance.
+* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each form field that contains errors, together with suggestions for corrections whenever possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections whenever possible.
+* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each form field that contains errors, together with suggestions for corrections when possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections when possible.
 
 {% include excol.html type="end" %}
 
