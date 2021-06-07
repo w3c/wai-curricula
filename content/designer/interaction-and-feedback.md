@@ -82,7 +82,8 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Discuss standard keyboard interactions, such as the use of the Tab, Enter, or arrow keys. Explain that when non-standard keyboard interactions are to be used, designers need to define them and collaborate with developers to implement them.
+Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users expectations, thus these interactions need to be well documented and be consistent throughout the interface.
+Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
@@ -90,7 +91,7 @@ Students should be able to:
 
 * design custom user interfaces that support operation with the keyboard
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* design user interfaces that wherever possible avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies
+* design user interfaces that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
 * describe related requirements for developers to implement keyboard support for interactive user interface components
   
 #### Teaching Ideas for Topic
@@ -98,13 +99,13 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
-* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided wherever possible.
+* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions wherever possible.
+* Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 
 {% include excol.html type="end" %}
 
