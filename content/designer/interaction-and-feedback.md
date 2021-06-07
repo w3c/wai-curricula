@@ -37,7 +37,7 @@ Students should be able to:
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, steps, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
 * define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
-* define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications and expected behavior of custom widgets
+* define mechanisms to obtain information about custom interaction patterns, such as specific keyboard shortcuts for applications
 * identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
 * identify related requirements for developers to write code for custom keyboard interactions that interactive components may require
 
@@ -92,6 +92,7 @@ Students should be able to:
 * design custom user interfaces that support operation with the keyboard
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * design user interfaces that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
+* define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency or those used in complex application
 * describe related requirements for developers to implement keyboard support for interactive user interface components
   
 #### Teaching Ideas for Topic
@@ -100,6 +101,7 @@ Optional ideas to teach the learning outcomes:
 
 * Reflect on standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the Enter key to select an item. Explain that these need to be preserved as much as possible when designing custom functionality, and custom keyboard interaction should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
 * Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
+* Show examples of help  functionality to explain custom keyboard interactions. Explain that, while custom keyboard interactions are preferred by some users for efficiency reasons, it can distract others who may not be familiar with such keyboard shortcuts.  Explain that providing these mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
