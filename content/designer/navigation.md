@@ -74,6 +74,7 @@ Skills required for this module:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
   * Responsive Design
+  * Information Architecture
 
 {% include excol.html type="end" %}
 
