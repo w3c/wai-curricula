@@ -39,7 +39,7 @@ Students should be able to:
 * explain how involving people with disabilities can lead to more accessible designs
 * examine applicable design requirements for accessibility, such as those defined by accessibility standards and policies
 * articulate the potential risks of not involving people with disabilities, such as increased costs to implement accessibility at a later stage
-* describe different strategies when including real people with disabilities, such as providing accommodations, checking te accessibility of the facilities, and considering different timings depending on user skills
+* describe different strategies when including real people with disabilities, such as providing accommodations, checking the accessibility of the facilities, and considering different timings depending on user skills
 * identify related requirements for product owners and other team roles to plan for the involvement of people with disabilities
 * identify related requirements for developers and content authors to implement user feedback that relates to their tasks during the developing an authoring phases
 
@@ -101,7 +101,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Discuss different examples of involving people with disabilities. Explain that this gives user researchers the opportunity to collect direct feedback from people with disabilities on products that are working for them and on products that are not. Emphasize that you can then include that feedback in the research conclusions so that they lead to better overall design for everybody.
-* Discuss scenarios where it might not be economically feasible to involve people with disabilities. Explain different research methods that can be used to get an understanding of how people with disabilities interact with technology. For examplee, asking users, checking documentation, or watching videos. Explain that these research activities help the team understanddifferent solutions to common pitfalls that people with disabilities may encounter when using the product or service.
+* Discuss scenarios where it might not be economically feasible to involve people with disabilities. Explain different research methods that can be used to get an understanding of how people with disabilities interact with technology. For example, asking users, checking documentation, or watching videos. Explain that these research activities help the team understand different solutions to common pitfalls that people with disabilities may encounter when using the product or service.
 * Explain the consequences of not involving people with disabilities. Emphasize that accessibility remediation is often difficult and can lead to higher costs when  implementing accessibility later on in the development phase.
 * Present characteristics of potential participants in user research activities based on several factors, such as the type of disability and the level of skills using assistive technologies and adaptive strategies.
 
@@ -185,7 +185,7 @@ Optional ideas to teach the learning outcomes:
 * Explain how including real people with disabilities can help better inform the decisions taken in iterative design processes. For example, mention complex interaction patterns, such as complex form fields or custom dialogs, and reinforce the idea that feedback on expected behaviors and interaction patterns will help take the best design decision.
 * Discuss the different levels of skills of people with disabilities when using an assistive technology or an adaptive strategy. Emphasize that some assistive technologies and adaptive strategies are difficult to learn. Explain that different people may need different timings to conduct the proposed activities. Present different strategies to include these differences. For example, setting up different time expectations depending on different levels of experience with the assistive technology and different levels of familiarity with the product.
 * Explain different testing methods that exist, such as testing with an assistive technology, testing a paper prototype, or testing an HTML template. Explain that each of these methods delivers different types of outputs. For example, testing a paper prototype is more likely to deliver results related to visual aspects, and assistive technology testing is more likely to deliver results related to the compatibility of the product with assistive technology.
-* Discuss several examples of complex user interfaces. Explain that participation of other team members, such as developers and content authors, may be required to address the feedback received from people with disabilities. Emphasize that requesting that participation is a responsability of the user researcher, whereas coordinating such participation is a responsibility of the project manager.
+* Discuss several examples of complex user interfaces. Explain that participation of other team members, such as developers and content authors, may be required to address the feedback received from people with disabilities. Emphasize that requesting that participation is a responsibility of the user researcher, whereas coordinating such participation is a responsibility of the project manager.
 
 #### Ideas to Assess Knowledge for Topic
 

@@ -209,7 +209,7 @@ Explain how people with disabilities use different screen sizes, screen configur
 Students should be able to:
 
 * design user interfaces that support text resizing without loss of content and functionality
-* design user interfaces that support zomming and enlarging text in different viewport sizes and through multiple break-points
+* design user interfaces that support zooming and enlarging text in different viewport sizes and through multiple break-points
 * design user interfaces that support content view and operation in both portrait and landscape orientations
 * design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
 * design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
