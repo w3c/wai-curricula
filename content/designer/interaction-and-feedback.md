@@ -68,6 +68,10 @@ Skills required for this module:
 * Applied expertise in teaching:
   * @@@
 * In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules/#prerequisites-for-students)
+  * Visual Design
+  * Responsive Design
+  * Information Architecture
   * Interaction design
 
 {% include excol.html type="end" %}

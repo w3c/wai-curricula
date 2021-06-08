@@ -63,8 +63,6 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
@@ -72,6 +70,10 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * Visual Design
+  * Responsive Design
 
 {% include excol.html type="end" %}
 
@@ -130,7 +132,7 @@ Introduce other navigation mechanisms that may be used depending on the characte
 
 Students should be able to:
 
-* define blocks of repeated content, such as navigation bars or header contents, and define mechanisms to skipp such blocks using at least one of the following:
+* define blocks of repeated content, such as navigation bars or header contents, and define mechanisms to skip such blocks using at least one of the following:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
@@ -158,7 +160,7 @@ Optional ideas to support assessment:
 
 * Practical &mdash; Students define the blocks of repeated content within a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
-* Practical &mdash; Present students with a web page that is deep in the hierarchy of a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hiearrchical structore of a web page within a set of web pages.
+* Practical &mdash; Present students with a web page that is deep in the hierarchy of a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hierarchical structure of a web page within a set of web pages.
 
 {% include excol.html type="end" %}
 
@@ -168,7 +170,7 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Portfolio &mdash; Students design naviganion menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications .
+* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications .
 
 ## Teaching Resources
 

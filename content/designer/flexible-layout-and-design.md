@@ -69,10 +69,6 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
-  * Visual Design Techniques
-  * Responsive Design Techniques
 * Applied expertise in teaching:
   * [WCAG Success Criterion 1.1.1	Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#time-based-media)
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
@@ -90,6 +86,10 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * Visual Design
+  * Responsive Design
 
 {% include excol.html type="end" %}
 

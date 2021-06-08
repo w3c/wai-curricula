@@ -63,14 +63,17 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Applied expertise in teaching:
   * @@@
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
   * [WCAG Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
+* In-depth knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * Visual Design
+  * Responsive Design
+  * Information Architecture
 
 {% include excol.html type="end" %}
 
@@ -174,7 +177,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to interact and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
-* Show examples of long lists of data, such as lists of countries or cities on a travel application. Explain that these lists are difficult to navigate with the keyboard, as it takes a long time to go through the different options one by one by pressing the arrow keys. Discuss several ways to make these interactions more efficient, such as providing ways for the user to type the first letters of their desired option, which reduces the amount of shown results, and providing ways for people to filter the datat they want revealed by the use of pseudo-search boxes.
+* Show examples of long lists of data, such as lists of countries or cities on a travel application. Explain that these lists are difficult to navigate with the keyboard, as it takes a long time to go through the different options one by one by pressing the arrow keys. Discuss several ways to make these interactions more efficient, such as providing ways for the user to type the first letters of their desired option, which reduces the amount of shown results, and providing ways for people to filter the data they want revealed by the use of pseudo-search boxes.
 
 #### Ideas to Assess Knowledge for Topic
 
