@@ -33,11 +33,11 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate multipage websites and applications
 * design user interfaces that support different types of navigations, including menus, breadcrumb trails, tables of contents, and site maps
-* define keyboard, mouse, and tactile interactions for menus and other navigation mechanisms
+* define keyboard, mouse, and touch interactions for menus and other navigation mechanisms
 * provide clear and consistent visual cues for menus, menu item states, and other navigation mechanisms
 * define blocks of repeated content and collaborate with developers to implement mechanisms that bypass such blocks
 * identify related requirements for developers to:
-  * implement keyboard, mouse, and tactile interactions for navigation mechanisms
+  * implement keyboard, mouse, and touch interactions for navigation mechanisms
   * implement clear and descriptive names for navigation mechanisms
 
 {% include excol.html type="all" %}
@@ -95,7 +95,7 @@ Students should be able to:
 
 * identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
 * provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
-* define mouse, keyboard, and tactile interactions within menus
+* define mouse, keyboard, and touch interactions within menus
 * design user interfaces that support appropriate sizing of menus and menu items to fit all text in different viewports and screen configurations
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
 * identify related requirements for developers to implement semantics for different menu states and properties, such as hover, focus, current, active, and visited
@@ -104,8 +104,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain menu conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and tactile interaction with menus.
-* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and tactile. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+* Explain menu conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
+* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 * Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these texts may need to wrap so that they are perceived in their entirety.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
@@ -113,7 +113,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment.
 
-* Practical &mdash; Students define mouse, keyboard, and tactile interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
+* Practical &mdash; Students define mouse, keyboard, and touch interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Present students with different menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
 
 {% include excol.html type="end" %}

@@ -70,6 +70,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * User Research Techniques
+  * Involving people with disabilities in the design and development processes
 
 {% include excol.html type="end" %}
 
@@ -119,7 +120,7 @@ Optional ideas to support assessment.
 
 {% include excol.html type="middle" %}
 
-Present accessibility standards (such as WCAG2). Discuss policies that apply in the students' region (if any). Explain functional and non-functional requirements related to people with disabilities.
+Present the W3C accessibility standards. Discuss policies that apply in the students' region (if any). Explain functional and non-functional requirements related to people with disabilities.
 
 #### Learning Outcomes for Topic
 
@@ -146,7 +147,7 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Short answer questions &mdash; Ask students about three different types of non-functional requirements included in accessibility standards, such as WCAG2. Assess how students understand non-functional requirements included in accessibility standards.
+* Short answer questions &mdash; Ask students about three different types of non-functional requirements included in accessibility standards, such as WCAG. Assess how students understand non-functional requirements included in accessibility standards.
 * Short Answer Questions &mdash; Ask students about three types of functional requirements that are related to people with disabilities. Assess how students understand functional requirements that relate to people with disabilities.
 * Practical &mdash; Students create several personas that include different types of disabilities and different levels of skills using assistive technologies and adaptive strategies. Assess how students understand diversity among people with disabilities.
 * Practical &mdash; Students create several scenarios that include use of the product with different assistive technologies and adaptive strategies. Assess how students understand different scenarios that include use of the product with different assistive technologies and adaptive strategies.

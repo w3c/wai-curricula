@@ -167,7 +167,7 @@ Discuss some gestures that require dragging and drawing specific shapes on a tac
 
 Students should be able to:
 
-* design user interfaces that support alternatives to device or user motion such as shaking, by using user interface components that do not require motion
+* design user interfaces that support alternatives to device or user motion such as shaking by using user interface components that do not require motion
 * design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
 * design user interfaces that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
 * design user interfaces that support undoing or aborting an action carried out with path-based operations
