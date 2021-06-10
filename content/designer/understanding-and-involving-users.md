@@ -121,7 +121,7 @@ Optional ideas to support assessment.
 
 {% include excol.html type="middle" %}
 
-Present non-functional requirements that relate to people with disabilities, such as the W3C accessibility standards. Discuss policies that apply in the students' region (if any). 
+Present non-functional requirements that relate to people with disabilities, such as the W3C accessibility standards, and discuss some functional requirements that relate to people with disabilities. Invite students to explore policies that may apply in their region (if any). 
 
 #### Learning Outcomes for Topic
 
