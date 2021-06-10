@@ -121,7 +121,7 @@ Optional ideas to support assessment.
 
 {% include excol.html type="middle" %}
 
-Present the W3C accessibility standards. Discuss policies that apply in the students' region (if any). Explain functional and non-functional requirements related to people with disabilities.
+Present non-functional requirements that relate to people with disabilities, such as the W3C accessibility standards. Discuss policies that apply in the students' region (if any). 
 
 #### Learning Outcomes for Topic
 
@@ -129,10 +129,8 @@ Students should be able to:
 
 * identify different non-functional accessibility requirements, for example those included in WCAG and in applicable accessibility policies
 * identify different functional requirements that relate to people with disabilities, for example:
-  * appropriate contrast ratios
-  * availability of content and functionality in different screen sizes and configurations
-  * keyboard compatibility
-  * compatibility with assistive technologies and adaptive strategies
+  * a person with disabilities needs to understand how clothing looks like both through vision and through text descriptions
+  * a person with disabilities needs to be able to choose their sit when buying a ticket using their assistive technology of choice
 * research existing personas and scenarios that avoid common clichés and myths related to people with disabilities
 * create personas that include people with different types of disabilities and different levels of skills using assistive technologies and adaptive strategies
 * create scenarios that include use of the product with different types of assistive technologies and adaptive strategies
