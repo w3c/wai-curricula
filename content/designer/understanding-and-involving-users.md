@@ -40,7 +40,7 @@ Students should be able to:
 * examine applicable design requirements for accessibility, such as those defined by accessibility standards and policies
 * articulate the potential risks of not involving people with disabilities, such as increased costs to implement accessibility at a later stage
 * describe different types of feedback from people with disabilities depending on the project phase where they are involved
-* describe different strategies when including real people with disabilities, such as providing accommodations, checking the accessibility of the facilities, and considering different timings depending on user skills
+* describe different strategies when including real people with disabilities, such as providing accommodations, checking the accessibility of the facilities, exploring remote participation, and considering different timings depending on user skills
 * identify related requirements for product owners and other team roles to plan for the involvement of people with disabilities during the analysis, design, and development phases
 * identify related requirements for developers and content authors to implement user feedback that relates to their tasks during the developing an authoring phases
 
