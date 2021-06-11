@@ -58,8 +58,8 @@ Skills required for this module:
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Basic knowledge of:
-  * Visual Design Techniques
-  * Responsive Design Techniques
+  * Visual Design
+  * Responsive Design
 
 {% include excol.html type="end" %}
 
@@ -82,7 +82,6 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
   * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
   * [WCAG Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
-  * [WCAG Success Criterion 2.4.2 Page Titled](https://www.w3.org/WAI/WCAG21/quickref/#page-titled)
   * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
@@ -143,6 +142,7 @@ Students should be able to:
 
 * define page regions by using appropriate landmarks
 * design user interfaces with text cues to convey information provided through vision only, such as an asterisk to convey required form fields in a form
+* design user interfaces with focus indicators that allow people to tell where they are as they move through the web page and applications using the keyboard
 
 #### Teaching Ideas for Topic
 
@@ -150,6 +150,8 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different regions of web pages. Explain that the use of landmarks is needed for people to perceive such regions. Explain that defining landmarks is a designers' responsibility, whereas implementing such landmarks is a responsibility shared with the developer.
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a store is open or closed and those with visual cues only to communicate that a product is sold out. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
+* Invite students to navigate a web page with appropriate focus indicators first, and then invite them to navigate a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see technique [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html).
+
 
 #### Ideas to Assess Knowledge
 
