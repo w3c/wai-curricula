@@ -118,7 +118,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="start" %}
 
-### Topic: Data Visualization
+### Topic: Graphics and Charts
 
 {% include excol.html type="middle" %}
 

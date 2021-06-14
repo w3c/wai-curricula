@@ -32,13 +32,12 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio or video content
-* research promote accessible media players to access transcripts for audio, audio descriptions, and sign language
-* design user interfaces that consider placement of alternatives to multimedia content, such as transcripts for audio and audio described content
-* design user interfaces that support switching transcripts and audio described content on or off
+* design user interfaces that consider  placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
+* design user interfaces that support enabling transcripts, audio descriptions, captions, and sign language
+* design user interfaces with multimedia player controls that have clear and descriptive names, that are easy to find, and that do not disappear when the media starts to play
 * design user interfaces with mechanisms to pause, stop, and hide any moving, blinking, and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
-* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content
-* identify related requirements for developers to include accessibility support for multimedia players
+* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content and to include accessibility support for multimedia players
 * identify related requirements for content authors to provide appropriate text alternatives and audio descriptions for different types of media content, including video and audio
 
 {% include excol.html type="all" %}
@@ -91,21 +90,21 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions and Audio Descriptions
+### Topic: Alternatives to Multimedia Content
 
 {% include excol.html type="middle" %}
 
-Audio descriptions are essential for people who cannot see the video. Captions and text alternatives are essential for people who cannot hear the audio.
+Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts are useful to provide an alternative to visual and audio information. Discuss the need for mechanisms to enable or disable alternatives to multimedia content depending on user needs. Explain that these mechanisms need to be always reachable for users, that they need to have clear names, and that they should not disappear when the media starts playing.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
-* identify and distinguish the different types of multimedia content, such as prerecorded versus live, synchronous versus asynchronous audio and video
-* create designs that support equivalent text alternatives for prerecorded audio-only content
-* create designs that support text alternatives and alternative audio tracks for a prerecorded video-only content that present equivalent information
-* create designs that allow to provide captions and audio descriptions for any prerecorded and live audio content in synchronized media
-* create designs that allow to provide sign language interpretation for all prerecorded audio content in synchronized media
+* identify accessibility requirements for the different types of multimedia content, such as text transcripts, audio descriptions for visual information, and captions and sign language for audio information
+* design user interfaces that consider availability, placement, and spacing for text alternatives for speech and non-speech audio information
+* design user interfaces with mechanisms to enable audio descriptions, captions, and sign language
+* design user interfaces with buttons that have descriptive names and that are easy to find
+* design user interfaces with player controls that are always reachable and that do not disappear when the multimedia content starts to play
 
 #### Teaching Ideas for Topic
 
