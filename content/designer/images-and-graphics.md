@@ -32,13 +32,13 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
-* identify and describe different uses of images, for example informative, functional, and decorative purposes
-* provide appropriate text alternatives for graphical components included in the design phase, such as logos, links, and menu items
+* identify different purposes of images and graphics, for example informative, functional, and decorative, and communicate the intended purpose of images and graphics included in the design phase to other team roles
+* provide appropriate text alternatives for for functional and informative images included in the design phase, such as graphical buttons and links
+* design user interfaces with recognizable and consistent iconography that allow users to identify the purpose of icons and other graphical components
 * design user interfaces with alternatives to visual captcha, for example auditory captcha, logical captcha, and biometrics
-* provide images with appropriate contrast ratios
 * create user interfaces that present information as text when the desired visual presentation can be achieved by the technology in use, instead of using images of text
 * identify related requirements for developers to code images and text alternatives appropriately
-* identify related requirements for content authors to provide appropriate text alternatives for images included in the authoring phase, such as complex graphics and charts
+* identify related requirements for content authors to provide appropriate descriptions for images included in the authoring phase, such as complex graphics and charts
 
 {% include excol.html type="all" %}
 
@@ -83,21 +83,23 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Text Alternatives
+### Topic: Functional Images
 
 {% include excol.html type="middle" %}
 
-Explain several uses of text alternatives, such as to describe the function of graphical user interface component (functional images) and to describe the images so that users can understand their purpose without looking at them (informational images). Explain that describing the functions of user graphical interface components is a designer's responsibility, whereas providing text alternatives for informative images is a responsibility shared with the content author.
+Discuss different purposes that images and graphics can have in the context of user interfaces. For example, providing essential information to understand the content (informative images) and describing functionality of a component vfunctional images). Explain that describing the functions of graphical user interface components is a designer's responsibility, whereas providing text alternatives for informative images is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * identify situations where it is necessary to provide text alternatives that present equivalent information as that contained in the image
-* provide short text alternatives for controls and components that accept user input, for example search, print, and save buttons
-* provide text alternatives that identify and describe the purpose of human verification systems, such as captcha 
+* identify situations where it is necessary to complement icons with adjacent textual information, such as when those icons convey information
+* identify situations where images are used to convey functionality of controls and components that accept user input, for example search, print, and save functionality, and provide short text alternatives for those images
+* create designs with consistent naming and iconography for user interface components that have the same functionality within a set of web pages
+
+* provide names that identify and describe the purpose of captchas and other  verification systems
 * collaborate with other team members to implement several modalities of captcha that rely on other sensory characteristics apart from vision, such as visual, auditory, and logical
-* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
 
 #### Teaching Ideas for Topic
 
@@ -130,9 +132,10 @@ Explain that coordination among different team members is required to establish 
 
 Students should be able to:
 
-* create user interfaces that support appropriate contrast ratios for complex images when they are required to understand the contents
-* create user interfaces that support use of text instead of images of text when the technology in use can provide the desired visual presentation
-* identify related requirements for content authors to provide descriptions for complex images that convey the same information as the graphical object
+* design user interfaces that support appropriate contrast ratios for complex images when these images are required to understand the contents
+* design user interfaces that support use of text instead of images of text when the technology in use can provide the desired visual presentation
+* communicate the intent 
+* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
 
 #### Teaching Ideas for Topic
 
@@ -163,7 +166,8 @@ Decorative images are used for ornamental purposes and convey no information or 
 Students should be able to:
 
 * identify and describe different uses of images with decorative purposes, such as ornamental  
-* create user interfaces with decorative images that do not overlap with user interface components and contents when viewed using different screen sizes, configurations, and setups
+* design user interfaces with decorative images that do not overlap with user interface components and contents when viewed using different screen sizes, configurations, and setups
+* communicate the decorative purpose of images included in the design phase
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 
 #### Teaching Ideas for Topic
