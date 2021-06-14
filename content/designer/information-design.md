@@ -87,7 +87,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Present ways to split large amounts of text into smaller pieces, such as by using headings and chapter marks to identify parts of the content and pages to split the content into logical units.
+Present ways to split large amounts of text into smaller pieces, such as by using headings, heading level ranks, and chapter marks to identify parts of the content and pages to split the content into logical units.
 
 Discuss mechanisms to supplement information presented only with text, such as use of icons and other visual cues.
 
@@ -95,7 +95,7 @@ Discuss mechanisms to supplement information presented only with text, such as u
 
 Students should be able to:
 
-* design user interfaces that support splitting large amounts of text into several smaller and more manageable pieces, for example by using headings, pages, and chapter marks
+* design user interfaces that support splitting large amounts of text into several smaller and more manageable pieces, for example by using headings, heading level ranks, pages, and chapter marks
 * design user interfaces that support additional ways to convey information presented in text, for example using icons and other visual cues
 * design user interfaces that support mechanisms to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * design user interfaces that support mechanisms to identify the expanded form or meaning of acronyms and abbreviations
@@ -106,7 +106,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of large amounts of text, for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate, for example by using headings and several pages.
+* Show examples of large amounts of text. for example an ebook. Discuss several ways to divide the text both visually and programmatically so that it is easier to understand and to navigate. For example by using headings together with their corresponding level ranks together with  several pages to indicate the different chapters, sections, and subsections of content.
 * Show examples of how icons, charts, and graphics can complement information presented in text. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that users with cognitive disabilities or those not familiar with such words need definitions to understand the meaning of such words.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author. For references on how to provide the definition of a word or phrase used in an unusual or restricted way, see technique [G101: Providing the definition of a word or phrase used in an unusual or restricted way](https://www.w3.org/WAI/WCAG21/Techniques/general/G101.html).
 * Show examples of abbreviations,  such as short forms of words and acronyms. Explain that users with cognitive disabilities and those not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author. For references on how to provide the expansion or explanation of an abbreviation, see technique [G102: Providing the expansion or explanation of an abbreviation](https://www.w3.org/WAI/WCAG21/Techniques/general/G102).
@@ -115,7 +115,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practical &mdash; Present students with an ebook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use mechanisms to split large amounts of text into smaller and more manageable pieces, such as headings, pages, and chapter marks.
+* Practical &mdash; Present students with an ebook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings, heading level ranks, pages, and chapter marks to split large amounts of text into smaller and more manageable pieces.
 * Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}

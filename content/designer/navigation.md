@@ -111,7 +111,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports or with different screen configurations, these texts may need to wrap so that they are perceived in their entirety.
+* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts may need to wrap so that they are perceived in their entirety.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -135,7 +135,7 @@ Introduce other navigation mechanisms that may be used depending on the characte
 
 Students should be able to:
 
-* define blocks of repeated content, such as navigation bars or header contents, and define mechanisms to skip such blocks using at least one of the following:
+* define blocks of repeated content, such as navigation bars and header contents, and define mechanisms to skip such blocks using at least one of the following:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
@@ -144,7 +144,7 @@ Students should be able to:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
   * tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
-* provide ways for users to locate a specific web page within a set of web pages, for examples using descriptive page titles or including breadcrumb trails
+* provide ways for users to locate a specific web page within a set of web pages, for example using descriptive page titles and including breadcrumb trails
 
 #### Teaching Ideas for Topic
 
