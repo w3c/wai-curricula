@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 2: Flexible Layout and Design"
+title: "[Draft] Module 1: Flexible Layout and Design"
 nav_title: "Flexible Layout and Design"
 permalink: /curricula/designer-modules/flexible-layout-and-design/
 ref: /curricula/designer-modules/flexible-layout-and-design/
@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/understanding-and-involving-users/
+  previous: /curricula/designer-modules/
   next: /curricula/designer-modules/navigation/
 ---
 

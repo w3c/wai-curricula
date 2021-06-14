@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 6: Multimedia and Animations"
+title: "[Draft] Module 5: Multimedia and Animations"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/

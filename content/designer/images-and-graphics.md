@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Images and Graphics"
+title: "[Draft] Module 4: Images and Graphics"
 nav_title: "Images and Graphics"
 permalink: /curricula/designer-modules/images-and-graphics/
 ref: /curricula/designer-modules/images-and-graphics/
