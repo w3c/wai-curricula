@@ -90,11 +90,11 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions and Audio Descriptions
+### Topic: Alternatives to Multimedia Content
 
 {% include excol.html type="middle" %}
 
-Audio descriptions are essential for people who cannot see the video. Captions and text alternatives are essential for people who cannot hear the audio.
+Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts are useful to provide an alternative to visual and audio information. Discuss the need for mechanisms to enable or disable alternatives to multimedia content depending on user needs. Explain that these mechanisms need to be always reachable for users, that they need to have clear names, and that they should not disappear when the media starts playing.
 
 #### Learning Outcomes for Topic
 
