@@ -144,7 +144,6 @@ Students should be able to:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
   * tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
-* provide ways for users to locate a specific web page within a set of web pages, for example using descriptive page titles and including breadcrumb trails
 
 #### Teaching Ideas for Topic
 
@@ -155,8 +154,6 @@ Optional ideas to teach the learning outcomes:
 ](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
 * Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
 * Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content. For references on how to provide a table of contents, see technique [G64: Providing a Table of Contents](https://www.w3.org/WAI/WCAG21/Techniques/general/G64.html).
-* Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
-* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles  describe the page contents. Explain that page titles are useful to locate a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -164,9 +161,40 @@ Optional ideas to support assessment:
 
 * Practical &mdash; Students define the blocks of repeated content within a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Location
+
+{% include excol.html type="middle" %}
+
+Build on foundation [Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and visual cues to indicate the current page.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide ways for users to locate a specific web page within a set of web pages, for example:
+  * descriptive page titles
+  * breadcrumb trails
+  * visual cues to indicate the current page within a set of web pages
+* identify related requirements for developers to programmatically indicate the current page
+
+### Teaching Ideas
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
+* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles  describe the page contents. Explain that page titles are useful to locate a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
+
+#### Ideas to Assess Knowledge
+
+Optional ideas to support assessment:
+
 * Practical &mdash; Present students with a web page that is deep in the hierarchy of a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hierarchical structure of a web page within a set of web pages.
 * Practical &mdash; Present students with a set of web pages and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
-
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
