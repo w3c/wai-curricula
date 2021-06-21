@@ -124,6 +124,7 @@ Students should be able to:
   * using the Enter key to enter a specific component and to select a specific item on a component
   * using the arrow keys to move through list items and grid cells
   * using the escape key to exit components
+  * first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * define keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and collaborate with developers to provide mechanisms to remap or disable conflicting shortcuts
@@ -135,13 +136,14 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Invite students to try standard keyboard conventions. For example, use of the tab to move through actionable controls, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets. Custom keyboard interactions should be defined when standard keyboard interactions do not provide the necessary keyboard support. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
+* Invite students to try standard keyboard conventions. For example, use of the tab to move through actionable controls, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
+* Reflect with students about keystrokes that are not part of standard keyboard navigation. For example, letter keys together with modifier keys to perform specific actions. Explain that promoting team-side strategies to decide which custom keyboard patters get implemented in a user interface is a designers' responsibility, whereas implementing such keystrokes is a responsibility shared with the developer.
 * Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Show examples of help  functionality to explain custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 
@@ -181,7 +183,7 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
 * Practical &mdash; Give students an application and ask them to provide names for each of the application subsections. Assess how students identify application subsections and provide clear and understandable names for each.
@@ -218,7 +220,7 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
 * Practical &mdash; Give students an interface that uses a multi path-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
@@ -257,7 +259,7 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each form field that contains errors, together with suggestions for corrections when possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections when possible.
 
@@ -267,7 +269,7 @@ Optional ideas to support assessment:
 
 ## Ideas to Assess Knowledge for Module
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 [To be developed.]
 
