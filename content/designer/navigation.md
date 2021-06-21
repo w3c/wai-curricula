@@ -32,9 +32,9 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate multipage websites and applications
-* design user interfaces that support different types of navigations, including menus, tables of contents, and site maps
-* define keyboard, mouse, and touch interactions for menus and other navigations
-* provide clear and consistent visual cues for menus, menu item states, and other navigations
+* design user interfaces that support different types of navigation mechanisms, including menus, tables of contents, and site maps
+* define keyboard, mouse, and touch interactions for menus and other navigation mechanisms
+* provide clear and consistent visual cues for menus, menu item states, and other navigation mechanisms
 * define blocks of repeated content and collaborate with developers to implement mechanisms that bypass such blocks
 * provide mechanisms for users to locate a specific web page within a set of web pages, such as breadcrumb trails and page titles
 * identify related requirements for developers to:
@@ -54,7 +54,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for Students](/curricula/designer-modules/#prerequisites-for-students)
-* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/) from [Designer Modules](/curricula/designer-modules/)
+* [Module 2: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) from [Designer Modules](/curricula/designer-modules/)
 
 {% include excol.html type="end" %}
 
@@ -66,6 +66,8 @@ Skills required for this module:
 
 * Applied expertise in teaching:
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
+  * [WCAG Success Criterion 2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
   * [WCAG Success Criterion 2.4.2 Page Titled](https://www.w3.org/WAI/WCAG21/quickref/#page-titled)
   * [WCAG 2 Success Criterion 2.4.5 Multiple Ways](https://www.w3.org/WAI/WCAG21/quickref/#multiple-ways)
@@ -90,9 +92,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI website tutorials [Menus](https://www.w3.org/WAI/tutorials/menus/).
+Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
 
-Explain styling conventions for menus, such as location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI website tutorial, [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
+Explain styling conventions for menus, such as location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI tutorial on [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
 
 #### Learning Outcomes for Topic
 
@@ -111,12 +113,12 @@ Optional ideas to teach the learning outcomes:
 
 * Explain conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
 * Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts may need to wrap so that they are perceived in their entirety.
+* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts may need to wrap so that they are perceived in their entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment.
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define mouse, keyboard, and touch interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Present students with different menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
@@ -149,7 +151,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using the tab key only is time consuming. For examples  on how to provide a mechanism to bypass blocks of repeated content, see techniques [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html), [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
+* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using only the tab key is time consuming. For examples  on how to provide a mechanism to bypass blocks of repeated content, see techniques [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html), [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
 ](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
 * Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
@@ -157,7 +159,7 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define the blocks of repeated content within a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
@@ -176,10 +178,11 @@ Build on foundation [Module 6: Understanding and Involving Users](/curricula/fou
 
 Students should be able to:
 
-* provide ways for users to locate a specific web page within a set of web pages, for example:
+* design user interfaces with mechanisms  for users to locate a specific web page within a set of web pages, for example:
   * descriptive page titles
   * breadcrumb trails
   * visual cues to indicate the current page within a set of web pages
+  * design mechanisms to make location information visually distinct
 * identify related requirements for developers to programmatically indicate the current page
 
 ### Teaching Ideas
@@ -191,17 +194,18 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with a web page that is deep in the hierarchy of a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hierarchical structure of a web page within a set of web pages.
+* Practical &mdash; Present students with a specific web page inside a website and ask them to provide a breadcrumb trail for users to understand where a page is located with respect to the whole website. Assess how students communicate the hierarchical structure of a web page within a set of web pages.
 * Practical &mdash; Present students with a set of web pages and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
+
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
 
-Optional ideas to support assessment:
+Optional ideas to assess knowledge:
 
 * Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications .
 
@@ -209,7 +213,6 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-* @@@
 * [Menus (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/menus/) &mdash; Shows how to design navigational mechanisms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

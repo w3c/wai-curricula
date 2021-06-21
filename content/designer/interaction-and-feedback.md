@@ -24,22 +24,22 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to operate interactive user interface components
-* describe some accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
+* explain strategies that people with disabilities use to interact with actionable user interface components, such as form controls, buttons, links, and widgets
+* describe accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to operate interactive user interface components
+* explain strategies that people with disabilities use to interact with actionable user interface components
 * design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
-* provide clear and distinguishable ways to identify interactive user interface components, including through naming and placement
+* define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
+* define mechanisms to obtain information about custom keyboard shortcuts for complex widgets and applications
+* provide clear and distinguishable ways to identify actionable user interface components, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
-* provide meaningful and descriptive notifications about imminent time limits, steps, status changes, and feedback from user input, including errors, suggestions for correction, and success messages
-* define custom interaction patterns, such as where to place focus when a dialog is open and closed, and what the focus order should be within those dialogs
-* define mechanisms to obtain information about custom interaction patterns, such as custom keyboard shortcuts for applications and custom widgets
-* identify related requirements for developers to programmatically associate properties of interactive user interface components, such as names, states, and instructions, to their corresponding component
-* identify related requirements for developers to write code for custom keyboard interactions that interactive components may require
+* provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
+* identify related requirements for developers to programmatically associate properties of actionable user interface components, such as names, states, and instructions, to their corresponding component
+* identify related requirements for developers to write code for custom keyboard interactions that actionable components may require
 
 {% include excol.html type="all" %}
 
@@ -70,12 +70,34 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * @@@
+  * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+  * [WCAG Success Criterion 1.3.4 Orientation](https://www.w3.org/WAI/WCAG21/quickref/#orientation)
+  * [WCAG Success Criterion 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
+  * [WCAG Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
+  * [WCAG Success Criterion 1.4.4 Resize Text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
+  * [WCAG Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
+  * [WCAG Success Criterion 1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG21/quickref/#visual-presentation)
+  * [WCAG Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
+  * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
+  * [WCAG Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
+  * [WCAG Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
+  * [WCAG Success Criterion 2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
+  * [WCAG Success Criterion 2.2.1 Timing Adjustable](https://www.w3.org/WAI/WCAG21/quickref/#timing-adjustable)
+  * [WCAG Success Criterion 2.2.5 Re-Authenticating](https://www.w3.org/WAI/WCAG21/quickref/#re-authenticating)
+  * [WCAG Success Criterion 2.2.6 Timeouts(https://www.w3.org/WAI/WCAG21/quickref/#timeouts)
+  * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
+  * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
+  * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
+  * [WCAG Success Criterion 3.3.1 Error Identification](https://www.w3.org/WAI/WCAG21/quickref/#error-identification)
+  * [WCAG Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
+  * [WCAG Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules/#prerequisites-for-students)
   * Visual Design
   * Responsive Design
-  * Information Architecture
+  * Information Design
   * Interaction Design
 
 {% include excol.html type="end" %}
@@ -90,24 +112,30 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users expectations, thus these interactions need to be well documented and be consistent throughout the interface.
+Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations, thus these interactions need to be well documented and be consistent throughout the interface.
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design custom user interfaces that support operation with the keyboard
+* design user interfaces that support keyboard navigation through and inside custom components, for example:
+  * using the tab key to move through different components
+  * using the Enter key to enter a specific component and to select a specific item on a component
+  * using the arrow keys to move through list items and grid cells
+  * using the escape key to exit components
+  * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* design user interfaces that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
-* define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency or those used in complex application
-* describe related requirements for developers to implement keyboard support for interactive user interface components
+* define keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and collaborate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
+* provide focus indicators for complex widgets that are visible and have appropriate contrast ratios
+* describe related requirements for developers to implement keyboard support for actionable user interface components
   
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Invite students to try standard keyboard conventions. For example, use of the tab to move through interactive controls, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets. Custom keyboard interactions should be defined when these standard conventions are not enough to achieve the goals of the user interface. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
+* Invite students to try standard keyboard conventions. For example, use of the tab to move through actionable controls, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets. Custom keyboard interactions should be defined when standard keyboard interactions do not provide the necessary keyboard support. Explain that defining keyboard interactions is a designers' responsibility, whereas implementing such interaction is a responsibility shared with the developer.
 * Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Show examples of help  functionality to explain custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
@@ -125,13 +153,13 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Show examples of labels and instructions for interactive user interface components. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
+Show examples of labels and instructions for actionable user interface components. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
 
 #### Learning outcomes for Topic
 
 Students should be able to:
 
-* provide clear and consistent names to help users understand the purpose and intent of interactive user interface components
+* provide clear and consistent names to help users understand the purpose of actionable user interface components
 * design user interfaces that allow to position labels where users expect them
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
@@ -145,7 +173,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different interactive components (such as buttons, links, lists, and grids) across rich applications or complex widgets and emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
+* Show examples of different actionable components (such as buttons, links, lists, and grids) across rich applications or complex widgets. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
 * Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
@@ -212,9 +240,11 @@ Explain that notifications may have different levels of priority when in the con
 Students should be able to:
 
 * design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
-* provide meaningful and descriptive messages about errors, suggestions for corrections, and successes
+* provide error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
+* provide meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
+* provide meaningful messages when a task has been completed successfully, for example when a form has been submitted ow when a document has been saved
 * design user interfaces that support notification storage to allow notifications checking at the users' pace
-* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different interactive user interface components
+* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different actionable user interface components
 * describe related requirements for developers to code notification messages appropriately
 
 #### Teaching Ideas for Topic
