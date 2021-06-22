@@ -102,7 +102,7 @@ Students should be able to:
 
 * identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
 * provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
-* define mouse, keyboard, and touch interactions within menus
+* define mouse, keyboard, and touch interactions inside menus
 * design user interfaces that support appropriate sizing of menus and menu items to fit all text in different viewports and screen configurations
 * design user interfaces that communicate the state of menu items using distinguishable and consistent styles
 * identify related requirements for developers to implement semantics for different menu states and properties, such as hover, focus, current, active, and visited
@@ -161,7 +161,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content within a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
+* Practical &mdash; Students define the blocks of repeated content in a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
 
 {% include excol.html type="end" %}
@@ -181,7 +181,7 @@ Students should be able to:
 * design user interfaces with mechanisms  for users to locate a specific web page within a set of web pages, for example:
   * descriptive page titles
   * breadcrumb trails
-  * visual cues to indicate the current page within a set of web pages
+  * visual cues to indicate the current page
   * design mechanisms to make location information visually distinct
 * identify related requirements for developers to programmatically indicate the current page
 
@@ -189,7 +189,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of breadcrumb trails. Explain that they provide information about the user's location within the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
+* Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
 * Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles  describe the page contents. Explain that page titles are useful to locate a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge
