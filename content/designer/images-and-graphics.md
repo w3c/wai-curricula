@@ -25,17 +25,18 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access information contained in images
-* explain accessibility requirements related to images and graphics, such as text alternatives, text descriptions, and contrast ratios
+* explain accessibility requirements related to images and graphics, such as text alternatives and contrast ratios
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how images affect processing of information, content identification, and understanding of functionality by people with disabilities
+* explain how images help people with disabilities to process information, identify content, and understand functionality
+* explain how text alternatives are essential for people with disabilities to understand the information conveyed in images
 * provide meaningful and consistent text alternatives for functional images included in the design phase, such as those included in buttons, links, icons, and logos
 * design user interfaces with consistent iconography to help users recognize the purpose of icons, thumbnails, and other graphical components
-* design user interfaces that present information as text when the desired visual presentation can be achieved by the technology in use, instead of using images of text
-* collaborate with developers and content authors to provide the appropriate alternative for images and graphics included in the design phase based on the image purpose
+* design user interfaces that avoid images of text when the desired visual presentation can be achieved by the technology in use
+* cooperate with developers and content authors to provide the appropriate alternative for images and graphics included in the design phase based on the image purpose
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images included in the authoring phase, such as charts, diagrams, and other complex graphics
 
@@ -52,9 +53,9 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
-* [Module 2: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
-* [Module 3: Navigation](/curricula/designer-modules/navigation/)
-* [Module 4: Information Design](/curricula/designer-modules/information-design/)
+* [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
+* [Module 2: Navigation](/curricula/designer-modules/navigation/)
+* [Module 3: Information Design](/curricula/designer-modules/information-design/)
 
 {% include excol.html type="end" %}
 
@@ -97,7 +98,7 @@ Students should be able to:
   * combining the text alternative of the image with the adjacent text inside the component
   * providing adjacent text inside the component to understand its function
 * create designs with consistent naming and iconography for user interface components that have the same functionality across web pages
-* decide if the alternative text should be visible to screen readers only or to all users, to allow for better recognition of the conveyed functionality
+* explain the benefits of making the text alternative visible to all users instead of making it available for screen readers only, for example better recognition of the conveyed functionality
 * apply appropriate contrast ratios for functional images belonging to components that accept user input
 
 #### Teaching Ideas for Topic
@@ -110,7 +111,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a set of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative. Assess how students identify images that convey function and provide text alternatives that describe the functionality of the component the image is attached to.
+* Practical &mdash; Give students a set of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative. Assess how students identify images that convey function and how they provide text alternatives that describe the functionality of the component the image is attached to.
 * Practical &mdash; Ask students to design a series of graphical buttons and links in a way that they are perceivable and distinguishable by all users. Assess how students apply accessibility requirements, such as contrast ratios, to graphical buttons and links.
 
 {% include excol.html type="end" %}
@@ -122,6 +123,7 @@ Optional ideas to assess knowledge:
 {% include excol.html type="middle" %}
 
 Informative images convey information that is necessary to understand the content. Show examples of thumbnails and other icons that convey information. Discuss with students how they would describe them. 
+
 Explain that providing text alternatives for informative images is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
@@ -129,10 +131,12 @@ Explain that providing text alternatives for informative images is a responsibil
 Students should be able to:
 
 * provide text alternatives that present equivalent information as that contained in informative images, by using one of the following:
-  * including a boilerplate description that would then be completed in the authoring phase with real descriptions
+  * including a boilerplate description that would then be completed and maintained through the development and authoring phases
   * complementing thumbnails and icons with adjacent textual information, for example in a news headline
   * providing a text alternative that describes the information conveyed by the image
 * apply the appropriate contrast ratio to images that are necessary to understand the contents
+* design user interfaces that support use of styled text instead of images of text when the technology in use can provide the desired visual presentation
+* design user interfaces with alternatives to visual CAPTCHA, for example auditory CAPTCHA, logical CAPTCHA, and biometrics
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -140,12 +144,15 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
+* Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image, so coordination among designers, developers, and content authors is needed to determine if the technologies in use can achieve the desired visual presentation. Emphasize that, if an image of text is still required, there needs to be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
+* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several modalities, such as visual, auditory, or cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assesment.
+Optional ideas to support assessment.
 
-[To be developed].
+* Practical &mdash; Present students with an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
+* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics apart from vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to vision.
 
 {% include excol.html type="end" %}
 
@@ -155,21 +162,23 @@ Optional ideas to support assesment.
 
 {% include excol.html type="middle" %}
 
-Decorative images are used for ornamental purposes and convey no information or function. Explain that these images do not require text alternatives, as these would add clutter to the information that assistive technologies provide. Explain that deciding if an image is decorative is a responsibility shared with the content author.
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) to explain that decorative images also need to adhere to accessibility requirements such as use of color, ability to resize, and flexibility. Decorative images do not require text alternatives, as these would add clutter to the information that assistive technologies provide. Explain that determining if an image is decorative is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces with decorative images that do not overlap with user interface components and contents when viewed using different screen sizes, configurations, and setups
-* indicate to developers which of the images provided in the design phase are decorative, so that they can code them appropriately
+* describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the presence of similar information in the adjacent contents
+* describe different ways to present information contained in an image so that it can be considered decorative
+* describe the relation of decorative images with respect to other adjacent images and to the overall web page where it is included
+* design user interfaces that do not overload users with too many ornamental imagery
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designers' responsibility, whereas coding the images so that they rendered with the appropriate role is a developers' responsibility.
+* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -181,39 +190,35 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Complex and Textual Images
+### Topic: Complex Images
 
 {% include excol.html type="middle" %}
 
-Show examples of complex images and images of text. Images of text are those which are intended to be read as text but are coded as an image. Complex images are those whose description requires more than a short phrase or sentence. Explain accessibility requirements that these images have, such as appropriate contrast ratios and appropriate text descriptions.
+Complex images are those whose description requires more than a short phrase or sentence. Show examples of complex images and explain accessibility requirements that these images have, such as appropriate contrast ratios and appropriate text descriptions.
 
-Explain that coordination among different team members is required to establish the relations between  parts of complex images and their adjacent components (for example text and other images) so that the relations are perceived and understood visually and through the provided descriptions.
+Explain that coordination among different team members is required to establish the relations between parts of complex images and their adjacent components (for example text and other images) so that the relations are perceived and understood visually and through the provided descriptions.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design user interfaces that support appropriate contrast ratios for complex images when these images are required to understand the contents
-* design user interfaces that support use of text instead of images of text when the technology in use can provide the desired visual presentation
-* design user interfaces with alternatives to visual CAPTCHA, for example auditory CAPTCHA, logical CAPTCHA, and biometrics
-* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams or charts
+* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
 * determine if and how complex images are operated using the mouse, keyboard, and other input devices
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Provide examples of complex images and graphics, such as charts and diagrams. Explain that they need to have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
-* Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image, so coordination among designers, developers, and content authors is needed to determine if the technologies in use can achieve the desired visual presentation. Emphasize that, if an image of text is still required, there needs to be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
-* Show examples of complex images and graphics, such as maps, diagrams, and charts. Explain that they need to have text descriptions  that allow people to understand and interpret such images without having to look at them. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
-* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several sensory characteristics, such as visual, auditory, or cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
+* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Explain that they need to have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Explain that complex images also need to have text descriptions that allow people to understand and interact with such images without having to look at them. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students add complex images to a website, such as charts or diagrams, and ensure they have the required contrast ratio. Assess how students understand the contrast requirements for complex images.
-* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics apart from vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to vision.
+* Practical &mdash; Students cooperate with developers and content authors to implement a map in a way that everybody can understand its meaning and interact with it. Assess how students identify the need for text alternatives for complex images and cooperate with other team members to ensure such alternatives exist.
 
 {% include excol.html type="end" %}
 
@@ -229,8 +234,7 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* @@@
 * [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
 

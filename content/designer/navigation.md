@@ -13,7 +13,7 @@ changelog: /curricula/changelog/
 footer: >
   <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/flexible-layout-and-design/
   next: /curricula/designer-modules/information-design/
@@ -25,7 +25,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to navigate multi page websites and applications
-* present behaviors, visual affordances, and interaction patterns of menus that relate to accessible design
+* describe behaviors, visual affordances, and interaction patterns of menus that relate to accessible design
 
 ## Learning Outcomes for Module
 
@@ -35,7 +35,7 @@ Students should be able to:
 * design user interfaces that support different types of navigation mechanisms, including menus, tables of contents, and site maps
 * define keyboard, mouse, and touch interactions for menus and other navigation mechanisms
 * provide clear and consistent visual cues for menus, menu item states, and other navigation mechanisms
-* define blocks of repeated content and collaborate with developers to implement mechanisms that bypass such blocks
+* identify blocks of repeated content and cooperate with developers to implement mechanisms that bypass such blocks
 * provide mechanisms for users to locate a specific web page within a set of web pages, such as breadcrumb trails and page titles
 * identify related requirements for developers to:
   * implement keyboard, mouse, and touch interactions for navigation mechanisms
@@ -54,7 +54,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for Students](/curricula/designer-modules/#prerequisites-for-students)
-* [Module 2: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) from [Designer Modules](/curricula/designer-modules/)
+* [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) from [Designer Modules](/curricula/designer-modules/)
 
 {% include excol.html type="end" %}
 
@@ -100,21 +100,21 @@ Explain styling conventions for menus, such as location, appropriate size, and a
 
 Students should be able to:
 
-* identify and describe uses of different types of menus, for example to navigate across web pages, to select categories from a crowded web page, and to navigate across applications
+* identify and describe uses of different types of menus, such as navigation, fly-out, application menus, and dialogs
 * provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
 * define mouse, keyboard, and touch interactions inside menus
-* design user interfaces that support appropriate sizing of menus and menu items to fit all text in different viewports and screen configurations
-* design user interfaces that communicate the state of menu items using distinguishable and consistent styles
+* design user interfaces that support appropriate resizing of menus and menu items to fit all text in different viewports and screen configurations
+* design user interfaces that communicate the state of menus and menu items, for example in fly-out menus, using distinguishable and consistent styles
 * identify related requirements for developers to implement semantics for different menu states and properties, such as hover, focus, current, active, and visited
 
 #### Teaching Ideas
 
 Optional ideas to teach the learning outcomes:
 
-* Explain conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
-* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of menu and menu items that contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts may need to wrap so that they are perceived in their entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
-* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+* Present different types of menus, such as navigation, fly-out, application menus, and dioalogs. Explain conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
+* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of navigation, fly-out, and application menu together with their menu items containing contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts need to wrap so that they are perceived in their entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
+* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -122,6 +122,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define mouse, keyboard, and touch interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Present students with different menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
+* Practical &mdash; Present students with menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different viewports and screen configurations that people with disabilities use.
 
 {% include excol.html type="end" %}
 
@@ -161,7 +162,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content in a website and collaborate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
+* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
 
 {% include excol.html type="end" %}
@@ -183,13 +184,13 @@ Students should be able to:
   * breadcrumb trails
   * visual cues to indicate the current page
   * design mechanisms to make location information visually distinct
-* identify related requirements for developers to programmatically indicate the current page
+* identify related requirements for developers to code location mechanisms
 
 ### Teaching Ideas
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
+* Show examples of breadcrumb trails. Explain that they provide information about the users location in the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
 * Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles  describe the page contents. Explain that page titles are useful to locate a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge
@@ -214,6 +215,6 @@ Optional ideas to assess knowledge:
 Suggested resources to support your teaching:
 
 * [Menus (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/menus/) &mdash; Shows how to design navigational mechanisms that are accessible to people with disabilities.
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

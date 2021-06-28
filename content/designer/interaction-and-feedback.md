@@ -127,7 +127,7 @@ Students should be able to:
   * first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* define keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and collaborate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* determine keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * provide focus indicators for complex widgets that are visible and have appropriate contrast ratios
 * describe related requirements for developers to implement keyboard support for actionable user interface components

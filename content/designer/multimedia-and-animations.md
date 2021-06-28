@@ -53,9 +53,9 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
-* [Module 2: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
-* [Module 3: Navigation](/curricula/designer-modules/navigation/)
-* [Module 4: Information Design](/curricula/designer-modules/information-design/)
+* [Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Module 2: Navigation](/curricula/designer-modules/navigation/)
+* [Module 3: Information Design](/curricula/designer-modules/information-design/)
 
 {% include excol.html type="end" %}
 

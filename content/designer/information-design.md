@@ -25,14 +25,14 @@ navigation:
 Courses based on this module should:
 
 * present strategies for splitting large blocks of information into smaller pieces 
-* present strategies for grouping information that shares a common purpose so that it is easier to understand
+* present strategies for grouping information that shares a common purpose to make such information easier to understand
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * describe approaches to break down different types of content into smaller and more manageable pieces, including:
-  * headings, pages, and chapter marks
+  * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
   * filters to display smaller data subsets from a given large data set
@@ -52,8 +52,8 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
-* [Module 2: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
-* [Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
+* [Module 2: Navigation](/curricula/designer-modules/navigation/)
 * Basic knowledge of:
   * Visual Design
   * Responsive Design
@@ -137,7 +137,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Research strategies that people with disabilities use to interact with information presented in tables. For example, through textual descriptions, through graphical representation of the table's contents, by splitting a complex table into several simpler tables, and by splitting the information in the table into individual lists.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Research strategies that people with disabilities use to interact with information presented in tables. For example, through textual descriptions, through graphical representation of the table contents, by splitting a complex table into several simpler tables, and by splitting the information in the table into individual lists.
 
 #### Learning Outcomes for Topic
 
@@ -156,7 +156,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when displaying a list of events with their date and venue.
 * Refer back to Module 2: Flexible Layout and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
-* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
+* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -203,12 +203,12 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students oragnize different pieces of information on a website, including text, forms, and images. Assess how students provide mechanisms for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
+* Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide mechanisms for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
 
 ## Teaching Resources
 
 Suggested resources to support your teaching:
 
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
