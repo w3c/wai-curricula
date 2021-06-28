@@ -113,7 +113,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations, thus these interactions need to be well documented and be consistent throughout the interface.
+Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations, thus designers need to document these interactions and make them consistent throughout the interface.
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
@@ -122,15 +122,15 @@ Students should be able to:
 
 * design user interfaces that support keyboard navigation through and inside custom components, for example:
   * using the tab key to move through different components
-  * using the Enter key to enter a specific component and to select a specific item on a component
+  * using the enter key to enter a specific component and to select a specific item on a component
   * using the arrow keys to move through list items and grid cells
   * using the escape key to exit components
-  * first letter navigation to jump to specific pieces of data in lists and grids
+  * using first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* determine keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* apply keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
-* provide focus indicators for complex widgets that are visible and have appropriate contrast ratios
+* provide focus indicators for complex widgets that are visible and that have appropriate contrast ratios
 * describe related requirements for developers to implement keyboard support for actionable user interface components
   
 #### Teaching Ideas for Topic

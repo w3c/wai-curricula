@@ -34,7 +34,7 @@ Students should be able to:
 * identify accessibility requirements for different types of audio and video content
 * design user interfaces that consider  placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
 * design user interfaces that support enabling and disabling transcripts, audio descriptions, captions, and sign language
-* design user interfaces with multimedia player controls that have clear and descriptive names, that are easy to find, and that do not disappear when the media starts to play
+* design user interfaces with multimedia player controls that have clear and descriptive names, that are easy to find, and that do not disappear when the media starts playing
 * design user interfaces with mechanisms to pause, stop, and hide any moving, blinking, and auto-updating content, including animations and carousels
 * design user interfaces with mechanisms to stop or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content and to include accessibility support for multimedia players
@@ -95,7 +95,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Text transcripts provide an alternative to visual and audio information. Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Discuss the need for mechanisms to enable or disable alternatives to multimedia content depending on user needs. Explain that these mechanisms need to be always reachable for users, that they need to have clear names, and that they should not disappear when the media starts playing. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Text transcripts provide an alternative to visual and audio information. Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio.
+
+Discuss the need for mechanisms to enable or disable alternatives to multimedia content depending on user needs. Explain that these mechanisms need to be always reachable for users, that they need to have clear names, and that they should not disappear when the media starts playing. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -107,19 +109,18 @@ Students should be able to
   * have descriptive names
   * can be operable by keyboard
   * are easy to find
-  * re always reachable
+  * are always reachable
   * do not disappear when the media starts playing
-* design user interfaces with player controls that are always reachable and that do not disappear when the multimedia content starts to play
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of text transcripts. Explain that they provide alternative for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designer's responsibility, whereas providing such transcripts is a responsibility shared with the content author.
-* Show examples of captions. Explain that these are needed for people who cannot hear the audio, and that they are useful in other situations. Explain that identifying the situations where captions are needed is a designer's responsibility, whereas providing such captions is a responsibility shared with the content author.
-* Show examples of audio described content. Explain that audio descriptions are needed for people who cannot see the video. Explain that defining the mechanisms to enable and disable  audio described content is a designer's responsibility, whereas providing the audio description is a responsibility shared with the content author.
-* Show examples of sign language. Explain that people who are deaf and who do not understand written language well. Explain that defining the mechanisms to enable and disable sign language is a designer's responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
-* Show examples of accessible media players. Explain how the controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that the controls need to remain available even when the media is playing.
+* Show examples of text transcripts. Explain that they provide alternative for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
+* Show examples of captions. Explain that these are needed for people who cannot hear the audio, and that they are useful in other situations. Explain that identifying the situations where captions are needed is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
+* Show examples of audio described content. Explain that audio descriptions are needed for people who cannot see the video. Explain that defining the mechanisms to enable and disable  audio described content is a designers' responsibility, whereas providing the audio description is a responsibility shared with the content author.
+* Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the mechanisms to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
+* Show examples of accessible media players. Emphasize how the controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that the controls need to remain available even when the media is playing.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -135,7 +136,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of different types of animations. Explain that animations can cause seizures or physical reactions for some people, so additional requirements when designing animations should be considered.
+Show examples of different types of animations. Explain that animations can cause seizures and physical reactions for some people, so designers need to consider additional requirements when designing animations.
 
 #### Learning Outcomes for Topic
 
@@ -151,16 +152,16 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of contents that move or blink, such as animations and carousels. Explain that these can cause problems for some users that cannot keep up with the pace of the auto-updating content. Emphasize that, in addition, these animations can cause seizures and physical reactions. For references on how to design user interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
-  * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4)
-  * [G11: Creating content that blinks for less than 5 seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G11)
-  * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152)
-  * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186)
-  * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187)
-* Show examples of flashing content and explain that they can cause seizures or physical reactions for some people. Emphasize that all components of the content need to be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole web page or application. For references on how to design interfaces that support flashing below the general flash and red flash thresholds or that support flashing below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
-* Show examples of interactions triggered  by animations, such as additional movements when scrolling. Explain that these animations can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preference and technology specific properties to reduce or disable such animations.
-* Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than 3 seconds, such as a video player with audio that is longer than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a mechanism to pause or control the volume of that audio. Explain that the operating system often provides such mechanism. For references on how to design interfaces that support mechanisms to pause or control the volume of any audio that plays automatically, see the following techniques:
-  * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html)
-  * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html)
+  * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4),
+  * [G11: Creating content that blinks for less than 5 seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G11),
+  * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152),
+  * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186), and
+  * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187).
+* Show examples of flashing content and explain that they can cause seizures and physical reactions for some people. Emphasize that all components of the content need to be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole web page or application. For references on how to design interfaces that support flashing below the general flash and red flash thresholds or that support flashing below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
+* Show examples of interactions triggered by animations, such as additional movements when scrolling. Explain that these animations can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
+* Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a mechanism to pause or control the volume of that audio. Explain that the operating system often provides such mechanism. For references on how to design interfaces that support mechanisms to pause or control the volume of any audio that plays automatically, see the following techniques:
+  * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html),
+  * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html), and
   * [G171: Playing sounds only on user request](https://www.w3.org/WAI/WCAG21/Techniques/general/G171.html).
 
 #### Ideas to Assess Knowledge for Topic
@@ -168,9 +169,6 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with instances of flashing content and ask them to determine if they are below the general flash and red flash thresholds. Assess how students understand accessibility requirements for flashing content.
-* Practical &mdash; Present students with a user interface containing animations and ask them to make them accessible. Assess how students define mechanisms to reduce or disable the animations.
-
-[To be developed].
 
 {% include excol.html type="end" %}
 
@@ -180,8 +178,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Research &mdash; Students research an accessible media player and explain how different groups of people with disabilities use the player. Assess how students understand how people with disabilities interact with multimedia content and players.
 * Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including transcripts for audio, audio descriptions, and sign language.
+* Practical &mdash; Present students with a user interface containing animations and ask them to make them accessible. Assess how students define mechanisms to reduce or disable the animations.
 
 ## Teaching Resources
 
