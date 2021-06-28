@@ -152,6 +152,42 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
+### Topic: Gestures and Motion
+
+{% include excol.html type="middle" %}
+
+Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, some others may not be able to perform them at all. Discuss some alternatives to motion-based gestures. 
+
+Discuss some gestures that require dragging and drawing specific paths on a touch screen. Explain that these are difficult (and sometimes impossible) to perform for some people with mobility impairments.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* design user interfaces that support alternatives to device or user motion such as shaking by using user interface components that do not require motion
+* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
+* design user interfaces that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* design user interfaces that support undoing or aborting an action carried out with path-based operations
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
+* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
+* Practical &mdash; Give students an interface that uses a multi path-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Labels and Instructions
 
 {% include excol.html type="middle" %}
@@ -194,43 +230,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Gestures and Motion
-
-{% include excol.html type="middle" %}
-
-Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, some others may not be able to perform them at all. Discuss some alternatives to motion-based gestures. 
-
-Discuss some gestures that require dragging and drawing specific paths on a touch screen. Explain that these are difficult (and sometimes impossible) to perform for some people with mobility impairments.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* design user interfaces that support alternatives to device or user motion such as shaking by using user interface components that do not require motion
-* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
-* design user interfaces that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* design user interfaces that support undoing or aborting an action carried out with path-based operations
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
-* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
-* Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
-* Practical &mdash; Give students an interface that uses a multi path-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Notifications and Feedback
+### Topic: Errors and Notifications
 
 {% include excol.html type="middle" %}
 
