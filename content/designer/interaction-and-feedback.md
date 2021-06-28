@@ -93,7 +93,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.3.1 Error Identification](https://www.w3.org/WAI/WCAG21/quickref/#error-identification)
   * [WCAG Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
   * [WCAG Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
-  * [WCAG Success Criterion 4.1.3 Status MEssages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
+  * [WCAG Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules/#prerequisites-for-students)
   * Visual Design
