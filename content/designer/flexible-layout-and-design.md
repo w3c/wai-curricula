@@ -30,13 +30,13 @@ navigation:
 Courses based on this module should:
 
 * explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process contents
-* explain accessibility requirements for user interface components that relate to color, layout, spacing, position, and flexibility
+* explain accessibility requirements for user interface components that relate to color, layout, spacing, and position
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, position, and flexibility
+* explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
 * design user interfaces with headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color alone
 * design user interfaces with adjustable font sizes and adequate spacing to support readability
 * design user interfaces with appropriate contrast ratios for text, images of text, and controls
@@ -124,7 +124,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-ew* Practical &mdash; Students design a paper prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
+* Practical &mdash; Students design a prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
 
 {% include excol.html type="end" %}
 
@@ -134,7 +134,7 @@ ew* Practical &mdash; Students design a paper prototype with distinguishable sty
 
 {% include excol.html type="middle" %}
 
-Discuss strategies to provide mechanisms for users to perceive different web page regions. Present different strategies to supplement various content types through the use of visual and textual cues.
+Discuss strategies to provide mechanisms for users to perceive different web page regions. Present different strategies to supplement various content types using visual and textual cues.
 
 #### Learning Outcomes for Topic
 
@@ -142,7 +142,7 @@ Students should be able to:
 
 * define page regions by using appropriate visual and programmatic landmarks
 * design user interfaces with text cues to convey information provided through vision only, for example to convey required form fields
-* design user interfaces with focus indicators that enable people to tell where they are as they move through the web page and applications using the keyboard
+* design user interfaces with focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 
 #### Teaching Ideas for Topic
 
@@ -194,7 +194,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students information presented using color alone and ask them to design mechanisms to convey such information. Assess how students use different shapes and icons to make information presented using color alone distinguishable.
+* Practical &mdash; Give students information presented using color alone and ask them to provide alternatives to convey such information. Assess how students use shapes and icons to make information presented using color alone distinguishable.
 
 {% include excol.html type="end" %}
 
@@ -241,7 +241,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design a prototype of a web page. Assess how students use color, layout, spacing, and position to support content perception and identification.
+* Portfolio &mdash; Students design a web page. Assess how students use color, layout, spacing, and position to support content perception and identification.
 
 ## Teaching Resources
 
