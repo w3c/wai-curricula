@@ -39,7 +39,7 @@ Students should be able to:
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
 * identify related requirements for developers to programmatically associate properties of actionable user interface components, such as names, states, and instructions, to their corresponding component
-* identify related requirements for developers to write code for custom keyboard interactions that actionable components may require
+* identify related requirements for developers to write code for custom keyboard interactions that actionable user interface components may require
 
 {% include excol.html type="all" %}
 
@@ -245,7 +245,7 @@ Students should be able to:
 * design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
 * provide error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
 * provide meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
-* provide meaningful messages when a task has been completed successfully, for example when a form has been submitted ow when a document has been saved
+* provide meaningful messages when a task has been completed successfully, for example when a form has been submitted or when a document has been saved
 * design user interfaces that support notification storage to allow notifications checking at the users' pace
 * design user interfaces that support mechanisms to queue and prioritize application notifications coming from different actionable user interface components
 * describe related requirements for developers to code notification messages appropriately
