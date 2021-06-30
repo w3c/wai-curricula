@@ -56,6 +56,11 @@ Skills required for this module:
 * [Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
 * [Module 2: Navigation](/curricula/designer-modules/navigation/)
 * [Module 3: Information Design](/curricula/designer-modules/information-design/)
+* Basic knowledge of:
+  * Visual Design
+  * Prototype Design
+  * Responsive Design
+  * Information Architecture
 
 {% include excol.html type="end" %}
 
@@ -80,6 +85,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
+  * Prototype Design
   * Responsive Design
   * Information Architecture
 

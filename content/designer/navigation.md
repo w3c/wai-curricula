@@ -55,6 +55,12 @@ Skills required for this module:
 
 * [Prerequisites for Students](/curricula/designer-modules/#prerequisites-for-students)
 * [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) from [Designer Modules](/curricula/designer-modules/)
+* Basic knowledge of:
+  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * Visual Design
+  * Prototype Design
+  * Responsive Design
+  * Information Architecture
 
 {% include excol.html type="end" %}
 
@@ -77,6 +83,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
+  * Prototype Design
   * Responsive Design
   * Information Architecture
 

@@ -57,6 +57,7 @@ Skills required for this module:
 * Prior [Designer Modules](/curricula/designer-modules/)
 * Knowledge of:
   * Visual Design
+  * Prototype Design
   * Responsive Design
   * Information Design
   * Interaction Design
@@ -97,9 +98,11 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules/#prerequisites-for-students)
   * Visual Design
+  * Prototype Design
   * Responsive Design
   * Information Design
   * Interaction Design
+* Basic knowledge of coding techniques
 
 {% include excol.html type="end" %}
 
