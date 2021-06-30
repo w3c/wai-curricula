@@ -24,8 +24,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to navigate multi page websites and applications
-* describe behaviors, visual affordances, and interaction patterns of menus that relate to accessible design
+* explain strategies that people with disabilities use to navigate multi multipage websites and applications
+* describe behaviors, visual affordances, and interaction patterns of navigation menus, including static navigation menus, fly-out menus, and mega menus, that relate to accessible design
 
 ## Learning Outcomes for Module
 
@@ -92,7 +92,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show examples of different types of menus, such as navigational, fly-out, and application menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
+Show examples of different types of navigation menus, such as static, fly-out, and mega menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
 
 Explain styling conventions for menus, such as location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI tutorial on [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
 
@@ -100,7 +100,7 @@ Explain styling conventions for menus, such as location, appropriate size, and a
 
 Students should be able to:
 
-* identify and describe uses of different types of menus, such as navigation, fly-out, application menus, and dialogs
+* identify and describe uses of different types of navigation menus, such as static, fly-out, and mega menus
 * provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
 * define mouse, keyboard, and touch interactions inside menus
 * design user interfaces that support appropriate resizing of menus and menu items to fit all text in different viewports and screen configurations
