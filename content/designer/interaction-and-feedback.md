@@ -24,22 +24,22 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to interact with actionable user interface components, such as form controls, buttons, links, and widgets
+* explain strategies that people with disabilities use to interact with components that accept user input, such as form controls, buttons, links, and widgets
 * describe accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to interact with actionable user interface components
+* explain strategies that people with disabilities use to interact with components that accept user input
 * design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * define mechanisms to obtain information about custom keyboard shortcuts for complex widgets and applications
-* provide clear and distinguishable ways to identify actionable user interface components, including through naming and placement
+* provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
 * provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
-* identify related requirements for developers to programmatically associate properties of actionable user interface components, such as names, states, and instructions, to their corresponding component
-* identify related requirements for developers to write code for custom keyboard interactions that actionable user interface components may require
+* identify related requirements for developers to programmatically associate properties of components that accept user input, such as names, states, and instructions, to their corresponding component
+* identify related requirements for developers to write code for custom keyboard interactions for components that accept user input
 
 {% include excol.html type="all" %}
 
@@ -131,14 +131,14 @@ Students should be able to:
 * apply keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * provide focus indicators for complex widgets that are visible and that have appropriate contrast ratios
-* describe related requirements for developers to implement keyboard support for actionable user interface components
+* describe related requirements for developers to implement keyboard support for components that accept user input
   
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Invite students to try standard keyboard conventions. For example, use of the tab to move through actionable controls, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
-* Reflect with students about keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain strategies that designers can define depending on the different team roles and responsibilities. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
+* Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
+* Reflect with students about keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to work closely with other team members, such as developers and user researchers, to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
 * Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Show examples of help  functionality to explain custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
@@ -192,13 +192,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of labels and instructions for actionable user interface components. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
+Show examples of labels and instructions for components that accept user input. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
 
 #### Learning outcomes for Topic
 
 Students should be able to:
 
-* provide clear and consistent names to help users understand the purpose of actionable user interface components
+* provide clear and consistent names to help users understand the purpose of components that accept user input
 * design user interfaces that allow to position labels where users expect them
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
@@ -212,7 +212,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different actionable components (such as buttons, links, lists, and grids) across rich applications or complex widgets. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
+* Show examples of different components that accept user input (such as buttons, links, lists, and grids) across rich applications or complex widgets. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
 * Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
@@ -246,8 +246,9 @@ Students should be able to:
 * provide error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
 * provide meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
 * provide meaningful messages when a task has been completed successfully, for example when a form has been submitted or when a document has been saved
-* design user interfaces that support notification storage to allow notifications checking at the users' pace
-* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different actionable user interface components
+* provide meaningful and descriptive notification messages, for example validation messages as the user types
+* design user interfaces that support storing notification messages that disappear after a period of time to allow notifications checking at the users' pace
+* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different components
 * describe related requirements for developers to code notification messages appropriately
 
 #### Teaching Ideas for Topic
