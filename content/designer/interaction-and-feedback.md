@@ -25,20 +25,20 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to interact with components that accept user input, such as form controls, buttons, links, and widgets
-* describe accessibility requirements related to keyboard interactions, input gestures, labels, instructions, notifications, and feedback
+* describe accessibility requirements related to interactions, instructions, semantics, styling and other visual cues, notifications, and feedback
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain strategies that people with disabilities use to interact with components that accept user input
-* design user interfaces that support different input mechanisms, including mouse, touch, and keyboard
+* design user interfaces that support different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * define mechanisms to obtain information about custom keyboard shortcuts for complex widgets and applications
 * provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
-* provide methods to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
+* provide mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
-* identify related requirements for developers to programmatically associate properties of components that accept user input, such as names, states, and instructions, to their corresponding component
+* identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, and notifications
 * identify related requirements for developers to write code for custom keyboard interactions for components that accept user input
 
 {% include excol.html type="all" %}
@@ -123,15 +123,15 @@ Emphasize that defining the keyboard interactions is a designers' responsibility
 
 Students should be able to:
 
-* design user interfaces that support keyboard navigation through and inside custom components, for example:
+* create designs that support keyboard navigation through and inside custom components, for example:
   * using the tab key to move through different components
   * using the enter key to enter a specific component and to select a specific item on a component
-  * using the arrow keys to move through list items and grid cells
+  * using the arrow keys to move through elements inside components, such as application menus, dialogs, list items and grid cells
   * using the escape key to exit components
   * using first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* apply keyboard shortcuts that avoid conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* create designs that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * provide focus indicators for complex widgets that are visible and that have appropriate contrast ratios
 * describe related requirements for developers to implement keyboard support for components that accept user input
