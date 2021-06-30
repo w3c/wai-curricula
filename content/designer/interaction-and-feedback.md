@@ -149,7 +149,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
+* Short Answer Questions &mdash; Students research about commonly used modifier keys of operating systems and assistive technologies. Assess how students understand the use of modifier keys in operating systems and assistive technologies.
 * Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
+* Practical &mdash; Students work with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students develop strategies to work with other team members to avoid custom keyboard shortcut conflicts.
 
 {% include excol.html type="end" %}
 
