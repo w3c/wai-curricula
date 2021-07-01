@@ -197,7 +197,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of labels and instructions for components that accept user input. Explain that they are essential for people relying on assistive technologies and for people with cognitive disabilities to understand the purpose and intent of these components.
+Show examples of labels and instructions for components that accept user input. Explain that they are essential for several groups of people with disabilities to understand the purpose and intent of these components.
 
 #### Learning outcomes for Topic
 
