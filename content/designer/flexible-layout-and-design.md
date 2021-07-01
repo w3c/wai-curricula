@@ -111,7 +111,7 @@ Explain how people with disabilities rely on different style properties, such as
 Students should be able to:
 
 * design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
-* design user interfaces with font sizes that enhance content readability
+* design user interfaces with font sizes to support content readability
 * design user interfaces with adequate spacing to support readability and to help distinguish components from one another
 
 #### Teaching Ideas for Topic
@@ -119,7 +119,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of styles to distinguish user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another.
-* Demonstrate the use of different font sizes and explain how they affect readability of the content.
+* Show examples of big enough font sizes and explain how they support readability. Contrast previous examples with smaller fonts that are not as easy to read. Emphasize that several user groups rely on fonts to be big enough to be able to read and understand contents properly.
 * Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. Emphasize that spacing also allows for better readability of contents and for better identification of the different parts of the user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -136,36 +136,36 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss strategies to provide mechanisms for users to perceive different web page regions. Present different strategies to supplement various content types using visual and textual cues.
+Explain how people with disabilities perceive different web page regions and contents through text and visual landmarks and cues. Present different strategies to include such cues early in the design phase.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * define page regions by using appropriate visual and programmatic landmarks
-* design user interfaces with text cues to convey information provided through vision only, for example to convey required form fields
+* design user interfaces with text cues to convey information provided through vision only, for example to convey required form fields and available dates in a calendar
 * design user interfaces with focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different regions of web pages, such as header, navigation, main, and footer. Explain that the use of landmarks is needed for people to perceive such regions. Explain that defining landmarks is a designers' responsibility, whereas implementing such landmarks is a responsibility shared with the developer.
-* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
+* Show examples of different regions of web pages, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programatic landmarks to perceive such regions. Explain that defining landmarks and their styling is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
+* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
 * Invite students to navigate a web page with appropriate focus indicators first, and then invite them to navigate a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a web page and ask them to define the appropriate landmarks for users to perceive such regions. Assess how students provide mechanisms to perceive such regions.
-* Practical &mdash: Give students examples of required form fields and ask them to provide text information and visual cues to indicate that they are required. Assess how students provide the necessary textual information and visual cues to supplement information.
+* Practical &mdash; Give students a web page and ask them to define the appropriate landmarks and their styling for users to perceive such regions. Assess how students provide mechanisms to perceive such regions.
+* Practical &mdash: Give students examples of information conveyed visually and ask them to provide text information to help understand the information. Assess how students provide the necessary textual information and visual cues to supplement information.
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-### Topic: Color
+### Topic: Use of Color
 
 {% include excol.html type="middle" %}
 
@@ -196,7 +196,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students information presented using color alone and ask them to provide alternatives to convey such information. Assess how students use shapes and icons to make information presented using color alone distinguishable.
+* Practical &mdash; Give students information presented using color alone and ask them to provide other visual cues to convey such information. Assess how students use shapes and icons to make information presented using color alone distinguishable.
 
 {% include excol.html type="end" %}
 

@@ -24,14 +24,14 @@ navigation:
 
 Courses based on this module should:
 
-* present strategies for splitting large blocks of information into smaller pieces 
+* present strategies for splitting large blocks of information into smaller pieces that are easier to consume and understand 
 * present strategies for grouping information that shares a common purpose to make such information easier to understand
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* describe approaches to break down different types of content into smaller and more manageable pieces, including:
+* describe approaches to break down different types of content into smaller and more manageable pieces, including using:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
@@ -95,9 +95,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, as well as pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
+Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of icons and other visual cues to help people understand the contents presented in text.
+Discuss the use of icons and other visual cues to help people understand processess and instructions presented in text.
 
 #### Learning Outcomes for Topic
 
@@ -128,7 +128,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement information presented in text.
+* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processess and instructions presented in text.
 * Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
@@ -148,15 +148,15 @@ Students should be able to:
 * identify uses of tables to present data that share a logical relationship
 * design user interfaces that support multiple ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
-* provide graphical representations of complex tables that help users more easily understand its purpose and meaning
-* identify related requirements for content authors to provide table descriptions where appropriate
+* create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
 * identify related requirements for developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
+* identify related requirements for content authors to provide table descriptions where appropriate
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different types of information presented in tables. Explain that tables are used when there is a logical relationship between the information presented, for example when displaying a list of events with their date and venue.
+* Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
 * Refer back to Module 2: Flexible Layout and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
@@ -166,6 +166,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students  a set of tables and ask them to define their header cells and data cells. Assess how students understand the difference between header cells and data cells.
 * Practical &mdash; Present students with a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
+* Practical &mdash; Present students with a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
 
 {% include excol.html type="end" %}
 
@@ -182,7 +183,7 @@ Show examples of how different groups of people interact with large amounts of s
 Students should be able to:
 
 * design user interfaces that support grouping of related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
-* design user interfaces that support filtering data from data lists and grids, for example using search boxes or splitting the data set into smaller subsets of data
+* design user interfaces that support filtering data from long data lists and grids, for example using search boxes or splitting the data set into smaller subsets of data
 * design user interfaces that support customizing the results that are shown at a given time
 
 #### Teaching Ideas for Topic
@@ -190,12 +191,14 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
+* Show examples of long data lists and grids, such as to select a country. Explain that it takes a lot of time for keyboard users to go one by one using the arrow keys to select their desired option. Present mechanisms to filter  information so that it appears in smaller pieces, such as pseudo-search functionality that allows users to type the first letters of their desired choice.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students group related information in a form that asks for information to open a bank account. Assess how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how students provide ways for users to identify each of the groups.
+* Practical &mdash; Present students with a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group  long sets of data into smaller subsets.
 
 {% include excol.html type="end" %}
 

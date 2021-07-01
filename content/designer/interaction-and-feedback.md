@@ -34,12 +34,12 @@ Students should be able to:
 * explain strategies that people with disabilities use to interact with components that accept user input
 * design user interfaces that support different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
-* define mechanisms to obtain information about custom keyboard shortcuts for complex widgets and applications
+* create designs with information about custom keyboard shortcuts for complex widgets and applications
 * provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
 * provide mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
-* identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, and notifications
-* identify related requirements for developers to write code for custom keyboard interactions for components that accept user input
+* identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, notifications, and other feedback
+* identify related requirements for developers to code custom keyboard interactions for components that accept user input
 
 {% include excol.html type="all" %}
 
@@ -141,9 +141,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
-* Reflect with students about keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to work closely with other team members, such as developers and user researchers, to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
-* Present some examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
-* Show examples of help  functionality to explain custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
+* Reflect with students about keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to work closely with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
+* Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
+* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -151,7 +151,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Students research about commonly used modifier keys of operating systems and assistive technologies. Assess how students understand the use of modifier keys in operating systems and assistive technologies.
 * Practical &mdash; Present students with a user interface that can be interacted only with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
-* Practical &mdash; Students work with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students develop strategies to work with other team members to avoid custom keyboard shortcut conflicts.
+* Practical &mdash; Students work with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students work with other team members to develop strategies that avoid custom keyboard shortcut conflicts.
 
 {% include excol.html type="end" %}
 
@@ -221,7 +221,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
 * Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
-* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved. For reference on how to provide instructions for multi-step forms, see @@@
+* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -260,14 +260,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different mechanisms to communicate notifications, such as through text messages, haptic and audio feedback, and popup windows.
-* Demonstrate different types of error messages and explain why it is necessary to communicate the specific field where the error has occurred and, if possible, provide suggestions for users to correct the error.
-* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance.
+* Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
+* Demonstrate different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
+* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
+* Practical &mdash; Present students with a user interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
 * Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each form field that contains errors, together with suggestions for corrections when possible. Assess how students provide adequate error messages for each of the wrong fields and how they provide suggestions for corrections when possible.
 
 {% include excol.html type="end" %}
@@ -284,7 +285,6 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* @@@
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

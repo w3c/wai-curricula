@@ -24,8 +24,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to navigate multi multipage websites and applications
-* describe behaviors, visual affordances, and interaction patterns of navigation menus, including static navigation menus, fly-out menus, and mega menus, that relate to accessible design
+* explain strategies that people with disabilities use to navigate multi page websites and applications
+* describe accessible behaviors, visual affordances, and interaction patterns of navigation menus, including static navigation menus, fly-out menus, and mega menus
 
 ## Learning Outcomes for Module
 
@@ -109,8 +109,8 @@ Students should be able to:
 
 * identify and describe uses of different types of navigation menus, such as static, fly-out, and mega menus
 * provide visual cues to distinguish menus from other components, and provide consistent styling for menu identification across a set of web pages
-* define mouse, keyboard, and touch interactions inside menus
-* design user interfaces that support appropriate resizing of menus and menu items to fit all text in different viewports and screen configurations
+* define mouse, keyboard, and touch interactions inside navigation menus
+* design user interfaces that support appropriate resizing of navigation menus and menu items to fit all text in different viewports and screen configurations
 * design user interfaces that communicate the state of menus and menu items, for example in fly-out menus, using distinguishable and consistent styles
 * identify related requirements for developers to implement semantics for different menu states and properties, such as hover, focus, current, active, and visited
 
@@ -118,18 +118,18 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Present different types of menus, such as navigation, fly-out, application menus, and dioalogs. Explain conventions for accessible menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with menus.
-* Demonstrate menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-* Show examples of navigation, fly-out, and application menu together with their menu items containing contain large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts need to wrap so that they are perceived in their entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
+* Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with navigation menus.
+* Demonstrate navigation menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of navigation menus and menu items large texts. Explain that, when used in smaller viewports and with different screen configurations, these texts need to wrap so that they are perceived in their entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define mouse, keyboard, and touch interactions for menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
-* Practical &mdash; Present students with different menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of menus and menu items.
-* Practical &mdash; Present students with menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different viewports and screen configurations that people with disabilities use.
+* Practical &mdash; Students define mouse, keyboard, and touch interactions for navigation menus. for example, how to open, navigate, activate, and close such menus using the mouse, keyboard, and touch. Assess how students understand the need for different interaction patterns based on the input method in use.
+* Practical &mdash; Present students with different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual cues to distinguish them from one another. Assess how students communicate visually the state of navigation menus and menu items.
+* Practical &mdash; Present students with navigation menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
 
 {% include excol.html type="end" %}
 
@@ -139,7 +139,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce other navigation mechanisms that may be used depending on the characteristics of the website or application. Emphasize that there should be multiple ways to reach a specific web page or application view, but that it is not required to use every single navigation mechanism described.
+Introduce other navigation mechanisms that may be used depending on the characteristics of the website or application. Emphasize that WCAG requires that there be multiple ways to reach a specific web page or application view, but that it is not required to use every single navigation mechanism described below.
 
 #### Learning Outcomes for Topic
 
@@ -159,9 +159,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using only the tab key is time consuming. For examples  on how to provide a mechanism to bypass blocks of repeated content, see techniques [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html), [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
+* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using only the tab key is time consuming. For examples on how to provide a mechanism to bypass blocks of repeated content, see the following techniques:
+  * [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html),
+  * [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and
+  * [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
-](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
 * Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
 * Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content. For references on how to provide a table of contents, see technique [G64: Providing a Table of Contents](https://www.w3.org/WAI/WCAG21/Techniques/general/G64.html).
 
@@ -169,7 +171,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they provide a mechanism to bypass them.
+* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a mechanism to bypass such blocks.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
 
 {% include excol.html type="end" %}
@@ -197,8 +199,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of breadcrumb trails. Explain that they provide information about the users location in the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail
-* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles  describe the page contents. Explain that page titles are useful to locate a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
+* Show examples of breadcrumb trails. Explain that they provide information about the users location in the context of a set of websites. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
+* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some mobile browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge
 
@@ -215,7 +217,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications .
+* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications.
 
 ## Teaching Resources
 
