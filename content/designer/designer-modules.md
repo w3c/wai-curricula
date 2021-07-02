@@ -59,3 +59,32 @@ The designer modules are designed for students who have achieved the learning ou
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
+
+## Modules
+
+-   [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design)
+    -   [Topic: Text Styling](/curricula/designer-modules/flexible-layout-and-design/#topic-text-styling)
+    -   [Topic: Landmarks and Cues](/curricula/designer-modules/flexible-layout-and-design/#topic-landmarks-and-cues)
+    -   [Topic: Use of Color](/curricula/designer-modules/flexible-layout-and-design/#topic-use-of-color)
+    -   [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design)
+-   [Module 2: Navigation](/curricula/designer-modules/navigation/)
+    -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation/#topic-menu-behaviors-and-patterns)
+    -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation/#topic-other-navigation-mechanisms)
+    -   [Topic: Location](/curricula/designer-modules/navigation/#topic-location)
+-  [Module 3: InformationDesign](/curricula/designer-modules/information-design/)
+    -   [Topic: Textual Information](/curricula/designer-modules/information-design/#topic-textual-information)
+    -   [Topic: Tabular Information](/curricula/designer-modules/information-design/#topic-tabular-information)
+    -   [Topic: Forms and Controls](/curricula/designer-modules/information-design/#topic-forms-and-controls)
+-   [Module 4: Images and Graphics](/curricula-designer-modules/images-and-graphics/#topic-functional-images)
+    -   [Topic: Functional Images](/curricula-designer-modules/images-and-graphics/))
+    -   [Topic: Informative Images](/curricula-designer-modules/images-and-graphics/)#topic-informative-images)
+    -   [Topic: Decorative Images](/curricula-designer-modules/images-and-graphics/)#topic-decorative-images)
+    -   [Topic: Complex Images](/curricula-designer-modules/images-and-graphics/)#topic-complex-images)
+-   [Module 5: Multimeedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
+    -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
+    -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/)#topic-movement-and-animations)
+-   [Module 6: Interaction and Feedback](/curricula/designer-modules/interaction-and-feedback/)
+    -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-and-feedback/#topic-keyboard-interactions)
+    -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-and-feedback/)#topic-gestures-and-motion
+    -   [Topic: Labels and Instructions](/curricula/designer-modules/interaction-and-feedback/)#topic-labels-and-instructions)
+    -   [Topic: Errors and Notifications](/curricula/designer-modules/interaction-and-feedback/)#topic-errors-and-notifications)
