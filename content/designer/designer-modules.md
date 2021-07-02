@@ -82,7 +82,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Complex Images](/curricula/designer-modules/images-and-graphics/#topic-complex-images)
 -   [Module 5: Multimeedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
-    -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/)topic-movement-and-animations)
+    -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
 -   [Module 6: Interaction and Feedback](/curricula/designer-modules/interaction-and-feedback/)
     -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-and-feedback/#topic-keyboard-interactions)
     -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-and-feedback/#topic-gestures-and-motion)
