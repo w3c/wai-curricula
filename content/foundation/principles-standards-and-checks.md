@@ -1,29 +1,37 @@
 ---
 title: "Module 4: Principles, Standards, and Checks"
-permalink: /curricula/introduction-to-web-accessibility/principles-standards-and-checks/
-ref: /curricula/introduction-to-web-accessibility/principles-standards-and-checks/
+nav_title: "Principles, Standards, and Checks"
+permalink: /curricula/foundation-modules/principles-standards-and-checks/
+ref: /curricula/foundation-modules/principles-standards-and-checks/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-4.md
+  path: content/foundation/principles-standards-and-checks.md
 license: creative-commons
+acknowledgements: /curricula/acknowledgements/
+changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> First published 3 December 2019 </p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019. CHANGELOG</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+parent_in_h1: 
+  - ref: /curricula/foundation-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/introduction-to-web-accessibility/business-case-and-benefits/
-  next: /curricula/introduction-to-web-accessibility/getting-started-with-accessibility/
+  previous: /curricula/foundation-modules/business-case-and-benefits/
+  next: /curricula/foundation-modules/getting-started-with-accessibility/
 ---
 
 ## Introduction
 {:.no-display}
 
-This module:
+Courses based on this module should:
 
-* Introduces the accessibility principles: Perceivable, Operable, Understandable, and Robust.
-* Introduces W3C accessibility standards, and their supporting resources.
-* Provides hands-on experience checking how web pages have implemented the standards.
+* Introduce the accessibility principles: Perceivable, Operable, Understandable, and Robust.
+* Introduce W3C accessibility standards, and their supporting resources.
+* Provide hands-on experience checking how web pages have implemented the standards.
 
 ## Learning Outcomes for Module
 
@@ -108,7 +116,7 @@ Base on the below to assess the learning outcomes.
 
 Introduce the scope of the W3C accessibility standards. It includes desktop and mobile websites and applications, authoring tools (like Content Management Systems, CMS), and user agents (like web browsers). Refer to [W3C Accessibility Standards Overview](/standards-guidelines/).
 
-#### Learning Outcomes for Topic
+#### Learning Outcomes
 
 Students should be able to:
 
@@ -118,7 +126,7 @@ Students should be able to:
 * Explain the role that consistent standards play in increasing the accessibility of the Web for people with disabilities.
 * Describe how and why the public approach of standards development involves people with disabilities, industry, public bodies, and other individuals. 
 
-#### Teaching Ideas for Topic
+#### Teaching Ideas
 
 Base on the below to deliver the learning outcomes.
 
@@ -129,7 +137,7 @@ Base on the below to deliver the learning outcomes.
 Milestones and Opportunities to Contribute page, [Community Collaboration section](/standards-guidelines/w3c-process/#community).
 * Discuss with students the specific role of each of the standards mentioned and compare them with other relevant technical guidelines (if any). Refer to [Why Standards Harmonization is Essential to Web Accessibility](/standards-guidelines/harmonization/)
 
-#### Ideas to Assess Knowledge for Topic
+#### Ideas to Assess Knowledge
 
 Base on the below to assess the learning outcomes.
 
@@ -150,21 +158,21 @@ Give students hands-on experience checking how web pages have implemented access
 
 **NOTE:** In this topic, students can try their knowledge of accessibility principles and standards. Accessibility evaluation is beyond the scope of this module. It requires more skills and accessibility knowledge than has been taught so far. 
 
-#### Learning Outcomes for Topic
+#### Learning Outcomes
 
 Students should be able to:
 
 * Identify potential accessibility barriers.
 * Relate their findings to the relevant WCAG success criteria.
 
-#### Teaching Ideas for Topic
+#### Teaching Ideas
 
 Base on the below to deliver the learning outcomes.
 
 * Introduce students to basic accessibility checks. Anyone using the web can perform these checks. Note that the tools listed in Easy Checks are advisable but not required to perform the checks.
 * Ask students to check different types of web pages and relate their findings to the accessibility principles and standards.
 
-#### Ideas to Assess Knowledge for Topic
+#### Ideas to Assess Knowledge
 
 Base on the below to assess the learning outcomes.
 
@@ -173,12 +181,12 @@ Base on the below to assess the learning outcomes.
 
 {% include excol.html type="end" %}
 
-## Ideas to Assess Knowledge for Module
+## Ideas to Assess Knowledge
 
 Base on the below to assess the learning outcomes.
 
 * Presentation &mdash; Students explain the POUR principles of web accessibility and refer to specifics. For example, students elaborate on setting the language of a web page, under the principle Understandable.
-* Short Answer questions &mdash; From specific examples of accessibility features, students identify which principle they belong to and which users it helps. For example, Functionality Available from the Keyboard belongs to the principle Operable and helps keyboard users as well as people using voice recognition software.
+* Short Answer questions &mdash; From specific examples of accessibility features, students identify which principle they belong to and which users it helps. For example, "functionality is available from the keyboard" belongs to the principle Operable and helps keyboard users as well as people using speech recognition software.
 * Concept Map &mdash; Students relate the principles of accessible design to web content, authoring tools, and user agents.
 * Report &mdash; Students summarize the scope of the W3C accessibility standards and explain some of their guidelines and success criteria.
 * Practice &mdash; Students carry out basic accessibility evaluation.

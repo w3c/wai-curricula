@@ -154,7 +154,7 @@
         url: "https://www.w3.org/WAI/tutorials/menus/"
         different: true
       - name: Images
-        url: "https://www.w3.org/WAI/tutorials/images-and-graphics/"
+        url: "https://www.w3.org/WAI/tutorials/images/"
         different: true
       - name: Tables
         url: "https://www.w3.org/WAI/tutorials/tables/"
@@ -223,37 +223,59 @@
   pages:
   - name: Overview
     url: "/teach-advocate/"
-  - name: "Curricula on Web Accessibility"
+  - name: Curricula on Web Accessibility
     url: "/curricula/"
     pages:
-    - name: "Introduction to Web Accessibility"
-      url: "/curricula/introduction-to-web-accessibility/"
+    - name: Foundation Modules
+      url: "/curricula/foundation-modules/"
       pages:
-      - name: "What is Web Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
-      - name: "People and Digital Technology"
-        url: "/curricula/introduction-to-web-accessibility/people-and-digital-technology/"
-      - name: "Business Case and Benefits"
-        url: "/curricula/introduction-to-web-accessibility/business-case-and-benefits/"
-      - name: "Principles, Standards, and Checks"
-        url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
-      - name: "Getting Started with Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
-    - name: "Developing Accessible Content"
-      url: "/curricula/developing-accessible-content/"
+      - name: What is Web Accessibility
+        url: "/curricula/foundation-modules/what-is-web-accessibility/"
+      - name: People and Digital Technology
+        url: "/curricula/foundation-modules/people-and-digital-technology/"
+      - name: Business Case and Benefits
+        url: "/curricula/foundation-modules/business-case-and-benefits/"
+      - name: Principles, Standards, and Checks
+        url: "/curricula/foundation-modules/principles-standards-and-checks/"
+      - name: Getting Started with Accessibility
+        url: "/curricula/foundation-modules/getting-started-with-accessibility/"
+      - name: Understanding and Involving Users
+        url: "/curricula/foundation-modules/understanding-and-involving-users/"
+    - name: Developer Modules
+      url: "/curricula/developer-modules/"
       pages:
-      - name: "Page Structure"
-        url: "/curricula/developing-accessible-content/page-structure/"
-      - name: "Navigation and Menus"
-        url: "/curricula/developing-accessible-content/navigation-and-menus/"
-      - name: "Images and Graphics"
-        url: "/curricula/developing-accessible-content/images-and-graphics/"
-      - name: "Tables"
-        url: "/curricula/developing-accessible-content/tables/"
-      - name: "Forms"
-        url: "/curricula/developing-accessible-content/forms/"
-      - name: "Widgets]"
-        url: "/curricula/developing-accessible-content/widgets/"
+      - name: Page Structure
+        url: "/curricula/developer-modules/page-structure/"
+      - name: Menus
+        url: "/curricula/developer-modules/menus/"
+      - name: Images
+        url: "/curricula/developer-modules/images/"
+      - name: Tables
+        url: "/curricula/developer-modules/tables/"
+      - name: Forms
+        url: "/curricula/developer-modules/forms/"
+      - name: Custom Widgets
+        url: "/curricula/developer-modules/custom-widgets/"
+      - name: Rich Applications
+        url: "/curricula/developer-modules/rich-applications/"
+    - name: Designer Modules
+      url: "/curricula/designer-modules/"
+      pages:
+      - name: Flexible Layout and Design
+        url: "/curricula/designer-modules/flexible-layout-and-design/"
+      - name: Navigation
+        url: "/curricula/designer-modules/navigation/"
+      - name: Information Design
+        url: "/curricula/designer-modules/information-design/"
+      - name: Images and Graphics
+        url: "/curricula/designer-modules/images-and-graphics/"
+      - name: Multimedia and Animations
+        url: "/curricula/designer-modules/multimedia-and-animations/"
+      - name: Interaction and Feedback
+        url: "/curricula/designer-modules/interaction-and-feedback/"
+    - name: Changelog
+      url: "/curricula/changelog/"
+      hide: true
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Develop Accessibility Training

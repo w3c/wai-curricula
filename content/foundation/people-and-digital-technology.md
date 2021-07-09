@@ -1,28 +1,36 @@
 ---
 title: "Module 2: People and Digital Technology"
-permalink: /curricula/introduction-to-web-accessibility/people-and-digital-technology/
-ref: /curricula/introduction-to-web-accessibility/people-and-digital-technology/
+nav_title: "People and Digital Technology"
+permalink: /curricula/foundation-modules/people-and-digital-technology/
+ref: /curricula/foundation-modules/people-and-digital-technology/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/1-2.md
+  path: content/foundation/people-and-digital-technology.md
 license: creative-commons
+acknowledgements: /curricula/acknowledgements/
+changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> First published 3 December 2019 </p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
+  <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019. CHANGELOG</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+parent_in_h1: 
+  - ref: /curricula/foundation-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/introduction-to-web-accessibility/what-is-web-accessibility/
-  next: /curricula/introduction-to-web-accessibility/business-case-and-benefits/
+  previous: /curricula/foundation-modules/what-is-web-accessibility/
+  next: /curricula/foundation-modules/business-case-and-benefits/
 ---
 
 ## Introduction
 {:.no-display}
 
-This module:
+Courses based on this module should:
 
-* Explores assistive technologies, adaptive strategies, and accessible design principles in more detail.
-* Studies the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems).
+* Explore assistive technologies, adaptive strategies, and accessible design principles in more detail.
+* Studie the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems).
 
 ## Learning Outcomes for Module
 
@@ -98,7 +106,7 @@ Base on the below to assess the learning outcomes.
 
 {% include excol.html type="middle" %} 
 
-Explain that web accessibility depends on several components working together: content, browsers, authoring tools, web designers and developers, and more. Briefly note that there are W3C Standards for the different components. (The standards are explored in detail in [Module 4](/curricula/introduction-to-web-accessibility/principles-standards-and-checks/).) For an explanation of the components and how they link together, see [Essential Components of Web Accessibility](/fundamentals/components/).
+Explain that web accessibility depends on several components working together: content, browsers, authoring tools, web designers and developers, and more. Briefly note that there are W3C Standards for the different components. (The standards are explored in detail in [Module 4](/curricula/foundation-modules/principles-standards-and-checks/).) For an explanation of the components and how they link together, see [Essential Components of Web Accessibility](/fundamentals/components/).
 
 #### Learning Outcomes for Topic
 
