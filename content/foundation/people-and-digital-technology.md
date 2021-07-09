@@ -29,17 +29,17 @@ navigation:
 
 Courses based on this module should:
 
-* Explore assistive technologies, adaptive strategies, and accessible design principles in more detail.
-* Studie the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems).
+* explore assistive technologies, adaptive strategies, and accessible design principles in more detail
+* study the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems)
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Recognize the broad diversity of people with disabilities.
-* List different types of assistive technologies and adaptive strategies.
-* Recognize the impact of design decisions on accessibility for people.
-* Explain some of the links between components of web accessibility.
+* recognize the broad diversity of people with disabilities
+* list different types of assistive technologies and adaptive strategies
+* recognize the impact of design decisions on accessibility for people
+* explain some of the links between components of web accessibility
 
 ## Competencies
 
@@ -72,14 +72,14 @@ Introduce the wide range of people with disabilities, including auditory, cognit
 
 Students should be able to:
 
-* List types of disabilities and related accessibility needs.
-* Define the terms "assistive technology" and "adaptive strategies".
-* List some examples of assistive technologies and adaptive strategies.
-* Describe some accessibility design features and barriers.
+* list types of disabilities and related accessibility needs
+* define the terms "assistive technology" and "adaptive strategies"
+* list some examples of assistive technologies and adaptive strategies
+* describe some accessibility design features and barriers
 
 #### Teaching Ideas for Topic
 
-Base on the below to deliver the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Ask students to engage with people with disabilities, such as relatives, friends, or colleagues. Ask students to gather information on the assistive technologies and/or adaptive strategies used to interact with digital technology. Help students classify the tools they learn about.
 * Guide students to focus on the abilities of people with disabilities and on how technology is part of their everyday life. Coach students towards thinking about people first and promote an inclusive approach. For further information, refer to [Interacting with People with Disabilities](http://www.uiaccess.com/accessucd/interact.html). 
@@ -92,10 +92,10 @@ Base on the below to deliver the learning outcomes.
 
 #### Ideas to Assess Knowledge for Topic
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support assessment:
 
 * Report &mdash; Students write a report describing some of the design features that one of the assistive technologies they learned about relies on to function. Assess how students identify that people with disabilities rely on specific features to use the Web.
-* Practice &mdash; Students go to three different types of websites (e.g., shopping site, banking site, or entertainment site) and identify accessibility features from those they learned about. Assess how students recognize accessibility features.
+* Practical &mdash; Students go to three different types of websites (e.g., shopping site, banking site, or entertainment site) and identify accessibility features from those they learned about. Assess how students recognize accessibility features.
 * Interview &mdash; Students contact a person with a disability and interview them. Explore what accessibility features and barriers they encounter when trying to access digital content or applications, as well as how up-to-date they are with technology. Assess how students identify such features and barriers and link them to the knowledge they acquired.
 
 {% include excol.html type="end" %} 
@@ -112,14 +112,14 @@ Explain that web accessibility depends on several components working together: c
 
 Students should be able to:
 
-* Describe the components that contribute to accessibility.
-* Explain some of the links between the components.
-* Describe the impact that some Web technologies have on digital accessibility.
-* Identify W3C standards that address the components.
+* describe the components that contribute to accessibility
+* explain some of the links between the components
+* describe the impact that some Web technologies have on digital accessibility
+* identify W3C standards that address the components
 
 #### Teaching Ideas for Topic
 
-Base on the below to deliver the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Based on the previously taught topics, reflect with students on the links between assistive technologies, adaptive strategies, and digital content. Guide them through how one relies on the other and how using different combinations of tools may yield different user experiences.
 * Explore with students some of the accessibility features built into Web technologies. For example, HTML headings and lists. Ask students to reflect on how these relate to prior observations they made.
@@ -129,7 +129,7 @@ Base on the below to deliver the learning outcomes.
 
 #### Ideas to Assess Knowledge for Topic
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support assessment:
 
 * Reflective Journal &mdash; Students reflect on specific types of accessibility features and barriers, and how they relate to the different components of web accessibility. Assess students' acknowledgment that components work together to improve accessibility.
 * Guided Quiz &mdash; Students identify three websites where one accessibility feature in Web technology is being used. For example, Where are ordered and unordered lists used effectively? Where is heading structure in place? Assess how students identify content that promotes accessibility features.
@@ -139,16 +139,16 @@ Base on the below to assess the learning outcomes.
 
 ## Ideas to Assess Knowledge for Module
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support assessment:
 
-* Practice &mdash; Students perform basic tasks with assistive technologies, such as using the tab key to navigate different interfaces or using screen readers' navigation quick keys. Assess how students interact with assistive technologies.
+* Practical &mdash; Students perform basic tasks with assistive technologies, such as using the tab key to navigate different interfaces or using screen readers' navigation quick keys. Assess how students interact with assistive technologies.
 * Multiple Choice Questions &mdash; From a list of 10 - 15 accessibility barriers. Students decide for each of them if they are related to the content, the underlying technology, the user agent, and/or assistive technology. Assess students understanding of the different components of web accessibility.
 * Presentation &mdash; Students describe how some adaptive strategies may benefit other users as well, such as older adults. Assess how students identify some patterns of use and relate them to different user groups, regardless of disability.
 * Report &mdash; Students identify the components of web accessibility and explain how they relate to each other to create an accessible experience. For example, students reflect on how a content creator provides a text alternative that is properly coded, supported by the browser, and rendered to the user via their assistive technology.
 
 ## Teaching Resources
 
-Base on the below to prepare your teaching.
+Suggested resources to support your teaching:
 
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Web Accessibility Perspectives (videos)](/perspective-videos/) &mdash; Is a series of 1-minute videos that demonstrate that web accessibility is essential for people with disabilities and useful for all. They show accessibility features, how they impact people with disabilities, and how they benefit everyone in a variety of situations.

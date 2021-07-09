@@ -29,18 +29,18 @@ navigation:
 
 Courses based on this module should:
 
-* Raise awareness of how people with disabilities use websites and applications.
-* Introduce core concepts of digital accessibility.
-* Explain related terms such as usability, user experience, and inclusive design.
+* raise awareness of how people with disabilities use websites and applications
+* introduce core concepts of digital accessibility
+* explain related terms such as usability, user experience, and inclusive design
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Describe examples of how people with disabilities use the Web.
-* Define web accessibility for people with disabilities.
-* Describe how the Web is used on devices such as mobile phones, smart TVs, watches, and home gadgets.
-* Define key terms in web and digital accessibility.
+* describe examples of how people with disabilities use the Web
+* define web accessibility for people with disabilities
+* describe how the Web is used on devices such as mobile phones, smart TVs, watches, and home gadgets
+* define key terms in web and digital accessibility
 
 ## Competencies
 
@@ -74,14 +74,14 @@ Introduce real stories of how people with disabilities interact with web pages a
 
 Students should be able to:
 
-* Describe how some people with disabilities use the Web.
-* List some design features that benefit people with and without disabilities.
-* List some design barriers that exclude people with disabilities.
-* Recognize the impact of accessible versus inaccessible design.
+* describe how some people with disabilities use the Web
+* list some design features that benefit people with and without disabilities
+* list some design barriers that exclude people with disabilities
+* recognize the impact of accessible versus inaccessible design
 
 #### Teaching Ideas for Topic
 
-Base on the below to deliver the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Point out how accessibility enhances people's quality of life by teaching the social model of disability. Refer to Introduction to Web Accessibility page, [Accessibility in Context section](/fundamentals/accessibility-intro/#context).
 * Invite expert users with disabilities to show how they interact with online banking, online shopping, or eGovernment. Ask these users to explain  how technology and the Web benefits them.
@@ -94,9 +94,9 @@ Base on the below to deliver the learning outcomes.
 
 #### Ideas to Assess Knowledge for Topic
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support Assessment:
 
-* Practice &mdash; Students explore the use of assistive technologies to perform tasks. For example, reading the news, making a purchase, or interacting in social networks. Assess students' understanding of how assistive technologies work.
+* Practical &mdash; Students explore the use of assistive technologies to perform tasks. For example, reading the news, making a purchase, or interacting in social networks. Assess students' understanding of how assistive technologies work.
 * Presentation &mdash; Students present digital life and use cases for a particular type of disability they are interested in. Assess students' understanding of the benefits of computers and the Web for people with disabilities.
 * Portfolio &mdash; Students research about how technology helped popular people with disabilities in their daily lives. Examples: Frida Kahlo, Stephen Hawking, or Stevie Wonder. Assess students' acknowledgment of how people with disabilities use technology.
 
@@ -116,15 +116,15 @@ Explain the overlaps between accessibility and usability. Emphasize how accessib
 
 Students should be able to:
 
-* Define web accessibility for people with disabilities.
-* Identify the relevance of web accessibility in a growing number of devices and contexts.
-* Explain key terms in web accessibility.
-* Outline the scope of accessibility, usability, and inclusion, and describe some of the overlaps between them.
-* Identify the social dimension of accessibility.
+* define web accessibility for people with disabilities
+* identify the relevance of web accessibility in a growing number of devices and contexts
+* explain key terms in web accessibility
+* outline the scope of accessibility, usability, and inclusion, and describe some of the overlaps between them
+* identify the social dimension of accessibility
 
 #### Teaching Ideas for Topic
 
-Base on the below to deliver the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Define web accessibility as the ability for people with disabilities to use web content, tools, and technology equally.
 * Reflect with students on the widespread use of web content and applications across different types of devices. For example, desktop, mobile, television, etc. Emphasize that accessibility favors social participation (for education, employment, commerce, healthcare, entertainment, etc.). Ask students if they have any previous experiences of access barriers and exposure to accessibility.
@@ -137,7 +137,7 @@ and accessibility. Explain that accessibility is often needed to cover usability
 
 #### Ideas to Assess Knowledge for Topic
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support assessment:
 
 * Debate &mdash; From a given set of accessibility features in buildings, transportation, education, or healthcare, students draw analogies to web accessibility and share with their peers. Assess students' acknowledgment of how some features help make digital products accessible.
 * Presentation &mdash; Students select a device (e.g., computer, smartphone, smartwatch, television, etc.) and describe the accessibility features that are available on that device. Assess how students identify accessibility features in a given product.
@@ -147,7 +147,7 @@ Base on the below to assess the learning outcomes.
 
 ## Ideas to Assess Knowledge for Module
 
-Base on the below to assess the learning outcomes.
+Optional ideas to support assessment:
 
 * Reflective Journal &mdash; Students reflect on how accessible technology benefits people, regardless of disability. Assess how students identify accessibility to promote overall inclusion.
 * Short Answer Questions &mdash; Students describe in their own words terms such as web accessibility, usability, and inclusion. Assess how students describe these terms clearly and succinctly.
@@ -156,7 +156,7 @@ Base on the below to assess the learning outcomes.
 
 ## Teaching Resources
 
-Base on the below to prepare your teaching.
+Suggested resources to support your teaching:
 
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Web Accessibility Perspectives (videos)](/perspective-videos/) &mdash; Is a series of 1-minute videos that demonstrate that web accessibility is essential for people with disabilities and useful for all. They show accessibility features, how they impact people with disabilities, and how they benefit everyone in a variety of situations.
