@@ -71,7 +71,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation/#topic-menu-behaviors-and-patterns)
     -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation/#topic-other-navigation-mechanisms)
     -   [Topic: Location](/curricula/designer-modules/navigation/#topic-location)
--  [Module 3: InformationDesign](/curricula/designer-modules/information-design/)
+-  [Module 3: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Textual Information](/curricula/designer-modules/information-design/#topic-textual-information)
     -   [Topic: Tabular Information](/curricula/designer-modules/information-design/#topic-tabular-information)
     -   [Topic: Forms and Controls](/curricula/designer-modules/information-design/#topic-forms-and-controls)
