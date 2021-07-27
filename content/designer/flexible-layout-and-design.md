@@ -59,7 +59,7 @@ Skills required for this module:
 * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
 * Basic knowledge of:
   * Visual Design
-  * Prototype Design
+  * Prototyping
   * Responsive Design
 
 {% include excol.html type="end" %}
@@ -89,7 +89,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
-  * Prototype Design
+  * Prototyping
   * Responsive Design
 
 {% include excol.html type="end" %}

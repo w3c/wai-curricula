@@ -58,7 +58,7 @@ Skills required for this module:
 * Basic knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
-  * Prototype Design
+  * Prototyping
   * Responsive Design
   * Information Architecture
 
@@ -83,7 +83,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
   * Visual Design
-  * Prototype Design
+  * Prototyping
   * Responsive Design
   * Information Architecture
 
