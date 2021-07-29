@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
-* design user interfaces with headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color alone
+* design user interfaces with headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color
 * design user interfaces with adjustable font sizes and adequate spacing to support readability
 * design user interfaces with appropriate contrast ratios for text, images of text, and controls
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
@@ -169,7 +169,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Describe how some people use color to understand and distinguish contents. Explain different ways to convey information that is presented using color alone, such as shapes and icons. 
+Describe how some people use color to understand and distinguish contents. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
 Explain how contrast ratios are essential for people with low vision to perceive, distinguish, and understand contents.
 
 #### Learning Outcomes for Topic
@@ -186,7 +186,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so alternative methods to convey that information are required. For references on how to convey information without using color alone, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so supplemental methods to convey that information are required. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 * Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1.
 
@@ -196,7 +196,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students information presented using color alone and ask them to provide other visual cues to convey such information. Assess how students use shapes and icons to make information presented using color alone distinguishable.
+* Practical &mdash; Give students information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
 
