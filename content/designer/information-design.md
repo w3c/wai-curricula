@@ -97,7 +97,7 @@ Topics to achieve the learning outcomes:
 
 Refer back to [Module 2: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of icons and other visual cues to help people understand processess and instructions presented in text.
+Discuss the use of icons and other visual cues to help people understand processess and instructions presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
