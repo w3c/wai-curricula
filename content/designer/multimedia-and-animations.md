@@ -143,7 +143,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of different types of animations. Explain that animations can cause seizures and physical reactions for some people, so designers need to carefully consider the below when designing animations.
+Show examples of moving content, such as animations. Explain that moving content can cause seizures and physical reactions to some people. Designers need to support pausing, stopping, or hiding any moving content, as well as to use flashing that is below the general flash and red flash ratios where possible.
 
 #### Learning Outcomes for Topic
 
