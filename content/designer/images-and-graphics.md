@@ -80,6 +80,8 @@ Skills required for this module:
   * Prototyping
   * Responsive Design
   * Information Architecture
+  * Content Design
+  * Technical Writing
 
 {% include excol.html type="end" %}
 
