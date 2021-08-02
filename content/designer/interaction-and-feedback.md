@@ -179,7 +179,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
-* Show examples of gestures such as swipe or ping. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of gestures such as swipe or pinch. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
 * Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic
