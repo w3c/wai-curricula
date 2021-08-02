@@ -24,14 +24,14 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to navigate multi page websites and applications
+* explain strategies that people with disabilities use to navigate websites and applications
 * describe accessible behaviors, visual affordances, and interaction patterns of navigation menus, including static navigation menus, fly-out menus, and mega menus
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to navigate multipage websites and applications
+* explain strategies that people with disabilities use to navigate websites and applications
 * design user interfaces that support different types of navigation mechanisms, including menus, tables of contents, and site maps
 * define keyboard, mouse, and touch interactions for menus and other navigation mechanisms
 * provide clear and consistent visual cues for menus, menu item states, and other navigation mechanisms
@@ -216,7 +216,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across multipage websites and applications.
+* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
 

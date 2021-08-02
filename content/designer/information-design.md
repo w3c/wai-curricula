@@ -31,7 +31,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* describe approaches to break down different types of content into smaller and more manageable pieces, including using:
+* describe approaches to break down different types of content into smaller and more manageable pieces, including identifying:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
