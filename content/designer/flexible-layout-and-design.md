@@ -39,7 +39,7 @@ Students should be able to:
 * explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
 * design user interfaces with headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color
 * design user interfaces with adjustable font sizes and adequate spacing to support readability
-* design user interfaces with appropriate contrast ratios for text, images of text, and controls
+* design user interfaces with sufficient color contrast for text, images of text, and controls
 * design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
 * design user interfaces that support positioning different regions and user interface components where users expect them
 * identify related requirements for developers to apply the necessary semantics to user interface components
@@ -170,7 +170,7 @@ Optional ideas to assess knowledge:
 {% include excol.html type="middle" %}
 
 Describe how some people use color to understand and distinguish contents. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
-Explain how contrast ratios are essential for people with low vision to perceive, distinguish, and understand contents.
+Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand contents.
 
 #### Learning Outcomes for Topic
 
