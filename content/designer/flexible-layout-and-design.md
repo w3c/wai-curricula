@@ -29,7 +29,7 @@ navigation:
 
 Courses based on this module should:
 
-* explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process contents
+* explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process content
 * explain accessibility requirements for user interface components that relate to color, layout, spacing, and position
 
 ## Learning Outcomes for Module
@@ -104,13 +104,13 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on different style properties, such as font sizes and spacing, to perceive contents.
+Explain how people with disabilities rely on different style properties, such as font sizes and spacing, to perceive content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or texts
+* design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or text
 * design user interfaces with font sizes to support content readability
 * design user interfaces with adequate spacing to support readability and to help distinguish components from one another
 
@@ -118,15 +118,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles to distinguish user interface components from one another, such as links, buttons, form elements, and texts. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another.
-* Show examples of big enough font sizes and explain how they support readability. Contrast previous examples with smaller fonts that are not as easy to read. Emphasize that several user groups rely on fonts to be big enough to be able to read and understand contents properly.
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. Emphasize that spacing also allows for better readability of contents and for better identification of the different parts of the user interface.
+* Demonstrate the use of styles to distinguish user interface components from one another, such as links, buttons, form elements, and text. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another.
+* Show examples of big enough font sizes and explain how they support readability. Contrast previous examples with smaller fonts that are not as easy to read. Emphasize that several user groups rely on fonts to be big enough to be able to read and understand content properly.
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. Emphasize that spacing also allows for better readability of content and for better identification of the different parts of the user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students design a prototype with distinguishable styles that help perceive different contents. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
+* Practical &mdash; Students design a prototype with distinguishable styles that help users perceive different content. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
 
 {% include excol.html type="end" %}
 
@@ -136,7 +136,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities perceive different web page regions and contents through text and visual landmarks and cues. Present different strategies to include such cues early in the design phase.
+Explain how people with disabilities perceive different web page regions and content through text and visual landmarks and cues. Present different strategies to include such cues early in the design phase.
 
 #### Learning Outcomes for Topic
 
@@ -169,8 +169,8 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Describe how some people use color to understand and distinguish contents. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
-Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand contents.
+Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
+Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
 
 #### Learning Outcomes for Topic
 
@@ -178,7 +178,7 @@ Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
 * design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
-* design user interfaces with texts and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
+* design user interfaces with text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design user interfaces with large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design user interfaces with components and graphics that have a contrast ratio of at least 3:1 with respect to their background
 
@@ -206,7 +206,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process contents.
+Explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process content.
 
 #### Learning Outcomes for Topic
 
