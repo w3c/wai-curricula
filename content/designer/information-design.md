@@ -24,7 +24,7 @@ navigation:
 
 Courses based on this module should:
 
-* present strategies for splitting large blocks of information into smaller pieces that are easier to consume and understand 
+* present strategies for splitting large blocks of information into smaller pieces that are easier to read and understand 
 * present strategies for grouping information that shares a common purpose to make such information easier to understand
 
 ## Learning Outcomes for Module
