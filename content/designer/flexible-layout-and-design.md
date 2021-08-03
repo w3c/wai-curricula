@@ -56,7 +56,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -87,7 +87,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
 * In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * Visual Design
   * Prototyping
   * Responsive Design

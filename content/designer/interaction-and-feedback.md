@@ -53,7 +53,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * Prior [Designer Modules](/curricula/designer-modules/)
 * Knowledge of:
   * Visual Design
@@ -96,7 +96,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
   * [WCAG Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 * In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules/#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * Visual Design
   * Prototyping
   * Responsive Design

@@ -53,8 +53,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/designer-modules/#prerequisites-for-students)
-* [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) from [Designer Modules](/curricula/designer-modules/)
+* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
+* [Designer Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -80,7 +80,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
 * In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -149,7 +149,7 @@ Students should be able to:
   * a link at the beginning of a block of repeated content to go to the end of the block
   * links at the top of the page that go to each area of the content
   * an expandable and collapsible menu to make it easier for users to skip the menu
-* provide other navigation mechanisms to ensure web pages or application views can be reached using several of the following methods:
+* provide other navigation mechanisms to ensure web pages and application views can be reached using several of the following methods:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
   * tables of contents to give an overview of the whole website or document and to allow users to go to specific parts of the content
@@ -181,7 +181,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on foundation [Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and visual cues to indicate the current page.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and visual cues to indicate the current page.
 
 #### Learning Outcomes for Topic
 

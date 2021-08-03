@@ -42,7 +42,7 @@ These modules focus on visual, information, user experience, and interaction asp
 * User Experience (UX) Designer
 * Interaction Designer
 
-### Prerequisites for Students
+### Foundation Prerequisites
 
 The designer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
@@ -60,7 +60,7 @@ The designer modules are designed for students who have achieved the learning ou
   * Topic: Roles and Responsibilities
 
 
-## Modules
+## Designer Modules
 
 -   [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design)
     -   [Topic: Text Styling](/curricula/designer-modules/flexible-layout-and-design/#topic-text-styling)

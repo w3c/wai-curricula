@@ -54,7 +54,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * [Developer Modules](/curricula/curriculum-for-developers)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 * Basic knowledge of [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
@@ -90,7 +90,7 @@ Skills required for this module:
   * [HTML common input element attributes {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/input.html#common-input-element-attributes)
   * [HTML date, time, and input formats {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#input-author-notes)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * [Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}

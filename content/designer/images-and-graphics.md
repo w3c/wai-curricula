@@ -52,7 +52,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
 * [Module 2: Navigation](/curricula/designer-modules/navigation/)
 * [Module 3: Information Design](/curricula/designer-modules/information-design/)
@@ -75,7 +75,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
   * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
 * In-depth knowledge of:
-  * [Prerequisites for students](/curricula/designer-modules#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * Visual Design
   * Prototyping
   * Responsive Design
