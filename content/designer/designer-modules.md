@@ -27,7 +27,7 @@ navigation:
 
 The designer modules guide the creation of courses that:
 
-* introduce key accessibility terms for designers and relate some design terms to accessibility
+* explain how design principles and practices relate to accessibility
 * demonstrate and explain how accessible design enables people with disabilities to use websites and applications
 * teach accessible design techniques for:
   * visual design

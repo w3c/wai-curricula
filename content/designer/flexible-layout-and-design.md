@@ -29,19 +29,19 @@ navigation:
 
 Courses based on this module should:
 
-* explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process content
-* explain accessibility requirements for user interface components that relate to color, layout, spacing, and position
-
+* explain how people with disabilities rely on designs that adapt to different screen sizes, configurations, and style sheets
+* explain accessibility requirements for user interfaces that can have customized colors, size, and spacing between components
+ 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities identify and distinguish user interface components based on different features, such as color, layout, spacing, and position
-* design user interfaces with headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color
-* design user interfaces with adjustable font sizes and adequate spacing to support readability
-* design user interfaces with sufficient color contrast for text, images of text, and controls
-* design user interfaces with clear and distinguishable focus indicators, for example using borders, background color, and highlighting
-* design user interfaces that support positioning different regions and user interface components where users expect them
+* explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
+* use headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color
+* design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
+* design layouts with sufficient color contrast for text, images of text, and controls
+* design clear and distinguishable focus indicators, for example using borders, color, and highlighting
+* position components where users expect them
 * identify related requirements for developers to apply the necessary semantics to user interface components
 
 {% include excol.html type="all" %}
@@ -104,29 +104,30 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on different style properties, such as font sizes and spacing, to perceive content.
+Explain how people with disabilities rely on different style properties, such as font sizes and spacing, to support readability.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces with clear and distinguishable styles for different components, such as links, buttons, form elements, or text
-* design user interfaces with font sizes to support content readability
-* design user interfaces with adequate spacing to support readability and to help distinguish components from one another
+* use clear and distinguishable styles for links, buttons, form elements, and text
+* define customizable font sizes and font types to support content readability
+* define adequate spacing to support readability
+* define customizable colors to support readability
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles to distinguish user interface components from one another, such as links, buttons, form elements, and text. Explain how people rely on font sizes, spacing, and typography to distinguish components from one another.
-* Show examples of big enough font sizes and explain how they support readability. Contrast previous examples with smaller fonts that are not as easy to read. Emphasize that several user groups rely on fonts to be big enough to be able to read and understand content properly.
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows to distinguish different user interface components and pieces of content from one another. Emphasize that spacing also allows for better readability of content and for better identification of the different parts of the user interface.
+* Demonstrate the use of styles to distinguish user interface components, such as links, buttons, form labels and instructions, and text. Explain how people rely on font sizes, font types, spacing, and color to distinguish components.
+* Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to be able to read and understand content properly.
+* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows for better readability of content and for better identification of the different parts of the user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students design a prototype with distinguishable styles that help users perceive different content. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
+* Practical &mdash; Students design a prototype with adaptable and distinguishable styles that help users perceive different content. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
 
 {% include excol.html type="end" %}
 
@@ -142,9 +143,9 @@ Explain how people with disabilities perceive different web page regions and con
 
 Students should be able to:
 
-* define page regions by using appropriate visual and programmatic landmarks
-* design user interfaces with text cues to convey information provided through vision only, for example to convey required form fields and available dates in a calendar
-* design user interfaces with focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
+* define page regions by using appropriate visual and programmatic landmarks, such as headings
+* use text cues to supplement information provided through vision only, for example to convey required form fields represented with an icon and available dates in a calendar represented with a different background color
+* design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 
 #### Teaching Ideas for Topic
 
@@ -152,7 +153,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different regions of web pages, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic landmarks to perceive such regions. Explain that defining landmarks and their styling is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
-* Invite students to navigate a web page with appropriate focus indicators first, and then invite them to navigate a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
+* Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -177,10 +178,11 @@ Explain how sufficient color contrast (contrast ratios in WCAG) are essential fo
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
-* design user interfaces with other visual cues in addition to color, for example using different patterns, shapes, and icons
-* design user interfaces with text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
-* design user interfaces with large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
-* design user interfaces with components and graphics that have a contrast ratio of at least 3:1 with respect to their background
+* use visual cues in addition to color, for example using different patterns, shapes, and icons
+* use non-visual cues for people who do not perceive color, for example using text to complement information provided visually
+* design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
+* design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
+* design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
 
 #### Teaching Ideas for Topic
 
@@ -206,17 +208,17 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities use different screen sizes, screen configurations, breakpoints, and style sheets to identify, distinguish, and process content.
+Explain how people with disabilities use different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces that support text resizing without loss of content and functionality
-* design user interfaces that support zooming and enlarging text in different viewport sizes and through multiple breakpoints
-* design user interfaces that support content view and operation in both portrait and landscape orientations
-* design user interfaces with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
-* design user interfaces that support customizing line height, as well as spacing between paragraphs, words, and letters
+* design layouts that support text resizing without loss of content and functionality
+* design layouts that support zooming and enlarging text in different viewport sizes and through multiple breakpoints
+* design layouts that support content view and operation in both portrait and landscape orientations
+* design layouts with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
+* design layouts that support customizing line height, as well as spacing between paragraphs, words, and letters
 * design user interfaces that preserve focus order when accessed using different viewport, screen sizes, and breakpoints
 
 #### Teaching Ideas for Topic
