@@ -24,18 +24,18 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to access information contained in images
+* explain strategies that people with disabilities use to access information contained in images and graphics
 * explain accessibility requirements related to images and graphics, such as text alternatives and contrast ratios
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how images help people with disabilities to process information, identify content, and understand functionality
-* explain how text alternatives are essential for people with disabilities to understand the information conveyed in images
-* provide meaningful and consistent text alternatives for functional images included in the design phase, such as those included in buttons, links, icons, and logos
-* design user interfaces with consistent iconography to help users recognize the purpose of icons, thumbnails, and other graphical components
-* design user interfaces that avoid images of text when the desired visual presentation can be achieved by the technology in use
+* explain how images and graphics help people with disabilities to process information, identify content, and understand functionality
+* explain how text alternatives are essential for people with disabilities to understand the information contained in images
+* provide meaningful and consistent text alternatives for functional images, such as those included in buttons, links, icons, and logos
+* design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
+* explain the issues associated with images of text, and explain how to avoid these when the desired visual presentation can be achieved by the technology in use
 * cooperate with developers and content authors to provide the appropriate alternative for images and graphics included in the design phase based on the image purpose
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images included in the authoring phase, such as charts, diagrams, and other complex graphics
@@ -101,13 +101,13 @@ Functional images convey functionality of a user interface component. For exampl
 
 Students should be able to:
 
-* design user interfaces with text alternatives for functional images by using one of the following:
-  * providing a text alternative for the image
-  * combining the text alternative of the image with the adjacent text inside the component
-  * providing adjacent text inside the component to understand its function
-* create designs with consistent naming and iconography for user interface components that have the same functionality across web pages
-* explain the benefits of making the text alternative visible to all users instead of making it available for screen readers only, for example better recognition of the conveyed functionality
-* apply appropriate contrast ratios for functional images belonging to components that accept user input
+* provide text alternatives for functional images by using the following mechanisms:
+  * text alternatives for images
+  * combinations of text alternatives of images and adjacent text inside components
+  * adjacent text inside components to understand its function
+* use consistent naming and imagery for components that have the same functionality across web pages
+* explain the benefits of conveying functionality using text labels and decorative images, instead of using images with text alternatives that are only available to some users, such as screen reader users
+* apply appropriate contrast ratios for functional images
 
 #### Teaching Ideas for Topic
 
@@ -130,7 +130,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Informative images convey information that is necessary to understand the content. Show examples of thumbnails and other icons that convey information. Discuss with students how they would describe them. 
+Informative images convey information that is necessary to understand the content. Their description requires generally a short phrase or sentence. Show examples of images that convey information, such as pictures in a piece of news. Discuss with students how they would describe them. 
 
 Explain that providing text alternatives for informative images is a responsibility shared with the content author.
 
@@ -138,13 +138,14 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* provide text alternatives that present equivalent information as that contained in informative images, by using one of the following:
-  * including a boilerplate description that would then be completed and maintained through the development and authoring phases
-  * complementing thumbnails and icons with adjacent textual information, for example in a news headline
-  * providing a text alternative that describes the information conveyed by the image
+* provide text alternatives that present equivalent information as that contained in informative images, by using the following mechanisms:
+  * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
+  * adjacent textual information to complement images and icons, for example in a news headline
+  * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the contents
-* design user interfaces that support use of styled text instead of images of text when the technology in use can provide the desired visual presentation
-* design user interfaces with alternatives to visual CAPTCHA, for example auditory CAPTCHA, logical CAPTCHA, and biometrics
+* use styled text instead of images of text when the technology in use can provide the desired visual presentation
+* provide alternatives to CAPTCHA and biometrics, for example by providing visual, auditory, and logical CAPTCHA
+* explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -166,51 +167,19 @@ Optional ideas to support assessment.
 
 {% include excol.html type="start" %}
 
-### Topic: Decorative Images
-
-{% include excol.html type="middle" %}
-
-Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) to explain that decorative images also need to adhere to accessibility requirements such as use of color, ability to resize, and flexibility. Decorative images do not require text alternatives, as these would add clutter to the information that assistive technologies provide. Explain that determining if an image is decorative is a responsibility shared with the content author.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the presence of similar information in the adjacent contents
-* describe different ways to present information contained in an image so that it can be considered decorative
-* describe the relation of decorative images with respect to other adjacent images and to the overall web page where it is included
-* design user interfaces that do not overload users with too many ornamental imagery
-* identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the need for decorative images to adapt to the different user needs and preferences.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ### Topic: Complex Images
 
 {% include excol.html type="middle" %}
 
-Complex images are those whose description requires more than a short phrase or sentence. Show examples of complex images and explain accessibility requirements that these images have, such as appropriate contrast ratios and appropriate text descriptions.
+Complex images are those whose description requires more than a short phrase or sentence. Show examples of complex images, including diagrams and charts, and explain accessibility requirements that these images have, such as appropriate contrast ratios and appropriate text descriptions.
 
-Explain that coordination among different team members is required to establish the relations between parts of complex images and their adjacent components (for example text and other images) so that the relations are perceived and understood visually and through the provided descriptions.
+Explain that coordination among different team members is required to assess the use of complex images based on their adjacent components (for example text and other images) and on the overall context, so that the relations are perceived and understood visually and through the provided descriptions.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces that support appropriate contrast ratios for complex images when these images are required to understand the contents
+* use appropriate contrast ratios for complex images when these images are required to understand the contents
 * identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
 * determine if and how complex images are operated using the mouse, keyboard, and other input devices
 
@@ -227,6 +196,38 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Students add complex images to a website, such as charts or diagrams, and ensure they have the required contrast ratio. Assess how students understand the contrast requirements for complex images.
 * Practical &mdash; Students cooperate with developers and content authors to implement a map in a way that everybody can understand its meaning and interact with it. Assess how students identify the need for text alternatives for complex images and cooperate with other team members to ensure such alternatives exist.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Decorative Images
+
+{% include excol.html type="middle" %}
+
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/) to explain that decorative images also need to adhere to accessibility requirements such as use of color, ability to resize, and flexibility. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image, the presence of similar information in the adjacent content, and the overall context
+* describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
+* assess the use of decorative images based on other images in the content and on the overall context where it is included
+* explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
+* identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the need for decorative images to adapt to the different user needs and preferences.
 
 {% include excol.html type="end" %}
 

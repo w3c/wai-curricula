@@ -32,7 +32,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to interact with components that accept user input
-* design user interfaces that support different input mechanisms, including mouse, touch, keyboard, and speech
+* design the user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * create designs with information about custom keyboard shortcuts for complex widgets and applications
 * provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
@@ -123,7 +123,7 @@ Emphasize that defining the keyboard interactions is a designers' responsibility
 
 Students should be able to:
 
-* create designs that support keyboard navigation through and inside custom components, for example:
+* design the user experiences for keyboard navigation through and inside custom components, for example:
   * using the tab key to move through different components
   * using the enter key to enter a specific component and to select a specific item on a component
   * using the arrow keys to move through elements inside components, such as application menus, dialogs, list items and grid cells
@@ -131,9 +131,10 @@ Students should be able to:
   * using first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* create designs that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible, and cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* design user experiences that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
+* cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
-* provide focus indicators for complex widgets that are visible and that have appropriate contrast ratios
+* provide focus indicators that are visible and that have appropriate contrast ratios for complex widgets
 * describe related requirements for developers to implement keyboard support for components that accept user input
   
 #### Teaching Ideas for Topic
@@ -169,10 +170,10 @@ Discuss some gestures that require dragging and drawing specific paths on a touc
 
 Students should be able to:
 
-* design user interfaces that support alternatives to device or user motion such as shaking by using user interface components that do not require motion
-* design user interfaces that support disabling response to motion to prevent accidental actuation, such as undoing an action by shaking a device
-* design user interfaces that support alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* design user interfaces that support undoing or aborting an action carried out with path-based operations
+* use components that do not require motion as an alternative for device or user motion such as shaking
+* design mechanisms to disable response to motion to prevent accidental actuation, such as undoing an action by shaking a device
+* design alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
+* design mechanisms to undoing or aborting an action carried out with path-based operations
 
 #### Teaching Ideas for Topic
 
@@ -204,7 +205,7 @@ Show examples of labels and instructions for components that accept user input. 
 Students should be able to:
 
 * provide clear and consistent names to help users understand the purpose of components that accept user input
-* design user interfaces that allow to position labels where users expect them
+* design user experiences that consider position, appearance, and naming of  labels
 * provide instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
   * including textual and visual cues in the label of each of the required form fields that indicate that they are required
@@ -247,13 +248,13 @@ Explain that notifications may have different levels of priority when in the con
 
 Students should be able to:
 
-* design user interfaces with  notifications that are easy to understand and that can be distinguished from any other user interface component
+* design notifications that are easy to understand and that can be distinguished from any other user interface component
 * provide error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
 * provide meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
-* provide meaningful messages when a task has been completed successfully, for example when a form has been submitted or when a document has been saved
+* provide meaningful messages when successfully completing a task, for example when submitting forms and when saving documents
 * provide meaningful and descriptive notification messages, for example validation messages as the user types
-* design user interfaces that support storing notification messages that disappear after a period of time to allow notifications checking at the users' pace
-* design user interfaces that support mechanisms to queue and prioritize application notifications coming from different components
+* design user experiences to store and check notification messages at the users' pace, for example those that messages that disappear after a period of time
+* design user experiences to queue and prioritize application notifications coming from different components
 * describe related requirements for developers to code notification messages appropriately
 
 #### Teaching Ideas for Topic

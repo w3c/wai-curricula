@@ -32,12 +32,14 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design user interfaces that consider  placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
-* design user interfaces that support enabling and disabling transcripts, audio descriptions, captions, and sign language
-* design user interfaces with multimedia player controls that have clear and descriptive names, that are easy to find, and that do not disappear when the media starts playing
-* design user interfaces with mechanisms to pause, stop, and hide any moving, blinking, and auto-updating content, including animations and carousels
-* design user interfaces with mechanisms to stop or control the volume of auto-playing audio
-* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content and to include accessibility support for multimedia players
+* design the placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
+* design the user experiences for transcripts, audio descriptions, captions, and sign language, including mechanisms for turning on and off such alternatives and ways for users to interact with the alternatives
+* design multimedia player controls that have clear and descriptive names, that are easy to find, and that are always reachable to users
+* design multimedia players that support different methods of interaction, including mouse, keyboard, touch, and voice
+* design mechanisms to pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
+* design mechanisms to mute or control the volume of auto-playing audio
+* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content 
+* identify related requirements for developers to include accessibility support for multimedia players
 * identify related requirements for content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
 
 {% include excol.html type="all" %}
@@ -104,15 +106,20 @@ Topics to achieve the learning outcomes:
 
 Text transcripts provide an alternative to visual and audio information. Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio.
 
-Discuss the need for mechanisms to enable or disable alternatives to multimedia content depending on user needs. Explain that these mechanisms need to be always reachable for users, that they need to have clear names, and that they should not disappear when the media starts playing. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate media alternatives such as text transcripts, audio descriptions, captions, and sign language. Present mechanisms to turn on and off alternatives to multimedia content depending on user needs. Explain that these mechanisms need to have clear name and need to be always reachable for users. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
 * identify accessibility requirements for the different types of multimedia content, such as text transcripts for audio and visual information, audio descriptions, captions, and sign language
-* design user interfaces with mechanisms to enable audio descriptions, captions, and sign language
-* design user interfaces with player controls that:
+* define text transcripts as text that provides an alternative to visual and audio information
+* define audio descriptions as descriptions to adequately get the visual information needed to understand the content
+* define captions as text versions of the speech and non-speech audio information needed to understand the content
+* define sign language as the native language of some deaf people
+* design mechanisms for pausing, stopping, or hiding that plays automatically for more than 3 seconds
+* design mechanisms to turn on and off audio descriptions, captions, and sign language
+* design player controls that:
   * have descriptive names
   * can be operable by keyboard
   * are easy to find
@@ -143,16 +150,16 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of moving content, such as animations. Explain that moving content can cause seizures and physical reactions to some people. Designers need to support pausing, stopping, or hiding any moving content, as well as to use flashing that is below the general flash and red flash ratios where possible.
+Show moving content, such as carousels and animations. Present mechanisms to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the general flash and red flash ratios where possible.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user interfaces that support pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example animations, carousels, and decorative gimmicks
-* design user interfaces that support flashing below the general flash and red flash thresholds or with content that does not flash more than three times in any one second
-* design user interfaces that support disabling motion animation triggered by interaction, such as additional animations when scrolling
-* design user interfaces that support stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
+* design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example animations, carousels, and decorative gimmicks
+* create designs that avoid flashing entirely or only flash below the acceptable thresholds
+* design mechanisms that support disabling motion animation triggered by interaction, such as additional animations when scrolling
+* design mechanisms for stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
 
 #### Teaching Ideas for Topic
 
