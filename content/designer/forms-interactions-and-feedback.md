@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 6: Interaction and Feedback"
-nav_title: "Interaction and Feedback"
-permalink: /curricula/designer-modules/interaction-and-feedback/
-ref: /curricula/designer-modules/interaction-and-feedback/
+title: "[Draft] Module 6: Forms, Interactions, and Feedback"
+nav_title: "Forms, Interactions, and Feedback"
+permalink: /curricula/designer-modules/forms-interactions-and-feedback/
+ref: /curricula/designer-modules/forms-interactions-and-feedback/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/interaction-and-feedback.md
+  path: content/designer/forms-interactions-and-feedback.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

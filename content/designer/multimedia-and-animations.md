@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
   previous: /curricula/designer-modules/images-and-graphics/
-  next: /curricula/designer-modules/interaction-and-feedback/
+  next: /curricula/designer-modules/forms-interactions-and-feedback/
 ---
 
 ## Introduction
@@ -56,8 +56,8 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
-* [Module 2: Navigation](/curricula/designer-modules/navigation/)
-* [Module 3: Information Design](/curricula/designer-modules/information-design/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Module 2: Information Design](/curricula/designer-modules/information-design/)
 * [Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
 * Basic knowledge of:
   * Visual Design

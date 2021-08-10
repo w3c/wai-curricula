@@ -263,16 +263,16 @@
       pages:
       - name: Flexible Color, Layout, and Design
         url: "/curricula/designer-modules/flexible-color-layout-and-design/"
-      - name: Navigation
-        url: "/curricula/designer-modules/navigation/"
       - name: Information Design
         url: "/curricula/designer-modules/information-design/"
+      - name: Navigation
+        url: "/curricula/designer-modules/navigation/"
       - name: Images and Graphics
         url: "/curricula/designer-modules/images-and-graphics/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
-      - name: Interaction and Feedback
-        url: "/curricula/designer-modules/interaction-and-feedback/"
+      - name: Forms, Interactions, and Feedback
+        url: "/curricula/designer-modules/forms-interactions-and-feedback/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

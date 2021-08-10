@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 3: Information Design"
+title: "[Draft] Module 2: Information Design"
 nav_title: "Information Design"
 permalink: /curricula/designer-modules/information-design/
 ref: /curricula/designer-modules/information-design/
@@ -53,7 +53,7 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
-* [Module 2: Navigation](/curricula/designer-modules/navigation/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -95,7 +95,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Module 2: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
+Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
 Discuss the use of icons and other visual cues to help people understand processess and instructions presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 

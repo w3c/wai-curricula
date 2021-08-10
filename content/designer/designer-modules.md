@@ -84,8 +84,8 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Media Players [TBD]]()
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
--   [Module 6: Forms, Interaction, and Feedback](/curricula/designer-modules/interaction-and-feedback/)
+-   [Module 6: Forms, Interaction, and Feedback](/curricula/designer-modules/forms-interactions-and-feedback/)
     -   [Topic: Forms Design (labels, instructions, errors, and notifications) [TBD]]()
-    -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-and-feedback/#topic-keyboard-interactions)
-    -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-and-feedback/#topic-gestures-and-motion)
+    -   [Topic: Keyboard Interactions](/curricula/designer-modules/forms-interactions-and-feedback/#topic-keyboard-interactions)
+    -   [Topic: Gestures and Motion](/curricula/designer-modules/forms-interactions-and-feedback/#topic-gestures-and-motion)
     

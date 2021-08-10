@@ -54,8 +54,8 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Module 1: #foundation-prerequisitesFlexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
-* [Module 2: Navigation](/curricula/designer-modules/navigation/)
-* [Module 3: Information Design](/curricula/designer-modules/information-design/)
+* [Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Module 2: Information Design](/curricula/designer-modules/information-design/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
