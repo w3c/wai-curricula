@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/developer-modules/rich-applications/
-  next: /curricula/designer-modules/flexible-layout-and-design/
+  next: /curricula/designer-modules/flexible-color-layout-and-design/
 ---
 
 ## Introduction
@@ -63,9 +63,9 @@ The designer modules are designed for students who have achieved the learning ou
 ## Designer Modules
 
 -   [Module 1: Flexible Color, Layout, and Design (TBD)](/curricula/designer-modules/flexible-layout-and-design)
-    -   [Topic: Color (TBD)](/curricula/designer-modules/flexible-layout-and-design/#topic-use-of-color)
-    -   [Topic: Text Styling](/curricula/designer-modules/flexible-layout-and-design/#topic-text-styling)
-    -   [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design)
+    -   [Topic: Color (TBD)](/curricula/designer-modules/flexible-color-layout-and-design/#topic-use-of-color)
+    -   [Topic: Text Styling](/curricula/designer-modules/flexible-color-layout-and-design/#topic-text-styling)
+    -   [Topic: Flexible Design](/curricula/designer-modules/flexible-color-layout-and-design/#topic-flexible-design)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Text](/curricula/designer-modules/information-design/#topic-textual-information)
     -   [Topic: Landmarks [TBD]]()

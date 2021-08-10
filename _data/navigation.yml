@@ -261,8 +261,8 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Flexible Layout and Design
-        url: "/curricula/designer-modules/flexible-layout-and-design/"
+      - name: Flexible Color, Layout, and Design
+        url: "/curricula/designer-modules/flexible-color-layout-and-design/"
       - name: Navigation
         url: "/curricula/designer-modules/navigation/"
       - name: Information Design

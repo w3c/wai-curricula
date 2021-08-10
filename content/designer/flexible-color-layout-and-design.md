@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Flexible Layout and Design"
-nav_title: "Flexible Layout and Design"
-permalink: /curricula/designer-modules/flexible-layout-and-design/
-ref: /curricula/designer-modules/flexible-layout-and-design/
+title: "[Draft] Module 1: Flexible Color, Layout, and Design"
+nav_title: "Flexible Color, Layout, and Design"
+permalink: /curricula/designer-modules/flexible-color-layout-and-design/
+ref: /curricula/designer-modules/flexible-color-layout-and-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/flexible-layout-and-design.md
+  path: content/designer/flexible-colorlayout-and-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -100,6 +100,44 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
+### Topic: Use of Color
+
+{% include excol.html type="middle" %}
+
+Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
+Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
+* use visual cues in addition to color, for example using different patterns, shapes, and icons
+* use non-visual cues for people who do not perceive color, for example using text to complement information provided visually
+* design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
+* design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
+* design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so supplemental methods to convey that information are required. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
+* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
+* Practical &mdash; Give students information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Text Styling
 
 {% include excol.html type="middle" %}
@@ -166,44 +204,6 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Use of Color
-
-{% include excol.html type="middle" %}
-
-Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
-Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
-* use visual cues in addition to color, for example using different patterns, shapes, and icons
-* use non-visual cues for people who do not perceive color, for example using text to complement information provided visually
-* design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
-* design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
-* design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so supplemental methods to convey that information are required. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
-* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
-* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
-* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ### Topic: Flexible Design
 
 {% include excol.html type="middle" %}
@@ -245,7 +245,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design a web page. Assess how students use color, layout, spacing, and position to support content perception and identification.
+* Portfolio &mdash; Students design a web page. Assess how students use customizable color, layout, spacing, and position to support content perception, identification, and readability.
 
 ## Teaching Resources
 

@@ -52,7 +52,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design/)
+* [Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
 * [Module 2: Navigation](/curricula/designer-modules/navigation/)
 * Basic knowledge of:
   * Visual Design
@@ -189,7 +189,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
-* Refer back to Module 1: Flexible Layout and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
+* Refer back to Module 1: Flexible Color, Layout,  and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-Color-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
