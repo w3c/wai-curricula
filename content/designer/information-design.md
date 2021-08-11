@@ -97,7 +97,8 @@ Topics to achieve the learning outcomes:
 
 Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of icons and other visual cues to help people understand processess and instructions presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
+Discuss the use of icons and other visual cues to help people understand 
+ and instructions presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -128,7 +129,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processess and instructions presented in text.
+* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processes and instructions presented in text.
 * Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
@@ -216,4 +217,5 @@ Suggested resources to support your teaching:
 
 * [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
