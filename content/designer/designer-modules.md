@@ -80,7 +80,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Informative Images](/curricula/designer-modules/images-and-graphics/#topic-informative-images)
     -   [Topic: Complex Images](/curricula/designer-modules/images-and-graphics/#topic-complex-images)
     -   [Topic: Decorative Images](/curricula/designer-modules/images-and-graphics/#topic-decorative-images)
--   [Module 5: Multimeedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
+-   [Module 5: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Media Players [TBD]]()
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
