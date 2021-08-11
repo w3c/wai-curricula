@@ -1,16 +1,21 @@
 ---
 title: "Module 5: Forms"
 nav_title: "Forms"
-permalink: /curricula/developer-modules/forms/
-ref: /curricula/developer-modules/forms/
-lang: en
+
+lang: en   # change "en" to lang code, here and 2 @@s below
+last_updated: 2021-03-04  # Change to date of translation YYYY-MM-DD (month in middle)
+# translator: "..."
+# contributors: "..."
+
+permalink: /curricula/developer-modules/forms/   # Add lang to end /link/to/page/@@
+ref: /curricula/developer-modules/forms/   # Do not change
 github:
   repository: w3c/wai-curricula
-  path: content/developer/forms.md
+  path: content/developer/forms.md   # Add lang to the middle of the filename, e.g., index.@@.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
-footer: >
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
   <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
@@ -68,18 +73,18 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG 2 Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
-  * [WCAG 2 Success Criterion 2.2.1 Timing Adjustable](https://www.w3.org/WAI/WCAG21/quickref/#timing-adjustable)
-  * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
-  * [WCAG 2 Success Criterion 2.5.3 Label in Name](https://www.w3.org/WAI/WCAG21/quickref/#label-in-name)
-  * [WCAG 2 Success Criterion 3.2.2 On Input](https://www.w3.org/WAI/WCAG21/quickref/#on-input)
-  * [WCAG 2 Success Criterion 3.3.1 Error Identification](https://www.w3.org/WAI/WCAG21/quickref/#error-identification)
-  * [WCAG 2 Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
-  * [WCAG 2 Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
-  * [WCAG 2 Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
-  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG21/quickref/#name-role-value)
-  * [WCAG 2 Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
+  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 1.3.5 Identify Input Purpose](/WCAG21/quickref/#identify-input-purpose)
+  * [WCAG 2 Success Criterion 2.2.1 Timing Adjustable](/WCAG21/quickref/#timing-adjustable)
+  * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](/WCAG21/quickref/#headings-and-labels)
+  * [WCAG 2 Success Criterion 2.5.3 Label in Name](/WCAG21/quickref/#label-in-name)
+  * [WCAG 2 Success Criterion 3.2.2 On Input](/WCAG21/quickref/#on-input)
+  * [WCAG 2 Success Criterion 3.3.1 Error Identification](/WCAG21/quickref/#error-identification)
+  * [WCAG 2 Success Criterion 3.3.2 Labels or Instructions](/WCAG21/quickref/#labels-or-instructions)
+  * [WCAG 2 Success Criterion 3.3.3 Error Suggestion](/WCAG21/quickref/#error-suggestion)
+  * [WCAG 2 Success Criterion 3.3.4 Error Prevention](/WCAG21/quickref/#error-prevention-legal-financial-data)
+  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](/WCAG21/quickref/#name-role-value)
+  * [WCAG 2 Success Criterion 4.1.3 Status Messages](/WCAG21/quickref/#status-messages)
   * [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
   * [HTML `form` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#the-form-element)
   * [HTML `label` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#the-label-element),
@@ -125,10 +130,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Provide examples of explicit and implicit associations using the `label` element. Explain that an implicit association can be achieved by wrapping the `label` element and its content around the form control. Explain explicit associations by means of the `for` attribute and indicate that its value must be a unique identifier of the form control that the label refers to. Explain the use of other explicit associations using the HTML attribute `title`, the WAI-ARIA attributes `aria-label` and `aria-labelledby`. Explain that use of `placeholder` for labels should be avoided as its value disappears once the user has entered a value. Examples of how to label form controls are provided in the WAI tutorials on [Labeling controls](https://www.w3.org/WAI/tutorials/forms/labels/).
-* Show examples of form controls that are related to each other, such as check boxes and radio buttons to select possible answers for a given question. Mention that the `fieldset` element is used to group them all, and that the `legend` element provides the label they share. Examples of how to group form controls are provided in the WAI tutorials on [Grouping controls](https://www.w3.org/WAI/tutorials/forms/grouping/).
+* Provide examples of explicit and implicit associations using the `label` element. Explain that an implicit association can be achieved by wrapping the `label` element and its content around the form control. Explain explicit associations by means of the `for` attribute and indicate that its value must be a unique identifier of the form control that the label refers to. Explain the use of other explicit associations using the HTML attribute `title`, the WAI-ARIA attributes `aria-label` and `aria-labelledby`. Explain that use of `placeholder` for labels should be avoided as its value disappears once the user has entered a value. Examples of how to label form controls are provided in the WAI tutorials on [Labeling controls](/tutorials/forms/labels/).
+* Show examples of form controls that are related to each other, such as check boxes and radio buttons to select possible answers for a given question. Mention that the `fieldset` element is used to group them all, and that the `legend` element provides the label they share. Examples of how to group form controls are provided in the WAI tutorials on [Grouping controls](/tutorials/forms/grouping/).
 * Invite students to navigate form controls using the keyboard only. Demonstrate the use of the tab key to move through different form controls. Demonstrate the use of the arrow keys to select options from combo boxes and lists.
-* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate through form controls. Explore advanced functionality that some tools provide, such as  presenting all form controls in a list where users can select the form control they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
+* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate through form controls. Explore advanced functionality that some tools provide, such as  presenting all form controls in a list where users can select the form control they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](/people-use-web/).
 * Demonstrate how people with mobility impairments or with low vision can click the label element to activate a specific form control if both are associated with each other.
 
 #### Ideas to Assess Knowledge for Topic
@@ -168,8 +173,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of common instructions for form controls such as those related to allowed data formats, and general timing instructions. Explain that these instructions need to be provided before the form controls appear, so that they are clearly perceivable before initiating form completion. Examples of how to code general instructions for form controls are provided in the WAI tutorials, [Overall instructions](https://www.w3.org/WAI/tutorials/forms/instructions/#overall-instructions).
-* Show examples of additional instructions for form controls provided using the HTML attribute `title` or `placeholder`, or the WAI-ARIA attributes `aria-label`, or `aria-labelledby`. Mention that `title` and `placeholder` may not be well supported by some assistive technologies. Explain that the value of the `placeholder` disappears when the user enters a value, so essential instructions need to be provided using the other described methods. Emphasize that contents provided using WAI-ARIA are available for assistive technologies only and are not visible on screen. For examples of additional methods to provide labels for form controls, see technique [H65: Using the title attribute to identify form controls when the label  element cannot be used](https://www.w3.org/WAI/WCAG21/Techniques/html/H65). Examples of how to provide in-line instructions for form controls are provided in the WAI tutorials, [In-line instructions](https://www.w3.org/WAI/tutorials/forms/instructions/#in-line-instructions).
+* Show examples of common instructions for form controls such as those related to allowed data formats, and general timing instructions. Explain that these instructions need to be provided before the form controls appear, so that they are clearly perceivable before initiating form completion. Examples of how to code general instructions for form controls are provided in the WAI tutorials, [Overall instructions](/tutorials/forms/instructions/#overall-instructions).
+* Show examples of additional instructions for form controls provided using the HTML attribute `title` or `placeholder`, or the WAI-ARIA attributes `aria-label`, or `aria-labelledby`. Mention that `title` and `placeholder` may not be well supported by some assistive technologies. Explain that the value of the `placeholder` disappears when the user enters a value, so essential instructions need to be provided using the other described methods. Emphasize that contents provided using WAI-ARIA are available for assistive technologies only and are not visible on screen. For examples of additional methods to provide labels for form controls, see technique [H65: Using the title attribute to identify form controls when the label  element cannot be used](/WCAG21/Techniques/html/H65). Examples of how to provide in-line instructions for form controls are provided in the WAI tutorials, [In-line instructions](/tutorials/forms/instructions/#in-line-instructions).
 * Show examples of required form controls using the HTML attribute `required` and corresponding text added in the label. Explain why it is necessary to provide this information in multiple ways so that it is available to all users, rather than to rely on color alone or on the HTML semantics alone.
 
 #### Ideas to Assess Knowledge for Topic
@@ -210,15 +215,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Introduce the different ways in which errors can be announced after form submission. Explain how warning messages can be included in the title of pages and their main headings, so that users are aware of the errors. Examples of how to communicate error messages are provided in the WAI tutorials on [Overall feedback](https://www.w3.org/WAI/tutorials/forms/notifications/#overall-feedback).
-* Demonstrate the use of mechanisms to provide in-line error messages for form controls, such as using the HTML element `label` or the WAI-ARIA attribute `aria-describedby`. Explain that programmatic associations help assistive technologies and adaptive strategies relate error messages to their specific field as users move around. Explain that WAI-ARIA live regions can be used to provide instant feedback as users are typing in a form control or as validation outputs appear so that people using screen readers can understand the information provided. Examples of how to code in-line error messages are provided in the WAI tutorials on [In-line feedback](https://www.w3.org/WAI/tutorials/forms/notifications/#inline).
-* Demonstrate the use of some common HTML5 elements, such as `date`, `time`, `url`, `email`, and `pattern`. Explain that they allow users to enter data more reliably and help validation. Examples of how to validate common input are provided in the WAI tutorials on [Validating common input](https://www.w3.org/WAI/tutorials/forms/validation/#validating-common-input).
+* Introduce the different ways in which errors can be announced after form submission. Explain how warning messages can be included in the title of pages and their main headings, so that users are aware of the errors. Examples of how to communicate error messages are provided in the WAI tutorials on [Overall feedback](/tutorials/forms/notifications/#overall-feedback).
+* Demonstrate the use of mechanisms to provide in-line error messages for form controls, such as using the HTML element `label` or the WAI-ARIA attribute `aria-describedby`. Explain that programmatic associations help assistive technologies and adaptive strategies relate error messages to their specific field as users move around. Explain that WAI-ARIA live regions can be used to provide instant feedback as users are typing in a form control or as validation outputs appear so that people using screen readers can understand the information provided. Examples of how to code in-line error messages are provided in the WAI tutorials on [In-line feedback](/tutorials/forms/notifications/#inline).
+* Demonstrate the use of some common HTML5 elements, such as `date`, `time`, `url`, `email`, and `pattern`. Explain that they allow users to enter data more reliably and help validation. Examples of how to validate common input are provided in the WAI tutorials on [Validating common input](/tutorials/forms/validation/#validating-common-input).
 * Demonstrate the use of the WAI-ARIA attribute `aria-live` together with its values to indicate the priority with which updates are announced. For reference on the meaning of the different values of the WAI-ARIA attribute `aria-live`, see the WAI-ARIA specification, [`aria-live`](https://www.w3.org/TR/wai-aria/#aria-live).
 * Explain the use of the WAI-ARIA attribute `aria-relevant` to communicate which changes of the region should be announced: additions, removals, or all. For reference on how to use `aria-relevant`, see the WAI-ARIA specification, [`aria-relevant`](https://www.w3.org/TR/wai-aria/#aria-relevant).
 * Demonstrate the use of alert widgets such as a time warning and an error. Explain that these alerts may not be noticed while using assistive technologies, so additional markup is required. Examples of how to code these alerts are provided in the WAI-ARIA Authoring Practices [Alert](https://www.w3.org/TR/wai-aria-practices/examples/alert/alert.html).
-* Show examples of mechanisms that allow to stop the time limit, such as a check box at the beginning of the form. For an example of how to provide these mechanisms, see techniques [G198: Providing a way for the user to turn the time limit off](https://www.w3.org/WAI/WCAG21/Techniques/general/G198.html) and [G133: Providing a checkbox on the first page of a multipart form that allows users to ask for longer session time limit or no session time limit](https://www.w3.org/WAI/WCAG21/Techniques/general/G133).
-* Show examples of mechanisms that allow to adjust time limits when they are about to expire. For examples of how to write code to adjust time limits, see technique [SCR16: Providing a script that warns the user a time limit is about to expire](https://www.w3.org/WAI/WCAG21/Techniques/client-side-script/SCR16.html).
-* Show examples of mechanisms that allow to extend time limits. Explain that they need to allow for extensions of up to 10 times the original time limit. For an example of a mechanism that allows to extend time limits, see technique [SCR1: Allowing the user to extend the default time limit](https://www.w3.org/WAI/WCAG21/Techniques/client-side-script/SCR1.html).
+* Show examples of mechanisms that allow to stop the time limit, such as a check box at the beginning of the form. For an example of how to provide these mechanisms, see techniques [G198: Providing a way for the user to turn the time limit off](/WCAG21/Techniques/general/G198.html) and [G133: Providing a checkbox on the first page of a multipart form that allows users to ask for longer session time limit or no session time limit](/WCAG21/Techniques/general/G133).
+* Show examples of mechanisms that allow to adjust time limits when they are about to expire. For examples of how to write code to adjust time limits, see technique [SCR16: Providing a script that warns the user a time limit is about to expire](/WCAG21/Techniques/client-side-script/SCR16.html).
+* Show examples of mechanisms that allow to extend time limits. Explain that they need to allow for extensions of up to 10 times the original time limit. For an example of a mechanism that allows to extend time limits, see technique [SCR1: Allowing the user to extend the default time limit](/WCAG21/Techniques/client-side-script/SCR1.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -247,9 +252,9 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-* [Forms (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
+* [Forms (WAI Web Accessibility Tutorials)](/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
-* [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, form controls, and mobile devices.
-* [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
+* [Notifications and Feedback (Web Accessibility Perspectives)](/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, form controls, and mobile devices.
+* [WAI-ARIA](/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
 * [HTML5 living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/) &mdash; The core markup language for the web.

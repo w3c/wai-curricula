@@ -1,16 +1,21 @@
 ---
 title: "Module 7: Rich Applications"
-nav_title: "Rich Applications"
+
+lang: en   # change "en" to lang code, here and 2 @@s below
+last_updated: 2021-03-04  # Change to date of translation YYYY-MM-DD (month in middle)
+# translator: "..."
+# contributors: "..."
+
+nav_title: "Rich Applications"   # Add lang to end /link/to/page/@@
 permalink: /curricula/developer-modules/rich-applications/
-ref: /curricula/developer-modules/rich-applications/
-lang: en
+ref: /curricula/developer-modules/rich-applications/   # Do not change
 github:
   repository: w3c/wai-curricula
-  path: content/developer/rich-applications.md
+  path: content/developer/rich-applications.md   # Add lang to the middle of the filename, e.g., index.@@.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
-footer: >
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
   <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
@@ -67,19 +72,19 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
-  * [WCAG 2 Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
-  * [WCAG 2 Success Criterion 1.4.13 Content on Hover or Focus](https://www.w3.org/WAI/WCAG21/quickref/#content-on-hover-or-focus)
-  * [WCAG 2 Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/quickref/#pause-stop-hide)
-  * [WCAG 2 Success Criterion 2.4.2 Page Titled](https://www.w3.org/WAI/WCAG21/quickref/#page-titled)
-  * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
-  * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
-  * [WCAG 2 Success Criterion 2.5.1 Pointer Gestures](https://www.w3.org/WAI/WCAG21/quickref/#pointer-gestures)
-  * [WCAG 2 Success Criterion 3.2.1 On Focus](https://www.w3.org/WAI/WCAG21/quickref/#on-focus)
-  * [WCAG 2 Success Criterion 4.1.1 Parsing](https://www.w3.org/WAI/WCAG21/quickref/#parsing)
-  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG21/quickref/#name-role-value)
-  * [WCAG 2 Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
+  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 2.1.1 Keyboard](/WCAG21/quickref/#keyboard)
+  * [WCAG 2 Success Criterion 1.4.13 Content on Hover or Focus](/WCAG21/quickref/#content-on-hover-or-focus)
+  * [WCAG 2 Success Criterion 2.2.2 Pause, Stop, Hide](/WCAG21/quickref/#pause-stop-hide)
+  * [WCAG 2 Success Criterion 2.4.2 Page Titled](/WCAG21/quickref/#page-titled)
+  * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](/WCAG21/quickref/#headings-and-labels)
+  * [WCAG 2 Success Criterion 2.4.10 Section Headings](/WCAG21/quickref/#section-headings)
+  * [WCAG 2 Success Criterion 2.5.1 Pointer Gestures](/WCAG21/quickref/#pointer-gestures)
+  * [WCAG 2 Success Criterion 3.2.1 On Focus](/WCAG21/quickref/#on-focus)
+  * [WCAG 2 Success Criterion 4.1.1 Parsing](/WCAG21/quickref/#parsing)
+  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](/WCAG21/quickref/#name-role-value)
+  * [WCAG 2 Success Criterion 4.1.3 Status Messages](/WCAG21/quickref/#status-messages)
   * [HTML5 Living Standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/)
   * [DOM Living Standard {% include_cached icon.html name="external-link" %}](https://dom.spec.whatwg.org/)
   * [WAI-ARIA specification](https://www.w3.org/TR/wai-aria/)
@@ -231,11 +236,11 @@ Suggested resources to support your teaching:
 
 * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/) &mdash; Provides readers with an understanding of how to use WAI-ARIA 1.1 to create accessible rich internet applications.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
-* [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [Text to Speech (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/speech/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-* [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
+* [Notifications and Feedback (Web Accessibility Perspectives)](/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Keyboard Compatibility (Web Accessibility Perspectives)](/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Text to Speech (Web Accessibility Perspectives)](/perspective-videos/speech/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Clear Layout and Design (Web Accessibility Perspectives)](/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+* [WAI-ARIA](/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
 * [HTML5 living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/) &mdash; The core markup language for the web.
 * [DOM Living Standard {% include_cached icon.html name="external-link" %}](https://dom.spec.whatwg.org/)

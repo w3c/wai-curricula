@@ -1,16 +1,21 @@
 ---
 title: "Module 4: Principles, Standards, and Checks"
 nav_title: "Principles, Standards, and Checks"
-permalink: /curricula/foundation-modules/principles-standards-and-checks/
-ref: /curricula/foundation-modules/principles-standards-and-checks/
-lang: en
+
+lang: en   # change "en" to lang code, here and 2 @@s below
+last_updated: 2021-03-04  # Change to date of translation YYYY-MM-DD (month in middle)
+# translator: "..."
+# contributors: "..."
+
+permalink: /curricula/foundation-modules/principles-standards-and-checks/   # Add lang to end /link/to/page/@@
+ref: /curricula/foundation-modules/principles-standards-and-checks/   # Do not change
 github:
   repository: w3c/wai-curricula
-  path: content/foundation/principles-standards-and-checks.md
+  path: content/foundation/principles-standards-and-checks.md   # Add lang to the middle of the filename, e.g., index.@@.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
-footer: >
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
   <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
@@ -79,7 +84,7 @@ Optional topics to achieve the learning outcomes.
 
 {% include excol.html type="middle" %}
 
-Introduce the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR). For an explanation of these concepts, see [Understanding the Four Principles of Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). For an introduction to some web accessibility requirements belonging to each principle, refer to [Accessibility Principles](/fundamentals/accessibility-principles/).
+Introduce the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR). For an explanation of these concepts, see [Understanding the Four Principles of Accessibility](/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). For an introduction to some web accessibility requirements belonging to each principle, refer to [Accessibility Principles](/fundamentals/accessibility-principles/).
 
 Introduce the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR). Refer to [Accessibility Principles](/fundamentals/accessibility-principles/).
 

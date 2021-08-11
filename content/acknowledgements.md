@@ -14,7 +14,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 ---
 
-The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/EO/)) and the [WAI Curricula Task Force](https://www.w3.org/WAI/EO/wiki/WAI_Curricula/WAI_Curricula_TF), with support from the [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/) funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).
+The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Education and Outreach Working Group ([EOWG](/EO/)) and the [WAI Curricula Task Force](/EO/wiki/WAI_Curricula/WAI_Curricula_TF), with support from the [WAI-Guide Project](/about/projects/wai-guide/) funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).
 
 Project Leadership
 ------------------
