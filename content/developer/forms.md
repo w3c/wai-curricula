@@ -247,6 +247,7 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
+* [Designing for Web Accessibility](/tips/designing/) &mdash; Tips for user interface and visual design.
 * [Forms (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
