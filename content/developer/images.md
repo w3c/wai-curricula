@@ -78,10 +78,10 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
-  * [WCAG 2 Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
-  * [WCAG 2 Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
-  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG21/quickref/#name-role-value)
+  * [WCAG 2 Success Criterion 1.1.1 Non-text Content](/WCAG21/quickref/#non-text-content)
+  * [WCAG 2 Success Criterion 1.4.5 Images of Text](/WCAG21/quickref/#images-of-text)
+  * [WCAG 2 Success Criterion 1.4.9 Images of Text (No Exception)](/WCAG21/quickref/#images-of-text-no-exception)
+  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](/WCAG21/quickref/#name-role-value)
   * [HTML `img` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/embedded-content.html#the-img-element)
   * [HTML `alt` attribute {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-alt)
   * [HTML `longdesc` attribute {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/obsolete.html#dom-frame-longdesc)
@@ -124,9 +124,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that the HTML attribute `alt` should contain concise and clear information about the image. State why it is not necessary to include the word "image" in the text alternative because the HTML element `img` is already announced by assistive technologies. Mention that decorative images should have empty ("") values in the `alt` attributes, or that they should be included in the web page using CSS instead, so that they are ignored by assistive technologies. Examples of how to use `alt` to code text alternatives are provided in techniques [H2: Combining adjacent image and text links for the same resource](https://www.w3.org/WAI/WCAG21/Techniques/html/H2) and [H37: Using alt attributes on `img` elements](https://www.w3.org/WAI/WCAG21/Techniques/html/H37).
-* Demonstrate other ways to provide text alternatives, such as the HTML attribute `title` and WAI-ARIA attributes `aria-label` and `aria-labelledby`. Explain that these may not be well supported by older browsers and assistive technologies. Examples of how to use `aria-label` and `aria-labelledby` to provide descriptions for images are provided in techniques [ARIA6: Using aria-label to provide labels for objects](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA6.html) and [ARIA10: Using aria-labelledby to provide a text alternative for non-text content](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA10.html).
-* Show different examples of informative images (including images of text) and contrast them with decorative images. Explain how context can affect the meaning of the same image. Emphasize how each context may require a different text alternative, including an empty text alternative when the image is decorative. Descriptions of informative and decorative images are provided in the WAI tutorials on [Decorative Images](https://www.w3.org/WAI/tutorials/images/decorative/) and [Informative Images](https://www.w3.org/WAI/tutorials/images/informative/).
+* Explain that the HTML attribute `alt` should contain concise and clear information about the image. State why it is not necessary to include the word "image" in the text alternative because the HTML element `img` is already announced by assistive technologies. Mention that decorative images should have empty ("") values in the `alt` attributes, or that they should be included in the web page using CSS instead, so that they are ignored by assistive technologies. Examples of how to use `alt` to code text alternatives are provided in techniques [H2: Combining adjacent image and text links for the same resource](/WCAG21/Techniques/html/H2) and [H37: Using alt attributes on `img` elements](/WCAG21/Techniques/html/H37).
+* Demonstrate other ways to provide text alternatives, such as the HTML attribute `title` and WAI-ARIA attributes `aria-label` and `aria-labelledby`. Explain that these may not be well supported by older browsers and assistive technologies. Examples of how to use `aria-label` and `aria-labelledby` to provide descriptions for images are provided in techniques [ARIA6: Using aria-label to provide labels for objects](/WCAG21/Techniques/aria/ARIA6.html) and [ARIA10: Using aria-labelledby to provide a text alternative for non-text content](/WCAG21/Techniques/aria/ARIA10.html).
+* Show different examples of informative images (including images of text) and contrast them with decorative images. Explain how context can affect the meaning of the same image. Emphasize how each context may require a different text alternative, including an empty text alternative when the image is decorative. Descriptions of informative and decorative images are provided in the WAI tutorials on [Decorative Images](/tutorials/images/decorative/) and [Informative Images](/tutorials/images/informative/).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -159,8 +159,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that functional images serve to initiate an action, rather than to convey information. An explanation of functional images is provided in the WAI tutorials on [Images Concepts](https://www.w3.org/WAI/tutorials/images/).
-* Show examples of button and image input types, such as those for printing and saving a document. Explain that their text alternatives need to refer to the action that the image conveys. Examples of several text alternatives for functional images are provided in the WAI tutorials on [Functional Images](https://www.w3.org/WAI/tutorials/images/functional/).
+* Explain that functional images serve to initiate an action, rather than to convey information. An explanation of functional images is provided in the WAI tutorials on [Images Concepts](/tutorials/images/).
+* Show examples of button and image input types, such as those for printing and saving a document. Explain that their text alternatives need to refer to the action that the image conveys. Examples of several text alternatives for functional images are provided in the WAI tutorials on [Functional Images](/tutorials/images/functional/).
 * Show examples of adjacent link and button texts that may influence the text alternative for a functional image. Explain that when the adjacent text conveys the action performed by the image, a null text alternative should be provided.
 
 #### Ideas to Assess Knowledge for Topic
@@ -199,11 +199,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain ways to provide additional descriptions for complex images and groups of images such as charts, diagrams, and screen shots of materials that are intended to be read as text. For example, the HTML elements `figure` and `figcaption`, the WAI-ARIA attribute `aria-describedby` and the HTML attribute `longdesc`. Explain that the `alt` attribute may be also advised if there are individual images within those groups of images that require specific descriptions. Mention that `longdesc` may not be well supported by some browsers and assistive technologies. Examples of how to describe complex images are provided in the WAI tutorials on [Complex images](https://www.w3.org/WAI/tutorials/images/complex/) and [images of Text](https://www.w3.org/WAI/tutorials/images/textual/).
+* Explain ways to provide additional descriptions for complex images and groups of images such as charts, diagrams, and screen shots of materials that are intended to be read as text. For example, the HTML elements `figure` and `figcaption`, the WAI-ARIA attribute `aria-describedby` and the HTML attribute `longdesc`. Explain that the `alt` attribute may be also advised if there are individual images within those groups of images that require specific descriptions. Mention that `longdesc` may not be well supported by some browsers and assistive technologies. Examples of how to describe complex images are provided in the WAI tutorials on [Complex images](/tutorials/images/complex/) and [images of Text](/tutorials/images/textual/).
 * Discuss how working with the content authors and designers can often lead to simpler ways of communicating the information for everyone. Also discuss how descriptions for complex images benefit many people, so that providing these descriptions directly in the content is often more beneficial than providing these as text alternatives for users of assistive technologies only.
 * Demonstrate how SVG can be used to provide graphics, including animations. Discuss the support for SVG in browsers and assistive technologies, as well as authoring tools to create such graphics. Explain the benefits of graphics provided as SVG, which allows them to be resized without pixelating, allows text and objects within the image to be accessed by assistive technologies, and allows the presentation to be customized.
-* Demonstrate how MathML can be used to code mathematical expressions. Emphasize that screen reader support for MathML is growing, but others may need additional browser extensions to access contents in MathML. Examples of how to use the MathML language to code mathematical expressions are provided in the WAI tutorials on [mathematical expressions](https://www.w3.org/WAI/tutorials/images/textual/#mathematical-expressions).
-* Demonstrate that many visual effects can now be achieved by using CSS Transforms and CSS Fonts, instead of using images of text. Explain the benefits of using real text, which can be resized and adapted, as opposed to images that do not support such uses. Examples of how to use CSS3 properties to style text decorations are provided in the WAI tutorials on [Using CSS](https://www.w3.org/WAI/tutorials/images/textual/#using-css3).
+* Demonstrate how MathML can be used to code mathematical expressions. Emphasize that screen reader support for MathML is growing, but others may need additional browser extensions to access contents in MathML. Examples of how to use the MathML language to code mathematical expressions are provided in the WAI tutorials on [mathematical expressions](/tutorials/images/textual/#mathematical-expressions).
+* Demonstrate that many visual effects can now be achieved by using CSS Transforms and CSS Fonts, instead of using images of text. Explain the benefits of using real text, which can be resized and adapted, as opposed to images that do not support such uses. Examples of how to use CSS3 properties to style text decorations are provided in the WAI tutorials on [Using CSS](/tutorials/images/textual/#using-css3).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -229,11 +229,11 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-* [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
+* [Images (WAI Web Accessibility Tutorials)](/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
-* [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-* [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
+* [Video Captions (Web Accessibility Perspectives)](/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+* [WAI-ARIA](/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
 * [HTML5 living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/) &mdash; The core markup language for the web.
 * [CSS Specifications](https://www.w3.org/TR/CSS).
 * [SVG](https://www.w3.org/TR/SVG2/)

@@ -71,8 +71,8 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 1.3.1. Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG21/quickref/#name-role-value)
+  * [WCAG 2 Success Criterion 1.3.1. Info and Relationships](/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 4.1.2 Name, Role, Value](/WCAG21/quickref/#name-role-value)
   * [HTML `table` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#the-table-element)
   * [HTML `tr` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#the-tr-element)
   * [HTML `th` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#the-th-element)
@@ -114,9 +114,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Define simple tables as those that contain one row or column header. Explain that speech technologies can associate information in the header and data cells if they are marked up appropriately. Examples of simple tables are provided in the WAI tutorials on [Tables with one header](https://www.w3.org/WAI/tutorials/tables/one-header/).
-* Show examples of use of the HTML elements `table`, `th`, and `td`. Explain that `table` is used to mark up the table layer, `th` is used to code header cells, and `td` is used to code data cells. For examples of how to mark up a simple table, refer to technique [H51: Using table markup to present tabular data](https://www.w3.org/WAI/WCAG21/Techniques/html/H51).
-* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate tables, including moving between header and data cells. Explore advanced functionality that some tools provide, such as presenting tables as linear information. Examples of how people with disabilities interact with the web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
+* Define simple tables as those that contain one row or column header. Explain that speech technologies can associate information in the header and data cells if they are marked up appropriately. Examples of simple tables are provided in the WAI tutorials on [Tables with one header](/tutorials/tables/one-header/).
+* Show examples of use of the HTML elements `table`, `th`, and `td`. Explain that `table` is used to mark up the table layer, `th` is used to code header cells, and `td` is used to code data cells. For examples of how to mark up a simple table, refer to technique [H51: Using table markup to present tabular data](/WCAG21/Techniques/html/H51).
+* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate tables, including moving between header and data cells. Explore advanced functionality that some tools provide, such as presenting tables as linear information. Examples of how people with disabilities interact with the web are provided in [How People with Disabilities Use the Web](/people-use-web/).
 * Provide examples of alternative renderings for tables, such as splitting the table into several lists, or showing only parts of the table in a mobile viewport.
 * Explain why layout tables should be avoided, and CSS techniques for visual design should be used instead. Mention that, if a layout table still needs to be used, marking up the table element using `role="presentation"` will help assistive technologies present the information contained in the layout table without the table semantics.
 
@@ -155,9 +155,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
  
 * Explain that complex tables have multiple or irregular column or row headers. Indicate that assistive technologies may not interpret the direction and scope of such headers, so that it is necessary to provide additional markup to explicitly associate header and data cells.
-* Demonstrate the use of the HTML attribute `scope` and its values `row`, `col`, `rowgroup`, and `colgroup`, to code the direction of the headers. Explain that these values indicate headers for row, column, group of rows, and group of columns respectively. Examples of how to use the HTML attribute `scope` are provided in the WAI tutorials on [Tables with two headers](https://www.w3.org/WAI/tutorials/tables/two-headers/).
-* Show examples of headers that span multiple rows or columns. Explain how to code them using the HTML elements `col`, `colgroup`, `thead` and `tbody`, as well as the attributes `colspan`, `rowspan`, and `rowgroup`. Examples of how to code headers that span several rows or columns are provided in the WAI tutorials on [Tables with irregular headers](https://www.w3.org/WAI/tutorials/tables/irregular/).
-* Show examples of uses of the `headers` attribute together with unique identifiers to associate more than two headers that relate to the same data cell. Explain that the identifiers of the corresponding header cells need to be separated by spaces in the value of the attribute `headers`. Examples of how to use the `headers` attribute are provided in the WAI tutorials on [Tables with multi-level headers](https://www.w3.org/WAI/tutorials/tables/multi-level/).
+* Demonstrate the use of the HTML attribute `scope` and its values `row`, `col`, `rowgroup`, and `colgroup`, to code the direction of the headers. Explain that these values indicate headers for row, column, group of rows, and group of columns respectively. Examples of how to use the HTML attribute `scope` are provided in the WAI tutorials on [Tables with two headers](/tutorials/tables/two-headers/).
+* Show examples of headers that span multiple rows or columns. Explain how to code them using the HTML elements `col`, `colgroup`, `thead` and `tbody`, as well as the attributes `colspan`, `rowspan`, and `rowgroup`. Examples of how to code headers that span several rows or columns are provided in the WAI tutorials on [Tables with irregular headers](/tutorials/tables/irregular/).
+* Show examples of uses of the `headers` attribute together with unique identifiers to associate more than two headers that relate to the same data cell. Explain that the identifiers of the corresponding header cells need to be separated by spaces in the value of the attribute `headers`. Examples of how to use the `headers` attribute are provided in the WAI tutorials on [Tables with multi-level headers](/tutorials/tables/multi-level/).
 * Show examples of sortable tables. Explain that the component that allows to sort the data is usually coded as a button so that it can be used with different input methods. Emphasize that additional feedback may need to be provided based on the support for the WAI-ARIA attribute `aria-sort`, so that users are aware of how data is currently sorted. Examples of how to provide sortable tables are provided in the WAI-ARIA Authoring Practices [Data grid example 2](https://www.w3.org/TR/wai-aria-practices/examples/grid/dataGrids.html).
 
 #### Ideas to Assess Knowledge for Topic
@@ -194,9 +194,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of use of the HTML element `caption` to provide descriptions for the purpose of a table. Mention that it needs to be the first child of the element `table` and that its contents are visible for all users by default. Examples of how to use the element `caption` are provided in technique [H39: Using caption elements to associate data table captions with data tables](https://www.w3.org/WAI/WCAG21/Techniques/html/H39).
-* Explain the use of methods to provide further details about the structure and contents of a table. For example, the HTML elements `figure` and `figcaption`, and the WAI-ARIA attributes `aria-labelledby` and `aria-describedby`. Explain that the element `table` needs to be wrapped by the element `figure`, and that the element `figcaption` containing the text needs to be the first child of the element `figure`. Examples of how to code a table summary are provided in the WAI tutorials on [Caption and summary](https://www.w3.org/WAI/tutorials/tables/caption-summary/).
-* Explain the use of the attribute `summary` to provide people using a screen reader with detailed information about the structure of complex tables. Emphasize that it is obsolete according to the HTML5 specification. Its usage is only advisable for fallback purposes. Newer techniques (discussed above on this topic) are recommended. Examples of how to use the attribute `summary` are provided in technique [H73: Using the summary attribute of the table element](https://www.w3.org/WAI/WCAG21/Techniques/html/H73).
+* Show examples of use of the HTML element `caption` to provide descriptions for the purpose of a table. Mention that it needs to be the first child of the element `table` and that its contents are visible for all users by default. Examples of how to use the element `caption` are provided in technique [H39: Using caption elements to associate data table captions with data tables](/WCAG21/Techniques/html/H39).
+* Explain the use of methods to provide further details about the structure and contents of a table. For example, the HTML elements `figure` and `figcaption`, and the WAI-ARIA attributes `aria-labelledby` and `aria-describedby`. Explain that the element `table` needs to be wrapped by the element `figure`, and that the element `figcaption` containing the text needs to be the first child of the element `figure`. Examples of how to code a table summary are provided in the WAI tutorials on [Caption and summary](/tutorials/tables/caption-summary/).
+* Explain the use of the attribute `summary` to provide people using a screen reader with detailed information about the structure of complex tables. Emphasize that it is obsolete according to the HTML5 specification. Its usage is only advisable for fallback purposes. Newer techniques (discussed above on this topic) are recommended. Examples of how to use the attribute `summary` are provided in technique [H73: Using the summary attribute of the table element](/WCAG21/Techniques/html/H73).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -222,10 +222,10 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-* [Tables (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/tables/) &mdash; Shows how to develop tables that are accessible to people with disabilities.
+* [Tables (WAI Web Accessibility Tutorials)](/tutorials/tables/) &mdash; Shows how to develop tables that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
-* [Text to Speech (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/speech/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-* [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
+* [Text to Speech (Web Accessibility Perspectives)](/perspective-videos/speech/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Clear Layout and Design (Web Accessibility Perspectives)](/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+* [WAI-ARIA](/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
 * [HTML5 living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/) &mdash; The core markup language for the web.

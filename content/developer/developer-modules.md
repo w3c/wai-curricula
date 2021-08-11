@@ -47,7 +47,7 @@ These modules focus on accessible markup and coding techniques. They are primari
 
 ## Prerequisites for Students
 
-The developer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](https://www.w3.org/WAI/curricula/foundation-modules/):
+The developer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](/curricula/foundation-modules/what-is-web-accessibility/)
   * Topic: Stories of People with Disabilities

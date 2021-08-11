@@ -75,13 +75,13 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG 2 Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
-  * [WCAG 2 Success Criterion 2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
-  * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
-  * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
-  * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
-  * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
+  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 2.1.1 Keyboard](/WCAG21/quickref/#keyboard)
+  * [WCAG 2 Success Criterion 2.1.2 No Keyboard Trap](/WCAG21/quickref/#no-keyboard-trap)
+  * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](/WCAG21/quickref/#bypass-blocks)
+  * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](/WCAG21/quickref/#link-purpose-in-context)
+  * [WCAG 2 Success Criterion 2.4.8 Location](/WCAG21/quickref/#location)
+  * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](/WCAG21/quickref/#consistent-navigation)
   * [HTML5 sections {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/sections.html#sections)
   * [HTML5 grouping content {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/grouping-content.html#grouping-content)
   * [WAI-ARIA landmark roles](https://www.w3.org/TR/wai-aria/#landmark_roles)
@@ -118,9 +118,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of the HTML5 element `nav` to mark up a region as navigational. An example of how to use this element is provided in the WAI tutorials on [Identify menus](https://www.w3.org/WAI/tutorials/menus/structure/#identify-menus).
-* Refer back to the HTML elements `ul`, `ol`, and `li` taught in the previous module. Explain that they serve to structure and organize lists and list items. Examples of how to use these elements within a menu structure are provided in the WAI tutorials on [Menu representation](https://www.w3.org/WAI/tutorials/menus/structure/#menu-representation).
-* Provide examples of labels for menu items. Mention that these labels can be either text or graphics with their corresponding alternative texts within the HTML element `a`. Emphasize that people with cognitive disabilities and people using screen readers rely on labels to identify the purpose of each of the menu items. For examples of how to provide descriptive link texts, see technique [G91: Providing link text that describes the purpose of a link](https://www.w3.org/WAI/WCAG21/Techniques/general/G91.html).
+* Show examples of the HTML5 element `nav` to mark up a region as navigational. An example of how to use this element is provided in the WAI tutorials on [Identify menus](/tutorials/menus/structure/#identify-menus).
+* Refer back to the HTML elements `ul`, `ol`, and `li` taught in the previous module. Explain that they serve to structure and organize lists and list items. Examples of how to use these elements within a menu structure are provided in the WAI tutorials on [Menu representation](/tutorials/menus/structure/#menu-representation).
+* Provide examples of labels for menu items. Mention that these labels can be either text or graphics with their corresponding alternative texts within the HTML element `a`. Emphasize that people with cognitive disabilities and people using screen readers rely on labels to identify the purpose of each of the menu items. For examples of how to provide descriptive link texts, see technique [G91: Providing link text that describes the purpose of a link](/WCAG21/Techniques/general/G91.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -154,9 +154,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different types of menus, such as navigational, application, and breadcrumb trails. Explain that they need to be marked up and styled so that they are placed in the expected position within the page. Mention that menu location is a shared responsibility among different team members: content authors, designers, and developers. Examples of the expected positions of menus within the page are provided in the WAI tutorials on [Location](https://www.w3.org/WAI/tutorials/menus/styling/#location).
-* Introduce the different states that a menu item can have, such as hover, focus, current, active, and visited. Explain how to code these states so that they are perceived by all users. Examples of how to code these states are provided in the WAI tutorials, [Menu Items](https://www.w3.org/WAI/tutorials/menus/styling/#menu-items).
-* Show examples of different layouts for menus. Explain that menus should adapt to different text sizes users may choose. Mention that menus should have enough space so that they can be operated by all users. Considerations about readability and size of menu items are provided in the WAI tutorials, [General considerations](https://www.w3.org/WAI/tutorials/menus/styling/#general-considerations).
+* Show examples of different types of menus, such as navigational, application, and breadcrumb trails. Explain that they need to be marked up and styled so that they are placed in the expected position within the page. Mention that menu location is a shared responsibility among different team members: content authors, designers, and developers. Examples of the expected positions of menus within the page are provided in the WAI tutorials on [Location](/tutorials/menus/styling/#location).
+* Introduce the different states that a menu item can have, such as hover, focus, current, active, and visited. Explain how to code these states so that they are perceived by all users. Examples of how to code these states are provided in the WAI tutorials, [Menu Items](/tutorials/menus/styling/#menu-items).
+* Show examples of different layouts for menus. Explain that menus should adapt to different text sizes users may choose. Mention that menus should have enough space so that they can be operated by all users. Considerations about readability and size of menu items are provided in the WAI tutorials, [General considerations](/tutorials/menus/styling/#general-considerations).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -189,10 +189,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of menus that contain submenu items. Explain that the layer with the submenu items needs to be marked up as a nested list, and that each of the submenu items needs to be marked up as a list item. An example of the structure of menu and submenu items is provided in the WAI tutorials on [Indicate submenus](https://www.w3.org/WAI/tutorials/menus/flyout/#indicate-submenus).
-* Explain the use of the WAI-ARIA attribute `aria-haspopup` to mark up the presence of submenu items. Indicate that this attribute should be present in the original HTML markup. An example of how to use the WAI-ARIA attribute `aria-haspopup` is provided in the WAI tutorials on [Indicate submenus](https://www.w3.org/WAI/tutorials/menus/flyout/#indicate-submenus).
-* Show examples of different ways to interact with fly-out menus, such as using the mouse, keyboard, and voice interaction. Examples of how to make functionality of fly-out menus available to all users are provided in the WAI tutorials on [Fly-Out functionality](https://www.w3.org/WAI/tutorials/menus/flyout/#fly-out-functionality). 
-* Explain what the WAI-ARIA attribute `aria-expanded` conveys: if the submenu items are visible or hidden. Explain that the attribute needs to be present in the original HTML markup. Examples of how to use the `aria-expanded` attribute are provided in the WAI tutorials on [Indicate submenus](https://www.w3.org/WAI/tutorials/menus/flyout/#indicate-submenus).
+* Show examples of menus that contain submenu items. Explain that the layer with the submenu items needs to be marked up as a nested list, and that each of the submenu items needs to be marked up as a list item. An example of the structure of menu and submenu items is provided in the WAI tutorials on [Indicate submenus](/tutorials/menus/flyout/#indicate-submenus).
+* Explain the use of the WAI-ARIA attribute `aria-haspopup` to mark up the presence of submenu items. Indicate that this attribute should be present in the original HTML markup. An example of how to use the WAI-ARIA attribute `aria-haspopup` is provided in the WAI tutorials on [Indicate submenus](/tutorials/menus/flyout/#indicate-submenus).
+* Show examples of different ways to interact with fly-out menus, such as using the mouse, keyboard, and voice interaction. Examples of how to make functionality of fly-out menus available to all users are provided in the WAI tutorials on [Fly-Out functionality](/tutorials/menus/flyout/#fly-out-functionality). 
+* Explain what the WAI-ARIA attribute `aria-expanded` conveys: if the submenu items are visible or hidden. Explain that the attribute needs to be present in the original HTML markup. Examples of how to use the `aria-expanded` attribute are provided in the WAI tutorials on [Indicate submenus](/tutorials/menus/flyout/#indicate-submenus).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -228,8 +228,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different types of menus in web applications. Emphasize that navigational menus require specific (desktop-like) keyboard interactions that are different from the tab key used in websites. Explain that additional markup is necessary for assistive technologies to render these menus adequately. Examples of how to code application menus are provided in the WAI tutorials on [Additional markup](https://www.w3.org/WAI/tutorials/menus/application-menus/#additional-markup).
-* Show examples of how an application menu is operated using the keyboard. Explain that additional functionality needs to be added via scripts so that keyboard patterns resemble those of a desktop menu. Examples of how to code application menus so that they can be operable by keyboard are provided in the WAI tutorials on [Functionality](https://www.w3.org/WAI/tutorials/menus/application-menus/#functionality) and [Keyboard behavior](https://www.w3.org/WAI/tutorials/menus/application-menus/#keyboard-behavior).
+* Show examples of different types of menus in web applications. Emphasize that navigational menus require specific (desktop-like) keyboard interactions that are different from the tab key used in websites. Explain that additional markup is necessary for assistive technologies to render these menus adequately. Examples of how to code application menus are provided in the WAI tutorials on [Additional markup](/tutorials/menus/application-menus/#additional-markup).
+* Show examples of how an application menu is operated using the keyboard. Explain that additional functionality needs to be added via scripts so that keyboard patterns resemble those of a desktop menu. Examples of how to code application menus so that they can be operable by keyboard are provided in the WAI tutorials on [Functionality](/tutorials/menus/application-menus/#functionality) and [Keyboard behavior](/tutorials/menus/application-menus/#keyboard-behavior).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -252,9 +252,9 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
-* [Menus (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/menus/) &mdash; Shows how to develop navigational mechanisms that are accessible to people with disabilities.
+* [Menus (WAI Web Accessibility Tutorials)](/tutorials/menus/) &mdash; Shows how to develop navigational mechanisms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
-* [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-* [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
+* [Keyboard Compatibility (Web Accessibility Perspectives)](/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+* [WAI-ARIA](/standards-guidelines/aria/) &mdash; Describes the roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.
 * [HTML living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/) &mdash; The core markup language for the web.

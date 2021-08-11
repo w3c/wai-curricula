@@ -147,7 +147,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Introduce roles and responsibilities for accessibility. See [Accessibility Roles and Responsibilities](https://www.w3.org/WAI/EO/wiki/Role_definition_document).
+Introduce roles and responsibilities for accessibility. See [Accessibility Roles and Responsibilities](/EO/wiki/Role_definition_document).
 
 #### Learning Outcomes for Topic
 
