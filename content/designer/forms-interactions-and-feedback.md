@@ -32,7 +32,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to interact with components that accept user input
-* design the user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
+* design user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * create designs with information about custom keyboard shortcuts for complex widgets and applications
 * provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
@@ -123,7 +123,7 @@ Emphasize that defining the keyboard interactions is a designers' responsibility
 
 Students should be able to:
 
-* design the user experiences for keyboard navigation through and inside custom components, for example:
+* design user experiences for keyboard navigation through and inside custom components, for example:
   * using the tab key to move through different components
   * using the enter key to enter a specific component and to select a specific item on a component
   * using the arrow keys to move through elements inside components, such as application menus, dialogs, list items and grid cells

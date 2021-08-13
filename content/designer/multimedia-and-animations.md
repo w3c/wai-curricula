@@ -33,8 +33,10 @@ Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
 * design the placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
-* design the user experiences for transcripts, audio descriptions, captions, and sign language, including mechanisms for turning on and off such alternatives and ways for users to interact with the alternatives
-* design multimedia player controls that have clear and descriptive names, that are easy to find, and that are always reachable to users
+* design user experiences that consider transcripts, audio descriptions, captions, and sign language, including
+  * mechanisms for turning on and off such alternatives 
+  * ways for users to interact with the alternatives
+* design multimedia player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
 * design multimedia players that support different methods of interaction, including mouse, keyboard, touch, and voice
 * design mechanisms to pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
 * design mechanisms to mute or control the volume of auto-playing audio
@@ -117,14 +119,14 @@ Students should be able to
 * define audio descriptions as descriptions to adequately get the visual information needed to understand the content
 * define captions as text versions of the speech and non-speech audio information needed to understand the content
 * define sign language as the native language of some deaf people
-* design mechanisms for pausing, stopping, or hiding that plays automatically for more than 3 seconds
+* design mechanisms for pausing, stopping, or hiding audio that plays automatically for more than 3 seconds
+* design mechanisms to provide alternatives for multimedia content, including text transcripts for audio and visual information, audio descriptions, captions, and sign language
 * design mechanisms to turn on and off audio descriptions, captions, and sign language
 * design player controls that:
   * have descriptive names
   * can be operable by keyboard
   * are easy to find
-  * are always reachable
-  * do not disappear when the media starts playing
+  * are always reachable for users
 
 #### Teaching Ideas for Topic
 

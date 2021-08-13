@@ -33,14 +33,14 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different types of navigational mechanisms, including menus, tables of contents, and site maps
-* define different interactions for menus and other navigational mechanisms, including keyboard, mouse, and touch
+* define different interactions for menus and other navigational mechanisms, including keyboard, mouse, touch, and voice
 * define clear and consistent visual and non-visual presentation of menus and menu items
 * define clear and consistent visual and non-visual indication of state changes for menu items
 * define mechanisms to identify blocks of repeated content
 * cooperate with developers to implement mechanisms that bypass blocks of repeated content
 * define mechanisms to help users to locate specific web pages within sets of web pages, for example by providing breadcrumb trails, site maps, and descriptive page titles
 * identify related requirements for developers to implement:
-  * interactions for navigational mechanisms, including keyboard, mouse, and touch
+  * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational mechanisms
   * semantics for menus, menu items, and menu item states
 
@@ -118,7 +118,7 @@ Students should be able to:
 * identify related requirements for developers to implement:
   * non-visual identification (and naming)of menus,
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited
-  * support for different interaction methods, including keyboard, mouse, and touch
+  * support for different interaction methods, including keyboard, mouse, touch, and voice
   * support for different text and screen sizes
  
 #### Teaching Ideas
@@ -126,7 +126,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with navigation menus.
-* Demonstrate navigation menu interaction using different input devices, such as keyboard, mouse, and touch. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Demonstrate navigation menu interaction using different input devices, such as keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 * Show examples of navigation menus and menu items large text. Explain that, when used in smaller viewports and with different screen configurations, these text needs to wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
@@ -180,7 +180,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a mechanism to bypass such blocks.
-* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigational mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
+* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, site maps, and tables of contents.
 * Practical &mdash; Give students an interface with excessive use of navigational mechanisms and ask them to determine which of these navigational mechanisms should stay and which should be removed. Assess how students balance the use of navigational mechanisms to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
@@ -191,7 +191,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and visual cues to indicate the current page.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and text and visual cues to indicate the current page.
 
 #### Learning Outcomes for Topic
 
@@ -199,11 +199,11 @@ Students should be able to:
 
 * design mechanisms  for users to locate specific web pages within sets of web pages, for example:
   * descriptive page titles
-  * breadcrumb trails
-  * textual and visual cues in the navigation menu to indicate the current page
+  * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
-* identify related requirements for developers to code location mechanisms
+  * breadcrumb trails
 * balance the use of location mechanisms to avoid distractions and unnecessary noise
+* identify related requirements for developers to apply semantics to page titles, headings, non-visual cues, and breadcrumb trails
 
 ### Teaching Ideas
 
@@ -216,7 +216,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of appropriate indications to communicate the location of a web page within a set of web pages, including using text and visual cues, breadcrumb trails, and descriptive titles and headings.
+* Practical &mdash; Give students a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of text and visual cues, breadcrumb trails, and descriptive titles and headings.
 * Practical &mdash; Present students with a set of web pages and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
 
 {% include excol.html type="end" %}

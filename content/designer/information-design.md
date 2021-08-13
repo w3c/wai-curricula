@@ -147,7 +147,7 @@ Students should be able to:
 
 * define related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
 * describe the poor user experience inherent to long data lists and grids and identify different approaches to address this, for example by providing search boxes and mechanisms to filter data, or by splitting larger data sets into smaller ones
-* define mechanisms to customize shown results after a search query, for example the number of products per page
+* define mechanisms to customize number of shown results after a search query, for example the number of products per page
 
 #### Teaching Ideas for Topic
 

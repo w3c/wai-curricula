@@ -117,7 +117,7 @@ Students should be able to:
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
-* define layouts that enable users to change colors based on their customized style sheets
+* define layouts that enable users to change colors based on customized screen sizes, screen configurations, and style sheets
 * use visual cues in addition to color, for example using different patterns, shapes, and icons
 * use non-visual cues for people who cannot perceive color, for example using text to complement information provided visually
 
@@ -151,7 +151,7 @@ Explain how people with disabilities rely on distinguishable and customizable st
 
 Students should be able to:
 
-* use clear and distinguishable styles for links, buttons, form elements, and text
+* use clear and distinguishable styles for links, buttons, form labels and instructions, and text
 * define customizable style properties to support content readability, including:
   * font types
   * font sizes
@@ -188,7 +188,7 @@ Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using appropriate visual and programmatic landmarks, such as headings
-* design layouts that enable to present landmarks and cues in different screen sizes, screen confgurations, and style sheets
+* design layouts that enable to present landmarks and cues in different screen sizes, screen configurations, and style sheets
 * use text cues to supplement information provided through vision only, for example to convey required form fields represented with an icon and available dates in a calendar represented with a different background color
 
 #### Teaching Ideas for Topic

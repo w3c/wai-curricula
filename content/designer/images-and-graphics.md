@@ -173,13 +173,13 @@ Optional ideas to support assessment.
 
 Complex images are those whose description requires more than a short phrase or sentence. Show examples of complex images, including diagrams and charts, and explain accessibility requirements that these images have, such as appropriate contrast ratios and appropriate text descriptions.
 
-Explain that coordination among different team members is required to assess the use of complex images based on their adjacent components (for example text and other images) and on the overall context, so that the relations are perceived and understood visually and through the provided descriptions.
+Explain that coordination among different team members is required to assess the use of complex images based on the overall context, so that the information of such images is perceived and understood visually and through the provided descriptions.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* use appropriate contrast ratios for complex images when these images are required to understand the contents
+* use appropriate contrast ratios for complex images
 * identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
 * determine if and how complex images are operated using the mouse, keyboard, and other input devices
 
@@ -205,13 +205,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/) to explain that decorative images also need to adhere to accessibility requirements such as use of color, ability to resize, and flexibility. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image, the presence of similar information in the adjacent content, and the overall context
+* describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
 * assess the use of decorative images based on other images in the content and on the overall context where it is included
 * explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
