@@ -25,24 +25,24 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to navigate websites and applications
-* describe accessible behaviors, visual affordances, and interaction patterns of navigation menus, including static navigation menus, fly-out menus, and mega menus
+* describe accessible behaviors, visual affordances, and interaction patterns of navigation menus and other navigational mechanisms
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
-* design different types of navigation mechanisms, including menus, tables of contents, and site maps
-* define different interactions for menus and other navigation mechanisms, including keyboard, mouse, and touch
-* provide clear and consistent visual presentation of menus and menu items
-* provide clear and consistent visual indication of state changes for menu items
-* provide mechanisms for developers to identify blocks of repeated content
+* design different types of navigational mechanisms, including menus, tables of contents, and site maps
+* define different interactions for menus and other navigational mechanisms, including keyboard, mouse, and touch
+* define clear and consistent visual and non-visual presentation of menus and menu items
+* define clear and consistent visual and non-visual indication of state changes for menu items
+* define mechanisms to identify blocks of repeated content
 * cooperate with developers to implement mechanisms that bypass blocks of repeated content
-* provide mechanisms to help users to locate specific web pages within sets of web pages, for example by providing breadcrumb trails, site maps, and descriptive page titles
+* define mechanisms to help users to locate specific web pages within sets of web pages, for example by providing breadcrumb trails, site maps, and descriptive page titles
 * identify related requirements for developers to implement:
-  * interactions for navigation mechanisms, including keyboard, mouse, and touch
-  * clear and descriptive names for navigation mechanisms
-  * necessary semantics for menus, menu items, and menu item states
+  * interactions for navigational mechanisms, including keyboard, mouse, and touch
+  * clear and descriptive names for navigational mechanisms
+  * semantics for menus, menu items, and menu item states
 
 {% include excol.html type="all" %}
 
@@ -110,8 +110,8 @@ Explain styling conventions for menus, such as location, appropriate size, and a
 Students should be able to:
 
 * identify and describe uses of different types of navigation menus, such as static, fly-out, and mega menus
-* provide visual cues to distinguish menus from other components, 
-* provide consistent styling for menu identification across a set of web pages
+* define visual and text cues to distinguish menus from other components, 
+* define consistent styling for menu identification across a set of web pages
 * define interactions inside navigation menus, including mouse, keyboard, and touch
 * design navigation menus that adapt to the different text sizes, screen magnifications, and screen sizes and resolutions 
 * design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
@@ -142,25 +142,26 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Other Navigation Mechanisms
+### Topic: Other navigational mechanisms
 
 {% include excol.html type="middle" %}
 
-Introduce other navigation mechanisms that may be used depending on the characteristics of the website or application. Emphasize that different groups of users rely on different navigation mechanisms, so designers need to assess which ones to use to favor user various experiences.
+Introduce other navigational mechanisms that may be used depending on the characteristics of the website or application. Emphasize that different groups of users rely on different navigational mechanisms, so designers need to assess which ones to use to favor various user experiences.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define blocks of repeated content, such as navigation bars and header contents, and define mechanisms to skip such blocks using the following approaches:
+* define mechanisms to identify blocks of repeated content, such as navigation bars and header contents
+* define mechanisms to skip blocks of repeated content using the following approaches:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
-* provide other navigation mechanisms to ensure web pages and application views can be reached using the following methods:
+* define other navigational mechanisms to ensure web pages and application views can be reached using the following methods:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
-* balance the use of navigation mechanisms to avoid distractions and unnecessary noise
+* balance the use of navigational mechanisms to avoid distractions and unnecessary noise
 
 #### Teaching Ideas for Topic
 
@@ -179,8 +180,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a mechanism to bypass such blocks.
-* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigation mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
-* Practical &mdash; Give students an interface with excessive use of navigation mechanisms and ask them to determine which of these navigation mechanisms should stay and which should be removed. Assess how students balance the use of navigation mechanisms to avoid distraction and unnecessary noise.
+* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students provide multiple navigational mechanisms where appropriate, such as search functionalities, breadcrumb trails, site maps, and tables of contents.
+* Practical &mdash; Give students an interface with excessive use of navigational mechanisms and ask them to determine which of these navigational mechanisms should stay and which should be removed. Assess how students balance the use of navigational mechanisms to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
 
@@ -209,13 +210,13 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of breadcrumb trails. Explain that they provide information about the users location in the context of a set of web pages. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
-* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some browsers and assistive technologies do not show the information on the title. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
+* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some browsers and assistive technologies may truncate the titles or not show the at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of appropriate indications to communicate the location of a web page within a set of web pages.
+* Practical &mdash; Present students with a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of appropriate indications to communicate the location of a web page within a set of web pages, including using text and visual cues, breadcrumb trails, and descriptive titles and headings.
 * Practical &mdash; Present students with a set of web pages and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
 
 {% include excol.html type="end" %}

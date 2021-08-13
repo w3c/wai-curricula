@@ -6,7 +6,7 @@ ref: /curricula/designer-modules/flexible-color-layout-and-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/flexible-colorlayout-and-design.md
+  path: content/designer/flexible-color-layout-and-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain accessibility requirements for user that can have customized colors, size, and spacing between components
 * explain how people with disabilities rely on designs that adapt to different screen sizes, configurations, and style sheets
+* explain accessibility requirements for interfaces that can have customized colors, font size, font type, and spacing between components
  
 ## Learning Outcomes for Module
 
@@ -38,11 +38,12 @@ Students should be able to:
 
 * explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
 * design layouts with sufficient color contrast for text, images of text, and controls
-* use headings, landmarks, text cues, patterns, and icons to supplement information conveyed through color
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
-* position components where users expect them
-* identify related requirements for developers to apply the necessary semantics to user interface components
+* design layouts that adapt to different screen sizes, configurations, and user style sheets
+* use headings, landmarks, and spacing to group related content
+* design layouts using a combination of text cues, patterns, and icons to convey information 
+* identify related requirements for developers to apply the necessary semantics to interface components
 
 {% include excol.html type="all" %}
 
@@ -104,8 +105,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons. 
 Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
+
+Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons.
 
 #### Learning Outcomes for Topic
 
@@ -115,8 +117,9 @@ Students should be able to:
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
+* define layouts that enable users to change colors based on their customized style sheets
 * use visual cues in addition to color, for example using different patterns, shapes, and icons
-* use non-visual cues for people who do not perceive color, for example using text to complement information provided visually
+* use non-visual cues for people who cannot perceive color, for example using text to complement information provided visually
 
 #### Teaching Ideas for Topic
 
@@ -132,7 +135,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
+* Practical &mdash; Give students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
 
@@ -142,23 +145,24 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on different style properties, such as font types, sizes, and spacing, to support readability.
+Explain how people with disabilities rely on distinguishable and customizable style properties, such as font types, sizes, and spacing, to support readability.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * use clear and distinguishable styles for links, buttons, form elements, and text
-* define customizable font types to support content readability
-* define customizable font sizes to support readability
-* define adequate spacing to support readability
-* define customizable colors to support readability
+* define customizable style properties to support content readability, including:
+  * font types
+  * font sizes
+  * spacing
+  * colors
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles to distinguish user interface components, such as links, buttons, form labels and instructions, and text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
+* Demonstrate the use of styles to distinguish links, buttons, form labels and instructions, from regular text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to be able to read and understand content properly.
 * Show examples of different page layouts with and without adequate spacing. Explain how spacing allows for better readability of content and for better identification of the different parts of the user interface.
 
@@ -182,9 +186,10 @@ Explain how people with disabilities perceive different web page regions and con
 
 Students should be able to:
 
-* define page regions by using appropriate visual and programmatic landmarks, such as headings
-* use text cues to supplement information provided through vision only, for example to convey required form fields represented with an icon and available dates in a calendar represented with a different background color
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
+* define page regions by using appropriate visual and programmatic landmarks, such as headings
+* design layouts that enable to present landmarks and cues in different screen sizes, screen confgurations, and style sheets
+* use text cues to supplement information provided through vision only, for example to convey required form fields represented with an icon and available dates in a calendar represented with a different background color
 
 #### Teaching Ideas for Topic
 

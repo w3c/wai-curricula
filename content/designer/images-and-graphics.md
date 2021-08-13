@@ -106,7 +106,7 @@ Students should be able to:
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
 * use consistent naming and imagery for components that have the same functionality across web pages
-* explain the benefits of conveying functionality using text labels and decorative images, instead of using images with text alternatives that are only available to some users, such as screen reader users
+* explain the benefits of using text labels and decorative images for functionality, instead of using images with text alternatives that are only available to some users, such as screen reader users
 * apply appropriate contrast ratios for functional images
 
 #### Teaching Ideas for Topic

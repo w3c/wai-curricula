@@ -97,21 +97,20 @@ Topics to achieve the learning outcomes:
 
 Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of icons and other visual cues to help people understand 
- and instructions presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
+Discuss the use of icons and other visual cues to help people understand information presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design textual content that can be split into smaller and more manageable pieces by using:
+* design textual content as manageable passages of text, for example by splitting larger blocks of text into smaller and more manageable pieces using:
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
   * pages
   * chapter markers (in digital publications)
 * design user interfaces with visual representation that accompanies the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* define mechanisms to provide specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
-* define mechanisms to provide the expanded form or meaning of acronyms and abbreviations
+* reduce the use of professional terms, idioms, and jargon where possible, and provide definitions for such phrases and words where appropriate
+* supplement acronyms and abbreviations by providing their expanded form or meaning
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
