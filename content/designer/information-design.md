@@ -95,9 +95,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Module 3: Navigation](/curricula/designer-modules/navigation/). Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
+Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of icons and other visual cues to help people understand information presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
+Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand information presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -108,9 +108,9 @@ Students should be able to:
   * sidebars and other page regions
   * pages
   * chapter markers (in digital publications)
-* design user interfaces with visual representation that accompanies the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* reduce the use of professional terms, idioms, and jargon where possible, and provide definitions for such phrases and words where appropriate
-* supplement acronyms and abbreviations by providing their expanded form or meaning
+* create visual representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
+* assess the use of professional terms, idioms, and jargon, and provide definitions for such phrases and words where appropriate
+* assess the use of acronyms and abbreviations and provide their expanded form or meaning
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
@@ -118,7 +118,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding  rank levels together with pages and chapter markers to indicate the different chapters, sections, and subsections of content.
+* Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
 * Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
 * Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
@@ -147,7 +147,7 @@ Students should be able to:
 
 * define related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
 * describe the poor user experience inherent to long data lists and grids and identify different approaches to address this, for example by providing search boxes and mechanisms to filter data, or by splitting larger data sets into smaller ones
-* define mechanisms to customize number of shown results after a search query, for example the number of products per page
+* define mechanisms to customize the number of shown results after a search query, for example the number of products per page
 
 #### Teaching Ideas for Topic
 
@@ -189,7 +189,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
-* Refer back to Module 1: Flexible Color, Layout,  and Design [Topic: Flexible Design](/curricula/designer-modules/flexible-Color-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. Explain that these include providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
+* Refer back to [Designer Module 1: Topic Flexible Design](/curricula/designer-modules/flexible-Color-layout-and-design/#topic-flexible-design) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic

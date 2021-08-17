@@ -37,7 +37,7 @@ Students should be able to:
 * define clear and consistent visual and non-visual presentation of menus and menu items
 * define clear and consistent visual and non-visual indication of state changes for menu items
 * define mechanisms to identify blocks of repeated content
-* cooperate with developers to implement mechanisms that bypass blocks of repeated content
+* cooperate with developers to define and implement mechanisms that bypass blocks of repeated content
 * define mechanisms to help users to locate specific web pages within sets of web pages, for example by providing breadcrumb trails, site maps, and descriptive page titles
 * identify related requirements for developers to implement:
   * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
@@ -113,10 +113,10 @@ Students should be able to:
 * define visual and text cues to distinguish menus from other components, 
 * define consistent styling for menu identification across a set of web pages
 * define interactions inside navigation menus, including mouse, keyboard, and touch
-* design navigation menus that adapt to the different text sizes, screen magnifications, and screen sizes and resolutions 
+* design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
-  * non-visual identification (and naming)of menus,
+  * non-visual identification and naming of menus
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited
   * support for different interaction methods, including keyboard, mouse, touch, and voice
   * support for different text and screen sizes
@@ -127,7 +127,7 @@ Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, such as clear and consistent styling to convey menu behaviors and states. Introduce patterns for mouse, keyboard, and touch interaction with navigation menus.
 * Demonstrate navigation menu interaction using different input devices, such as keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter key, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-* Show examples of navigation menus and menu items large text. Explain that, when used in smaller viewports and with different screen configurations, these text needs to wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
+* Show examples of navigation menus and menu items large text. Explain that this text needs to adapt to different viewports and screen configurations, for example wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -146,7 +146,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce other navigational mechanisms that may be used depending on the characteristics of the website or application. Emphasize that different groups of users rely on different navigational mechanisms, so designers need to assess which ones to use to favor various user experiences.
+Introduce other navigational mechanisms that may be used depending on the characteristics of the website or application. Explain that different groups of users rely on different navigational mechanisms. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
 
 #### Learning Outcomes for Topic
 
@@ -158,10 +158,11 @@ Students should be able to:
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
+* assess the amount of mechanisms to skip blocks of repeated content in use, to avoid distractions and unnecessary noise
 * define other navigational mechanisms to ensure web pages and application views can be reached using the following methods:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
-* balance the use of navigational mechanisms to avoid distractions and unnecessary noise
+* assess the amount of navigational mechanisms in use, to avoid distractions and unnecessary noise
 
 #### Teaching Ideas for Topic
 
@@ -202,7 +203,7 @@ Students should be able to:
   * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
   * breadcrumb trails
-* balance the use of location mechanisms to avoid distractions and unnecessary noise
+* assess the amount of location mechanisms in use, to avoid distractions and unnecessary noise
 * identify related requirements for developers to apply semantics to page titles, headings, non-visual cues, and breadcrumb trails
 
 ### Teaching Ideas

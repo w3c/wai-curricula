@@ -35,9 +35,9 @@ Students should be able to:
 * design user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * create designs with information about custom keyboard shortcuts for complex widgets and applications
-* provide clear and distinguishable ways to identify components that accept user input, including through naming and placement
-* provide mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
-* provide meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
+* define clear and distinguishable ways to identify components that accept user input, including through naming and placement
+* define mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
+* define meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
 * identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, notifications, and other feedback
 * identify related requirements for developers to code custom keyboard interactions for components that accept user input
 
@@ -134,7 +134,7 @@ Students should be able to:
 * design user experiences that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
 * cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
 * define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
-* provide focus indicators that are visible and that have appropriate contrast ratios for complex widgets
+* define focus indicators that are visible and that have appropriate contrast ratios for complex widgets
 * describe related requirements for developers to implement keyboard support for components that accept user input
   
 #### Teaching Ideas for Topic
@@ -204,14 +204,14 @@ Show examples of labels and instructions for components that accept user input. 
 
 Students should be able to:
 
-* provide clear and consistent names to help users understand the purpose of components that accept user input
+* define clear and consistent names to help users understand the purpose of components that accept user input
 * design user experiences that consider position, appearance, and naming of  labels
-* provide instructions about which input fields are required by:
+* define instructions about which input fields are required by:
   * including information about each of the required form fields before the form control
   * including textual and visual cues in the label of each of the required form fields that indicate that they are required
-* provide clear instructions about changes in context before the control that originates such changes
-* provide overall instructions about existing time limits in a form and about how they can be adjusted, extended, and turned off
-* provide clear instructions about the current step and about the total number of steps involved in a multi-step form
+* define clear instructions about changes in context before the control that originates such changes
+* define overall instructions about existing time limits in a form and about how they can be adjusted, extended, and turned off
+* define clear instructions about the current step and about the total number of steps involved in a multi-step form
 * identify related requirements for developers to code labels and instructions appropriately
 
 #### Teaching Ideas for Topic
@@ -249,10 +249,10 @@ Explain that notifications may have different levels of priority when in the con
 Students should be able to:
 
 * design notifications that are easy to understand and that can be distinguished from any other user interface component
-* provide error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
-* provide meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
-* provide meaningful messages when successfully completing a task, for example when submitting forms and when saving documents
-* provide meaningful and descriptive notification messages, for example validation messages as the user types
+* define error messages in the page title or before the form control that identify the fields in error and that describe the cause of the error
+* define meaningful suggestions for correction when such suggestions do not compromise the security or purpose of the content
+* define meaningful messages when successfully completing a task, for example when submitting forms and when saving documents
+* define meaningful and descriptive notification messages, for example validation messages as the user types
 * design user experiences to store and check notification messages at the users' pace, for example those that messages that disappear after a period of time
 * design user experiences to queue and prioritize application notifications coming from different components
 * describe related requirements for developers to code notification messages appropriately

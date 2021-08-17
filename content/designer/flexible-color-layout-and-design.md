@@ -37,6 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
+* determine if text, images of text, and controls have sufficient color contrast
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
@@ -107,13 +108,14 @@ Topics to achieve the learning outcomes:
 
 Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
 
-Describe how some people use color to understand and distinguish content. Explain different ways to supplement information that is presented using color, such as using shapes and icons.
+Describe how some people rely on color to understand and distinguish content. Explain that some people cannot perceive color well or at all. Discuss different ways to supplement information that is presented using color, such as using shapes and icons.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
+* determine if text, images of text, and controls have sufficient color contrast based on the contrast ratios
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
@@ -135,7 +137,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
 * Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
-* Practical &mdash; Give students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
+* Practical &mdash; Discuss with students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
 
@@ -195,7 +197,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different regions of web pages, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic landmarks to perceive such regions. Explain that defining landmarks and their styles is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
+* Show examples of different web page regions, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic landmarks to perceive such regions. Explain that defining landmarks and their styles is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
 * Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 
@@ -225,7 +227,7 @@ Students should be able to:
 * design layouts that support content view and operation in both portrait and landscape orientations
 * design layouts with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
 * design layouts that support customizing line height, as well as spacing between paragraphs, words, and letters
-* design user interfaces that preserve focus order when accessed using different viewport, screen sizes, and breakpoints
+* design appropriate focus order based on different viewports, screen sizes, and breakpoints
 
 #### Teaching Ideas for Topic
 

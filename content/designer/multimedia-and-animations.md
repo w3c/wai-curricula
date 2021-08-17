@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access multimedia contents, such as audio and video
-* explain accessibility requirements for multimedia content, such as transcripts for audio and visual information, captions (also known as subtitles), audio descriptions, and sign language
+* explain accessibility requirements for multimedia content, such as audio descriptions of visual information, captions (also known as subtitles), transcripts, and sign languages
 
 ## Learning Outcomes for Module
 
@@ -38,13 +38,14 @@ Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
 * design the placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
-* design user experiences that consider transcripts, audio descriptions, captions, and sign language, including
+* design user experiences that consider audio descriptions of visual information, captions, transcripts, and sign language, including
   * mechanisms for turning on and off such alternatives 
   * ways for users to interact with the alternatives
+* assess the need for designing a custom media player based on the project requirements and on existing media players supporting accessibility
 * design multimedia player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
 * design multimedia players that support different methods of interaction, including mouse, keyboard, touch, and voice
+* design mechanisms to mute and control the volume of auto-playing audio
 * design mechanisms to pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
-* design mechanisms to mute or control the volume of auto-playing audio
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content 
 * identify related requirements for developers to include accessibility support for multimedia players
 * identify related requirements for content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
@@ -111,25 +112,26 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Text transcripts provide an alternative to visual and audio information. Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio.
+Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
 
-Discuss the need for planning in the design phase to accommodate media alternatives such as text transcripts, audio descriptions, captions, and sign language. Present mechanisms to turn on and off alternatives to multimedia content depending on user needs. Explain that these mechanisms need to have clear name and need to be always reachable for users. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate media alternatives such as audio description of visual information, captions, text transcripts, and sign language. Present mechanisms to turn on and off alternatives to multimedia content depending on user needs. Explain that these mechanisms need to have clear name and need to be always reachable for users. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
-* identify accessibility requirements for the different types of multimedia content, such as text transcripts for audio and visual information, audio descriptions, captions, and sign language
-* define text transcripts as text that provides an alternative to visual and audio information
+* identify accessibility requirements for the different types of multimedia content, such as auio descriptions for visual information, captions, transcripts, and sign languages
 * define audio descriptions as descriptions to adequately get the visual information needed to understand the content
 * define captions as text versions of the speech and non-speech audio information needed to understand the content
+* define text transcripts as text that provides an alternative to visual and audio information
 * define sign language as the native language of some deaf people
-* design mechanisms for pausing, stopping, or hiding audio that plays automatically for more than 3 seconds
-* design mechanisms to provide alternatives for multimedia content, including text transcripts for audio and visual information, audio descriptions, captions, and sign language
+* design mechanisms for controling the volume ofaudio that plays automatically for more than 3 seconds
+* design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example audio descriptions, captions, transcripts, sign language
+* design mechanisms to provide alternatives for multimedia content, including audio descriptions, captions, transcripts, and sign language
 * design mechanisms to turn on and off audio descriptions, captions, and sign language
 * design player controls that:
   * have descriptive names
-  * can be operable by keyboard
+  * are operable by keyboard
   * are easy to find
   * are always reachable for users
 
@@ -209,9 +211,9 @@ Suggested resources to support your teaching:
 * [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign language. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 * [Designing for Web Accessibility](/tips/designing/) &mdash; Tips for user interface and visual design.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Colors with Good Contrast (Web Accessibility Perspective)](/perspective-videos/contrast/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Clear Layout and Design (Web Accessibility Perspective)](/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Large Links, Buttons, and Controls (Web Accessibility Perspectives)](/perspective-videos/controls/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
-* [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
