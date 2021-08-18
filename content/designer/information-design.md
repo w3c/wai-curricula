@@ -148,9 +148,10 @@ Show examples of how different groups of people interact with large amounts of s
 Students should be able to:
 
 * define related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
-* describe the use of visual and  non-visual cues, including labels, instructions, and graphical representations to make information in multi-step processes more understandable
-* describe how to communicate the structure of multi-page articles or processes visually and non-visually
-* describe how to provide information about the total number of items and about the current item in a multi-step form or process visually and non-visually
+* define clear and distinguishable names for forms and form controls, including visual and programmatic labels
+* describe the use of visual and non-visual cues, including labels, instructions, and graphical representations to make information in multi-step processes more understandable
+* describe how to communicate the structure of multi-step forms and processes visually and non-visually
+* describe how to provide information about the total number of items and about the current item in multi-step forms and processes visually and non-visually
 * describe the poor user experience inherent to long data lists and grids and identify different approaches to address this, for example by providing search boxes and mechanisms to filter data, or by splitting larger data sets into smaller ones
 * define mechanisms to customize the number of shown results after a search query, for example the number of products per page
 
