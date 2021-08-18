@@ -31,12 +31,14 @@ Courses based on this module should:
 
 Students should be able to:
 
-* describe approaches to break down different types of content into smaller and more manageable pieces, including identifying:
+* describe approaches to break down different types of content into smaller and more manageable pieces by using:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
   * filters to display smaller data subsets from a given large data set
-* describe the use of labels and instructions to make information in forms more understandable
+* describe the use of visual and  non-visual cues to make information in multi-step processes more understandable
+* describe how to communicate the structure of multi-page articles or processes visually and non-visually
+* describe how to provide information about the total number of items and about the current item in a multi-step form or process visually and non-visually
 * identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}
@@ -97,8 +99,6 @@ Topics to achieve the learning outcomes:
 
 Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
-Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand information presented in text. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
-
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -108,14 +108,14 @@ Students should be able to:
   * sidebars and other page regions
   * pages
   * chapter markers (in digital publications)
-* create visual representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* assess the use of professional terms, idioms, and jargon, and provide definitions for such phrases and words where appropriate
-* assess the use of acronyms and abbreviations and provide their expanded form or meaning
+* create graphical representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
+* consider the provision of definitions for professional terms, idioms, and jargon
+* consider the provision of expanded form or meaning of acronyms and abbreviations
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
 #### Teaching Ideas for Topic
-
+ 
 Optional ideas to teach the learning outcomes:
 
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
@@ -139,6 +139,8 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
+Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand information presented in multi-step forms and processes. Explain that defining how to present these visual cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
+
 Show examples of how different groups of people interact with large amounts of selectable data, such as a list of countries. Explain that some people prefer filtering out data into smaller pieces to better handle data, some others prefer to type the first letters of their desire option to select data more efficiently.
 
 #### Learning Outcomes for Topic
@@ -146,6 +148,9 @@ Show examples of how different groups of people interact with large amounts of s
 Students should be able to:
 
 * define related form controls, such as those collecting personal information, payment methods, and consent to legal conditions 
+* describe the use of visual and  non-visual cues, including labels, instructions, and graphical representations to make information in multi-step processes more understandable
+* describe how to communicate the structure of multi-page articles or processes visually and non-visually
+* describe how to provide information about the total number of items and about the current item in a multi-step form or process visually and non-visually
 * describe the poor user experience inherent to long data lists and grids and identify different approaches to address this, for example by providing search boxes and mechanisms to filter data, or by splitting larger data sets into smaller ones
 * define mechanisms to customize the number of shown results after a search query, for example the number of products per page
 
@@ -181,6 +186,7 @@ Students should be able to:
 * identify different ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
+* assess the use of complex tables based on the type of information provided and on other simpler ways to provide such information, including simpler tables, graphical representations, and plain text
 * identify related requirements for developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
 * identify related requirements for content authors to provide table descriptions where appropriate
 

@@ -167,6 +167,9 @@ Students should be able to:
 
 * design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example animations, carousels, and decorative gimmicks
 * create designs that avoid flashing entirely or only flash below the acceptable thresholds
+* create designs with enough time for users to read parts of moving content, for example different slides in a carousel
+* define visual and non-visual identification of animated content and its different parts, for example identifying a carousel region and its different slides
+* define focus order within animated contents, including how to move to different parts of the carousel and how to get to the carousel controls
 * design mechanisms that support disabling motion animation triggered by interaction, such as additional animations when scrolling
 * design mechanisms for stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
 

@@ -115,7 +115,7 @@ Describe how some people rely on color to understand and distinguish content. Ex
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
-* determine if text, images of text, and controls have sufficient color contrast based on the contrast ratios
+* determine if text, images of text, and controls have sufficient color contrast based on the accepted contrast ratios
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
@@ -164,9 +164,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles to distinguish links, buttons, form labels and instructions, from regular text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
+* Demonstrate the use of styles to distinguish links, buttons, form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to be able to read and understand content properly.
-* Show examples of different page layouts with and without adequate spacing. Explain how spacing allows for better readability of content and for better identification of the different parts of the user interface.
+* Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of content and for better identification of the different parts of the user interface.
 
 #### Ideas to Assess Knowledge for Topic
 

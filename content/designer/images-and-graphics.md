@@ -181,13 +181,13 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * use appropriate contrast ratios for complex images
-* assess the use of complex images versus other ways to present the same information, such as tables, simpler images, and regular text
+* assess the use of complex images versus other ways to present the same information, such as tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including how to get to the image descriptions, what the content of the description should look like, and if the descriptions could ultimately replace the image itself
 * identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
-* identify related requirements for content authors to break down complex images into smaller and more manageable pieces, for example simpler images, tables, and regular text
+* identify related requirements for content authors to break down complex images into smaller and more manageable pieces, for example simpler images, tables, and plain text
 
 #### Teaching Ideas for Topic
 
