@@ -185,7 +185,7 @@ Students should be able to:
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
-* design user experiences for complex images, including how to get to the image descriptions, what the content of the description should look like, and if the descriptions could ultimately replace the image itself
+* design user experiences for complex images, including how to get to the image descriptions, how the content of the description should look like, and if the descriptions could ultimately replace the image itself
 * identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
 * identify related requirements for content authors to break down complex images into smaller and more manageable pieces, for example simpler images, tables, and plain text
 
