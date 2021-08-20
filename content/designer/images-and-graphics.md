@@ -181,7 +181,7 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * use appropriate contrast ratios for complex images
-* assess the use of complex images versus other ways to present the same information, such as tables, simpler images, and plain text
+* assess the use of complex images versus other ways to present the information; for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
@@ -219,7 +219,7 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* assess the amount of decorative images in use based on other images in the content and on the overall context
+* assess the potential distraction and cognitive overload from using too many decorative images
 * explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 

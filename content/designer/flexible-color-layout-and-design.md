@@ -115,7 +115,7 @@ Describe how some people rely on color to understand and distinguish content. Ex
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
-* determine if text, images of text, and controls have sufficient color contrast based on the accepted contrast ratios
+* determine if text, images of text, and controls have sufficient color contrast
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design components and graphics that have a contrast ratio of at least 3:1 with respect to their background

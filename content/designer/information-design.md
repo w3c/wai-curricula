@@ -187,7 +187,10 @@ Students should be able to:
 * identify different ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
-* assess the use of complex tables based on the type of information provided and on other simpler ways to provide such information, including simpler tables, graphical representations, and plain text
+* assess the use of complex tables versus simpler ways to provide the information, for example using:
+  * simpler tables
+  * charts, diagrams, and other graphical representations
+  * plain text
 * identify related requirements for developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
 * identify related requirements for content authors to provide table descriptions where appropriate
 
