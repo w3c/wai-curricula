@@ -63,10 +63,10 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
-* [Module 3: Navigation](/curricula/designer-modules/navigation/)
-* [Module 2: Information Design](/curricula/designer-modules/information-design/)
-* [Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
+* [Designer Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+* [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -95,6 +95,10 @@ Skills required for this module:
   * [WCAG Success Criterion 3.2.5 Change on Request](https://www.w3.org/WAI/WCAG21/quickref/#change-on-request)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
+  * [Designer Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+  * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+  * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+  * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -170,6 +174,7 @@ Students should be able to:
 * create designs with enough time for users to read parts of moving content, for example different slides in a carousel
 * define visual and non-visual identification of animated content and its different parts, for example identifying a carousel region and its different slides
 * define focus order within animated contents, including how to move to different parts of the carousel and how to get to the carousel controls
+
 * design mechanisms that support disabling motion animation triggered by interaction, such as additional animations when scrolling
 * design mechanisms for stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
 

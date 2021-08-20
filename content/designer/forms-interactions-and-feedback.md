@@ -13,7 +13,12 @@ changelog: /curricula/changelog/
 footer: >
   <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>parent_in_h1:
+  - ref: /curricula/designer-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
+
 navigation:
   previous: /curricula/designer-modules/multimedia-and-animations/
   next:
@@ -97,6 +102,7 @@ Skills required for this module:
   * [WCAG Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
+  * Prior [Designer Modules](/curricula/designer-modules/)
   * Visual Design
   * Prototyping
   * Responsive Design

@@ -14,6 +14,11 @@ footer: >
   <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
+parent_in_h1:
+  - ref: /curricula/designer-modules/
+    name: nav_title
+  - ref: /curricula/
+    name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/information-design/
   next: /curricula/designer-modules/multimedia-and-animations/
@@ -54,9 +59,9 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Module 1: #foundation-prerequisitesFlexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
-* [Module 3: Navigation](/curricula/designer-modules/navigation/)
-* [Module 2: Information Design](/curricula/designer-modules/information-design/)
+* [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+* [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+* [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -77,6 +82,9 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
+  * [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+  * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+  * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -211,7 +219,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Decorative images are used for ornamental purposes and convey no information or function. Build on [Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
