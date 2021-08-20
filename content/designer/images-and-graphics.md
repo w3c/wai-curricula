@@ -102,7 +102,7 @@ Functional images convey functionality of a user interface component. For exampl
 
 Students should be able to:
 
-* define text alternatives for functional images by using the following mechanisms:
+* define text alternatives for functional images using the following mechanisms:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
@@ -139,7 +139,7 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* define text alternatives that present equivalent information as that contained in informative images, by using the following mechanisms:
+* define text alternatives that present equivalent information as that contained in informative images using the following mechanisms:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images

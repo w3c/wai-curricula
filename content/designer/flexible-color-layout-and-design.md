@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
-* determine if text, images of text, and controls have sufficient color contrast
+* determine sufficient color contrast for text, images of text, and controls
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings

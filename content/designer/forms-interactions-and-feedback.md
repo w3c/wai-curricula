@@ -24,8 +24,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to interact with components that accept user input, such as form controls, buttons, links, and widgets
-* describe accessibility requirements related to interactions, instructions, semantics, styling and other visual cues, notifications, and feedback
+* explain strategies that people with disabilities use to interact with components that accept user input, such as forms, buttons, links, and widgets
+* describe accessibility requirements related to interactions, instructions, semantics, cues, notifications, and feedback
 
 ## Learning Outcomes for Module
 
@@ -34,8 +34,8 @@ Students should be able to:
 * explain strategies that people with disabilities use to interact with components that accept user input
 * design user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
-* create designs with information about custom keyboard shortcuts for complex widgets and applications
-* define clear and distinguishable ways to identify components that accept user input, including through naming and placement
+* assess the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
+* define clear and distinguishable ways to identify form fields and other components that accept user input, including through naming and placement
 * define mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * define meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
 * identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, notifications, and other feedback
