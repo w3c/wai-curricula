@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * explain how people with disabilities rely on designs that adapt to different screen sizes, configurations, and style sheets
-* explain accessibility requirements for interfaces that can have customized colors, font size, font type, and spacing between components
+* explain accessibility requirements that relate to use of color, as well as to adaptable font sizes, font types, and spacing
  
 ## Learning Outcomes for Module
 
@@ -43,7 +43,8 @@ Students should be able to:
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
 * design layouts that adapt to different screen sizes, configurations, and user style sheets
 * use headings, landmarks, and spacing to group related content
-* design layouts using a combination of text cues, patterns, and icons to convey information 
+* use a combination of text cues, patterns, and icons to convey information 
+* assess the potential distraction and cognitive overload from using too many design elements on a single page, in particular interactive widgets, images, and moving content"
 * identify related requirements for developers to apply the necessary semantics to interface components
 
 {% include excol.html type="all" %}
@@ -106,7 +107,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with low vision to perceive, distinguish, and understand content.
+Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with disabilities to perceive, distinguish, and understand content.
 
 Describe how some people rely on color to understand and distinguish content. Explain that some people cannot perceive color well or at all. Discuss different ways to supplement information that is presented using color, such as using shapes and icons.
 
@@ -114,7 +115,7 @@ Describe how some people rely on color to understand and distinguish content. Ex
 
 Students should be able to:
 
-* explain how appropriate use of color enables people with disabilities to read, understand, and distinguish user interface components
+* explain how appropriate use of color enables people with disabilities to read, understand, and distinguish components
 * determine if text, images of text, and controls have sufficient color contrast
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
@@ -135,8 +136,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Give students a set of user interface components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different user interface components.
-* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, user interface components, and graphics. Assess how students understand and apply contrast ratios based on the different user interface components that they are designing.
+* Short Answer Questions &mdash; Give students a set of components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different components.
+* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, components, and graphics. Assess how students understand and apply contrast ratios based on the different components that they are designing.
 * Practical &mdash; Discuss with students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
@@ -212,22 +213,22 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Flexible Design
+### Topic: Adaptability
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities use different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
+Explain how people with disabilities rely on designs that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design layouts that support text resizing without loss of content and functionality
-* design layouts that support zooming and enlarging text in different viewport sizes and through multiple breakpoints
-* design layouts that support content view and operation in both portrait and landscape orientations
-* design layouts with target sizes and spaces to support tapping by people with mobility impairments and people using different input methods
-* design layouts that support customizing line height, as well as spacing between paragraphs, words, and letters
-* design appropriate focus order based on different viewports, screen sizes, and breakpoints
+* design layouts that can have their text resized without loss of content and functionality
+* design layouts that can have their text zoomed and enlarged using different viewport sizes and through multiple breakpoints
+* design layouts that adapt their content view and operation to portrait and landscape orientations
+* design layouts that can have their target sizess customized for different input methods, sizes, and spacing
+* design layouts that can have line height, as well as spacing between paragraphs, words, and letters customized by users
+* design meaningful focus orders that adapt to different viewports, screen sizes, and breakpoints
 
 #### Teaching Ideas for Topic
 

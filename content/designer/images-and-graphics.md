@@ -42,7 +42,7 @@ Students should be able to:
 * design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* cooperate with developers and content authors to provide the appropriate alternative for images and graphics based on the image purpose
+* assess the use of images versus other ways to provide the information, including tables and plain text
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images, such as charts, diagrams, and other complex graphics
 
@@ -104,7 +104,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality of a user interface component. For example search, print, and save functionality. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
+Functional images convey functionality of a component. For example search, print, and save functionality. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
 
 #### Learning Outcomes for Topic
 
@@ -151,7 +151,7 @@ Students should be able to:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
-* apply the appropriate contrast ratio to images that are necessary to understand the contents
+* apply the appropriate contrast ratio to images that are necessary to understand the content
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * define alternatives to CAPTCHA and biometrics, for example by providing visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication

@@ -43,8 +43,8 @@ Students should be able to:
   * filters to display smaller data subsets from a given large data set
 * describe the use of visual and non-visual cues to make information in multi-step processes more understandable
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
-* describe how to provide information about the total number of items and about the current item in a multi-step form or process visually and non-visually
-* assess the use of tables versus other ways to provide the information
+* describe how to provide information about the total number of items and about the current item in a multi-step process visually and non-visually
+* assess the use of different mechanisms to convey the information, including text, tables, grouping, and graphical representation depending on user needs
 * identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}

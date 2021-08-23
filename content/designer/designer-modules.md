@@ -65,7 +65,7 @@ The designer modules are designed for students who have achieved the learning ou
 -   [Module 1: Flexible Color, Layout, and Design (TBD)](/curricula/designer-modules/flexible-layout-and-design)
     -   [Topic: Color (TBD)](/curricula/designer-modules/flexible-color-layout-and-design/#topic-use-of-color)
     -   [Topic: Styles](/curricula/designer-modules/flexible-color-layout-and-design/#topic-styles)
-    -   [Topic: Flexible Design](/curricula/designer-modules/flexible-color-layout-and-design/#topic-flexible-design)
+    -   [Topic: Adaptability](/curricula/designer-modules/flexible-color-layout-and-design/#topic-adaptability)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Text](/curricula/designer-modules/information-design/#topic-textual-information)
     -   [Topic: Landmarks [TBD]]()
