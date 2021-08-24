@@ -38,7 +38,7 @@ Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
 * design the placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
-* design user experiences that consider audio descriptions of visual information, captions, transcripts, and sign language, including
+* design user experiences for audio descriptions of visual information, captions, transcripts, and sign language, including
   * mechanisms for turning on and off such alternatives 
   * ways for users to interact with the alternatives
 * assess the need for designing a custom media player based on the project requirements and on existing media players supporting accessibility
@@ -116,23 +116,24 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Audio descriptions are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
+Audio description of visual information is essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
 
-Discuss the need for planning in the design phase to accommodate media alternatives such as audio description of visual information, captions, text transcripts, and sign language. Present mechanisms to turn on and off alternatives to multimedia content depending on user needs. Explain that these mechanisms need to have clear name and need to be always reachable for users. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate media alternatives such as audio description of visual information, captions, text transcripts, and sign language. Present mechanisms to turn on and off alternatives to multimedia content depending on user needs. Explain that these mechanisms need to have clear names and need to be always reachable for users. Explain that defining such mechanisms is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
-* identify accessibility requirements for the different types of multimedia content, such as auio descriptions for visual information, captions, transcripts, and sign languages
-* define audio descriptions as descriptions to adequately get the visual information needed to understand the content
-* define captions as text versions of the speech and non-speech audio information needed to understand the content
-* define text transcripts as text that provides an alternative to visual and audio information
-* define sign language as the native language of some deaf people
-* design mechanisms for controling the volume ofaudio that plays automatically for more than 3 seconds
-* design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example audio descriptions, captions, transcripts, sign language
+* identify accessibility requirements for the different types of multimedia content, such as audio descriptions for visual information, captions, transcripts, and sign languages
+* define the following alternatives to multimedia content:
+  * audio descriptions; descriptions to adequately get the visual information needed to understand the content
+  * captions; text versions of the speech and non-speech audio information needed to understand the content
+  * text transcripts; text that provides an alternative to visual and audio information
+  * sign language; the native language of some deaf people
+* design mechanisms for controlling the volume of audio that plays automatically for more than 3 seconds
+* design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example audio descriptions, captions, transcripts, and sign language
 * design mechanisms to provide alternatives for multimedia content, including audio descriptions, captions, transcripts, and sign language
-* design mechanisms to turn on and off audio descriptions, captions, and sign language
+* design mechanisms to turn on and off audio descriptions, captions, transcripts, and sign language
 * design player controls that:
   * have descriptive names
   * are operable by keyboard
@@ -143,11 +144,11 @@ Students should be able to
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of text transcripts. Explain that transcripts are alternatives for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
+* Show examples of audio descriptions of visual information. Explain that audio descriptions are alternatives for people who cannot see the video. Explain that defining the mechanisms to enable and disable audio description of visual information is a designers' responsibility, whereas providing the audio description is a responsibility shared with the content author.
 * Show examples of captions. Explain that captions are alternatives for people who cannot hear the audio, and that they are useful in other situations. Explain that determining where to place captions is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
-* Show examples of audio described content. Explain that audio descriptions are alternatives for people who cannot see the video. Explain that defining the mechanisms to enable and disable  audio described content is a designers' responsibility, whereas providing the audio description is a responsibility shared with the content author.
+* Show examples of text transcripts. Explain that transcripts are alternatives for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
 * Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the mechanisms to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
-* Show examples of accessible and inaccessible media players. Explain how accessible media player  controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that the controls need to remain available even when the media is playing.
+* Show examples of accessible and inaccessible media players. Emphasize that it is generally more reliable to use an existing media player with support for accessibility than to designing one from scratch. Explain how accessible media player  controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that users need to be able to reach the controls even when the media is playing.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -159,7 +160,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Movement and Animations
+### Topic: Carousels, Movement, and Animations
 
 {% include excol.html type="middle" %}
 
@@ -189,7 +190,7 @@ Optional ideas to teach the learning outcomes:
   * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186), and
   * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187).
 * Show examples of flashing content and explain that they can cause seizures and physical reactions for some people. Emphasize that all components of the content need to be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole web page or application. For references on how to design interfaces that support flashing below the general flash and red flash thresholds or that support flashing below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
-* Show examples of interactions triggered by animations, such as additional movements when scrolling and decorative gimmics. Explain that these animations can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
+* Show examples of interactions triggered by animations, such as additional movements when scrolling and decorative gimmicks. Explain that these animations can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
 * Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a mechanism to pause or control the volume of that audio. Explain that the operating system often provides such mechanism. For references on how to design interfaces that support mechanisms to pause or control the volume of any audio that plays automatically, see the following techniques:
   * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html),
   * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html), and
