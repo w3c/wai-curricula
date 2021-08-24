@@ -63,7 +63,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Designer Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+* [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
 * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
 * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
 * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
@@ -95,7 +95,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.2.5 Change on Request](https://www.w3.org/WAI/WCAG21/quickref/#change-on-request)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Flexible and Responsive Design](/curricula/designer-modules/flexible-and-responsive-design/)
+  * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
   * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
   * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
   * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
