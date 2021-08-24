@@ -141,25 +141,20 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Forms and Controls
+### Topic: Labels and Instructions
 
 {% include excol.html type="middle" %}
 
-Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand information presented in multi-step forms and processes. Explain that defining how to present these cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
-
-Show examples of how different groups of people interact with large amounts of selectable data, such as a list of countries. Explain that some people prefer filtering out data into smaller pieces to better handle data, some others prefer to type the first letters of their desire option to select data more efficiently.
+Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand components. Explain that defining how to present these cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define clear and distinguishable names for forms and form controls, including visual and programmatic labels
-* define visual and non-visual cues, including labels, instructions, and graphical representations to make information in multi-step processes more understandable
-* define related form controls, such as those collecting personal information, payment methods, and consent to legal conditions and communicate such relationships visually and non-visually
-* define visual and non-visual mechanisms to communicate the total number of steps and the current step in multi-step forms and processes
-* describe the poor user experience inherent to long data lists and grids and identify different approaches to address this, for example by providing search boxes and mechanisms to filter data, or by splitting larger data sets into smaller ones
-
-* define mechanisms to customize the number of shown results after a search query, for example the number of products per page
+* define clear and distinguishable names for components, including visual and programmatic labels
+* define overall instructions to make information in multi-step processes more understandable, for example visual and non-visual cues, and graphical representations 
+* define visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
+* define related controls, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
 
 #### Teaching Ideas for Topic
 
