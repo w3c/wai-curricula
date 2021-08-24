@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Flexible Color, Layout, and Design"
-nav_title: "Flexible Color, Layout, and Design"
-permalink: /curricula/designer-modules/flexible-color-layout-and-design/
-ref: /curricula/designer-modules/flexible-color-layout-and-design/
+title: "[Draft] Module 1: Color and Layout"
+nav_title: "Color and Layout"
+permalink: /curricula/designer-modules/color-and-layout/
+ref: /curricula/designer-modules/color-and-layout/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/flexible-color-layout-and-design.md
+  path: content/designer/color-and-layout.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

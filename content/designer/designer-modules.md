@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/developer-modules/rich-applications/
-  next: /curricula/designer-modules/flexible-color-layout-and-design/
+  next: /curricula/designer-modules/color-and-layout/
 ---
 
 ## Introduction
@@ -62,10 +62,11 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Flexible Color, Layout, and Design (TBD)](/curricula/designer-modules/flexible-layout-and-design)
-    -   [Topic: Color (TBD)](/curricula/designer-modules/flexible-color-layout-and-design/#topic-use-of-color)
-    -   [Topic: Styles](/curricula/designer-modules/flexible-color-layout-and-design/#topic-styles)
-    -   [Topic: Adaptability](/curricula/designer-modules/flexible-color-layout-and-design/#topic-adaptability)
+-   [Module 1: Color and Layout (TBD)](/curricula/designer-modules/flexible-layout-and-design)
+    -   [Topic: Color (TBD)](/curricula/designer-modules/color-and-layout/#topic-use-of-color)
+    -   [Topic: Landmarks and Cues](/curricula/designer-modules/#topic-landmarks-and-cues)
+    -   [Topic: Styles](/curricula/designer-modules/color-and-layout/#topic-styles)
+    -   [Topic: Adaptability](/curricula/designer-modules/color-and-layout/#topic-adaptability)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Text](/curricula/designer-modules/information-design/#topic-textual-information)
     -   [Topic: Landmarks [TBD]]()

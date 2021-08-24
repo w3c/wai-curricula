@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/flexible-color-layout-and-design/
+  previous: /curricula/designer-modules/color-and-layout/
   next: /curricula/designer-modules/information-design/
 ---
 
@@ -63,7 +63,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
-* [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+* [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
 * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
 * Basic knowledge of:
   * Visual Design
@@ -91,7 +91,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+  * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
   * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
   * Visual Design
   * Prototyping

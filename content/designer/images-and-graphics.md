@@ -59,7 +59,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+* [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
 * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
 * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
 * Basic knowledge of:
@@ -82,7 +82,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/)
+  * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
   * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
   * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
   * Visual Design
@@ -219,7 +219,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Decorative images are used for ornamental purposes and convey no information or function. Build on [Designer Module 1: Flexible Color, Layout, and Design](/curricula/designer-modules/flexible-color-layout-and-design/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
