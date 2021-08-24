@@ -62,8 +62,8 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Color and Layout (TBD)](/curricula/designer-modules/flexible-layout-and-design)
-    -   [Topic: Color (WIP)](/curricula/designer-modules/color-and-layout/#topic-use-of-color)
+-   [Module 1: Color and Layout (WIP)](/curricula/designer-modules/color-and-layout)
+    -   [Topic: Color (WIP)](/curricula/designer-modules/color-and-layout/#topic-color)
     -   [Topic: Landmarks and Cues](/curricula/designer-modules/#topic-landmarks-and-cues)
     -   [Topic: Styles](/curricula/designer-modules/color-and-layout/#topic-styles)
     -   [Topic: Adaptability (WIP)](/curricula/designer-modules/color-and-layout/#topic-adaptability)
@@ -85,7 +85,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   Topic: Media Players [TBD] ???
     -   [Topic: Carousels, Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-carousels-movement-and-animations)
 -   [Module 6: Forms, Interactions, and Feedback](/curricula/designer-modules/forms-interactions-and-feedback/)
-    -   [Topic: Forms Design (WIP)](/curricula/designer-modules/forms-interaction-and-feedback/#topic-forms-design)
+    -   [Topic: Forms Design (WIP)](/curricula/designer-modules/forms-interactions-and-feedback/#topic-forms-design)
     -   [Topic: Keyboard Interactions](/curricula/designer-modules/forms-interactions-and-feedback/#topic-keyboard-interactions)
     -   [Topic: Gestures and Motion](/curricula/designer-modules/forms-interactions-and-feedback/#topic-gestures-and-motion)
     
