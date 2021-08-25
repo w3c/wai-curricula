@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Multimedia and Animations"
+title: "[Draft] Module 5: Multimedia and Animations (WIP)"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/
@@ -37,8 +37,8 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design the placement and spacing for alternatives to multimedia content, such as transcripts, audio descriptions, captions, and sign language
-* design user experiences for audio descriptions of visual information, captions, transcripts, and sign language, including
+* design the placement and spacing for alternatives to multimedia content, such as audio descriptions, captions, transcripts, and sign language
+* design user experiences for audio descriptions, captions, transcripts, and sign language, including
   * mechanisms for turning on and off such alternatives 
   * ways for users to interact with the alternatives
 * assess the need for designing a custom media player based on the project requirements and on existing media players supporting accessibility
@@ -124,15 +124,15 @@ Discuss the need for planning in the design phase to accommodate media alternati
 
 Students should be able to
 
-* identify accessibility requirements for the different types of multimedia content, such as audio descriptions for visual information, captions, transcripts, and sign languages
+* identify accessibility requirements for the different types of multimedia content, such as audio descriptions of visual information, captions, transcripts, and sign languages
 * define the following alternatives to multimedia content:
   * audio descriptions; descriptions to adequately get the visual information needed to understand the content
   * captions; text versions of the speech and non-speech audio information needed to understand the content
   * text transcripts; text that provides an alternative to visual and audio information
   * sign language; the native language of some deaf people
 * design mechanisms for controlling the volume of audio that plays automatically for more than 3 seconds
-* design mechanisms for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example audio descriptions, captions, transcripts, and sign language
-* design mechanisms to provide alternatives for multimedia content, including audio descriptions, captions, transcripts, and sign language
+* design mechanisms to pause, stop, or hide alternatives to multimedia content that blink, move, or auto-update
+* design the placement and user experience of alternatives for multimedia content, including audio descriptions, captions, transcripts, and sign language
 * design mechanisms to turn on and off audio descriptions, captions, transcripts, and sign language
 * design player controls that:
   * have descriptive names
