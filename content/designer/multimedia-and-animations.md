@@ -164,7 +164,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show moving content, such as carousels and animations. Present mechanisms to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the general flash and red flash ratios where possible.
+Show moving content, such as carousels and animations. Present mechanisms to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios where possible.
 
 #### Learning Outcomes for Topic
 
@@ -175,8 +175,6 @@ Students should be able to:
 * create designs with enough time for users to read parts of moving content, for example different slides in a carousel
 * define visual and non-visual identification of animated content and its different parts, for example identifying a carousel region and its different slides
 * define focus order within animated contents, including how to move to different parts of the carousel and how to get to the carousel controls
-
-* design mechanisms that support disabling motion animation triggered by interaction, such as additional animations when scrolling
 * design mechanisms for stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
 
 #### Teaching Ideas for Topic
