@@ -41,13 +41,13 @@ Students should be able to:
 * design user experiences for audio descriptions, captions, transcripts, and sign language, including
   * mechanisms for turning on and off such alternatives 
   * ways for users to interact with the alternatives
-* assess the need for designing a custom media player based on the project requirements and on existing media players supporting accessibility
-* design multimedia player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
-* design multimedia players that support different methods of interaction, including mouse, keyboard, touch, and voice
+* assess the need for designing custom media players versus using existing media players with support for accessibility
+* design media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
+* design media players that support different methods of interaction, including mouse, keyboard, touch, and voice
 * design mechanisms to mute and control the volume of auto-playing audio
 * design mechanisms to pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
 * identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content 
-* identify related requirements for developers to include accessibility support for multimedia players
+* identify related requirements for developers to include accessibility support for media players
 * identify related requirements for content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
 
 {% include excol.html type="all" %}
