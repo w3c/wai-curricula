@@ -35,7 +35,11 @@ The designer modules guide the creation of courses that:
   * user experience
   * interaction design
 
-These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications. The modules primarily address the following roles:
+These modules have been organized so that they can be easily taught together with the [developer modules](/curricula/developer-modules/). If you are teaching other type of designers, feel free to change the structure so that it fits your audience needs.
+
+These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications.
+
+The modules primarily address the following roles:
 
 * Visual Designer
 * Information Architect
@@ -58,7 +62,6 @@ The designer modules are designed for students who have achieved the learning ou
   * Topic: Hands-on Experience of Standards
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
-
 
 ## Designer Modules
 
