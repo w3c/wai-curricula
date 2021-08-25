@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain how people with disabilities rely on designs that adapt to different screen sizes, configurations, and style sheets
-* explain accessibility requirements that relate to use of color, as well as to adaptable font sizes, font types, and spacing
+* explain accessibility requirements for color contrast, styles, vissual and non visual cues, landmarks, and regions
+* explain how people with disabilities rely on layouts that adapt to different screen sizes, configurations, and style sheets
  
 ## Learning Outcomes for Module
 
