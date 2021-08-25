@@ -117,9 +117,9 @@ Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish components
 * determine if text, images of text, and controls have sufficient color contrast
-* design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
-* design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
-* design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
+* design text and images of text that have a color contrast of at least 4.5:1 with respect to their background
+* design large-scale text and images of text that have a color contrast of at least 3:1 with respect to their background
+* design components and graphics that have a color contrast of at least 3:1 with respect to their background
 * define layouts that enable users to change colors based on customized screen sizes, screen configurations, and style sheets
 * use visual cues in addition to color, for example using different patterns, shapes, and icons
 * use non-visual cues for people who cannot perceive color, for example using text to complement information provided visually
@@ -128,16 +128,16 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of how different pieces of text are perceived depending on their background color. Explain that contrast ratios for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply contrast ratios to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
-* Show examples of different interactive components, such as buttons and links, and explain that they should have a contrast ratio of at least 3:1.
+* Show examples of how different pieces of text are perceived depending on their background color. Explain that color contrast for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply sufficient color contrast to text (including images of text), see technique [G18: Ensuring that a color contrast of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Show examples of different interactive components, such as buttons and links, and explain that they should have a color contrast of at least 3:1.
 * Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so supplemental methods to convey that information are required. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Give students a set of components and ask them what the contrast ratio should be. Assess how students understand and distinguish contrast ratios for different components.
-* Practical &mdash; Students design a paper prototype and apply appropriate contrast ratios to text, images of text, components, and graphics. Assess how students understand and apply contrast ratios based on the different components that they are designing.
+* Short Answer Questions &mdash; Give students several components and ask them what the color contrast should be. Assess how students understand and distinguish sufficient color contrast for different components.
+* Practical &mdash; Students design a paper prototype and apply sufficient color contrast to text, images of text, components, and graphics. Assess how students understand and apply sufficient color contrast based on the different components that they are designing.
 * Practical &mdash; Discuss with students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
