@@ -43,7 +43,7 @@ Students should be able to:
 * define clear and consistent visual and non-visual indication of state changes for menu items
 * define mechanisms to identify blocks of repeated content
 * cooperate with developers to define and implement mechanisms that bypass blocks of repeated content
-* define mechanisms to help users to locate specific web pages within sets of web pages, for example by providing breadcrumb trails, site maps, and descriptive page titles
+* define mechanisms to help users to locate specific web pages within websites, for example by providing breadcrumb trails, site maps, and descriptive page titles
 * assess the use of navigation mechanisms depending on user needs
 * identify related requirements for developers to implement:
   * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
@@ -120,7 +120,7 @@ Students should be able to:
 
 * identify and describe uses of different types of navigation menus, such as static, fly-out, and mega menus
 * define visual and text cues to distinguish menus from other components, 
-* define consistent styling for menu identification across a set of web pages
+* define consistent styling for menu identification across websites
 * define interactions inside navigation menus, including mouse, keyboard, and touch
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
@@ -201,13 +201,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a set of web pages. Discuss examples like breadcrumb trails, page titles, and text and visual cues to indicate the current page.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/) to research strategies that people with disabilities use to locate a specific web page in a website. Discuss examples like breadcrumb trails, page titles, and text and visual cues to indicate the current page.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design mechanisms  for users to locate specific web pages within sets of web pages, for example:
+* design mechanisms for users to locate specific web pages within websites, for example:
   * descriptive page titles
   * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
@@ -219,15 +219,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of breadcrumb trails. Explain that they provide information about the users location in the context of a set of web pages. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
-* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a set of web pages. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some browsers and assistive technologies may truncate the titles or not show the at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
+* Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a whole website. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
+* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page, as some browsers and assistive technologies may truncate the titles or not show the at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 
 #### Ideas to Assess Knowledge
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of text and visual cues, breadcrumb trails, and descriptive titles and headings.
-* Practical &mdash; Present students with a set of web pages and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
+* Practical &mdash; Present students with a website and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
 
 {% include excol.html type="end" %}
 
@@ -237,7 +237,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a set of web pages. Assess how students understand accessibility features of navigation across websites and applications.
+* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
 
