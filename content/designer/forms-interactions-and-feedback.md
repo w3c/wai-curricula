@@ -118,7 +118,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Form Design
+### Topic: Forms Design
 
 {% include excol.html type="middle" %}
 

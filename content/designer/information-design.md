@@ -99,7 +99,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Textual Information
+### Topic: Text
 
 {% include excol.html type="middle" %}
 
@@ -174,7 +174,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Tabular Information
+### Topic: Tables
 
 {% include excol.html type="middle" %}
 

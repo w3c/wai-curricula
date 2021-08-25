@@ -68,9 +68,9 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Styles](/curricula/designer-modules/color-and-layout/#topic-styles)
     -   [Topic: Adaptability (WIP)](/curricula/designer-modules/color-and-layout/#topic-adaptability)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
-    -   [Topic: Text](/curricula/designer-modules/information-design/#topic-textual-information)
+    -   [Topic: Text](/curricula/designer-modules/information-design/#topic-text)
     -   [Topic: Labels and Instructions (WIP)](/curricula/designer-modules/information-design/#topic-labels-and-instructions)
-    -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tabular-information)
+    -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tables)
 -   [Module 3: Navigation](/curricula/designer-modules/navigation/)
     -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation/#topic-menu-behaviors-and-patterns)
     -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation/#topic-other-navigation-mechanisms)
@@ -88,4 +88,3 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Forms Design (WIP)](/curricula/designer-modules/forms-interactions-and-feedback/#topic-forms-design)
     -   [Topic: Keyboard Interactions](/curricula/designer-modules/forms-interactions-and-feedback/#topic-keyboard-interactions)
     -   [Topic: Gestures and Motion](/curricula/designer-modules/forms-interactions-and-feedback/#topic-gestures-and-motion)
-    
