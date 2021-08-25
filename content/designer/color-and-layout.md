@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 1: Color and Layout"
+title: "[Draft] Module 1: Color and Layout (WIP)"
 nav_title: "Color and Layout"
 permalink: /curricula/designer-modules/color-and-layout/
 ref: /curricula/designer-modules/color-and-layout/

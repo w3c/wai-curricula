@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 6: Forms, Interactions, and Feedback"
+title: "[Draft] Module 6: Forms, Interactions, and Feedback (WIP)"
 nav_title: "Forms, Interactions, and Feedback"
 permalink: /curricula/designer-modules/forms-interactions-and-feedback/
 ref: /curricula/designer-modules/forms-interactions-and-feedback/
@@ -157,6 +157,9 @@ Optional ideas to teach the learning outcomes:
 * Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
+* Show examples of different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
+* Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
+* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
