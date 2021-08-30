@@ -39,7 +39,7 @@ Students should be able to:
 * explain strategies that people with disabilities use to interact with forms and other components that accept user input
 * design user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
-* assess the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
+* evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define clear and distinguishable ways to identify form fields and other components that accept user input, including through naming and placement
 * define mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
 * define meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input

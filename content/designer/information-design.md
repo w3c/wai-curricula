@@ -44,7 +44,7 @@ Students should be able to:
 * describe the use of visual and non-visual cues to make information in multi-step processes more understandable
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the total number of items and about the current item in a multi-step process visually and non-visually
-* assess the use of different mechanisms to convey the information, including text, tables, grouping, and graphical representation depending on user needs
+* evaluate the use of different mechanisms to convey the information, including text, tables, grouping, and graphical representations depending on user needs
 * identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}
@@ -115,8 +115,8 @@ Students should be able to:
   * pages
   * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* assess the use of definitions for professional terms, idioms, and jargon versus the use of such terms alone
-* assess the use of expanded forms or meaning for acronyms and abbreviations versus using such acronyms and abbreviations alone
+* evaluate the use of professional terms, idioms, and jargon, and justify the use of definitions for such terms to support readability
+* evaluate the use of acronyms and abbreviations, and justify the use of expanded forms for such abbreviations and acronymms to support readability
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
@@ -188,7 +188,7 @@ Students should be able to:
 * identify different ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
-* assess the use of complex tables versus simpler ways to provide the information, for example using:
+* evaluate the use of complex tables and justify the use of simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations
   * plain text

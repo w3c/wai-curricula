@@ -42,7 +42,7 @@ Students should be able to:
 * design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* assess the use of images versus other ways to provide the information, including tables and plain text
+* evaluate the use of images and justify other ways to provide the information, including tables and plain text
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images, such as charts, diagrams, and other complex graphics
 
@@ -155,6 +155,7 @@ Students should be able to:
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * define alternatives to CAPTCHA and biometrics, for example by providing visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
+* evaluate the use of too many informative images and justify the use of other ways to convey the information, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -189,7 +190,7 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * use appropriate contrast ratios for complex images
-* assess the use of complex images versus other ways to present the information; for example using tables, simpler images, and plain text
+* evaluate the use of complex images and justify other ways to present the information; for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
@@ -227,7 +228,7 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* assess the potential distraction and cognitive overload from using too many decorative images
+* evaluate the potential distraction and cognitive overload from using too many decorative images and justify the use of decoraative images that avoid distractions and cognitive overload
 * explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 

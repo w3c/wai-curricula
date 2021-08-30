@@ -37,14 +37,13 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
-* determine sufficient color contrast for text, images of text, and controls
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
 * design layouts that adapt to different screen sizes, configurations, and user style sheets
 * use headings, landmarks, and spacing to group related content
 * use a combination of text cues, patterns, and icons to convey information 
-* assess the potential distraction and cognitive overload from using too many design elements on a single page, in particular interactive widgets, images, and moving content"
+* evaluate the use of too many design elements (in particular interactive widgets, images, and moving content) on a page, and justify the use of elements that avoid potential distraction and cognitive overload
 * identify related requirements for developers to apply the necessary semantics to interface components
 
 {% include excol.html type="all" %}
@@ -116,7 +115,7 @@ Describe how some people rely on color to understand and distinguish content. Ex
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish components
-* determine if text, images of text, and controls have sufficient color contrast
+* determine sufficient color contrast for text, images of text, and controls
 * design text and images of text that have a color contrast of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a color contrast of at least 3:1 with respect to their background
 * design components and graphics that have a color contrast of at least 3:1 with respect to their background
@@ -226,8 +225,8 @@ Students should be able to:
 * design layouts that can have their text resized without loss of content and functionality
 * design layouts that can have their text zoomed and enlarged using different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts that can have their target sizess customized for different input methods, sizes, and spacing
-* design layouts that can have line height, as well as spacing between paragraphs, words, and letters customized by users
+* design layouts that support tapping  by people with mobility impairments and by people using different input methods, sizes, and spacing
+* design layouts that can have line height, as well as spacing between paragraphs, words, and letters, customized by users
 * design meaningful focus orders that adapt to different viewports, screen sizes, and breakpoints
 
 #### Teaching Ideas for Topic

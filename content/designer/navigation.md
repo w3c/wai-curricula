@@ -44,7 +44,7 @@ Students should be able to:
 * define mechanisms to identify blocks of repeated content
 * cooperate with developers to define and implement mechanisms that bypass blocks of repeated content
 * define mechanisms to help users to locate specific web pages within websites, for example by providing breadcrumb trails, site maps, and descriptive page titles
-* assess the use of navigation mechanisms depending on user needs
+* evaluate the use of navigation mechanisms, including menus, tables of content, and sitemaps, and justify the use of navigation mechanisms that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational mechanisms
@@ -167,11 +167,11 @@ Students should be able to:
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
-* assess the amount of mechanisms to skip blocks of repeated content in use, to avoid distractions and unnecessary noise
+* evaluate the use of mechanisms to skip blocks of repeated content, and jjustify the use of mechanisms that avoid distractions and unnecessary noise
 * define other navigational mechanisms to ensure web pages and application views can be reached using the following methods:
   * search functionalities that support navigating to specific parts of the site
   * site maps to provide an overview of the entire website
-* assess the amount of navigational mechanisms in use, to avoid distractions and unnecessary noise
+* evaluate the amount of navigational mechanisms in use, and justify the use of mechanisms that help users navigate and orient
 
 #### Teaching Ideas for Topic
 
@@ -212,7 +212,7 @@ Students should be able to:
   * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
   * breadcrumb trails
-* assess the amount of location mechanisms in use, to avoid distractions and unnecessary noise
+* evaluate the use of location mechanisms in use, and justify the use of mechanisms that avoid distractions and unnecessary noise
 * identify related requirements for developers to apply semantics to page titles, headings, non-visual cues, and breadcrumb trails
 
 ### Teaching Ideas
