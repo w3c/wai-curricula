@@ -44,7 +44,7 @@ Students should be able to:
 * define mechanisms to identify blocks of repeated content
 * cooperate with developers to define and implement mechanisms that bypass blocks of repeated content
 * define mechanisms to help users to locate specific web pages within websites, for example by providing breadcrumb trails, site maps, and descriptive page titles
-* evaluate the use of navigation mechanisms, including menus, tables of content, and sitemaps, and justify the use of navigation mechanisms that avoid distraction and unnecessary noise
+* evaluate the use of navigational mechanisms, including menus, tables of content, and sitemaps, and justify the use of navigational mechanisms that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational mechanisms
@@ -169,7 +169,7 @@ Students should be able to:
   * expandable and collapsible contents to make it easier for users to skip over them
 * evaluate the use of mechanisms to skip blocks of repeated content, and jjustify the use of mechanisms that avoid distractions and unnecessary noise
 * define other navigational mechanisms to ensure web pages and application views can be reached using the following methods:
-  * search functionalities that support navigating to specific parts of the site
+  * search functionalities to navigate to specific parts of the site
   * site maps to provide an overview of the entire website
 * evaluate the amount of navigational mechanisms in use, and justify the use of mechanisms that help users navigate and orient
 

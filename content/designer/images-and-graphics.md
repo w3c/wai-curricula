@@ -38,11 +38,11 @@ Students should be able to:
 
 * explain how images and graphics help people with disabilities to process information, identify content, and understand functionality
 * explain how text alternatives are essential for people with disabilities to understand the information contained in images
-* define meaningful and consistent text alternatives for functional images, such as those included in buttons, links, icons, and logos
+* define meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
 * design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* evaluate the use of images and justify other ways to provide the information, including tables and plain text
+* evaluate the use of images and justify alternative ways to provide the information, including tables and plain text
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images, such as charts, diagrams, and other complex graphics
 
@@ -122,7 +122,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different images used to convey functionality, such as for printing, searching, or saving a document. Explain that it is necessary to provide  an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Show examples of different images used to convey functionality, for example for printing, searching, or saving a document. Explain that it is necessary to provide  an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how  to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -220,7 +220,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Decorative images are used for ornamental purposes and convey no information or function. Build on [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/) to explain accessibility requirements such as use of color, ability to resize, and flexibility in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
+Decorative images are used for ornamental purposes and convey no information or function. Build on [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/) to explain accessibility requirements such as use of color, ability to resize, and adaptability in the context of decorative images. Decorative images require empty text alternatives, so that they can be ignored by assistive technologies, and reduce noise. Explain that determining if an image is decorative is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -228,7 +228,7 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* evaluate the potential distraction and cognitive overload from using too many decorative images and justify the use of decoraative images that avoid distractions and cognitive overload
+* evaluate the potential distraction and cognitive overload from using too many decorative images and justify the use of decorative images that avoid distractions and cognitive overload
 * explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 

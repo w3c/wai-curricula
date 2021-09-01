@@ -222,11 +222,11 @@ Explain how people with disabilities rely on designs that adapt to different scr
 
 Students should be able to:
 
-* design layouts that can have their text resized without loss of content and functionality
-* design layouts that can have their text zoomed and enlarged using different viewport sizes and through multiple breakpoints
+* design layouts to support text resizing without loss of content and functionality
+* design layouts to support text zooming and enlarginf in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts that support tapping  by people with mobility impairments and by people using different input methods, sizes, and spacing
-* design layouts that can have line height, as well as spacing between paragraphs, words, and letters, customized by users
+* design layouts with sufficient target sizes to support tapping
+* design layouts to support user customization line height, as well as spacing between paragraphs, words, and letters
 * design meaningful focus orders that adapt to different viewports, screen sizes, and breakpoints
 
 #### Teaching Ideas for Topic

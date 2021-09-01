@@ -29,23 +29,22 @@ navigation:
 
 Courses based on this module should:
 
-* present design strategies for splitting large blocks of information into smaller pieces that are easier to read and understand 
-* present design strategies for grouping information that shares a common purpose to make such information easier to understand
+* describe several approaches to make information understandable by all users
+* describe several approaches to communicate the structure, relations, and purpose  information
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* describe approaches to break down different types of content into smaller and more manageable pieces for example using:
+* describe approaches to break down different types of content into smaller and more manageable pieces, for example using:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
-  * filters to display smaller data subsets from a given large data set
 * describe the use of visual and non-visual cues to make information in multi-step processes more understandable
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the total number of items and about the current item in a multi-step process visually and non-visually
 * evaluate the use of different mechanisms to convey the information, including text, tables, grouping, and graphical representations depending on user needs
-* identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
+* identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
 
 {% include excol.html type="all" %}
 
@@ -116,7 +115,7 @@ Students should be able to:
   * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
 * evaluate the use of professional terms, idioms, and jargon, and justify the use of definitions for such terms to support readability
-* evaluate the use of acronyms and abbreviations, and justify the use of expanded forms for such abbreviations and acronymms to support readability
+* evaluate the use of acronyms and abbreviations, and justify the use of expanded forms for such abbreviations and acronyms to support readability
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
