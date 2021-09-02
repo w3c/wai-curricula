@@ -133,7 +133,7 @@ Show examples of different ways to group large amounts of selectable data. For e
 Students should be able to:
 
 * design user experiences that consider position, appearance, and naming for labels, instructions, and notifications
-* define visual and non-visual instructions about which input fields are required by:
+* define visual and non-visual instructions about which input fields are required
 * define clear instructions about changes in context before the control that originates such changes
 * define overall instructions about existing time limits in a form and about how they can be adjusted, extended, and turned off
 * define clear instructions about the current step and about the total number of steps involved in a multi-step form
