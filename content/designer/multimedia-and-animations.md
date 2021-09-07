@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Multimedia and Animations (WIP)"
+title: "[Draft] Module 6: Multimedia and Animations [WIP]"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/
@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/images-and-graphics/
-  next: /curricula/designer-modules/forms-interactions-and-feedback/
+  next: /curricula/designer-modules/forms-design/
 ---
 
 ## Introduction
@@ -41,7 +41,7 @@ Students should be able to:
 * design user experiences for audio descriptions, captions, transcripts, and sign language, including
   * mechanisms for turning on and off such alternatives 
   * ways for users to interact with the alternatives
-* evaluate the need for designing custom media players and justify the use of existing media players with support for accessibility
+* evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
 * design media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
 * design media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
 * design mechanisms to mute and control the volume of auto-playing audio
@@ -65,7 +65,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
 * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-* [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
 * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
 * Basic knowledge of:
   * Visual Design
@@ -97,7 +97,7 @@ Skills required for this module:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
   * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-  * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+  * [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
   * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
   * Visual Design
   * Prototyping
@@ -160,7 +160,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Carousels, Movement, and Animations
+### Topic: Movement, and Animations
 
 {% include excol.html type="middle" %}
 

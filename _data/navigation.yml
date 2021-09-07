@@ -261,18 +261,20 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Color and Layout
-        url: "/curricula/designer-modules/color-and-layout/"
+      - name: Visual Design
+        url: "/curricula/designer-modules/visual-design/"
       - name: Information Design
         url: "/curricula/designer-modules/information-design/"
-      - name: Navigation
-        url: "/curricula/designer-modules/navigation/"
-      - name: Images and Graphics
-        url: "/curricula/designer-modules/images-and-graphics/"
+      - name: Navigation Design
+        url: "/curricula/designer-modules/navigation-design/"
+      - name: Interaction Design
+        url: "/curricula/designer-modules/interaction-design/"
+      - name: Images and Graphics Design
+        url: "/curricula/designer-modules/images-and-graphics-design/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
-      - name: Forms, Interactions, and Feedback
-        url: "/curricula/designer-modules/forms-interactions-and-feedback/"
+      - name: Forms Design
+        url: "/curricula/designer-modules/forms-design"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

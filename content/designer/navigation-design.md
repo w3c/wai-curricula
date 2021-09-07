@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 3: Navigation"
-nav_title: "Navigation"
-permalink: /curricula/designer-modules/navigation/
-ref: /curricula/designer-modules/navigation/
+title: "[Draft] Module 3: Navigation Design"
+nav_title: "Navigation Design"
+permalink: /curricula/designer-modules/navigation-design/
+ref: /curricula/designer-modules/navigation-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/navigation.md
+  path: content/designer/navigation-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/color-and-layout/
-  next: /curricula/designer-modules/information-design/
+  previous: /curricula/designer-modules/information-design/
+  next: /curricula/designer-modules/interaction-design/
 ---
 
 ## Introduction
@@ -30,24 +30,24 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to navigate websites and applications
-* describe accessible behaviors, visual affordances, and interaction patterns of navigation menus and other navigational mechanisms
+* describe accessible behaviors, visual affordances, and interaction patterns of navigation menus and other navigational components
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
-* design different types of navigational mechanisms, including menus, tables of contents, and site maps
-* define different interactions for menus and other navigational mechanisms, including keyboard, mouse, touch, and voice
+* design different types of navigational components, including menus, tables of contents, and site maps
+* define different interactions for menus and other navigational components, including keyboard, mouse, touch, and voice
 * define clear and consistent visual and non-visual presentation of menus and menu items
 * define clear and consistent visual and non-visual indication of state changes for menu items
-* define mechanisms to identify blocks of repeated content
-* cooperate with developers to define and implement mechanisms that bypass blocks of repeated content
-* define mechanisms to help users to locate specific web pages within websites, for example by providing breadcrumb trails, site maps, and descriptive page titles
-* evaluate the use of navigational mechanisms, including menus, tables of content, and sitemaps, and justify the use of navigational mechanisms that avoid distraction and unnecessary noise
+* identify blocks of repeated content
+* cooperate with developers to define and implement methods to bypass blocks of repeated content
+* define  define breadcrumb trails, site maps, and descriptive page titles to help users locate specific web pages within websites
+* evaluate the use of navigational components, including menus, tables of content, and sitemaps, and select navigational components that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
-  * interactions for navigational mechanisms, including keyboard, mouse, touch, and voice
-  * clear and descriptive names for navigational mechanisms
+  * interactions for navigational components, including by keyboard, mouse, touch, and voice
+  * clear and descriptive names for navigational components
   * semantics for menus, menu items, and menu item states
 
 {% include excol.html type="all" %}
@@ -151,11 +151,11 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Other navigational mechanisms
+### Topic: Other Navigational Components
 
 {% include excol.html type="middle" %}
 
-Introduce other navigational mechanisms that may be used depending on the characteristics of the website or application. Explain that different groups of users rely on different navigational mechanisms. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
+Introduce other navigational components that may be used depending on the characteristics of the website or application. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
 
 #### Learning Outcomes for Topic
 
@@ -168,10 +168,10 @@ Students should be able to:
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
 * evaluate the use of mechanisms to skip blocks of repeated content, and jjustify the use of mechanisms that avoid distractions and unnecessary noise
-* define other navigational mechanisms to ensure web pages and application views can be reached using the following methods:
+* define other navigational components to ensure web pages and application views can be reached using the following methods:
   * search functionalities to navigate to specific parts of the site
   * site maps to provide an overview of the entire website
-* evaluate the amount of navigational mechanisms in use, and justify the use of mechanisms that help users navigate and orient
+* evaluate the amount of navigational components in use, and select components that help users navigate and orient
 
 #### Teaching Ideas for Topic
 
@@ -191,7 +191,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a mechanism to bypass such blocks.
 * Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, site maps, and tables of contents.
-* Practical &mdash; Give students an interface with excessive use of navigational mechanisms and ask them to determine which of these navigational mechanisms should stay and which should be removed. Assess how students balance the use of navigational mechanisms to avoid distraction and unnecessary noise.
+* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
 
@@ -212,7 +212,7 @@ Students should be able to:
   * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
   * breadcrumb trails
-* evaluate the use of location mechanisms in use, and justify the use of mechanisms that avoid distractions and unnecessary noise
+* evaluate the amount of location mechanisms in use, and select mechanisms that avoid distractions and unnecessary noise
 * identify related requirements for developers to apply semantics to page titles, headings, non-visual cues, and breadcrumb trails
 
 ### Teaching Ideas
@@ -237,7 +237,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students design the navigation menu and other navigational mechanisms for a website. Assess how students understand accessibility features of navigation across websites and applications.
+* Portfolio &mdash; Students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
 

@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Color and Layout (WIP)"
-nav_title: "Color and Layout"
-permalink: /curricula/designer-modules/color-and-layout/
-ref: /curricula/designer-modules/color-and-layout/
+title: "[Draft] Module 1: Visual Design [WIP]"
+nav_title: "Visual Design"
+permalink: /curricula/designer-modules/visual-design/
+ref: /curricula/designer-modules/visual-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/color-and-layout.md
+  path: content/designer/visual-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/
-  next: /curricula/designer-modules/navigation/
+  next: /curricula/designer-modules/information-design/
 ---
 
 ## Introduction
@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain accessibility requirements for color contrast, styles, visual and non visual cues, landmarks, and regions
-* explain how people with disabilities rely on layouts that adapt to different screen sizes, configurations, and style sheets
+* demonstrate how people with disabilities rely on layouts that adapt to different screen sizes, configurations, and style sheets
+* explain accessibility requirements for color, layout, spacing, and position
  
 ## Learning Outcomes for Module
 
@@ -42,8 +42,8 @@ Students should be able to:
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
 * design layouts that adapt to different screen sizes, configurations, and user style sheets
 * use headings, landmarks, and spacing to group related content
-* use a combination of text cues, patterns, and icons to convey information 
-* evaluate the use of too many design elements (in particular interactive widgets, images, and moving content) on a page, and justify the use of elements that avoid potential distraction and cognitive overload
+* use visual and non-visual cues to convey information, including text, color, patterns, and icons 
+* evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
 * identify related requirements for developers to apply the necessary semantics to interface components
 
 {% include excol.html type="all" %}
@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain how sufficient color contrast (contrast ratios in WCAG) are essential for people with disabilities to perceive, distinguish, and understand content.
+Explain how sufficient color contrast (contrast ratio in WCAG) is essential for people with disabilities to perceive, distinguish, and understand content.
 
 Describe how some people rely on color to understand and distinguish content. Explain that some people cannot perceive color well or at all. Discuss different ways to supplement information that is presented using color, such as using shapes and icons.
 
@@ -119,24 +119,24 @@ Students should be able to:
 * design text and images of text that have a color contrast of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a color contrast of at least 3:1 with respect to their background
 * design components and graphics that have a color contrast of at least 3:1 with respect to their background
-* define layouts that enable users to change colors based on customized screen sizes, screen configurations, and style sheets
-* use visual cues in addition to color, for example using different patterns, shapes, and icons
-* use non-visual cues for people who cannot perceive color, for example using text to complement information provided visually
+* define layouts to enable users to change colors based on customized screen sizes, screen configurations, and style sheets
+* use visual cues in addition to text color, for example using different patterns, shapes, and icons
+* use text to complement information provided visually
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of how different pieces of text are perceived depending on their background color. Explain that color contrast for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply sufficient color contrast to text (including images of text), see technique [G18: Ensuring that a color contrast of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Show examples of sufficient and insufficient color contrast for text. Explain that color contrast for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply sufficient color contrast to text (including images of text), see technique [G18: Ensuring that a color contrast of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a color contrast of at least 3:1.
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so supplemental methods to convey that information are required. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so these users require additional methods to convey that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Give students several components and ask them what the color contrast should be. Assess how students understand and distinguish sufficient color contrast for different components.
-* Practical &mdash; Students design a paper prototype and apply sufficient color contrast to text, images of text, components, and graphics. Assess how students understand and apply sufficient color contrast based on the different components that they are designing.
+* Practical &mdash; Students design a prototype and apply sufficient color contrast to text, images of text, components, and graphics. Assess how students understand and apply sufficient color contrast based on the different components that they are designing.
 * Practical &mdash; Discuss with students examples of information presented using color and ask them to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
 {% include excol.html type="end" %}
@@ -164,9 +164,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of styles to distinguish links, buttons, form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
+* Demonstrate the use of styles to distinguish links, buttons, and form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to be able to read and understand content properly.
-* Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of content and for better identification of the different parts of the user interface.
+* Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of the content and for better identification of the different parts of the interface.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -182,7 +182,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities perceive different web page regions and content through text and visual landmarks and cues. Present different strategies to include such cues early in the design phase.
+Explain how people with disabilities perceive different web page regions and content through text, landmarks, and cues. Present different strategies to include such text, landmarks, and cues early in the design phase.
 
 #### Learning Outcomes for Topic
 
@@ -191,28 +191,28 @@ Students should be able to:
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using appropriate visual and programmatic landmarks, such as headings
 * design layouts that enable to present landmarks and cues in different screen sizes, screen configurations, and style sheets
-* use text cues to supplement information provided through vision only, for example to convey required form fields represented with an icon and available dates in a calendar represented with a different background color
+* use text cues to supplement information provided through vision only, for example available dates in a calendar represented with a different background color
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
+* Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 * Show examples of different web page regions, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic landmarks to perceive such regions. Explain that defining landmarks and their styles is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
-* Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a web page and ask them to define the appropriate landmarks and their styling for users to perceive such regions. Assess how students provide mechanisms to perceive such regions.
-* Practical &mdash: Give students examples of information conveyed visually and ask them to provide text information to help understand the information. Assess how students provide the necessary textual information and visual cues to supplement information.
+* Practical &mdash; Give students a web page and ask them to define the appropriate landmarks and their styling. Assess how students define landmarks and regions using a variety of methods, including semantics and styling.
+* Practical &mdash: Give students examples of information conveyed visually and ask them to provide text to help understand the information. Assess how students provide the necessary textual information to supplement information conveyed visually.
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-### Topic: Adaptability
+### Topic: Flexible Layouts
 
 {% include excol.html type="middle" %}
 
@@ -223,27 +223,27 @@ Explain how people with disabilities rely on designs that adapt to different scr
 Students should be able to:
 
 * design layouts to support text resizing without loss of content and functionality
-* design layouts to support text zooming and enlarginf in different viewport sizes and through multiple breakpoints
+* design layouts to support text zooming and enlarging in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts with sufficient target sizes to support tapping
-* design layouts to support user customization line height, as well as spacing between paragraphs, words, and letters
-* design meaningful focus orders that adapt to different viewports, screen sizes, and breakpoints
+* design layouts with target sizes that adapt to different screen sizes and screen configurations
+* design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
+* design meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that people with low vision often need to resize text to read it properly. Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
+* Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. Explain that some people  often need to resize text to read it properly. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
 * Discuss the use of multiple screen sizes, screen configurations, and style sheets by people with low vision. Explain that these configurations often go beyond the traditional mobile, tablet, and desktop breakpoints.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is important for people who cannot change their device orientation due to mobility impairments.
-* Show examples of different tap targets and explain that some people have difficulty to tap smaller targets due to mobility impairments. Explain that tap targets need to be large enough to accommodate different people's needs.
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
+* Show examples of different tap targets and explain that some people have difficulty to tap smaller targets due to mobility impairments. Explain that tap targets need to be large enough to accommodate different people's needs.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students design different paper prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
+* Practical &mdash; Students design different prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
 
 {% include excol.html type="end" %}
 

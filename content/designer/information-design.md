@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 2: Information Design (WIP)"
+title: "[Draft] Module 2: Information Design [WIP]"
 nav_title: "Information Design"
 permalink: /curricula/designer-modules/information-design/
 ref: /curricula/designer-modules/information-design/
@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/navigation/
-  next: /curricula/designer-modules/images-and-graphics/
+  previous: /curricula/designer-modules/visual-design/
+  next: /curricula/designer-modules/navigation-design/
 ---
 
 ## Introduction
@@ -29,13 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-* describe several approaches to make information understandable by all users
+* demonstrate how people with disabilities use titles, headings, labels, instructions, imagery, and others to obtain and process information
 * describe several approaches to communicate the structure, relations, and purpose  information
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
+* explain how people with disabilities use titles, headings, labels, instructions, imagery, and others to obtain and process information
 * describe approaches to break down different types of content into smaller and more manageable pieces, for example using:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
@@ -114,8 +115,8 @@ Students should be able to:
   * pages
   * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* evaluate the use of professional terms, idioms, and jargon, and justify the use of definitions for such terms to support readability
-* evaluate the use of acronyms and abbreviations, and justify the use of expanded forms for such abbreviations and acronyms to support readability
+* evaluate the use of professional terms, idioms, and jargon, and select definitions for such terms to support readability
+* evaluate the use of acronyms and abbreviations, and select expanded forms for such acronyms and abbreviations to support readability
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
@@ -133,7 +134,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Present students with an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processes and instructions presented in text.
+f* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processes and instructions presented in text.
 * Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
@@ -187,7 +188,7 @@ Students should be able to:
 * identify different ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
-* evaluate the use of complex tables and justify the use of simpler ways to provide the information, for example:
+* evaluate the use of complex tables and select simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations
   * plain text

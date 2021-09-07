@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/developer-modules/rich-applications/
-  next: /curricula/designer-modules/color-and-layout/
+  next: /curricula/designer-modules/visual-design/
 ---
 
 ## Introduction
@@ -65,29 +65,30 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Color and Layout (WIP)](/curricula/designer-modules/color-and-layout)
-    -   [Topic: Color (WIP)](/curricula/designer-modules/color-and-layout/#topic-color)
-    -   [Topic: Landmarks and Cues](/curricula/designer-modules/#topic-landmarks-and-cues)
+-   [Module 1: Visual Design [WIP]](/curricula/designer-modules/color-and-layout)
+    -   [Topic: Color [WIP]](/curricula/designer-modules/color-and-layout/#topic-color)
     -   [Topic: Styles](/curricula/designer-modules/color-and-layout/#topic-styles)
-    -   [Topic: Adaptability (WIP)](/curricula/designer-modules/color-and-layout/#topic-adaptability)
+    -   [Topic: Landmarks and Cues](/curricula/designer-modules/#topic-landmarks-and-cues)
+    -   [Topic: Flexible Layouts [WIP]](/curricula/designer-modules/color-and-layout/#topic-adaptability)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Text](/curricula/designer-modules/information-design/#topic-text)
-    -   [Topic: Labels and Instructions (WIP)](/curricula/designer-modules/information-design/#topic-labels-and-instructions)
+    -   [Topic: Labels and Instructions [WIP]](/curricula/designer-modules/information-design/#topic-labels-and-instructions)
     -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tables)
--   [Module 3: Navigation](/curricula/designer-modules/navigation/)
-    -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation/#topic-menu-behaviors-and-patterns)
-    -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation/#topic-other-navigation-mechanisms)
-    -   [Topic: Location](/curricula/designer-modules/navigation/#topic-location)
--   [Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
+-   [Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
+    -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation-design/#topic-menu-behaviors-and-patterns)
+    -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation-design/#topic-other-navigation-mechanisms)
+    -   [Topic: Location](/curricula/designer-modules/navigation-design/#topic-location)
+-   [Module 4: InteractionDesign](/curricula/designer-modules/interaction-design)
+-   [Module 5: Images and Graphics](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
     -   [Topic: Functional Images](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
     -   [Topic: Informative Images](/curricula/designer-modules/images-and-graphics/#topic-informative-images)
     -   [Topic: Complex Images](/curricula/designer-modules/images-and-graphics/#topic-complex-images)
     -   [Topic: Decorative Images](/curricula/designer-modules/images-and-graphics/#topic-decorative-images)
--   [Module 5: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
+-   [Module 6: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   Topic: Media Players [TBD] ???
     -   [Topic: Carousels, Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-carousels-movement-and-animations)
--   [Module 6: Forms, Interactions, and Feedback](/curricula/designer-modules/forms-interactions-and-feedback/)
-    -   [Topic: Forms Design (WIP)](/curricula/designer-modules/forms-interactions-and-feedback/#topic-forms-design)
+-   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
+    -   [Topic: Forms Design [WIP]](/curricula/designer-modules/forms-interactions-and-feedback/#topic-forms-design)
     -   [Topic: Keyboard Interactions](/curricula/designer-modules/forms-interactions-and-feedback/#topic-keyboard-interactions)
     -   [Topic: Gestures and Motion](/curricula/designer-modules/forms-interactions-and-feedback/#topic-gestures-and-motion)

@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 6: Forms, Interactions, and Feedback (WIP)"
-nav_title: "Forms, Interactions, and Feedback"
-permalink: /curricula/designer-modules/forms-interactions-and-feedback/
-ref: /curricula/designer-modules/forms-interactions-and-feedback/
+title: "[Draft] Module 4: Interaction Design [WIP]"
+nav_title: "Interaction Design"
+permalink: /curricula/designer-modules/interaction-design/
+ref: /curricula/designer-modules/interaction-design/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/forms-interactions-and-feedback.md
+  path: content/designer/interaction-design.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -18,10 +18,9 @@ footer: >
     name: nav_title
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
-
 navigation:
-  previous: /curricula/designer-modules/multimedia-and-animations/
-  next:
+  previous: /curricula/designer-modules/navigation-design/
+  next: /curricula/designer-modules/images-and-graphics/
 ---
 
 ## Introduction
@@ -29,22 +28,18 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to interact with components that accept user input, such as forms, buttons, links, and widgets
-* describe accessibility requirements related to interactions, instructions, semantics, cues, notifications, and feedback
+* explain strategies that people with disabilities use to interact with components
+* describe accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to interact with forms and other components that accept user input
-* design user experiences for different input mechanisms, including mouse, touch, keyboard, and speech
+* explain strategies that people with disabilities use to interact with components
+* design user experiences for different input methods, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
-* define clear and distinguishable ways to identify form fields and other components that accept user input, including through naming and placement
-* define mechanisms to help understand the context, information, and functionality of user interface components, including through textual instructions, color, and other visual cues
-* define meaningful and descriptive notifications about imminent time limits, steps, errors, suggestions for correction, success messages, status changes, and feedback from user input
-* identify related requirements for developers to provide the necessary semantics for components that accept user input, error messages, notifications, and other feedback
-* identify related requirements for developers to code custom keyboard interactions for components that accept user input
+* identify related requirements for developers to code interactions for components, including through mouse, keyboard, touch, and voice
 
 {% include excol.html type="all" %}
 
@@ -118,85 +113,30 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Forms Design
-
-{% include excol.html type="middle" %}
-
-Refer back to [Designer Module 2: Information Design, Topic Labels and Instructions](/curricula/designer-modules/information-design/#topic-labels-and-instructions). Show examples of labels and instructions in the context of forms and other complex widgets.
-
-Show examples of text and visual notifications for error messages and other types of feedback for forms and other custom widgets. Explain that notifications may have different levels of priority when in the context of a complex application. Defining such levels of priority and which types of notifications each of them should contain is a designers' responsibility.
-
-Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and enable mechanisms to type the first letters of their desire option to select data more efficiently.
-
-#### Learning outcomes for Topic
-
-Students should be able to:
-
-* design user experiences that consider position, appearance, and naming for labels, instructions, and notifications
-* define visual and non-visual instructions about which input fields are required
-* define clear instructions about changes in context before the control that originates such changes
-* define overall instructions about existing time limits in a form and about how they can be adjusted, extended, and turned off
-* define clear instructions about the current step and about the total number of steps involved in a multi-step form
-* define error messages in the page title or before the form control that
-  * identify the fields in error
-  * describe the cause of the error
-  * provide suggestions to correct the error
-* define meaningful and descriptive notification messages, for example:
-  * on input (to communicate if the provided input is valid or invalid
-  * on task completion (to communicate success or failure of a specific task)
-* design user experiences to queue and prioritize application notifications coming from different components
-* design user experiences to store and check notifications that disappear after a period of time at the users' pace
-* identify related requirements for developers to code labels, instructions, and notifications appropriately
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Show examples of different components that accept user input (such as buttons, links, lists, and grids) across rich applications or complex widgets. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
-* Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
-* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
-* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
-* Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
-* Show examples of different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
-* Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
-* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Practical &mdash; Present students with a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
-* Practical &mdash; Give students an application and ask them to provide names for each of the application subsections. Assess how students identify application subsections and provide clear and understandable names for each.
-* Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
 ### Topic: Keyboard Interactions
 
 {% include excol.html type="middle" %}
 
-Discuss standard keyboard interactions, such as the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations, thus designers need to document these interactions and make them consistent throughout the interface.
-Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations. Thus designers need to document these interactions and make them consistent throughout the interface.
+Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* design user experiences for keyboard navigation through and inside custom components, for example:
+* design user experiences for keyboard navigation through and inside components, for example:
   * using the tab key to move through different components
   * using the enter key to enter a specific component and to select a specific item on a component
-  * using the arrow keys to move through elements inside components, such as application menus, dialogs, list items and grid cells
+  * using the arrow keys to move through elements inside components, including application menus, dialogs, list items, and grid cells
   * using the escape key to exit components
   * using first letter navigation to jump to specific pieces of data in lists and grids
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
-* design user experiences that avoid keyboard shortcut conflicts with the operating system, browser, and assistive technologies when possible
+* evaluate the use of custom keyboard interactions and select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
 * cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
-* define mechanisms to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
+* define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * define focus indicators that are visible and that have appropriate contrast ratios for complex widgets
-* describe related requirements for developers to implement keyboard support for components that accept user input
+* identify related requirements for developers to implement keyboard support for components that have no keyboard support by default
   
 #### Teaching Ideas for Topic
 
@@ -232,9 +172,9 @@ Discuss some gestures that require dragging and drawing specific paths on a touc
 Students should be able to:
 
 * use components that do not require motion as an alternative for device or user motion such as shaking
-* design mechanisms to disable response to motion to prevent accidental actuation, such as undoing an action by shaking a device
-* design alternatives to multi-pointer gestures (such as swipe or pinch) using single pointer activation
-* design mechanisms to undoing or aborting an action carried out with path-based operations
+* design methods to disable response to motion to prevent accidental actuation, for example undoing an action by shaking a device
+* design alternatives to multi-pointer gestures (including swipe or pinch) using single pointer activation
+* design methods to undo or abort an action carried out with path-based operations
 
 #### Teaching Ideas for Topic
 

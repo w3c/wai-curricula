@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 4: Images and Graphics"
+title: "[Draft] Module 5: Images and Graphics"
 nav_title: "Images and Graphics"
 permalink: /curricula/designer-modules/images-and-graphics/
 ref: /curricula/designer-modules/images-and-graphics/
@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/designer-modules/information-design/
+  previous: /curricula/designer-modules/interaction-design/
   next: /curricula/designer-modules/multimedia-and-animations/
 ---
 
@@ -42,7 +42,7 @@ Students should be able to:
 * design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* evaluate the use of images and justify alternative ways to provide the information, including tables and plain text
+* evaluate the use of images and select alternative ways to provide the information, including tables and plain text
 * identify related requirements for developers to code images and text alternatives appropriately
 * identify related requirements for content authors to provide appropriate descriptions for images, such as charts, diagrams, and other complex graphics
 
@@ -61,7 +61,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
 * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
 * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-* [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+* [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -84,7 +84,7 @@ Skills required for this module:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
   * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-  * [Designer Module 3: Navigation](/curricula/designer-modules/navigation/)
+  * [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -190,7 +190,7 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * use appropriate contrast ratios for complex images
-* evaluate the use of complex images and justify other ways to present the information; for example using tables, simpler images, and plain text
+* evaluate the use of complex images and select other ways to present the information; for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
@@ -228,7 +228,7 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* evaluate the potential distraction and cognitive overload from using too many decorative images and justify the use of decorative images that avoid distractions and cognitive overload
+* evaluate the potential distraction and cognitive overload from using too many decorative images and select wwdecorative images that avoid distractions and cognitive overload
 * explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 
