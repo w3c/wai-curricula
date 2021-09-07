@@ -65,11 +65,11 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Visual Design [WIP]](/curricula/designer-modules/color-and-layout)
-    -   [Topic: Color [WIP]](/curricula/designer-modules/color-and-layout/#topic-color)
-    -   [Topic: Styles](/curricula/designer-modules/color-and-layout/#topic-styles)
+-   [Module 1: Visual Design [WIP]](/curricula/designer-modules/visual-design)
+    -   [Topic: Color [WIP]](/curricula/designer-modules/visual-design/#topic-color)
+    -   [Topic: Styles](/curricula/designer-modules/visual-design/#topic-styles)
     -   [Topic: Labels and Cues](/curricula/designer-modules/#topic-landmarks-and-cues)
-    -   [Topic: Flexible Design [WIP]](/curricula/designer-modules/color-and-layout/#topic-adaptability)
+    -   [Topic: Flexible Design [WIP]](/curricula/designer-modules/visual-design/#topic-adaptability)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
     -   [Topic: Text](/curricula/designer-modules/information-design/#topic-text)
     -   [Topic: Labels and Instructions [WIP]](/curricula/designer-modules/information-design/#topic-labels-and-instructions)

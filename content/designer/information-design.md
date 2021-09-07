@@ -60,7 +60,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
+* [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -85,7 +85,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Color and Layout](/curricula/designer-modules/color-and-layout/)
+  * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -200,7 +200,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
-* Refer back to [Designer Module 1: Topic Adaptability](/curricula/designer-modules/color-and-layout/#topic-adaptability) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
+* Refer back to [Designer Module 1: Topic Adaptability](/curricula/designer-modules/visual-design/#topic-adaptability) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
