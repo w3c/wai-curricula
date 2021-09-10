@@ -113,7 +113,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Keyboard Interactions
+### Topic: Keyboard Interaction
 
 {% include excol.html type="middle" %}
 

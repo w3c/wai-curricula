@@ -160,7 +160,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Movement, and Animations
+### Topic: Movement and Animations
 
 {% include excol.html type="middle" %}
 
