@@ -99,17 +99,18 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Text
+### Topic: Landmarks and Text
 
 {% include excol.html type="middle" %}
 
-Discuss ways to split large amounts of text into smaller pieces. For example, using headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
+Discuss ways to split large amounts of text into smaller pieces. For example, using landmarks to define page regions, headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design textual content as manageable passages of text, for example by splitting larger blocks of text into smaller and more manageable pieces using:
+  * landmarks with their corresponding region type
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
   * pages
@@ -124,6 +125,7 @@ Students should be able to:
  
 Optional ideas to teach the learning outcomes:
 
+* Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
 * Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
@@ -145,14 +147,14 @@ f* Practical &mdash; Give students a complex piece of text and ask them to compl
 
 {% include excol.html type="middle" %}
 
-Discuss the use of visual and non-visual cues (including labels, instructions, and graphical representations) to help people understand components. Explain that defining how to present these cues is  a responsibility of the designer, whereas providing such cues is a responsibility shared with the content author.
+Discuss the use of labels, instructions, and graphical representations to help people understand components. Explain that defining how to present labels, instructions, and graphical representations is a responsibility of the designer, whereas providing them is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * define clear and distinguishable names for components, including visual and programmatic labels
-* define overall instructions to make information in multi-step processes more understandable, for example visual and non-visual cues, and graphical representations 
+* define overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
 * define visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
 * define related controls, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
 
@@ -160,8 +162,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+* Show examples of names for components, including links, buttons, and form controls. Explain that these names help users identify these components. Explain that defining the presentation of these names is a designers' responsibility, implementing these names is a developers' responsibility, and defining these names is a responsibility shared with the content author.
+* Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that defining the presentation of these instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining these instructions is a responsibility shared with the content author.
+* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process adn how many step the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
-* Show examples of long data lists and grids, such as to select a country. Explain that it takes a lot of time for keyboard users to go one by one using the arrow keys to select their desired option. Present mechanisms to filter  information so that it appears in smaller pieces, such as pseudo-search functionality that allows users to type the first letters of their desired choice.
 
 #### Ideas to Assess Knowledge for Topic
 

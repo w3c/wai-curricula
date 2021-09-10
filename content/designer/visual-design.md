@@ -41,7 +41,7 @@ Students should be able to:
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
 * design layouts that adapt to different screen sizes, configurations, and user style sheets
-* use headings, landmarks, and spacing to group related content
+* use landmarks to group related content, including headings,  spacing, and styling
 * use visual and non-visual cues to convey information, including text, color, patterns, and icons 
 * evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
 * identify related requirements for developers to apply the necessary semantics to interface components
@@ -182,14 +182,14 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities perceive different web page regions and content through text, landmarks, and cues. Present different strategies to include such text, landmarks, and cues early in the design phase.
+Explain how people with disabilities perceive different web page regions and content through text, landmarks, and cues. Present strategies to plan for the inclusion of such text, landmarks, and cues early in the visual design phase.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
-* define page regions by using appropriate visual and programmatic landmarks, such as headings
+* define page regions by using appropriate visual landmarks, such as headings
 * design layouts that enable to present landmarks and cues in different screen sizes, screen configurations, and style sheets
 * use text cues to supplement information provided through vision only, for example available dates in a calendar represented with a different background color
 
@@ -216,7 +216,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on designs that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
+Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
+
+Demonstrate how content sequence, focus indicators, and target sizes adapt to interactions when using different screen sizes and screen configurations. Emphasize that these behaviors need to be planned early on in the visual design phase.
 
 #### Learning Outcomes for Topic
 
@@ -243,7 +245,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students design different prototypes with different interface layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
+* Practical &mdash; Students design different layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
 
 {% include excol.html type="end" %}
 
