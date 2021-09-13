@@ -43,6 +43,7 @@ Students should be able to:
 * define clear and descriptive visual and non-visual cues about the current step and about the total number of steps in a multi-step process, including multi-step forms
 * define clear and descriptive error messages that identify the field in error and provide suggestions for corrections where possible
 * define meaningful and descriptive visual and non-visual notifications, including for imminent time limits, success messages, status changes, and feedback from user input
+* describe related requirements for developers to implement semantics and programmatic relationships for forms and other components that accept user input
 
 {% include excol.html type="all" %}
 
