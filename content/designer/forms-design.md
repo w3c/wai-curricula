@@ -28,20 +28,21 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities interact with forms
-* explain accessibility requirements related to forms, including placement, structure, labels, instructions, and notifications
+* demonstrate how people with disabilities interact with forms and other components that accept user input
+* explain accessibility requirements related to forms and other components that accept user input, including placement, structure, labels, instructions, and notifications
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand and interact with forms
+* demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * define consistent placement and appearance of form fields and other components that accept user input
+* define interactions with forms and controls that accept user input, including through mouse, keyboard,touch, and voice
 * define clear and distinguishable names for forms and other components that accept user input
 * define textual instructions, color, and other visual cues to help understand the context, information, and functionality of components that accept user input
 * define clear and descriptive visual and non-visual cues about the current step and about the total number of steps in a multi-step process, including multi-step forms
 * define clear and descriptive error messages that identify the field in error and provide suggestions for corrections where possible
-* define meaningful and descriptive notifications, including for imminent time limits, success messages, status changes, and feedback from user input
+* define meaningful and descriptive visual and non-visual notifications, including for imminent time limits, success messages, status changes, and feedback from user input
 
 {% include excol.html type="all" %}
 
