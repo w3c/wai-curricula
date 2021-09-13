@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on layouts that adapt to different screen sizes, configurations, and style sheets
-* explain accessibility requirements for color, layout, spacing, and position
+* demonstrate how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets
+* explain accessibility requirements for color, layout, spacing, and position of components
  
 ## Learning Outcomes for Module
 
@@ -40,7 +40,7 @@ Students should be able to:
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
 * design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
-* design layouts that adapt to different screen sizes, configurations, and user style sheets
+* design layouts that adapt to different screen sizes, screen configurations, and user style sheets
 * use landmarks to group related content, including headings,  spacing, and styling
 * use visual and non-visual cues to convey information, including text, color, patterns, and icons 
 * evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
@@ -218,7 +218,7 @@ Optional ideas to assess knowledge:
 
 Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
 
-Demonstrate how content sequence, focus indicators, and target sizes adapt to interactions when using different screen sizes and screen configurations. Emphasize that these behaviors need to be planned early on in the visual design phase.
+Demonstrate how content sequence, focus indicators, and target sizes adapt to interactions when using different screen sizes, screen configurations, and style sheets. Emphasize that these behaviors need to be planned early on in the visual design phase.
 
 #### Learning Outcomes for Topic
 
@@ -227,7 +227,7 @@ Students should be able to:
 * design layouts to support text resizing without loss of content and functionality
 * design layouts to support text zooming and enlarging in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts with target sizes that adapt to different screen sizes and screen configurations
+* design layouts with target sizes that adapt to different screen sizes,  screen configurations, and style sheets
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
 * design meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 

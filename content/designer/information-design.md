@@ -29,14 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities use titles, headings, labels, instructions, imagery, and others to obtain and process information
-* describe several approaches to communicate the structure, relations, and purpose  information
+* demonstrate how people with disabilities obtain and process information
+* describe several approaches to communicate the structure, relations, and purpose of information using a variety of methods, including text, labels, instructions, semantics, and imagery
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities use titles, headings, labels, instructions, imagery, and others to obtain and process information
+* explain how people with disabilities use several methods to obtain and process information, including text, labels, instructions, semantics, and imagery
 * describe approaches to break down different types of content into smaller and more manageable pieces, for example using:
   * headings, pages, and chapter markers
   * lists, simpler tables, and plain text to convey information presented in complex tables
@@ -44,7 +44,7 @@ Students should be able to:
 * describe the use of visual and non-visual cues to make information in multi-step processes more understandable
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the total number of items and about the current item in a multi-step process visually and non-visually
-* evaluate the use of different mechanisms to convey the information, including text, tables, grouping, and graphical representations depending on user needs
+* evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
 * identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
 
 {% include excol.html type="all" %}

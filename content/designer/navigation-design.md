@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
-* design different types of navigational components, including menus, tables of contents, and site maps
+* design different navigational components, including menus, tables of contents, and search functionalities
 * define different interactions for navigational components, including keyboard, mouse, touch, and voice
 * define clear and consistent visual and non-visual presentation of menus and menu items
 * define clear and consistent visual and non-visual indication of state changes for menu items
@@ -111,7 +111,7 @@ Topics to achieve the learning outcomes:
 
 Show different types of navigation menus, for example static, fly-out, and mega menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
 
-Explain styling conventions for menus, such as location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI tutorial on [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
+Explain styling conventions for menus, such as expected location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI tutorial on [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
 
 #### Learning Outcomes for Topic
 
@@ -135,7 +135,7 @@ Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
 * Demonstrate interactions with navigation menu using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-* Show examples of navigation menus and menu items large text. Explain that this text needs to adapt to different viewports and screen configurations, for example wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
+* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Emphasize that the states of these menu items need to be communicated using visual cues as well as semantics. Explain that providing the visual cues is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
