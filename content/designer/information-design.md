@@ -116,8 +116,8 @@ Students should be able to:
   * pages
   * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example a diagram representation of the process described in the text” 
-* evaluate the use of professional terms, idioms, and jargon, and select definitions for such terms to support readability
-* evaluate the use of acronyms and abbreviations, and select expanded forms for such acronyms and abbreviations to support readability
+* design methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
+* design user methods to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
