@@ -165,6 +165,7 @@ Students should be able to:
   * breadcrumb trails to communicate the current location within the site
   * site maps to provide an overview of the entire website
   * search functionalities to navigate to specific parts of the site
+* evaluate the amount of site navigational components in use, and select components that help users navigate and orient
 
 #### Teaching Ideas for Topic
 
