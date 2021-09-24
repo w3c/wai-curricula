@@ -58,7 +58,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * [Module 1: Page Structure](/curricula/developer-modules/page-structure/) from [Developer Modules](/curricula/developer-modules/)
 
 {% include excol.html type="end" %}
@@ -81,7 +81,7 @@ Skills required for this module:
   * [HTML5 grouping content {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/grouping-content.html#grouping-content)
   * [WAI-ARIA landmark roles](https://www.w3.org/TR/wai-aria/#landmark_roles)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/) from [Developer Modules](/curricula/developer-modules/)
 
 {% include excol.html type="end" %}
