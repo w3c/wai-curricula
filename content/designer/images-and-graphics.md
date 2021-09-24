@@ -104,7 +104,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality of a component. For example search, print, and save functionality. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
+Functional images convey functionality of a component. For example, search, print, and save functionality. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss how they would describe each of those examples.
 
 #### Learning Outcomes for Topic
 
@@ -128,7 +128,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Discuss with students different examples of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative. Assess how students identify images that convey function and how they provide text alternatives that describe the functionality of the component the image is attached to.
+* Practical &mdash; Give students different examples of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative. Assess how students identify images that convey function and how they provide text alternatives that describe the functionality of the component the image is attached to.
 * Practical &mdash; Ask students to design a series of graphical buttons and links in a way that they are perceivable and distinguishable by all users. Assess how students apply accessibility requirements, such as contrast ratios, to graphical buttons and links.
 
 {% include excol.html type="end" %}
@@ -139,7 +139,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Informative images convey information that is necessary to understand the content. Their description generally requires a short phrase or sentence. Show examples of images that convey information, such as pictures in a piece of news. Discuss with students how they would describe them. 
+Informative images convey information that is necessary to understand the content. Their description generally requires a short phrase or sentence. Show examples of images that convey information, such as pictures in a piece of news. Discuss how to describe them. 
 
 Explain that providing text alternatives for informative images is a responsibility shared with the content author.
 
@@ -164,7 +164,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
 * Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image, so coordination among designers, developers, and content authors is needed to determine if the technologies in use can achieve the desired visual presentation. Emphasize that, if an image of text is still required, there needs to be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
-* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several modalities, such as visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
+* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -190,12 +190,12 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * use appropriate contrast ratios for complex images
-* evaluate the use of complex images and select other ways to present the information; for example using tables, simpler images, and plain text
+* evaluate the use of complex images and select other ways to present the information; for example, using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
 * design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including how to get to the image descriptions, how the content of the description should look like, and if the descriptions could ultimately replace the image itself
-* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, such as diagrams, charts, maps and infographics
+* identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, including diagrams, charts, maps, and infographics
 * identify related requirements for content authors to break down complex images into smaller and more manageable pieces, for example simpler images, tables, and plain text
 
 #### Teaching Ideas for Topic
@@ -236,7 +236,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
+* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 

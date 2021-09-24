@@ -90,7 +90,7 @@ The designer modules are designed for students who have achieved the learning ou
 -   [Module 6: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
--   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
+-   [Module 7: Forms Design](/curricula/designer-modules/forms-and-widgets/)
     -   Topic: Labels and Instructions [TBD]
     -   Topic: Error Prevention [TBD]
     -   Topic: Notifications [TBD]

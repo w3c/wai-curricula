@@ -1,8 +1,8 @@
 ---
-title: "[Draft] Module 7: Forms Design [WIP]"
-nav_title: "Forms Design"
-permalink: /curricula/designer-modules/forms-design/
-ref: /curricula/designer-modules/forms-design/
+title: "[Draft] Module 7: Forms and Widgets [WIP]"
+nav_title: "Forms and Widgets"
+permalink: /curricula/designer-modules/forms-and-widgets/
+ref: /curricula/designer-modules/forms-and-widgets/
 lang: en
 github:
   repository: w3c/wai-curricula
@@ -28,22 +28,22 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities interact with forms and other components that accept user input
-* explain accessibility requirements related to forms and other components that accept user input, including placement, structure, labels, instructions, and notifications
+* demonstrate how people with disabilities interact with forms and widgets
+* explain accessibility requirements related to forms and widgets, including placement, structure, labels, instructions, and notifications
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
-* define consistent placement and appearance of form fields and other components that accept user input
-* define interactions with forms and controls that accept user input, including through mouse, keyboard,touch, and voice
-* define clear and distinguishable names for forms and other components that accept user input
+* define consistent placement and appearance of form fields and widgets
+* define interactions with forms and controls that accept user input, including through mouse, keyboard, touch, and voice
+* define clear and distinguishable names for forms and widgets
 * define textual instructions, color, and other visual cues to help understand the context, information, and functionality of components that accept user input
 * define clear and descriptive visual and non-visual cues about the current step and about the total number of steps in a multi-step process, including multi-step forms
 * define clear and descriptive error messages that identify the field in error and provide suggestions for corrections where possible
 * define meaningful and descriptive visual and non-visual notifications, including for imminent time limits, success messages, status changes, and feedback from user input
-* describe related requirements for developers to implement semantics and programmatic relationships for forms and other components that accept user input
+* describe related requirements for developers to implement semantics and programmatic relationships for forms and widgets
 
 {% include excol.html type="all" %}
 
@@ -121,7 +121,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Designer Module 2: Information Design, Topic Labels and Instructions](/curricula/designer-modules/information-design/#topic-labels-and-instructions). Show examples of labels and instructions in the context of forms and other complex widgets.
+Refer back to [Designer Module 2: Information Design: Labels and Instructions](/curricula/designer-modules/information-design/#topic-labels-and-instructions). Show examples of labels and instructions in the context of forms and other complex widgets.
 
 Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and enable mechanisms to type the first letters of their desired option to select data more efficiently.
 
@@ -131,27 +131,20 @@ Students should be able to:
 
 * design user experiences that consider position, appearance, and naming for labels and instructions
 * define visual and non-visual instructions about which input fields are required
-* define clear instructions about changes in context before the control that originates such changes
+* define clear instructions about changes in context before the component that originates such changes
 * define overall instructions about existing time limits in a form and about how to adjust them, extend them, and turn them off
 * define clear instructions about the current step and about the total number of steps involved in a multi-step form
-* define error messages in the page title or before the form control that:
-  * identify the fields in error
-  * describe the cause of the error
-  * provide suggestions to correct the error where possible
 * identify related requirements for developers to provide semantics for labels and instructions appropriately
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different components that accept user input (such as buttons, links, lists, and grids) across rich applications or complex widgets. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different user interface components, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
+* Show examples of different form fields and widgets, for example buttons, links, lists, and grids, across web pages and rich applications. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different form elements and custom widgets, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
 * Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
-* Show examples of different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
-* Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
-* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -165,7 +158,37 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Errors and Notifications
+### Topic: Error Prevention
+
+{% include excol.html type="middle" %}
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* define error messages in the page title or before the form control that:
+  * identify the fields in error
+  * describe the cause of the error
+  * provide suggestions to correct the error where possible
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Show examples of different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
+* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each of the wrongly submitted field, together with suggestions for corrections when possible. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for corrections when possible.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Notifications
 
 {% include excol.html type="middle" %}
 
@@ -188,7 +211,6 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate different types of error messages, including overall information about errors, specific information about each of the fields in error, and suggestions for correcting such errors when possible. Show examples of user interfaces with and without such error messages and explain that these enable several groups of people with disabilities to better interact and understand the contents.
 * Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
 * Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
 
@@ -196,10 +218,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
-* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each of the wrongly submitted field, together with suggestions for corrections when possible. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for corrections when possible.
-* Practical &mdash; Give students a form field that validate on user input and ask them too provide descriptive validation messages. Assess how students provide clear validation messages for fields that validate on user input.
-* Practical &mdash; 
+* Practical &mdash; Give students a form field that validate on user input and ask them to provide descriptive validation messages. Assess how students provide clear validation messages for fields that validate on user input.
+* Practical &mdash; Give students an application with notifications coming from different view and ask them to define mechanisms to queue and prioritize such notifications. Assess how students prioritize and organize notifications coming from different views.
 
 {% include excol.html type="end" %}
 
@@ -209,7 +229,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[To be developed.]
+Portfolio &mdash; Students design a form. Assess how students consider placement, structure, labels, instructions, and notifications when designing accessible forms.
 
 ## Teaching Resources
 

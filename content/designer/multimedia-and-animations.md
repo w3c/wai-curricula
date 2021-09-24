@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/images-and-graphics/
-  next: /curricula/designer-modules/forms-design/
+  next: /curricula/designer-modules/forms-and-widgets/
 ---
 
 ## Introduction
@@ -37,18 +37,21 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design the placement and spacing for alternatives to multimedia content, such as audio descriptions, captions, transcripts, and sign language
-* design user experiences for audio descriptions, captions, transcripts, and sign language, including
-  * mechanisms for turning on and off such alternatives 
+* design user experiences for description, captions, transcripts, and sign languages, including:
+  * placement and spacing for alternatives to multimedia content
+  * mechanisms for turning on and off alternatives
   * ways for users to interact with the alternatives
-* evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
-* design media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
-* design media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
-* design mechanisms to mute and control the volume of auto-playing audio
-* design mechanisms to pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
-* identify related requirements for developers to programmatically associate alternatives and descriptions to their corresponding media content 
-* identify related requirements for developers to include accessibility support for media players
-* identify related requirements for content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
+* identify accessibility issues of media player, including:
+  * evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
+  * select media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
+  * select media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
+* design mechanisms to control automatic audio or movement, including:
+  * mute and control the volume of auto-playing audio
+  * pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
+* identify related requirements for:
+  * developers to programmatically associate alternatives and descriptions to their corresponding media content
+  * developers to include accessibility support for media players
+  * content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
 
 {% include excol.html type="all" %}
 

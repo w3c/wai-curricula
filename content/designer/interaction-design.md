@@ -117,7 +117,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency, but can also disrupt the users' expectations. Thus designers need to document these interactions and make them consistent throughout the interface.
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these interactions and make them consistent throughout the interface.
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
@@ -199,7 +199,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[To be developed.]
+* Practical &mdash: Give students a web email client and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
+* Portfolio &mdash; Students design the interactions for a given interface. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and speech.
 
 ## Teaching Resources
 
