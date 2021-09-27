@@ -150,7 +150,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
+* Practical &mdash; Give students a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
 * Practical &mdash; Give students an application and ask them to provide names for each of the application subsections. Assess how students identify application subsections and provide clear and understandable names for each.
 * Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
 
@@ -182,7 +182,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
-* Practical &mdash; Present students with a form field submission containing errors and ask them to provide notifications about each of the wrongly submitted field, together with suggestions for corrections when possible. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for corrections when possible.
+* Practical &mdash; Give students a form field submission containing errors and ask them to provide notifications about each of the wrongly submitted field, together with suggestions for corrections when possible. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for corrections when possible.
 
 {% include excol.html type="end" %}
 

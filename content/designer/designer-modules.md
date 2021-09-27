@@ -32,10 +32,11 @@ The designer modules guide the creation of courses that:
 * teach accessible design techniques for:
   * visual design
   * information design
-  * user experience
+  * navigation design
   * interaction design
+  * user experience
 
-These modules have been organized so that they can be easily taught together with the [developer modules](/curricula/developer-modules/). If you are teaching other type of designers, feel free to change the structure so that it fits your audience needs.
+These modules have been organized for designers whose work is clsoely related to the knowledge discussed in the [developer modules](/curricula/developer-modules/). If you are teaching other type of designers, feel free to change the structure so that it fits your audience needs.
 
 These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications.
 
@@ -91,6 +92,6 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
 -   [Module 7: Forms Design](/curricula/designer-modules/forms-and-widgets/)
-    -   Topic: Labels and Instructions [TBD]
-    -   Topic: Error Prevention [TBD]
-    -   Topic: Notifications [TBD]
+    -   Topic: Labels and Instructions
+    -   Topic: Error Prevention
+    -   Topic: Notifications

@@ -66,10 +66,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-* [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-* [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
-* [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
+* Prior [Designer Modules](/curricula/designer-modules/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -98,10 +95,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.2.5 Change on Request](https://www.w3.org/WAI/WCAG21/quickref/#change-on-request)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-  * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-  * [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
-  * [Designer Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics)
+  * Prior [Designer Modules](/curricula/designer-modules/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -201,8 +195,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with instances of flashing content and ask them to determine if they are below the general flash and red flash thresholds. Assess how students understand accessibility requirements for flashing content.
-* Practical &mdash; Present students with a user interface containing animations and ask them to make them accessible. Assess how students define mechanisms to reduce or disable the animations.
+* Practical &mdash; Give students flashing content and ask them to determine if it is below the general flash and red flash thresholds. Assess how students understand accessibility requirements for flashing content.
+* Practical &mdash; Give students an interface containing animations and ask them to make them accessible. Assess how students define mechanisms to reduce or disable the animations.
 
 {% include excol.html type="end" %}
 

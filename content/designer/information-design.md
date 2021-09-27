@@ -117,7 +117,7 @@ Students should be able to:
   * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example, a diagram representation of the process described in the text 
 * design methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
-* design user methods to identify the expanded form or meaning of acronyms and abbreviations
+* design methods to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for developers to make language programmatically determined
 * identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
 
@@ -127,17 +127,17 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
-* Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
-* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the mechanisms to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
-* Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the mechanisms to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
+* Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
+* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the methods to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
+* Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the methods to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Present students with an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
-f* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide mechanisms to complement processes and instructions presented in text.
-* Practical &mdash; Present students with unusual words and abbreviations and ask them to define a mechanism to provide the explanation of such words or the expansion of the abbreviations. Assess how students define a mechanism to provide explanations of unusual words and expansions of abbreviations.
+* Practical &mdash; Give students an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
+* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide methods to complement processes and instructions presented in text.
+* Practical &mdash; Give students unusual words and abbreviations and ask them to define methods to provide the explanation of such words or the expansion of the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
 
@@ -164,7 +164,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of names for components, including links, buttons, and form controls. Explain that these names help users identify these components. Explain that defining the presentation of these names is a designers' responsibility, implementing these names is a developers' responsibility, and defining these names is a responsibility shared with the content author.
 * Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that defining the presentation of these instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining these instructions is a responsibility shared with the content author.
-* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process adn how many step the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
+* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process and how many step the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -172,7 +172,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students group related information in a form that asks for information to open a bank account. Assess how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how students provide ways for users to identify each of the groups.
-* Practical &mdash; Present students with a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group  long sets of data into smaller subsets.
+* Practical &mdash; Give students a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group  long sets of data into smaller subsets.
 
 {% include excol.html type="end" %}
 
@@ -189,7 +189,7 @@ Build on [Foundation Module 6: Understanding and Involving Users](/curricula/fou
 Students should be able to:
 
 * identify uses of tables to present data that share a logical relationship
-* identify different ways of presenting tabular information, such as using several lists, or splitting a complex table into several simpler ones
+* identify different ways of presenting tabular information, for example using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
 * evaluate the use of complex tables and select simpler ways to provide the information, for example:
@@ -212,8 +212,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students  a set of tables and ask them to define their header cells and data cells. Assess how students understand the difference between header cells and data cells.
-* Practical &mdash; Present students with a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
-* Practical &mdash; Present students with a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
+* Practical &mdash; Give students a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
+* Practical &mdash; Give students a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
 
 {% include excol.html type="end" %}
 

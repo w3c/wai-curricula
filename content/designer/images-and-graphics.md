@@ -59,9 +59,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-* [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-* [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-* [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
+* Prior [Designer Modules](/curricula/designer-modules/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -82,9 +80,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-  * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
-  * [Designer Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
+  * Prior [Designer Modules](/curricula/designer-modules/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -170,7 +166,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment.
 
-* Practical &mdash; Present students with an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
+* Practical &mdash; Give students an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
 * Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics apart from vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to vision.
 
 {% include excol.html type="end" %}

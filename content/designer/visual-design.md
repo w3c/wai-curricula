@@ -127,9 +127,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of sufficient and insufficient color contrast for text. Explain that color contrast for text (including images of text) need to be at least 4.5:1 with respect to their background. For references on how to apply sufficient color contrast to text (including images of text), see technique [G18: Ensuring that a color contrast of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Show examples of sufficient and insufficient color contrast for text. Explain that color contrast for text (including images of text) needs to be at least 4.5:1 with respect to their background. For references on how to apply sufficient color contrast to text (including images of text), see technique [G18: Ensuring that a color contrast of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links, and explain that they should have a color contrast of at least 3:1.
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so these users require additional methods to convey that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so they require additional methods to convey that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -218,7 +218,7 @@ Optional ideas to assess knowledge:
 
 Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
 
-Demonstrate how content sequence, focus indicators, and target sizes adapt to interactions when using different screen sizes, screen configurations, and style sheets. Emphasize that these behaviors need to be planned early on in the visual design phase.
+Demonstrate how content sequence, focus indicators, and target sizes adapt to different screen sizes, screen configurations, and style sheets. Emphasize that these behaviors need to be planned early on in the visual design phase.
 
 #### Learning Outcomes for Topic
 

@@ -62,8 +62,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
-* [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-* [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+* Prior [Designer Modules](/curricula/designer-modules/)
 * Basic knowledge of:
   * Visual Design
   * Prototyping
@@ -90,8 +89,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
-  * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
-  * [Designer Module 2: Information Design](/curricula/designer-modules/information-design/)
+  * Prior [Designer Modules](/curricula/designer-modules/)
   * Visual Design
   * Prototyping
   * Responsive Design
@@ -143,8 +141,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define mouse, keyboard, touch, and voice interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and voice. Assess how students understand the need for different interaction patterns based on the input method in use.
-* Practical &mdash; Present students with different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual cues to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
-* Practical &mdash; Present students with navigation menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
+* Practical &mdash; give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual cues to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
+* Practical &mdash; Give students navigation menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
 
 {% include excol.html type="end" %}
 
@@ -179,7 +177,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to teach the learning outcomes:
 
-* Practical &mdash; Present students with an interface and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, site maps, and tables of contents.
+* Practical &mdash; Give students  an interface and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, site maps, and tables of contents.
 * Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
@@ -252,7 +250,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of text and visual cues, breadcrumb trails, and descriptive titles and headings.
-* Practical &mdash; Present students with a website and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
+* Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
 
 {% include excol.html type="end" %}
 

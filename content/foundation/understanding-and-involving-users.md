@@ -53,6 +53,7 @@ Students:
 * Basic understanding of computers and the Web.
 
 Instructors:
+
 * Prior [Foundation Modules](/curricula/foundation-modules/)
 * Good understanding of the links between web accessibility components.
 * In-depth knowledge of how people with disabilities use the Web (including assistive technologies and adaptive strategies) and of accessibility principles.  
