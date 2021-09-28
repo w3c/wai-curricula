@@ -39,6 +39,8 @@ Students should be able to:
 * design user experiences for different input methods, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
+* define methods to disable device and user motion to prevent accidental actuation
+* define alternatives for complex gestures, including swiping, pinching, and drawing shapes
 * identify related requirements for developers to code interactions for components, including through mouse, keyboard, touch, and voice
 
 {% include excol.html type="all" %}
@@ -180,8 +182,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of gestures such as swipe or pinch. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
+* Show examples of gestures such as swipe or pinch. Explain that users with mobility impairments may have difficulty to perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments may have difficulty to perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
 * Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic

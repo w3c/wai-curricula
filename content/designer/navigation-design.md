@@ -39,15 +39,17 @@ Students should be able to:
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
 * define different interactions for navigational components, including keyboard, mouse, touch, and voice
-* define clear and consistent visual and non-visual presentation of menus and menu items
-* define clear and consistent visual and non-visual indication of state changes for menu items
-* cooperate with developers to define and implement methods to bypass blocks of repeated content
+* define clear and consistent visual and non-visual:
+  * presentation of menus and menu items
+  * indication of state changes for menu items
+* define blocks of repeated content
 * define site maps and descriptive page titles to help users locate specific web pages within websites
 * evaluate the use of navigational components, including menus, tables of content, and site maps, and select navigational components that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational components
   * additional semantics for navigational components, including menus, menu items, and menu item states
+  * methods to bypass blocks of repeated content
 
 {% include excol.html type="all" %}
 

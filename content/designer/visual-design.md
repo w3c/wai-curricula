@@ -39,9 +39,10 @@ Students should be able to:
 * explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example using borders, color, and highlighting
-* design layouts that adapt to different font sizes and spacing set by the user in browser and operating system settings
-* design layouts that adapt to different screen sizes, screen configurations, and user style sheets
-* use landmarks to group related content, including headings,  spacing, and styling
+* design layouts that adapt to:
+  * different font sizes and spacing set by the user in browser and operating system settings
+  * different screen sizes, screen configurations, and user style sheets
+* use headings, spacing, and styling to group related content
 * use visual and non-visual cues to convey information, including text, color, patterns, and icons 
 * evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
 * identify related requirements for developers to apply the necessary semantics to interface components
