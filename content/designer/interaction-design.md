@@ -133,7 +133,7 @@ Students should be able to:
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * evaluate the use of custom keyboard interactions and select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
-* cooperate with developers to provide mechanisms to remap or disable conflicting shortcuts
+* cooperate with developers to provide methods to remap or disable conflicting shortcuts
 * define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * define focus indicators that are visible and that have appropriate contrast ratios for complex widgets
 * identify related requirements for developers to implement keyboard support for components that have no keyboard support by default
@@ -145,7 +145,7 @@ Optional ideas to teach the learning outcomes:
 * Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
 * Reflect with students about keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to work closely with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
-* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help mechanisms is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
+* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -171,25 +171,26 @@ Discuss some gestures that require dragging and drawing specific paths on a touc
 
 Students should be able to:
 
-* use components that do not require motion as an alternative for device or user motion such as shaking
-* design methods to disable response to motion to prevent accidental actuation, for example undoing an action by shaking a device
-* design alternatives to multi-pointer gestures (including swipe or pinch) using single pointer activation
-* design methods to undo or abort an action carried out with path-based operations
+* design alternatives to multi-pointer gestures (including swiping, pinching, and drawing shapes) by using single pointer activation
+* design methods to undo or abort an action carried out with path-based gestures, including use of the up event to undo, abort, and reverse activation
+* define alternatives for device or user motion, for example components that perform the same function that do not require user motion 
+* design methods to disable response to device or user motion to prevent accidental actuation
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
 * Show examples of gestures such as swipe or pinch. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments cannot perform such gestures, so user interfaces need to have alternatives that do not require motion for these gestures.
 * Show examples of operations carried out using path-based  gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so user interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
+* Practical &mdash; Students design an interface that can be used both in portrait and landscape modes. Assess how students understand the different ways of interacting with components.
 * Practical &mdash; Give students an interface that uses a multi path-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to multi-pointer and path-based gestures.
+* Practical &mdash; Give students an interface that uses a motion-based gesture to perform an action and ask them to provide alternatives to that gesture. Assess how students provide alternatives to motion-based gestures.
 
 {% include excol.html type="end" %}
 
@@ -200,7 +201,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Practical &mdash: Give students a web email client and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
-* Portfolio &mdash; Students design the interactions for a given interface. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and speech.
+* Portfolio &mdash; Students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and speech.
 
 ## Teaching Resources
 

@@ -223,7 +223,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide mechanisms for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
+* Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide methods for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
 
 ## Teaching Resources
 

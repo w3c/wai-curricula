@@ -123,7 +123,7 @@ Topics to achieve the learning outcomes:
 
 Refer back to [Designer Module 2: Information Design: Labels and Instructions](/curricula/designer-modules/information-design/#topic-labels-and-instructions). Show examples of labels and instructions in the context of forms and other complex widgets.
 
-Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and enable mechanisms to type the first letters of their desired option to select data more efficiently.
+Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and typing the first letters of their desired option to select data more efficiently.
 
 #### Learning outcomes for Topic
 
@@ -142,8 +142,8 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
 * Show examples of different form fields and widgets, for example buttons, links, lists, and grids, across web pages and rich applications. Emphasize that each should have a clear name that allows to identify its purpose. For reference on how to provide names for different form elements and custom widgets, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
-* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several mechanisms, including textual and visual cues.
-* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and mechanisms need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing mechanisms to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Show examples of required and non-required form fields. Explain that instructions for which of the fields is required should be provided using several methods, including textual and visual cues.
+* Present examples of time limits, such as those warning about session expirations. Explain that instructions need to be provided so that users are aware of the time limits, and methods need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
@@ -211,15 +211,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different mechanisms to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
-* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a mechanism needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining mechanisms to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the mechanisms is a developers' responsibility.
+* Show examples of different methods to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows.
+* Show examples of overlapping notifications in the context of complex applications. Explain that some users may find it daunting to process several notifications at the same time, so a method needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining methods to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the methods is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a form field that validate on user input and ask them to provide descriptive validation messages. Assess how students provide clear validation messages for fields that validate on user input.
-* Practical &mdash; Give students an application with notifications coming from different view and ask them to define mechanisms to queue and prioritize such notifications. Assess how students prioritize and organize notifications coming from different views.
+* Practical &mdash; Give students an application with notifications coming from different view and ask them to define methods to queue and prioritize such notifications. Assess how students prioritize and organize notifications coming from different views.
 
 {% include excol.html type="end" %}
 

@@ -194,8 +194,8 @@ Build on [Foundation Module 6: Understanding and Involving Users](/curricula/fou
 
 Students should be able to:
 
-* define mechanisms to identify blocks of repeated content, such as navigation bars and header contents
-* define mechanisms to skip blocks of repeated content using the following approaches:
+* define methods to identify blocks of repeated content, such as navigation bars and header contents
+* define methods to skip blocks of repeated content using the following approaches:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content
@@ -206,7 +206,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of mechanisms to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using only the tab key is time consuming. For examples on how to provide a mechanism to bypass blocks of repeated content, see the following techniques:
+* Show examples of methods to bypass blocks of repeated content, such as a link at the top of the page and the use of expandable and collapsible components. Explain that navigating through sets of repeated blocks of content using only the tab key is time consuming. For examples on how to provide a method to bypass blocks of repeated content, see the following techniques:
   * [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html),
   * [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and
   * [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
@@ -216,7 +216,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a mechanism to bypass such blocks.
+* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a method to bypass such blocks.
 
 {% include excol.html type="end" %}
 
@@ -232,11 +232,11 @@ Explain strategies that people use to identify web pages, including page titles,
 
 Students should be able to:
 
-* design mechanisms for users to locate specific web pages within websites, for example:
+* design methods for users to locate specific web pages within websites, for example:
   * descriptive page titles
   * text and visual cues in the navigation menu to indicate the current page
   * descriptive page headings
-* evaluate the amount of location mechanisms in use, and select mechanisms that avoid distractions and unnecessary noise
+* evaluate the amount of location methods in use, and select methods that avoid distractions and unnecessary noise
 * identify related requirements for developers to apply semantics to page titles, headings, and text cues
 
 ### Teaching Ideas

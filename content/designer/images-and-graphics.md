@@ -106,7 +106,7 @@ Functional images convey functionality of a component. For example, search, prin
 
 Students should be able to:
 
-* define text alternatives for functional images using the following mechanisms:
+* define text alternatives for functional images using the following methodss:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
@@ -143,7 +143,7 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* define text alternatives that present equivalent information as that contained in informative images using the following mechanisms:
+* define text alternatives that present equivalent information as that contained in informative images using the following methodss:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
@@ -160,7 +160,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that such information needs to be provided using text alternatives, so that the purpose of the image can be understood without having to look at the image. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
 * Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as a text or as an image, so coordination among designers, developers, and content authors is needed to determine if the technologies in use can achieve the desired visual presentation. Emphasize that, if an image of text is still required, there needs to be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
-* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these mechanisms need to support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
+* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these methods need to support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -189,7 +189,7 @@ Students should be able to:
 * evaluate the use of complex images and select other ways to present the information; for example, using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
 * consider placement and spacing for alternatives to complex images
-* design clear and consistent identification mechanisms for complex image descriptions, including appropriate headings and expandable and collapsible components
+* design clear and consistent identification methods for complex image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including how to get to the image descriptions, how the content of the description should look like, and if the descriptions could ultimately replace the image itself
 * identify related requirements for content authors to provide descriptive, equivalent textual information to understand complex images and graphics, including diagrams, charts, maps, and infographics
 * identify related requirements for content authors to break down complex images into smaller and more manageable pieces, for example simpler images, tables, and plain text
