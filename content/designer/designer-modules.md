@@ -36,8 +36,6 @@ The designer modules guide the creation of courses that:
   * interaction design
   * user experience
 
-These modules have been organized for designers whose work is clsoely related to the knowledge discussed in the [developer modules](/curricula/developer-modules/). If you are teaching other type of designers, feel free to change the structure so that it fits your audience needs.
-
 These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications.
 
 The modules primarily address the following roles:
@@ -46,6 +44,8 @@ The modules primarily address the following roles:
 * Information Architect
 * User Experience (UX) Designer
 * Interaction Designer
+
+These modules have been organized to facilitate teaching designers and developers together. If you are teaching in other environments, feel free to change the structure so that it fits your audience needs.
 
 ### Foundation Prerequisites
 
