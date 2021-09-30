@@ -274,7 +274,7 @@
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
       - name: Forms Design
-        url: "/curricula/designer-modules/forms-design"
+        url: "/curricula/designer-modules/forms-design/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
