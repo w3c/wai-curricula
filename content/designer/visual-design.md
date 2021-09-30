@@ -179,19 +179,19 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Landmarks and Cues
+### Topic: Cues
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities perceive different web page regions and content through text, landmarks, and cues. Present strategies to plan for the inclusion of such text, landmarks, and cues early in the visual design phase.
+Explain how people with disabilities perceive different web page regions and content through text and visual cues. Present strategies to plan for the inclusion of such cues early in the visual design phase.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
-* define page regions by using appropriate visual landmarks, such as headings
-* design layouts that enable to present landmarks and cues in different screen sizes, screen configurations, and style sheets
+* define page regions by using appropriate visual and non-visual cues, such as headings
+* design layouts that enable to present visual and non-visual cues in different screen sizes, screen configurations, and style sheets
 * use text cues to supplement information provided through vision only, for example available dates in a calendar represented with a different background color
 
 #### Teaching Ideas for Topic
@@ -199,14 +199,14 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
-* Show examples of different web page regions, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic landmarks to perceive such regions. Explain that defining landmarks and their styles is a designers' responsibility, whereas implementing such landmarks and their semantics is a developers' responsibility.
+* Show examples of different web page regions, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic cues to perceive such regions. Explain that defining the presentation of these cues is a designers' responsibility, whereas implementing such cues and their semantics is a developers' responsibility.
 * Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so text is needed for them to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a web page and ask them to define the appropriate landmarks and their styling. Assess how students define landmarks and regions using a variety of methods, including semantics and styling.
+* Practical &mdash; Give students a web page and ask them to define its regions and cues. Assess how students define regions and cues using a variety of methods, including semantics and styling.
 * Practical &mdash: Give students examples of information conveyed visually and ask them to provide text to help understand the information. Assess how students provide the necessary textual information to supplement information conveyed visually.
 
 {% include excol.html type="end" %}

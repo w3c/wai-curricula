@@ -1,8 +1,8 @@
 ---
-title: "[Draft] Module 7: Forms and Widgets [WIP]"
-nav_title: "Forms and Widgets"
-permalink: /curricula/designer-modules/forms-and-widgets/
-ref: /curricula/designer-modules/forms-and-widgets/
+title: "[Draft] Module 7: Forms Design"
+nav_title: "Forms Design"
+permalink: /curricula/designer-modules/forms-design/
+ref: /curricula/designer-modules/forms-design/
 lang: en
 github:
   repository: w3c/wai-curricula
@@ -28,8 +28,8 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities interact with forms and widgets
-* explain accessibility requirements related to forms and widgets, including placement, structure, labels, instructions, and notifications
+* demonstrate how people with disabilities interact with forms 
+* explain accessibility requirements related to forms, including placement, structure, labels, instructions, and notifications
 
 ## Learning Outcomes for Module
 
@@ -37,13 +37,13 @@ Students should be able to:
 
 * demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * define consistent placement and appearance of form fields and widgets
-* define interactions with forms and controls that accept user input, including through mouse, keyboard, touch, and voice
-* define clear and distinguishable names for forms and widgets
-* define textual instructions, color, and other visual cues to help understand the context, information, and functionality of components that accept user input
+* define interactions with form  controls and input fields, including through mouse, keyboard, touch, and voice
+* define clear and distinguishable names for forms controls and input fields
+* define textual instructions, color, and other visual cues to help understand the context, information, and functionality of forms and input fields
 * define clear and descriptive visual and non-visual cues about the current step and about the total number of steps in a multi-step process, including multi-step forms
 * define clear and descriptive error messages that identify the field in error and provide suggestions for corrections where possible
 * define meaningful and descriptive visual and non-visual notifications, including for imminent time limits, success messages, status changes, and feedback from user input
-* describe related requirements for developers to implement semantics and programmatic relationships for forms and widgets
+* describe related requirements for developers to implement semantics and programmatic relationships for forms
 
 {% include excol.html type="all" %}
 
@@ -194,7 +194,7 @@ Optional ideas to assess knowledge:
 
 Show examples of notification messages. Explain that they need to be distinguishable by all users, including through visual cues and programmatically.
 
-Show examples of text and visual notifications for error messages and other types of feedback for forms and widgets. Explain that notifications may have different levels of priority when in the context of a complex application. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designers' responsibility whereas implementing these levels is a developers' responsibility.
+Show examples of text and visual notifications for error messages and other types of feedback for forms. Explain that notifications may have different levels of priority when in the context of a complex application. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designers' responsibility whereas implementing these levels is a developers' responsibility.
 
 #### Learning Outcomes for Topic
 

@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/designer-modules/images-and-graphics/
-  next: /curricula/designer-modules/forms-and-widgets/
+  next: /curricula/designer-modules/forms-design/
 ---
 
 ## Introduction
@@ -30,18 +30,18 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access multimedia contents, such as audio and video
-* explain accessibility requirements for multimedia content, such as audio descriptions of visual information, captions (also known as subtitles), transcripts, and sign languages
+* explain accessibility requirements for multimedia content, such as descriptions of visual information àalso known as audio description, video description, or described video), captions (also known as subtitles), transcripts, and sign languages
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design user experiences for description, captions, transcripts, and sign languages, including:
+* design user experiences for descriptions, captions, transcripts, and sign languages, including:
   * placement and spacing for alternatives to multimedia content
   * methods for turning on and off alternatives
   * ways for users to interact with the alternatives
-* identify accessibility issues of media player, including:
+* identify accessibility issues of media players, including:
   * evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
   * select media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
   * select media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users

@@ -44,7 +44,7 @@ Students should be able to:
   * indication of state changes for menu items
 * define blocks of repeated content
 * define site maps and descriptive page titles to help users locate specific web pages within websites
-* evaluate the use of navigational components, including menus, tables of content, and site maps, and select navigational components that avoid distraction and unnecessary noise
+* evaluate the use of navigational components, including menus, tables of contents, and ``site maps, and select navigational components that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational components
@@ -105,7 +105,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Menu Behaviors and Patterns
+### Topic: Menus
 
 {% include excol.html type="middle" %}
 
@@ -117,10 +117,11 @@ Explain styling conventions for menus, such as expected location, appropriate si
 
 Students should be able to:
 
-* identify and describe uses of different types of navigation menus, such as static, fly-out, and mega menus
-* define visual and text cues to distinguish menus from other components, 
-* define consistent styling for menu identification across websites
-* define interactions inside navigation menus, including mouse, keyboard, and touch
+* describe uses of different types of navigation menus, such as static, fly-out, and mega menus
+* define visual and text cues to identify menus, including:
+  * consistent styling for menu identification across websites
+  * cues in the navigation menu to indicate the current page
+* define interactions inside navigation menus, including mouse, keyboard, touch, and voice
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
@@ -143,7 +144,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define mouse, keyboard, touch, and voice interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and voice. Assess how students understand the need for different interaction patterns based on the input method in use.
-* Practical &mdash; give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual cues to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
+* Practical &mdash; Give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual cues to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
+* Practical &mdash; Give students a navigation menu and ask them to provide text and visual indications about the currently selected item. Assess how students provide appropriate indications about the page location with respect to the entire website.
 * Practical &mdash; Give students navigation menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
 
 {% include excol.html type="end" %}
@@ -165,7 +167,11 @@ Students should be able to:
   * breadcrumb trails to communicate the current location within the site
   * site maps to provide an overview of the entire website
   * search functionalities to navigate to specific parts of the site
+* design methods for users to locate specific web pages within websites, for example:
+  * descriptive page titles
+  * text and visual cues in the navigation menu to indicate the current page
 * evaluate the amount of site navigational components in use, and select components that help users navigate and orient
+* identify related requirements for developers to apply semantics to page titles, headings, and text cues
 
 #### Teaching Ideas for Topic
 
@@ -174,12 +180,15 @@ Optional ideas to teach the learning outcomes:
 * Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a whole website. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
 * Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
+* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page. Some browsers and assistive technologies may truncate the titles or not show them at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
+* Show examples of visual and text cues in menus to indicate what is the currently visible page with respect to the set of websites.
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Practical &mdash; Give students  an interface and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, site maps, and tables of contents.
+* Practical &mdash; Give students  awebsite and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, and site maps.
+* Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
 * Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
@@ -219,40 +228,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a method to bypass such blocks.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Page Identification
-
-{% include excol.html type="middle" %}
-
-Explain strategies that people use to identify web pages, including page titles, as well as text and visual cues in the navigational menu to indicate the current page.
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* design methods for users to locate specific web pages within websites, for example:
-  * descriptive page titles
-  * text and visual cues in the navigation menu to indicate the current page
-  * descriptive page headings
-* evaluate the amount of location methods in use, and select methods that avoid distractions and unnecessary noise
-* identify related requirements for developers to apply semantics to page titles, headings, and text cues
-
-### Teaching Ideas
-
-Optional ideas to teach the learning outcomes:
-
-* Invite students to give examples of page titles they are familiar with and reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page. Some browsers and assistive technologies may truncate the titles or not show them at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
-
-#### Ideas to Assess Knowledge
-
-Optional ideas to assess knowledge:
-
-* Practical &mdash; Give students a specific web page inside a website and ask them to provide appropriate indications about the page location with respect to the entire website. Assess how students balance the use of text and visual cues, breadcrumb trails, and descriptive titles and headings.
-* Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages and describe what they are about. Assess how students provide clear and descriptive page titles.
+* Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide table of contents for documents.
 
 {% include excol.html type="end" %}
 
@@ -277,3 +253,4 @@ Suggested resources to support your teaching:
 * [Text to Speech (Web Accessibility Perspectives)](/perspective-videos/speech/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Large Links, Buttons, and Controls (Web Accessibility Perspectives)](/perspective-videos/controls/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+

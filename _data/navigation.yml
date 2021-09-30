@@ -273,8 +273,8 @@
         url: "/curricula/designer-modules/images-and-graphics/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
-      - name: Forms and Widgets
-        url: "/curricula/designer-modules/forms-and-widgets"
+      - name: Forms Design
+        url: "/curricula/designer-modules/forms-design"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

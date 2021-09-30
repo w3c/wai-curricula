@@ -28,8 +28,8 @@ navigation:
 
 Courses based on this module should:
 
-* explain strategies that people with disabilities use to interact with components
-* describe accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
+* demonstrate strategies that people with disabilities use to interact with components
+* explain accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
 
 ## Learning Outcomes for Module
 
@@ -41,7 +41,7 @@ Students should be able to:
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define methods to disable device and user motion to prevent accidental actuation
 * define alternatives for complex gestures, including swiping, pinching, and drawing shapes
-* identify related requirements for developers to code interactions for components, including through mouse, keyboard, touch, and voice
+* identify related requirements for developers to code interactions, including through mouse, keyboard, touch, and voice
 
 {% include excol.html type="all" %}
 
@@ -119,7 +119,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these interactions and make them consistent throughout the interface.
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these interactions and make them consistent throughout the interface.  
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
@@ -155,7 +155,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about commonly used modifier keys of operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
 * Practical &mdash; Give students an interface that only works with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
-* Practical &mdash; Students work with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students work with other team members to develop strategies that avoid custom keyboard shortcut conflicts.
+* Practical &mdash; Students work with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students work with developers to develop strategies that avoid custom keyboard shortcut conflicts.
 
 {% include excol.html type="end" %}
 

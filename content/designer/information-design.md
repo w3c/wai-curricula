@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities obtain and process information
-* describe several approaches to communicate the structure, relations, and purpose of information using a variety of methods, including text, labels, instructions, semantics, and imagery
+* demonstrate how people with disabilities obtain and process information using a variety of methods, including text, labels, instructions, semantics, and imagery
+* describe several approaches to communicate the structure, relations, and purpose of information
 
 ## Learning Outcomes for Module
 
@@ -38,12 +38,13 @@ Students should be able to:
 
 * explain how people with disabilities use several methods to obtain and process information, including text, labels, instructions, semantics, and imagery
 * describe approaches to break down different types of content into smaller and more manageable pieces, for example using:
-  * headings, pages, and chapter markers
+  *  pages, landmarks, and headings
   * lists, simpler tables, and plain text to convey information presented in complex tables
   * groups of form controls that share a common purpose
-* describe the use of visual and non-visual cues to make information in multi-step processes more understandable
+* describe the use of visual and non-visual cues to communicate information in multi-step processes
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
-* describe how to provide information about the total number of items and about the current item in a multi-step process visually and non-visually
+* describe how to provide information about the name and purpose of components using descriptive labels and instructions
+* discuss ways to break down information presented in tables, including use of simple tables, lists, imagery, and plain text
 * evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
 * identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
 
@@ -99,34 +100,34 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Landmarks and Text
+### Topic: Structure and Text
 
 {% include excol.html type="middle" %}
 
-Discuss ways to split large amounts of text into smaller pieces. For example, using landmarks to define page regions, headings and their corresponding rank levels, pages to split the contents into logical units, and chapter markers to indicate chapters in digital publications.
+Discuss ways to communicate the structure of pages and documents. For example, using pages to split the content into logical units, landmarks to define page regions, headings with their corresponding rank levels to group related information.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * design textual content as manageable passages of text, for example by splitting larger blocks of text into smaller and more manageable pieces using:
+  * pages
   * landmarks with their corresponding region type
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
-  * pages
-  * chapter markers (in digital publications)
 * create graphical representations that accompany the text, to make the information easier to understand; for example, a diagram representation of the process described in the text 
 * design methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * design methods to identify the expanded form or meaning of acronyms and abbreviations
-* identify related requirements for developers to make language programmatically determined
-* identify related requirements for content authors to provide clear language and easy-to-read texts whenever possible
+* identify related requirements for:
+  * developers to make language programmatically determined
+  * content authors to provide clear language and easy-to-read texts whenever possible
 
 #### Teaching Ideas for Topic
  
 Optional ideas to teach the learning outcomes:
 
 * Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
-* Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings and their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
+* Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings with their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
 * Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the methods to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
 * Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the methods to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
@@ -135,7 +136,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use headings and rank levels, pages, and chapter markers to split large amounts of text into smaller and more manageable pieces.
+* Short Answer Questions &mdash; Ask students about the different approaches they can use to communicate structure in web pages and documents. Assess how students recognize structures such as pages, headings, and landmarks.
+* Practical &mdash; Give students an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use pages, landmarks, and headings with their corresponding rank levels to split large amounts of text into smaller and more manageable pieces.
 * Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide methods to complement processes and instructions presented in text.
 * Practical &mdash; Give students unusual words and abbreviations and ask them to define methods to provide the explanation of such words or the expansion of the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
 
@@ -143,11 +145,11 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Labels and Instructions
+### Topic: Naming and Grouping
 
 {% include excol.html type="middle" %}
 
-Discuss the use of labels, instructions, and graphical representations to help people understand components. Explain that defining how to present labels, instructions, and graphical representations is a responsibility of the designer, whereas providing them is a responsibility shared with the content author.
+Discuss the use of labels, instructions, and graphical representations to help people understand components. Explain that defining the presentation of labels, instructions, and graphical representations is a responsibility of the designer, whereas providing such labels and instructions is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -164,7 +166,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of names for components, including links, buttons, and form controls. Explain that these names help users identify these components. Explain that defining the presentation of these names is a designers' responsibility, implementing these names is a developers' responsibility, and defining these names is a responsibility shared with the content author.
 * Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that defining the presentation of these instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining these instructions is a responsibility shared with the content author.
-* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process and how many step the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
+* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -191,20 +193,21 @@ Students should be able to:
 * identify uses of tables to present data that share a logical relationship
 * identify different ways of presenting tabular information, for example using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
-* create designs with graphical representations of complex tables that help users more easily understand its purpose and meaning
+* define graphical representations of complex tables that help users more easily understand its purpose and meaning
 * evaluate the use of complex tables and select simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations
   * plain text
-* identify related requirements for developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
-* identify related requirements for content authors to provide table descriptions where appropriate
+* identify related requirements for
+  * developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table
+  * content authors to provide table descriptions where appropriate
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
-* Refer back to [Designer Module 1: Topic Adaptability](/curricula/designer-modules/visual-design/#topic-adaptability) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
+* Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
 * Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
