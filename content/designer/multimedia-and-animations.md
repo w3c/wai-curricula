@@ -137,7 +137,7 @@ Students should be able to
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of audio descriptions of visual information. Explain that audio descriptions are alternatives for people who cannot see the video. Explain that defining the methods to enable and disable audio description of visual information is a designers' responsibility, whereas providing the audio description is a responsibility shared with the content author.
+* Show examples of descriptions of visual information. Explain that descriptions are alternatives for people who cannot see the visuals. Explain that defining the methods to turn on and off the description is a designers' responsibility, whereas providing the description is a responsibility shared with the content author.
 * Show examples of captions. Explain that captions are alternatives for people who cannot hear the audio, and that they are useful in other situations. Explain that determining where to place captions is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
 * Show examples of text transcripts. Explain that transcripts are alternatives for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
 * Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the methods to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including transcripts for audio, audio descriptions, and sign language.
+* Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including descriptions, captions, transcripts, and sign language.
 
 ## Teaching Resources
 
