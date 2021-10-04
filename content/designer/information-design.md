@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities obtain and process information using a variety of methods, including text, labels, instructions, semantics, and imagery
-* describe several approaches to communicate the structure, relations, and purpose of information
+* explain accessible approaches to communicate the structure, relations, and purpose of information
 
 ## Learning Outcomes for Module
 
@@ -39,14 +39,14 @@ Students should be able to:
 * explain how people with disabilities use several methods to obtain and process information, including text, labels, instructions, semantics, and imagery
 * describe approaches to break down different types of content into smaller and more manageable pieces, for example using:
   *  pages, landmarks, and headings
-  * lists, simpler tables, and plain text to convey information presented in complex tables
+  * lists, simpler tables, and plain text
   * groups of form controls that share a common purpose
-* describe the use of visual and non-visual cues to communicate information in multi-step processes
+* define methods to communicate information in multi-step processes visually and non-visually
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the name and purpose of components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including use of simple tables, lists, imagery, and plain text
 * evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
-* identify related requirements for developers to programmatically associate headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
+* identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
 
 {% include excol.html type="all" %}
 
@@ -100,11 +100,11 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Structure and Text
+### Topic: Text and Structure 
 
 {% include excol.html type="middle" %}
 
-Discuss ways to communicate the structure of pages and documents. For example, using pages to split the content into logical units, landmarks to define page regions, headings with their corresponding rank levels to group related information.
+Discuss ways to communicate the structure of pages and documents using text and semantics. For example, using pages to split the content into logical units, landmarks to define page regions, and headings with their corresponding rank levels to group related information.
 
 #### Learning Outcomes for Topic
 
@@ -119,7 +119,7 @@ Students should be able to:
 * design methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * design methods to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for:
-  * developers to make language programmatically determined
+  * developers to code the regions, headings, and language of pages and parts
   * content authors to provide clear language and easy-to-read texts whenever possible
 
 #### Teaching Ideas for Topic
@@ -184,19 +184,19 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Research strategies that people with disabilities use to interact with information presented in tables. For example, through textual descriptions, through graphical representation of the table contents, by splitting a complex table into several simpler tables, and by splitting the information in the table into individual lists.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Research strategies that people with disabilities use to interact with information presented in tables. For example, using textual descriptions, graphical representations of the table content, as well as several simpler tables or individual lists to present the information in a complex table.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * identify uses of tables to present data that share a logical relationship
-* identify different ways of presenting tabular information, for example using several lists, or splitting a complex table into several simpler ones
 * define table header cells and data cells, and provide clear and distinguishable styles for each
 * define graphical representations of complex tables that help users more easily understand its purpose and meaning
 * evaluate the use of complex tables and select simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations
+  * individual lists
   * plain text
 * identify related requirements for
   * developers to programmatically associate table descriptions, data cells, and header cells with their corresponding table

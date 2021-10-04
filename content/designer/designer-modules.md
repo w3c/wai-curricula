@@ -72,7 +72,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Cues](/curricula/designer-modules/visual-design/#topic-cues)
     -   [Topic: Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts)
 -   [Module 2: Information Design](/curricula/designer-modules/information-design/)
-    -   [Topic: Structure and Text](/curricula/designer-modules/information-design/#topic-structure-and-text)
+    -   [Topic: Text and Structure](/curricula/designer-modules/information-design/#topic-text-and-structure)
     -   [Topic: Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping)
     -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tables)
 -   [Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)

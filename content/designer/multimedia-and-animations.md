@@ -30,28 +30,24 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access multimedia contents, such as audio and video
-* explain accessibility requirements for multimedia content, such as descriptions of visual information àalso known as audio description, video description, or described video), captions (also known as subtitles), transcripts, and sign languages
+* explain accessibility requirements for multimedia content, such as description of visual information (also known as audio description, video description, or described video), captions (also known as subtitles), transcripts, and sign languages
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design user experiences for descriptions, captions, transcripts, and sign languages, including:
-  * placement and spacing for alternatives to multimedia content
-  * methods for turning on and off alternatives
-  * ways for users to interact with the alternatives
-* identify accessibility issues of media players, including:
-  * evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
+* design user experiences for descriptions, captions, transcripts, and sign languages, including interactions, placement, and methods to turn on and off the alternatives
+* identify accessibility issues associated with media players, including:
   * select media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
   * select media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
-* design methods to control automatic audio or movement, including:
+* design methods to control automatic audio and movement, including:
   * mute and control the volume of auto-playing audio
-  * pause, stop, and hide moving, blinking, and auto-updating content, including animations and carousels
+  * pause, stop, and hide moving, blinking, and auto-updating content, including carousels and other animations
 * identify related requirements for:
   * developers to programmatically associate alternatives and descriptions to their corresponding media content
   * developers to include accessibility support for media players
-  * content authors to provide appropriate text transcripts, captions, audio descriptions, and sign language
+  * content authors to provide appropriate descriptions, captions, transcripts, and sign languages
 
 {% include excol.html type="all" %}
 
@@ -113,25 +109,25 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Audio description of visual information is essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
+Descriptions of visual information are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
 
-Discuss the need for planning in the design phase to accommodate media alternatives such as audio description of visual information, captions, text transcripts, and sign language. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate media alternatives such as descriptions, captions, text transcripts, and sign languages. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
-* identify accessibility requirements for the different types of multimedia content, such as audio descriptions of visual information, captions, transcripts, and sign languages
-* define the following alternatives to multimedia content:
-  * audio descriptions; descriptions to adequately get the visual information needed to understand the content
-  * captions; text versions of the speech and non-speech audio information needed to understand the content
-  * text transcripts; text that provides an alternative to visual and audio information
-  * sign language; the native language of some deaf people
-* design methods for controlling the volume of audio that plays automatically for more than 3 seconds
-* design methods to pause, stop, or hide alternatives to multimedia content that blink, move, or auto-update
-* design the placement and user experience of alternatives for multimedia content, including audio descriptions, captions, transcripts, and sign language
-* design methods to turn on and off audio descriptions, captions, transcripts, and sign language
-* design player controls that:
+* identify accessibility requirements for the different types of multimedia content, such as descriptions, captions, transcripts, and sign languages
+* describe the following alternatives to multimedia content:
+  * descriptions
+  * captions
+  * transcripts
+  * sign language
+* design user experiences of alternatives for multimedia content, including:
+  * placement of the alternatives
+  * methods to turn on and off the alternatives
+* evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
+* design media player controls that:
   * have descriptive names
   * are operable by keyboard
   * are easy to find
@@ -151,7 +147,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Give students pieces of multimedia content and ask them where they would place their corresponding alternatives. Assess students' understanding of the requirements for alternatives to multimedia content.
+* Short Answer Questions &mdash; Ask students what descriptions, captions, transcripts, and sign language mean. Assess how students define alternatives to multimedia content.
+* Practical &mdash; Give students pieces of multimedia content and ask them to define the user experiences for the alternatives of those contents. Assess how students define placement, interactions, and methods to turn the alternatives on and off.
 
 {% include excol.html type="end" %}
 
