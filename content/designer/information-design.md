@@ -216,7 +216,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students  a set of tables and ask them to define their header cells and data cells. Assess how students understand the difference between header cells and data cells.
+* Practical &mdash; Give students  a table and ask them to define the table's header cells and data cells. Assess how students understand the difference between header cells and data cells.
 * Practical &mdash; Give students a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
 * Practical &mdash; Give students a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
 

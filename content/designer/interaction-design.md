@@ -37,7 +37,7 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to interact with components, including forms, links, buttons, controls, and widgets
 * design user experiences for different input methods, including mouse, touch, keyboard, and speech
-* define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
+* define keyboard interactions and meaningful sequences inside complex widgets, including  sliders, tabs, and treeviews
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define methods to disable device and user motion to prevent accidental actuation
 * define alternatives for complex gestures, including swiping, pinching, and drawing shapes
@@ -165,7 +165,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, some others may not be able to perform them at all. Discuss some alternatives to motion-based gestures. 
+Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, some others may not be able to perform them at all. Present some alternatives to motion-based gestures, for example providing methods to undo, abort, and reverse actions performed using complex gestures.
 
 Discuss some gestures that require dragging and drawing specific paths on a touch screen. Explain that these are difficult (and sometimes impossible) to perform for some people with mobility impairments.
 
@@ -175,7 +175,7 @@ Students should be able to:
 
 * design alternatives to multi-pointer gestures (including swiping, pinching, and drawing shapes) by using single pointer activation
 * design methods to undo or abort an action carried out with path-based gestures, including use of the up event to undo, abort, and reverse activation
-* define alternatives for device or user motion, for example components that perform the same function that do not require user motion 
+* define alternatives for device or user motion, for example components performing the same function that do not require user motion 
 * design methods to disable response to device or user motion to prevent accidental actuation
 
 #### Teaching Ideas for Topic
@@ -202,7 +202,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash: Give students a web email client and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
+* Practical &mdash: Give students a web application, such as a web email client, and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
 * Portfolio &mdash; Students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and speech.
 
 ## Teaching Resources

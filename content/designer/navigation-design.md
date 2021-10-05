@@ -120,7 +120,7 @@ Students should be able to:
 * describe uses of different types of navigation menus, such as static, fly-out, and mega menus
 * define visual and text cues to identify menus, including:
   * consistent styling for menu identification across websites
-  * cues in the navigation menu to indicate the current page
+  * visual and non-visual cues in the navigation menu to indicate the current page
 * define interactions inside navigation menus, including mouse, keyboard, touch, and voice
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
@@ -187,7 +187,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to teach the learning outcomes:
 
-* Practical &mdash; Give students  awebsite and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, and site maps.
+* Practical &mdash; Give students  a website and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
 * Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
