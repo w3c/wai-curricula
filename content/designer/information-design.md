@@ -46,7 +46,7 @@ Students should be able to:
 * describe how to provide information about the name and purpose of components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including use of simple tables, lists, imagery, and plain text
 * evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
-* identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions, to their corresponding control
+* identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}
 
@@ -105,6 +105,8 @@ Topics to achieve the learning outcomes:
 {% include excol.html type="middle" %}
 
 Discuss ways to communicate the structure of pages and documents using text and semantics. For example, using pages to split the content into logical units, landmarks to define page regions, and headings with their corresponding rank levels to group related information.
+
+Discuss the use of diagrams and illustrations to help users understand the information provided in text.
 
 #### Learning Outcomes for Topic
 

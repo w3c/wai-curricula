@@ -38,7 +38,7 @@ Students should be able to:
 * demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * define consistent placement and appearance of form fields and widgets
 * define interactions with form  controls and input fields, including through mouse, keyboard, touch, and voice
-* define clear and distinguishable names for forms controls and input fields
+* define clear and distinguishable names for form controls and input fields
 * define textual instructions, color, and other visual cues to help understand the context, information, and functionality of forms and input fields
 * define clear and descriptive visual and non-visual cues about the current step and about the total number of steps in a multi-step process, including multi-step forms
 * define clear and descriptive error messages that identify the field in error and provide suggestions for corrections where possible
@@ -121,7 +121,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Designer Module 2: Information Design: Labels and Instructions](/curricula/designer-modules/information-design/#topic-labels-and-instructions). Show examples of labels and instructions in the context of forms and other complex widgets.
+Refer back to [Designer Module 2: Information Design: Topic Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping). Show examples of labels and instructions in the context of forms.
 
 Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and typing the first letters of their desired option to select data more efficiently.
 

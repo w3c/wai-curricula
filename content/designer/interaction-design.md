@@ -28,14 +28,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate strategies that people with disabilities use to interact with components
+* demonstrate strategies that people with disabilities use to interact with components, including forms, links, buttons, controls, and widgets
 * explain accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to interact with components
+* explain strategies that people with disabilities use to interact with components, including forms, links, buttons, controls, and widgets
 * design user experiences for different input methods, including mouse, touch, keyboard, and speech
 * define keyboard interactions and meaningful sequences inside complex widgets, including buttons, carousels, sliders, tabs, and treeviews
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
@@ -119,7 +119,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these interactions and make them consistent throughout the interface.  
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys, versus specific non-standard shortcuts. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these custom interactions and make them consistent throughout the interface.  
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
