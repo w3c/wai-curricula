@@ -121,7 +121,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Designer Module 2: Information Design: Topic Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping). Show examples of labels and instructions in the context of forms.
+Refer back to [Designer Module 2: Information Design, Topic: Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping). Show examples of labels and instructions in the context of forms.
 
 Show examples of different ways to group large amounts of selectable data. For example, filtering out data into smaller pieces to better handle data, and typing the first letters of their desired option to select data more efficiently.
 
