@@ -34,7 +34,9 @@ The designer modules guide the creation of courses that:
   * information design
   * navigation design
   * interaction design
-  * user experience
+  * images and graphics
+  * multimedia and animations
+  * forms
 
 These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications.
 
