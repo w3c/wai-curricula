@@ -117,7 +117,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Naming, Grouping, and Placement
+### Topic: Labels and Instructions
 
 {% include excol.html type="middle" %}
 
