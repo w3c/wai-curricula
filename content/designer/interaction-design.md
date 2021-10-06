@@ -28,7 +28,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate strategies that people with disabilities use to interact with components, including forms, links, buttons, controls, and widgets
+* demonstrate strategies that people with disabilities use to interact with components, custom widgets, and rich applications, including links, buttons, controls, forms, and widgets
 * explain accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
 
 ## Learning Outcomes for Module

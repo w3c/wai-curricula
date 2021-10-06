@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 2: Information Design [WIP]"
+title: "[Draft] Module 2: Information Design"
 nav_title: "Information Design"
 permalink: /curricula/designer-modules/information-design/
 ref: /curricula/designer-modules/information-design/

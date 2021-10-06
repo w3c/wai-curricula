@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 1: Visual Design [WIP]"
+title: "[Draft] Module 1: Visual Design"
 nav_title: "Visual Design"
 permalink: /curricula/designer-modules/visual-design/
 ref: /curricula/designer-modules/visual-design/

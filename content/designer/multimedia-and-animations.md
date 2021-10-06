@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 6: Multimedia and Animations [WIP]"
+title: "[Draft] Module 6: Multimedia and Animations"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/
@@ -109,9 +109,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Descriptions of visual information are essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
+Description of visual information is essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
 
-Discuss the need for planning in the design phase to accommodate media alternatives such as descriptions, captions, text transcripts, and sign languages. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate alternatives to multimedia content such as descriptions, captions, text transcripts, and sign languages. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
@@ -119,7 +119,7 @@ Students should be able to
 
 * identify accessibility requirements for the different types of multimedia content, such as descriptions, captions, transcripts, and sign languages
 * describe the following alternatives to multimedia content:
-  * descriptions
+  * descriptions of visual information
   * captions
   * transcripts
   * sign language
@@ -137,7 +137,7 @@ Students should be able to
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of descriptions of visual information. Explain that descriptions are alternatives for people who cannot see the visuals. Explain that defining the methods to turn on and off the description is a designers' responsibility, whereas providing the description is a responsibility shared with the content author.
+* Show examples of descriptions of visual information. Emphasize how these alternatives deswcribe the visual information (including text) for people who cannot see the videos. Explain that different standards and policies may refer to descriptions of visual information using different terms, such as audio descriptions, video descriptions, and described videos. Explain that defining the methods to turn on and off the description is a designers' responsibility, whereas providing the description is a responsibility shared with the content author.
 * Show examples of captions. Explain that captions are alternatives for people who cannot hear the audio, and that they are useful in other situations. Explain that determining where to place captions is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
 * Show examples of text transcripts. Explain that transcripts are alternatives for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
 * Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the methods to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
