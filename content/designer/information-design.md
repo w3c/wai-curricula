@@ -138,7 +138,6 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different approaches they can use to communicate structure in web pages and documents. Assess how students recognize structures such as pages, headings, and landmarks.
 * Practical &mdash; Give students an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use pages, landmarks, and headings with their corresponding rank levels to split large amounts of text into smaller and more manageable pieces.
 * Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide methods to complement processes and instructions presented in text.
 * Practical &mdash; Give students unusual words and abbreviations and ask them to define methods to provide the explanation of such words or the expansion of the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
@@ -168,7 +167,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of names for components, including links, buttons, and form controls. Explain that these names help users identify these components. Explain that defining the presentation of these names is a designers' responsibility, implementing these names is a developers' responsibility, and defining these names is a responsibility shared with the content author.
 * Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that defining the presentation of these instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining these instructions is a responsibility shared with the content author.
-* Show examples of multi-step processes, such as a multi-step form, with and without instructions to indicate the current process and total number of steps. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
+* Show examples of multi-step processes, such as a multi-step form, with instructions to indicate the current step and total number of steps in the process. Then show examples of multi-step processes without such instructions. Compare the user experiences for each of the examples. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designers' responsibility, implementing these instructions is a developers' responsibility, and providing these instructions is a responsibility shared with the content author.
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look like is a designers' responsibility, whereas coding those relations is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -228,6 +227,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
+* Short Answer Questions &mdash; Ask students about the different approaches they can use to communicate the structure in web pages and documents. Assess how students recognize structures such as pages, headings, and landmarks.
 * Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide methods for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
 
 ## Teaching Resources

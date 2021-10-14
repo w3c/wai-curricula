@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * identify accessibility requirements for different types of audio and video content
-* design user experiences for descriptions, captions, transcripts, and sign languages, including interactions, placement, and methods to turn on and off the alternatives
+* design user experiences for description, captions, transcripts, and sign languages, including interactions, placement, and methods to turn on and off the alternatives
 * identify accessibility issues associated with media players, including:
   * select media players with support for different methods of interaction, including mouse, keyboard, touch, and voice
   * select media player controls that have clear and descriptive names, that are easy to find, and that are always reachable for users
@@ -45,9 +45,9 @@ Students should be able to:
   * mute and control the volume of auto-playing audio
   * pause, stop, and hide moving, blinking, and auto-updating content, including carousels and other animations
 * identify related requirements for:
-  * developers to programmatically associate alternatives and descriptions to their corresponding media content
+  * developers to programmatically associate alternatives to their corresponding media content
   * developers to include accessibility support for media players
-  * content authors to provide appropriate descriptions, captions, transcripts, and sign languages
+  * content authors to provide appropriate description, captions, transcripts, and sign languages
 
 {% include excol.html type="all" %}
 
@@ -111,15 +111,15 @@ Topics to achieve the learning outcomes:
 
 Description of visual information is essential for people who cannot see the visuals. Captions are essential for people who cannot hear the audio. Text transcripts provide an alternative to visual and audio information.
 
-Discuss the need for planning in the design phase to accommodate alternatives to multimedia content such as descriptions, captions, text transcripts, and sign languages. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
+Discuss the need for planning in the design phase to accommodate alternatives to multimedia content such as description, captions, text transcripts, and sign languages. Present methods to turn on and off alternatives to multimedia content depending on user needs. Explain that these methods need to have clear names and need to be always reachable for users. Explain that defining such methods is a designer's responsibility, whereas providing the alternatives is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
 Students should be able to
 
-* identify accessibility requirements for the different types of multimedia content, such as descriptions, captions, transcripts, and sign languages
+* identify accessibility requirements for the different types of multimedia content, such as description, captions, transcripts, and sign languages
 * describe the following alternatives to multimedia content:
-  * descriptions of visual information
+  * description of visual information
   * captions
   * transcripts
   * sign language
@@ -127,7 +127,7 @@ Students should be able to
   * placement of the alternatives
   * methods to turn on and off the alternatives
 * evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
-* design media player controls that:
+* describe approaches to design media player controls that:
   * have descriptive names
   * are operable by keyboard
   * are easy to find
@@ -137,17 +137,17 @@ Students should be able to
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of descriptions of visual information. Emphasize how these alternatives describe the visual information (including text) for people who cannot see the videos. Explain that different standards and policies may refer to descriptions of visual information using different terms, such as audio descriptions, video descriptions, and described videos. Explain that defining the methods to turn on and off the description is a designers' responsibility, whereas providing the description is a responsibility shared with the content author.
+* Show examples of description of visual information. Emphasize how these alternatives describe the visual information (including text) for people who cannot see the videos. Explain that different standards and policies may refer to description of visual information using different terms, such as audio description, video description, and described videos. Explain that defining the methods to turn on and off the description is a designers' responsibility, whereas providing the description is a responsibility shared with the content author.
 * Show examples of captions. Explain that captions are alternatives for people who cannot hear the audio, and that they are useful in other situations. Explain that determining where to place captions is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
 * Show examples of text transcripts. Explain that transcripts are alternatives for people who cannot hear the audio information and for people who cannot see the visual information. Explain that allocating the necessary space for the transcripts is a designers' responsibility, whereas providing such transcripts is a responsibility shared with the content author.
 * Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the methods to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
-* Show examples of accessible and inaccessible media players. Emphasize that it is generally more reliable to use an existing media player with support for accessibility than to designing one from scratch. Explain how accessible media player  controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that users need to be able to reach the controls even when the media is playing.
+* Show examples of accessible and inaccessible media players. Emphasize that it is generally more reliable to use an existing media player with support for accessibility than to designing one from scratch. Explain how accessible media player controls have appropriate contrast ratios, are operable by keyboard, and are easy to find. Emphasize that users need to be able to reach the controls even when the media is playing.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what descriptions, captions, transcripts, and sign language mean. Assess how students define alternatives to multimedia content.
+* Short Answer Questions &mdash; Ask students what description, captions, transcripts, and sign language mean in the context of accessible media content. Assess how students define alternatives to multimedia content.
 * Practical &mdash; Give students pieces of multimedia content and ask them to define the user experiences for the alternatives of those contents. Assess how students define placement, interactions, and methods to turn the alternatives on and off.
 
 {% include excol.html type="end" %}
@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including descriptions, captions, transcripts, and sign language.
+* Portfolio &mdash; Students include accessible video and audio contents on a website. Assess how students understand the accessibility requirements of video and audio content, including description, captions, transcripts, and sign language.
 
 ## Teaching Resources
 

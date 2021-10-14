@@ -179,11 +179,11 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Cues
+### Topic: Orientation Cues
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities perceive where they are in the page and in the content through text and visual cues. Present strategies to plan for the inclusion of such cues early in the visual design phase.
+Explain how people with disabilities orient on web pages and applications using text and visual cues, including focus indicators, as well as spacing and grouping to communicate regions. Present strategies to plan for the inclusion of such cues early in the visual design phase.
 
 #### Learning Outcomes for Topic
 
@@ -206,8 +206,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
+* Practical &mdash; Ask students to define the visual presentation of focus indicators on a web page or application. Assess how students understand the importance of focus indicators for users to know where they are on a web page or application.
 * Practical &mdash; Give students a web page and ask them to define its regions and cues. Assess how students define regions and cues using a variety of methods, including semantics and styling.
-* Practical &mdash: Give students examples of information conveyed visually and ask them to provide text to help understand the information. Assess how students provide the necessary textual information to supplement information conveyed visually.
+* Short Answer Questions &mdash; Give students examples of orientation cues conveyed visually and ask them to provide text to help understand the information. Assess how students provide the necessary textual information to supplement orientation cues conveyed visually.
 
 {% include excol.html type="end" %}
 
@@ -217,9 +218,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content.
-
-Demonstrate how content sequence, focus indicators, and target sizes adapt to different screen sizes, screen configurations, and style sheets. Emphasize that designers need to plan for these features early on in the visual design phase.
+Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content. Demonstrate how content sequence, focus indicators, and target sizes adapt to different screen sizes, screen configurations, and style sheets. Emphasize that designers need to plan for these features early on in the visual design phase.
 
 Demonstrate how too many design elements can cause overload and distraction for some users. Demonstrate approaches to balance the use of too many design elements.
 
@@ -259,6 +258,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
+* Short Answer Questions &mdash; Ask students about the color contrast ratios for the different user interface components. Assess how students understand the different color contrast requirements depending on the components.
 * Portfolio &mdash; Students design a web page. Assess how students use customizable color, layout, spacing, and position to support content perception, identification, and readability.
 
 ## Teaching Resources
