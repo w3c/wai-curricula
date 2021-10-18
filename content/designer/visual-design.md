@@ -231,7 +231,7 @@ Students should be able to:
 * design layouts that adapt their content view and operation to portrait and landscape orientations
 * design layouts with target sizes that adapt to different screen sizes,  screen configurations, and style sheets
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
-* design meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
+* define meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 * evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
 
 #### Teaching Ideas for Topic

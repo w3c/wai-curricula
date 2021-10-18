@@ -123,7 +123,7 @@ Students should be able to:
   * visual and non-visual cues in the navigation menu to indicate the current page
 * define interactions inside navigation menus, including mouse, keyboard, touch, and voice
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
-* design distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
+* define distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
   * non-visual identification and naming of menus
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited

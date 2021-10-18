@@ -118,8 +118,8 @@ Students should be able to:
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
 * create graphical representations that accompany the text, to make the information easier to understand; for example, a diagram representation of the process described in the text 
-* design methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
-* design methods to identify the expanded form or meaning of acronyms and abbreviations
+* define methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
+* define methods to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for:
   * developers to code the regions, headings, and language of pages and parts
   * content authors to provide clear language and easy-to-read texts whenever possible

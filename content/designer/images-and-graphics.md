@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * explain strategies that people with disabilities use to access information contained in images and graphics
-* explain accessibility requirements related to images and graphics, such as text alternatives and contrast ratios
+* explain accessibility requirements related to images and graphics, including text alternatives and contrast ratios
 
 ## Learning Outcomes for Module
 
@@ -39,13 +39,13 @@ Students should be able to:
 * explain how images and graphics help people with disabilities to process information, identify content, and understand functionality
 * explain how text alternatives are essential for people with disabilities to understand the information contained in images
 * define meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
-* design consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
+* define consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
 * evaluate the potential distraction and cognitive overload from using too many images and select alternative ways to provide the information, including tables and plain text
 * identify related requirements for:
   * developers to code images and text alternatives appropriately
-  * content authors to provide appropriate descriptions for images, such as charts, diagrams, and other complex graphics
+  * content authors to provide appropriate descriptions for images, including charts, diagrams, and other complex graphics
 
 {% include excol.html type="all" %}
 
@@ -120,6 +120,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different images used to convey functionality, for example for printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Invite students to research the most common iconography and naming for elements such as print, save, and search. Explain that these iconography and names need to be consistent throughout the website.
+* Refer back to [Designer Module 1 Visual Design, Topic Color](/curricula/designer-modules/visual-design/#topic-color) to explain color contrast requirements for functional images.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -188,9 +190,9 @@ Students should be able to:
 
 * apply appropriate contrast ratios for complex images
 * evaluate the use of complex images and select other ways to present the information, for example using tables, simpler images, and plain text
-* determine if and how complex images are operated using input devices, including mouse, keyboard, voice, and touch
-* consider placement and spacing for alternatives to complex images
-* design clear and consistent identification methods for complex image descriptions, including appropriate headings and expandable and collapsible components
+* determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
+* define the placement and spacing for alternatives to complex images
+* define clear and consistent identification methods for complex image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including:
   * how to get to the image descriptions
   * how the content  of the description should look like
@@ -203,7 +205,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Explain that they need to have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-use-of-color). Explain that they need to have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Explain that complex images also need to have text descriptions that allow people to understand and interact with such images without having to look at them. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
@@ -230,7 +232,7 @@ Students should be able to:
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
 * evaluate the potential distraction and cognitive overload from using too many decorative images and select decorative images that avoid distractions and cognitive overload
-* explain how the overuse of decorative images could become distracting for some users and slow down loading times and interaction for other users
+* explain how the overuse of decorative images could slow down loading times and interaction for users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 
 #### Teaching Ideas for Topic
@@ -238,12 +240,14 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
+* Invite students to research how uveruse of decorative images can impact some users. For example, too many decorative images can create distractions and cognitive overload, as well as slow down loading times.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the need for decorative images to adapt to the different user needs and preferences.
+* Practical &mdash; Give students and interface with too many decorative images and ask students to select the ones that avoid distractions, cognitive overload, and slow loading times. Assess how students balance the use of decorative images to avoid distractions, cognitive overload, and slow loading times.
 
 {% include excol.html type="end" %}
 
@@ -253,6 +257,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
+* Short Answer Questions &mdash; Ask students which types of images require which color contrast ratios. Assess how students understand the different types of images and their color contrast requirements.
 * Portfolio &mdash; Students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design, for example contrast ratios,  text alternatives that belong to the design phase, and placeholders for any other text alternative that is planned for later stages of the design and development process.
 
 ## Teaching Resources
