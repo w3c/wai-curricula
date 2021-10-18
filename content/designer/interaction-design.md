@@ -28,15 +28,15 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate strategies that people with disabilities use to interact with components of web pages and applications, including links, buttons, controls, forms, and widgets
+* demonstrate strategies that people with disabilities use to interact with components of web pages and applications, including links, buttons, controls, forms, widgets, and notifications
 * explain accessibility requirements related to input methods, including mouse, keyboard, touch, and voice
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain strategies that people with disabilities use to interact with components of web pages and applications, including forms, links, buttons, controls, and widgets
-* design user experiences for different input methods, including mouse, touch, keyboard, and speech
+* explain strategies that people with disabilities use to interact with components of web pages and applications, including links, buttons, controls, forms, widgets, and notifications
+*  design user experiences for different input methods, including mouse, touch, keyboard, and speech
 * define interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, and tree views
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define methods to disable device and user motion to prevent accidental actuation
@@ -119,13 +119,16 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys, versus specific non-standard shortcuts. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these custom interactions and make them consistent throughout the interface.  
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support favors other ways of interaction, including touch and voice.
+
+Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these custom interactions and make them consistent throughout the interface.  
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
+* explain how keyboard support favors other ways of interaction, including touch and voice
 * design user experiences for keyboard navigation through and inside components, for example using:
   * the tab key to move through different components
   * the enter key to enter a specific component and to select a specific item on a component

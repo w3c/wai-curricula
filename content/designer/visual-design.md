@@ -192,7 +192,7 @@ Students should be able to:
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using appropriate visual and non-visual cues, such as headings
 * design layouts that enable to present visual and non-visual cues in different screen sizes, screen configurations, and style sheets
-* use text cues to supplement information provided through vision only, for example available dates in a calendar represented with a different background color
+* use text cues to supplement information provided through vision only, for example those with icons to convey when a form field is required
 
 #### Teaching Ideas for Topic
 
@@ -200,7 +200,7 @@ Optional ideas to teach the learning outcomes:
 
 * Invite students to use a web page that has appropriate focus indicators first, and then invite them to use a web page without focus indicators. Explain how focus indicators allow people using the keyboard only to determine where they are as they move through web pages and applications using the keyboard only. For reference on how to provide appropriate focus indicators, see techniques [G149: Using user interface components that are highlighted by the user agent when they receive focus](https://www.w3.org/WAI/WCAG21/Techniques/general/G149.html) and [G195: Using an author-supplied, highly visible focus indicator](https://www.w3.org/WAI/WCAG21/Techniques/general/G195.html).
 * Show examples of different web page regions, such as header, navigation, main, and footer. Explain that several groups of people with disabilities rely on visual and programmatic cues to perceive such regions. Explain that defining the presentation of these cues is a designers' responsibility, whereas implementing such cues and their semantics is a developers' responsibility.
-* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required and those with colors to convey available dates in a calendar. Explain that some people cannot rely on visual means to obtain information, so they need text to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
+* Show examples of interfaces where information is provided through vision only, such as those with icons to convey when a form field is required. Explain that some people cannot rely on visual means to obtain information, so they need text to understand the information provided. For references on how to complement information presented visually with text, see technique [G96: Providing textual identification of items that otherwise rely only on sensory information to be understood](https://www.w3.org/WAI/WCAG21/Techniques/general/G96.html).
 
 #### Ideas to Assess Knowledge for Topic
 
