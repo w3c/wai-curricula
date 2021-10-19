@@ -118,9 +118,9 @@ Explain styling conventions for menus, such as expected location, appropriate si
 Students should be able to:
 
 * describe uses of different types of navigation menus, such as static, fly-out, and mega menus
-* define visual and text cues to identify menus, including:
+* define visual and text indications to identify menus, including:
   * consistent styling for menu identification across websites
-  * visual and non-visual cues in the navigation menu to indicate the current page
+  * visual and non-visual indications about the current page in the navigation menu 
 * define interactions inside navigation menus, including mouse, keyboard, touch, and voice
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * define distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
