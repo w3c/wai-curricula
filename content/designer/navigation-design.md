@@ -238,7 +238,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different types of navigational methods. Assess how students recite the different types of navigational methods for websites, documents, and applications.
+* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand the different types of navigational methods for websites, documents, and applications.
 * Portfolio &mdash; Students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
