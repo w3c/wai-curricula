@@ -44,7 +44,7 @@ Students should be able to:
   * indication of state changes for menu items
 * define blocks of repeated content
 * define site maps and descriptive page titles to help users locate specific web pages within websites
-* evaluate the use of navigational components, including menus, tables of contents, and ``site maps, and select navigational components that avoid distraction and unnecessary noise
+* evaluate the use of navigational components, including menus, tables of contents, and site maps, and select navigational components that avoid distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational components
