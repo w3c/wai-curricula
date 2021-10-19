@@ -127,11 +127,11 @@ Students should be able to
   * placement of the alternatives
   * methods to turn on and off the alternatives
 * evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
-* describe approaches to design media player controls that:
-  * provide keyboard support
-  * make the keyboard focus indicator visible
-  * provide clear lables
-  * have sufficient contrast between colors for text, controls, and backgrounds (
+* describe characteristics of accessible media player controls, including:
+  * keyboard support
+  * visible keyboard focus indicators
+  * clear lables
+  * sufficient contrast between colors for text, controls, and backgrounds
   
 #### Teaching Ideas for Topic
 

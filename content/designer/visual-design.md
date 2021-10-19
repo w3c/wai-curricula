@@ -249,6 +249,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students design different layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
+* Practical &mdash; Students design an interface that adapts to portrait and landscape modes. Assess how students understand the need for interfaces to adapt to both portrait and landscape modes.
 
 {% include excol.html type="end" %}
 
