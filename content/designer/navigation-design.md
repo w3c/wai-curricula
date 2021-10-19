@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
-* define different interactions for navigational components, including keyboard, mouse, touch, and voice
+* define different interactions for navigational components, including by keyboard, mouse, touch, and voice
 * define clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
@@ -169,9 +169,9 @@ Students should be able to:
   * search functionalities to navigate to specific parts of the site
 * design methods for users to locate specific web pages within websites, for example:
   * descriptive page titles
-  * text and visual cues in the navigation menu to indicate the current page
+  * text and visual indications about the current page in the navigation menu 
 * evaluate the amount of site navigational components in use, and select components that help users navigate and orient
-* identify related requirements for developers to apply semantics to page titles, headings, and text cues
+* identify related requirements for developers to apply semantics to page titles, headings, as well as visual and non-visual indications in navigation menus
 
 #### Teaching Ideas for Topic
 
