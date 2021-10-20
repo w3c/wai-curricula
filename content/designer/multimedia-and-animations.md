@@ -130,7 +130,7 @@ Students should be able to
 * describe characteristics of accessible media player controls, including:
   * keyboard support
   * visible keyboard focus indicators
-  * clear lables
+  * clear labels
   * sufficient contrast between colors for text, controls, and backgrounds
   
 #### Teaching Ideas for Topic

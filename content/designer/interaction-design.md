@@ -36,12 +36,12 @@ Courses based on this module should:
 Students should be able to:
 
 * explain strategies that people with disabilities use to interact with components of web pages and applications, including links, buttons, controls, forms, widgets, and notifications
-*  design user experiences for different input methods, including mouse, touch, keyboard, and speech
-* define interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, and tree views
+* design user experiences for different input methods, including mouse, touch, keyboard, and voice
+* define interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define methods to disable device and user motion to prevent accidental actuation
 * define alternatives for complex gestures, including swiping, pinching, and drawing shapes
-* identify related requirements for developers to code interactions, including through mouse, keyboard, touch, and voice
+* identify related requirements for developers to write code interactions, including through mouse, keyboard, touch, and voice
 
 {% include excol.html type="all" %}
 
@@ -119,7 +119,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support favors other ways of interaction, including touch and voice.
+Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support favors other ways of interaction, including voice interaction and interaction using some assistive technologies.
 
 Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can favor efficiency but can also disrupt the users' expectations. Thus, designers need to document these custom interactions and make them consistent throughout the interface.  
 Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
@@ -128,13 +128,14 @@ Emphasize that defining the keyboard interactions is a designers' responsibility
 
 Students should be able to:
 
-* explain how keyboard support favors other ways of interaction, including touch and voice
-* design user experiences for keyboard navigation through and inside components, for example using:
+* explain how keyboard support favors other ways of interaction, including voice interaction and interaction using some assistive technologies
+* design user experiences for keyboard navigation through and inside components of websites and applications, for example using:
   * the tab key to move through different components
   * the enter key to enter a specific component and to select a specific item on a component
   * the arrow keys to move through elements inside components, including sliders, tabs, dialogs, application menus, and tree views
   * the escape key to exit components
   * first letter navigation to jump to specific pieces of data in lists and grids
+  * specific keyboard shortcuts to reveal, review, and dismiss notifications
   * specific keyboard shortcuts to support efficiency
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * evaluate the use of custom keyboard interactions and select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
@@ -150,7 +151,7 @@ Optional ideas to teach the learning outcomes:
 * Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that these interactions need to be preserved as much as possible when designing custom widgets, as these are mostly expected by users.
 * Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to work closely with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and working with developers to implement such keystrokes.
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
-* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using such shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
+* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using those shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -205,7 +206,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Practical &mdash: Give students a web application, such as a web email client, and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
-* Portfolio &mdash; Students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and speech.
+* Portfolio &mdash; Students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and voice.
 
 ## Teaching Resources
 

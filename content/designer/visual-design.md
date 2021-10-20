@@ -192,7 +192,7 @@ Students should be able to:
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using appropriate visual and non-visual cues, such as headings
 * design layouts that enable to present visual and non-visual cues in different screen sizes, screen configurations, and style sheets
-* use text cues to supplement information provided through vision only, for example those with icons to convey when a form field is required
+* use text cues to supplement information provided through vision only, for example using text and icons to convey when a form field is required
 
 #### Teaching Ideas for Topic
 
