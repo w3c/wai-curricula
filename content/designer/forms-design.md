@@ -35,10 +35,10 @@ Courses based on this module should:
 
 Students should be able to:
 
-* demonstrate how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
-* define consistent placement and appearance of form controls and input fields
-* define interactions with form  controls and input fields, including through mouse, keyboard, touch, and voice
-* define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of controls and input fields
+* explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
+* define consistent use, placement, and appearance of form elements according to overall usability best practices
+* define interactions with form elements, including through mouse, keyboard, touch, and voice
+* define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form fields
 * define clear and descriptive visual and non-visual instructions about the current step and about the total number of steps in multi-step forms
 * define clear and descriptive error messages that:
   * identify the field in error 
@@ -122,6 +122,43 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
+### Topic: Form Elements
+
+{% include excol.html type="middle" %}
+
+Show examples of different form elements and their intended purpose according to overall usability best practices, including edit boxes, check boxes, radio buttons. Explain uses of standard and non-standard components and how they impact accessibility.
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* identify different uses and intended purposes of form elements, including:
+  * edit boxes for text insertion
+  * check boxes for multiple selections
+  * radio buttons for single selections
+  * buttons for input submission
+* identify the compatibility issues and cognitive overload from using form elements with unintended purposes
+* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to include accessibility features at a later phase
+* identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose 
+
+### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes.
+
+* Explain the intended purpose of form elements according to overall usability best practices. For example, edit boxes for text insertion, check boxes for multiple selections, radio buttons for single selections, and buttons for input submissions. Emphasize that using a form element with an unintended purpose can cause cognitive overload and compatibility issues with assistive technologies and adaptive strategies.
+* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need to tweak them for accessibility at a later phase. However, use of non-standard elements generally requires further coding to ensure these elements are usable with the keyboard and accessible to assistive technologies.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to support assessment:
+
+* Short Answer Questions &mdash; Ask students about different form elements and their intended purpose according to overall usability best practices. Assess how students relate form elements to their intended purpose according to overall usability best practices.
+* Practical &mdash; Ask students to design a form with input requirements including text insertion, multiple selections, single selections, and input submission. Ask students to use the appropriate element for each of these input requirements.
+ 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
 ### Topic: Labels and Instructions
 
 {% include excol.html type="middle" %}
@@ -133,7 +170,7 @@ Refer back to [Designer Module 2: Information Design, Topic: Naming and Grouping
 Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
-* define clear and consistent names for form controls and input fields across websites and applications
+* define clear and consistent names for form elements across websites and applications
 * define visual and non-visual instructions about which input fields are required
 * define clear visual and non-visual instructions about changes in context before the component that originates such changes
 * define overall visual and non-visual instructions about existing time limits in a form and about how to adjust them, extend them, and turn them off
@@ -145,7 +182,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
-* Show examples of different form controls and input fields , for example buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
+* Show examples of different form elements, for example buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Show examples of required and non-required form fields. Explain that instructions about which of the fields are required should be provided using several methods, including visual and non-visual instructions.
 * Present examples of time limits, such as those warning about session expirations. Explain that visual and non-visual instructions need to be provided so that users are aware of the time limits, and methods need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
@@ -173,7 +210,7 @@ Show examples of common input errors and possible ways to correct them. Explain 
 Students should be able to:
 
 * define the placement and appearance of error messages
-* define error messages in the page title or before the form control that:
+* define error messages in the page title or before the form that:
   * identify the fields in error
   * describe the cause of the error
   * provide suggestions to correct the error where possible
