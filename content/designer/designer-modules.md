@@ -93,6 +93,7 @@ The designer modules are designed for students who have achieved the learning ou
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
 -   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
+    -   [Topic: Form Elements](/curricula/designer-modules/forms-design/#topic-form-elements]
     -   [Topic: Labels and Instructions](/curricula/designer-modules/forms-design/#topic-labels-and-instructions)
     -   [Topic: Error Prevention](/curricula/designer-modules/forms-design/#topic-error-revention)
     -   [Topic: Notifications](/curricula/designer-modules/forms-design/#topic-notifications)
