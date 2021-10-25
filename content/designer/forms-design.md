@@ -184,7 +184,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of placement and appearance of error messages. Explain that some users rely on consistent placement and appearance of these messages to identify the errors.
 * Show examples of overall information about submission errors. Explain that this information makes users aware that their submission contains errors and help them search for specific error messages in the rest of the content.
-* Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submision where possible, so that users can understand what needs to be corrected.
+* Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission where possible, so that users can understand what needs to be corrected.
 * Show examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
 
 #### Ideas to Assess Knowledge for Topic
