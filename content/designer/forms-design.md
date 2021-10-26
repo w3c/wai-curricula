@@ -36,7 +36,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
-* define consistent use, placement, and appearance of form elements according to overall usability best practices
+* define consistent use, placement, and appearance of form elements
 * define interactions with form elements, including through mouse, keyboard, touch, and voice
 * define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form fields
 * define clear and descriptive visual and non-visual instructions about the current step and about the total number of steps in multi-step forms
@@ -138,7 +138,7 @@ Students should be able to:
   * radio buttons for single selections
   * buttons for input submission
 * identify the compatibility issues and cognitive overload from using form elements with unintended purposes
-* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to include accessibility features at a later phase
+* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible at a later phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose 
 
 ### Teaching Ideas for Topic
