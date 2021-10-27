@@ -126,17 +126,13 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show examples of different form elements and their intended purpose according to overall usability best practices, including edit boxes, check boxes, radio buttons. Explain uses of standard and non-standard components and how they impact accessibility.
+Show examples of different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard components and how use of non-standard elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* identify different uses and intended purposes of form elements, including:
-  * edit boxes for text insertion
-  * check boxes for multiple selections
-  * radio buttons for single selections
-  * buttons for input submission
+* identify different uses and intended purposes of form elements
 * identify the compatibility issues and cognitive overload from using form elements with unintended purposes
 * evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible at a later phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose 
@@ -145,15 +141,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes.
 
-* Explain the intended purpose of form elements according to overall usability best practices. For example, edit boxes for text insertion, check boxes for multiple selections, radio buttons for single selections, and buttons for input submissions. Emphasize that using a form element with an unintended purpose can cause cognitive overload and compatibility issues with assistive technologies and adaptive strategies.
-* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need to tweak them for accessibility at a later phase. However, use of non-standard elements generally requires further coding to ensure these elements are usable with the keyboard and accessible to assistive technologies.
+* Show examples of different form elements and reflect on their intended purpose. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that using a form element with an unintended purpose can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
+* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires further coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Short Answer Questions &mdash; Ask students about different form elements and their intended purpose according to overall usability best practices. Assess how students relate form elements to their intended purpose according to overall usability best practices.
-* Practical &mdash; Ask students to design a form with input requirements including text insertion, multiple selections, single selections, and input submission. Ask students to use the appropriate element for each of these input requirements.
+* Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to convey these purposes using standard elements when possible, and to elaborate on what are the accessibility implications of using non-standard elements. Assess how students understand the accessibility implications of using non-standard elements.
+* Practical &mdash; Ask students to select the appropriate form elements based on a given set of input requirements. Ask students to use standard elements where possible for each of these input requirements and to annotate keyboard interaction and expected behavior with assistive technologies when using non-standard elements. Assess how students annotate keyboard interactions and expected behavior with assistive technologies when using non-standard elements.
  
 {% include excol.html type="end" %}
 
