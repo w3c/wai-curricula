@@ -134,7 +134,7 @@ Students should be able to:
 
 * identify different uses and intended purposes of form elements
 * identify the compatibility issues and cognitive overload from using form elements with unintended purposes
-* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible at a later phase
+* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible in the implementation phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose 
 
 ### Teaching Ideas for Topic
