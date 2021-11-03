@@ -55,7 +55,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-* [Developer Modules](/curricula/curriculum-for-developers)
+* [Developer Modules](/curricula/developer-modules)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 * Basic knowledge of [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
 
