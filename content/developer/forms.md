@@ -55,7 +55,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-* [Developer Modules](/curricula/curriculum-for-developers)
+* [Developer Modules](/curricula/developer-modules)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 * Basic knowledge of [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
 
@@ -91,7 +91,7 @@ Skills required for this module:
   * [HTML date, time, and input formats {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#input-author-notes)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * [Page Structure](/curricula/developer-modules/page-structure/)
+  * [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}
 
@@ -105,7 +105,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
+Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Developer Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
 
 #### Learning Outcomes for Topic
 

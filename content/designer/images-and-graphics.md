@@ -205,7 +205,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-use-of-color). Explain that they need to have a color contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required color contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Designer Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-use-of-color). Explain that they need to have a color contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required color contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Explain that complex images also need to have text descriptions that allow people to understand and interact with such images without having to look at them. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
