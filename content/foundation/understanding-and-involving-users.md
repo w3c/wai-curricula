@@ -104,7 +104,7 @@ Optional ideas to support assessment.
 
 {% include excol.html type="middle" %}
 
-Refer back to Module 4: Principles. Standards, and Checks [Topic: W3C Accessibility Standards](/curricula/foundation-modules/principles-standards-and-checks/#topic-w3c-accessibility-standards). Present requirements that relate to people with disabilities, such as those included in the W3C accessibility standards. Invite students to explore policies that may apply in their region (if any). 
+Refer back to [Foundation Module 4: Principles. Standards, and Checks Topic: W3C Accessibility Standards](/curricula/foundation-modules/principles-standards-and-checks/#topic-w3c-accessibility-standards). Present requirements that relate to people with disabilities, such as those included in the W3C accessibility standards. Invite students to explore policies that may apply in their region (if any). 
 
 #### Learning Outcomes for Topic
 
