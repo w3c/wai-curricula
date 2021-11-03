@@ -117,7 +117,7 @@ Students should be able to:
   * landmarks with their corresponding region type
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
-* create graphical representations that accompany the text, to make the information easier to understand; for example, a diagram representation of the process described in the text 
+* define the presentation of diagrams and illustrations that make the information easier to understand; for example, a diagram representation of the process described in the text 
 * define methods to identify specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * define methods to identify the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for:
@@ -130,7 +130,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings with their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
-* Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
+* Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. Explain that defining the presentation of such diagrams and illustrations is a responsibility of the designer, whereas providing the diagrams and illustrations is a responsibility of the content author. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the methods to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
 * Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the methods to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
 
@@ -139,7 +139,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an eBook and ask them to define how it should be split into smaller and more manageable pieces so that it can be easier to navigate and understand. Assess how students use pages, landmarks, and headings with their corresponding rank levels to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text and ask them to complement it with diagrams and illustrations. Assess how students provide methods to complement processes and instructions presented in text.
+* Practical &mdash; Give students a complex piece of text and ask them to define the presentations of diagrams and illustrations that complement the text. Assess how students define the presentations of diagrams and illustrations to complement processes and instructions presented in text.
 * Practical &mdash; Give students unusual words and abbreviations and ask them to define methods to provide the explanation of such words or the expansion of the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
