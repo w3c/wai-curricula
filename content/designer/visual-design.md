@@ -89,6 +89,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
+  * [WCAG Success Criterion 2.5.5 Target Size](https://www.w3.org/WAI/WCAG21/quickref/#target-size)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
   * Visual Design
@@ -190,9 +191,9 @@ Explain how people with disabilities orient on web pages and applications using 
 Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
-* define page regions by using appropriate visual and non-visual cues, such as headings
+* define page regions by using headings, spacing, and grouping
 * design layouts that enable to present visual and non-visual cues in different screen sizes, screen configurations, and style sheets
-* use text cues to supplement information provided through vision only, for example using text and icons to convey when a form field is required
+* define methods to help users perceive and understand orientation cues, for example using text, color, and icons to convey the status of tasks in a project
 
 #### Teaching Ideas for Topic
 
