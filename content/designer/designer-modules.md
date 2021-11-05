@@ -47,8 +47,6 @@ The modules primarily address the following roles:
 * User Experience (UX) Designer
 * Interaction Designer
 
-These modules have been organized to facilitate teaching designers and developers together. If you are teaching in other environments, feel free to change the structure so that it fits your audience needs.
-
 ### Foundation Prerequisites
 
 The designer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
