@@ -134,9 +134,9 @@ Show examples of different form elements and their intended purpose, including e
 Students should be able to:
 
 * identify different uses and intended purposes of form elements
-* identify the compatibility issues and cognitive overload from using form elements with unintended purposes
+* identify how using form elements with unintended purposes can cause compatibility issues and cognitive overload
 * evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible in the implementation phase
-* identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose 
+* identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose as well as their current state and value
 
 ### Teaching Ideas for Topic
 
@@ -149,7 +149,7 @@ Optional ideas to teach the learning outcomes.
 
 Optional ideas to support assessment:
 
-* Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to convey these purposes using standard elements when possible, and to elaborate on what are the accessibility implications of using non-standard elements. Assess how students understand the accessibility implications of using non-standard elements.
+* Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to convey these purposes using standard elements when possible, and to elaborate on what are the accessibility implications of using non-standard elements. Assess how students understand and communicate the accessibility implications of using non-standard elements.
 * Practical &mdash; Ask students to select the appropriate form elements based on a given set of input requirements. Ask students to use standard elements where possible for each of these input requirements and to annotate keyboard interaction and expected behavior with assistive technologies when using non-standard elements. Assess how students annotate keyboard interactions and expected behavior with assistive technologies when using non-standard elements.
  
 {% include excol.html type="end" %}
@@ -196,7 +196,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Error Prevention
+### Topic: Errors
 
 {% include excol.html type="middle" %}
 
