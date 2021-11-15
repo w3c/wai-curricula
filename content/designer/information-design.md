@@ -125,7 +125,7 @@ Students should be able to:
   * content authors to provide clear language and easy-to-read texts whenever possible
 
 #### Teaching Ideas for Topic
- 
+
 Optional ideas to teach the learning outcomes:
 
 * Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
@@ -174,7 +174,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students group related information in a form that asks for information to open a bank account. Assess how students build groups of related information, such as those collecting personal information, payment methods, and consent to legal conditions, and how students provide ways for users to identify each of the groups.
+* Practical &mdash; Students group related information in a form that collects personal information, payment methods, and consent to legal conditions. Assess how students build groups of related information, and how students provide ways for users to identify each of the groups.
 * Practical &mdash; Give students a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group  long sets of data into smaller subsets.
 
 {% include excol.html type="end" %}
@@ -209,7 +209,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
 * Refer back to [Designer Module 1: Visual Design, Topic: Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
-* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relationship is a responsibility shared with the developer.
+* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells needs to be perceived both visually and programmatically. Explain that providing the styles is a designers' responsibility, whereas establishing the programmatic relation is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -228,7 +228,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the different approaches they can use to communicate the structure in web pages and documents. Assess how students recognize structures such as pages, headings, and landmarks.
-* Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide methods for people to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how they group related information together.
+* Portfolio &mdash; Students organize different pieces of information on a website, including text, forms, and images. Assess how students provide methods for users to identify different pieces of information, how students split large amounts of information into smaller and more manageable pieces, and how students group related information together.
 
 ## Teaching Resources
 

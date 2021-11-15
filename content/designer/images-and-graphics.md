@@ -152,7 +152,7 @@ Students should be able to:
   * text alternatives that describe the information conveyed by images
 * apply the appropriate color contrast to images that are necessary to understand the content
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
-* define alternatives to CAPTCHA and biometrics, for example by providing visual, auditory, and logical CAPTCHA
+* define alternatives to biometrics and CAPTCHA, for example by providing visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
 * evaluate the issues associated to accessing information contained in informative images and select other ways to convey the information where possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
@@ -170,7 +170,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment.
 
 * Practical &mdash; Give students an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
-* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide authentication alternatives for other sensory characteristics apart from vision. Assess how students understand the need for providing human verification systems that rely on different sensory characteristics in addition to vision.
+* Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide various authentication alternatives for biometrics and CAPTCHA. Assess how students understand the need for providing various authentication alternatives for biometrics and CAPTCHA.
 
 {% include excol.html type="end" %}
 

@@ -93,5 +93,5 @@ The designer modules are designed for students who have achieved the learning ou
 -   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
     -   [Topic: Form Elements](/curricula/designer-modules/forms-design/#topic-form-elements)
     -   [Topic: Labels and Instructions](/curricula/designer-modules/forms-design/#topic-labels-and-instructions)
-    -   [Topic: Error Prevention](/curricula/designer-modules/forms-design/#topic-error-revention)
+    -   [Topic: Errors](/curricula/designer-modules/forms-design/#topic-errors)
     -   [Topic: Notifications](/curricula/designer-modules/forms-design/#topic-notifications)

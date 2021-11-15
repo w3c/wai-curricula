@@ -44,7 +44,7 @@ Students should be able to:
   * indication of state changes for menu items
 * define blocks of repeated content
 * define site maps and descriptive page titles to help users locate specific web pages within websites
-* evaluate the use of navigational components, including menus, tables of contents, and site maps, and select navigational components that avoid distraction and unnecessary noise
+* evaluate the use of navigational components, including menus, tables of contents, and site maps, and select navigational components that avoid potential distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational components
@@ -130,7 +130,7 @@ Students should be able to:
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited
   * support for different interaction methods, including keyboard, mouse, touch, and voice
   * support for different text and screen sizes
- 
+
 #### Teaching Ideas
 
 Optional ideas to teach the learning outcomes:
@@ -157,7 +157,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
+Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding potential distractions and unnecessary noise.
 
 #### Learning Outcomes for Module
 
@@ -179,7 +179,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a whole website. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
-* Show examples of site maps and explain that they serve the purpose of providing an overview of the whole site. Explain that some users rely on them to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
+* Show examples of site maps and explain that they provide an overview of the whole site. Explain that some users rely on site maps to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
 * Invite students to research different ways to present information in page titles. Reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page. Some browsers and assistive technologies may truncate the titles or not show them at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 * Show examples of visual and non-visual indications in menus about the current page with respect to the website.
@@ -188,7 +188,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to teach the learning outcomes:
 
-* Practical &mdash; Give students  a website and ask them to provide multiple ways to navigate across the website. Assess how students identify the different user experiences for navigation, including search functionalities, breadcrumb trails, and site maps.
+* Practical &mdash; Give students  a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
 * Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
@@ -239,7 +239,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand the different types of navigational methods for websites, documents, and applications.
+* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate them different types of navigational methods for websites, documents, and applications.
 * Portfolio &mdash; Students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
