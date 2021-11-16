@@ -136,8 +136,8 @@ Students should be able to:
   * specific keyboard shortcuts to reveal, review, and dismiss notifications
   * specific keyboard shortcuts to support efficiency
   * first letter navigation to jump to specific pieces of data in lists and grids
-* explain how keyboard support benefits other ways of interaction, including voice interaction and interaction using assistive technologies
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
+* explain how keyboard support benefits other ways of interaction, including voice interaction and interaction using assistive technologies
 * evaluate the use of custom keyboard interactions and select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
 * cooperate with developers to provide methods to remap or disable conflicting shortcuts
 * define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
