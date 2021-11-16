@@ -38,7 +38,7 @@ Students should be able to:
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * define consistent use, placement, and appearance of form elements
 * define interactions with form elements, including through mouse, keyboard, touch, and voice
-* define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elementss
+* define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
 * define clear and descriptive visual and non-visual instructions about the current step and about the total number of steps in multi-step forms
 * define clear and descriptive error messages that:
   * identify the field in error 
@@ -211,6 +211,7 @@ Students should be able to:
   * identify the fields in error
   * describe the cause of the error
   * provide suggestions to correct the error where possible
+* define methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
 
 #### Teaching Ideas for Topic
 
@@ -220,6 +221,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of overall information about submission errors. Explain that this information makes users aware that their submission contains errors and help them search for specific error messages in the rest of the content.
 * Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission where possible, so that users can understand what needs to be corrected.
 * Show examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
+* Show examples of critical submissions, for example buying an airline ticket and submitting legal information. Discuss methods to reverse, check, and confirm the information included in such submissions.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -228,6 +230,7 @@ Optional ideas to assess knowledge:
 * Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
 * Practical &mdash; Give students a form field submission containing errors and ask them to provide messages about each of the wrongly submitted field. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for correction when possible.
 * Practical &mdash; Give students a form field submission containing errors and ask them to provide suggestion for correction when possible. Assess how students provide suggestion for correction.
+* Practical &mdash; Give students a form submission containing legal information and ask them to provide methods to reverse, check, and confirm that submission. Assess how students understand the need for methods to reverse, check, and confirm critical submissions.
 
 {% include excol.html type="end" %}
 

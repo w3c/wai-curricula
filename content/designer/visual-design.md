@@ -209,7 +209,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Ask students to define the visual presentation of focus indicators on a web page or application. Assess how students understand the importance of focus indicators for users to know where they are on a web page or application.
 * Practical &mdash; Give students a web page and ask them to define its regions. Assess how students define web page regions using a variety of methods, including headings, spacing, and grouping.
-* Short Answer Questions &mdash; Give students examples of orientation cues conveyed visually and ask them to provide text to help understand the information. Assess how students provide the necessary textual information to supplement orientation cues conveyed visually.
+* Short Answer Questions &mdash; Give students examples of orientation cues conveyed visually and ask them to provide other visual and non-visual cues to help understand the information. Assess how students provide several visual and non-visual cues to help users understand the information.
 
 {% include excol.html type="end" %}
 
