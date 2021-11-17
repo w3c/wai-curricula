@@ -157,7 +157,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding potential distractions and unnecessary noise.
+Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding potential distractions and unnecessary noise.
 
 #### Learning Outcomes for Module
 
@@ -200,7 +200,7 @@ Optional ideas to teach the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Build on [Foundation Module 6: Understanding and Involving Users](/curricula/foundation-modules/understanding-and-involving-users/). Discuss strategies that people use to navigate to different parts of a web page, including tables of contents and methods to bypass blocks of repeated content. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
+Discuss strategies that people use to navigate to different parts of a web page, including tables of contents and methods to bypass blocks of repeated content. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
 
 ### Learning Outcomes for Topic
 
