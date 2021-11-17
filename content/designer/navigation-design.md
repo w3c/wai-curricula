@@ -138,7 +138,7 @@ Optional ideas to teach the learning outcomes:
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
 * Demonstrate interactions with navigation menu using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 * Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
-* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items  visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -188,7 +188,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to teach the learning outcomes:
 
-* Practical &mdash; Give students  a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
+* Practical &mdash; Give students a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
 * Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
@@ -228,7 +228,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they work with developers to provide a method to bypass such blocks.
+* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
 * Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide table of contents for documents.
 
 {% include excol.html type="end" %}
@@ -239,7 +239,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate them different types of navigational methods for websites, documents, and applications.
+* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate theose different types of navigational methods for websites, documents, and applications.
 * Portfolio &mdash; Students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources

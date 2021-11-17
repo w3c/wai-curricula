@@ -42,7 +42,7 @@ Students should be able to:
 * define clear and descriptive visual and non-visual instructions about the current step and about the total number of steps in multi-step forms
 * define clear and descriptive error messages that:
   * identify the field in error 
-  * provide suggestions for correction where possible
+  * provide suggestions for correction when possible
 * define meaningful and descriptive visual and non-visual notifications, including for:
   * imminent time limits
   * success messages
@@ -150,7 +150,7 @@ Optional ideas to teach the learning outcomes.
 Optional ideas to support assessment:
 
 * Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to convey these purposes using standard elements when possible, and to elaborate on what are the accessibility implications of using non-standard elements. Assess how students understand and communicate the accessibility implications of using non-standard elements.
-* Practical &mdash; Ask students to select the appropriate form elements based on a given set of input requirements. Ask students to use standard elements where possible for each of these input requirements and to annotate keyboard interaction and expected behavior with assistive technologies when using non-standard elements. Assess how students annotate keyboard interactions and expected behavior with assistive technologies when using non-standard elements.
+* Practical &mdash; Ask students to select the appropriate form elements based on a given set of input requirements. Ask students to use standard elements when possible for each of these input requirements and to annotate keyboard interaction and expected behavior with assistive technologies when using non-standard elements. Assess how students annotate keyboard interactions and expected behavior with assistive technologies when using non-standard elements.
  
 {% include excol.html type="end" %}
 
@@ -189,7 +189,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
-* Practical &mdash; Give students a form with required and non-required fields and ask them to provide visual and non-visual instructions to communicate the required   fields. Assess how students provide clear and understandable instructions for each required field.
+* Practical &mdash; Give students a form with required and non-required fields and ask them to provide visual and non-visual instructions to communicate the required  fields. Assess how students provide clear and understandable instructions for each required field.
 * Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
 
 {% include excol.html type="end" %}
@@ -200,7 +200,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of common input errors and possible ways to correct them. Explain that users rely on clear indications of each of the fields in error and on suggestions for correction where possible.
+Show examples of common input errors and suggestions for correcting them. Explain that users rely on clear indications of each of the fields in error and on suggestions for correction when possible.
 
 #### Learning Outcomes for Topic
 
@@ -210,7 +210,7 @@ Students should be able to:
 * define error messages in the page title or before the form that:
   * identify the fields in error
   * describe the cause of the error
-  * provide suggestions to correct the error where possible
+  * provide suggestions to correct the error when possible
 * define methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
 
 #### Teaching Ideas for Topic
@@ -219,7 +219,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of placement and appearance of error messages. Explain that some users rely on consistent placement and appearance of these messages to identify the errors.
 * Show examples of overall information about submission errors. Explain that this information makes users aware that their submission contains errors and help them search for specific error messages in the rest of the content.
-* Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission where possible, so that users can understand what needs to be corrected.
+* Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission when possible, so that users can understand what needs to be corrected.
 * Show examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
 * Show examples of critical submissions, for example buying an airline ticket and submitting legal data. Discuss methods to reverse, check, and confirm the information included in such submissions.
 
@@ -257,7 +257,7 @@ Students should be able to:
 * identify related requirements for developers to implement notifications
 
 #### Teaching Ideas for Topic
-  
+
 Optional ideas to teach the learning outcomes:
 
 * Show examples of placement and appearance of notifications. Explain that these notifications need to be distinguishable both visually and non-visually. Explain that defining the notifications placement and appearance is responsibility of the designer, whereas implementing such notifications is a developer's responsibility.

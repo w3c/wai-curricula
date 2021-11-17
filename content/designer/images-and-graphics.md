@@ -107,7 +107,7 @@ Functional images convey functionality of a component. For example, search, prin
 
 Students should be able to:
 
-* define text alternatives for functional images using the following methodss:
+* define text alternatives for functional images using the following methods:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
@@ -146,7 +146,7 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* define text alternatives that present equivalent information as that contained in informative images using the following methodss:
+* define text alternatives that present equivalent information as that contained in informative images using the following methods:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
@@ -154,7 +154,7 @@ Students should be able to:
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * define alternatives to biometrics and CAPTCHA, for example by providing visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
-* evaluate the issues associated to accessing information contained in informative images and select other ways to convey the information where possible, including plain text
+* evaluate the issues associated to accessing information contained in informative images and select other ways to convey the information when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -240,7 +240,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
-* Invite students to research how uveruse of decorative images can impact some users. For example, too many decorative images can create distractions and cognitive overload, as well as slow down loading times.
+* Invite students to research how overuse of decorative images can impact some users. For example, too many decorative images can create distractions and cognitive overload, as well as slow down loading times.
 
 #### Ideas to Assess Knowledge for Topic
 

@@ -128,11 +128,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics  and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
+* Show examples of pages and explain how they are divided into several regions. Explain that, in addition to visually distinguishing these regions, semantics and text need to be added so that all users can understand the relationship between them. Explain that defining and planning the different regions is a designers' responsibility, whereas adding the semantics is a responsibility shared with the developer.
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings with their corresponding rank levels to indicate the different chapters, sections, and subsections of content.
-* Show examples of diagrams and illustrations that can complement the information presented in text.  For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. Explain that defining the presentation of such diagrams and illustrations is a responsibility of the designer, whereas providing the diagrams and illustrations is a responsibility of the content author. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
-* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning.  Explain that defining the methods to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
-* Show examples of abbreviations,  such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the methods to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
+* Show examples of diagrams and illustrations that can complement the information presented in text. For example, visual instructions that supplement the textual information of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. Explain that defining the presentation of such diagrams and illustrations is a responsibility of the designer, whereas providing the diagrams and illustrations is a responsibility of the content author. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
+* Show examples of words that may be difficult to understand or that are used in a restricted way. Explain that people who are not familiar with such words need definitions to understand their meaning. Explain that defining the methods to provide such definitions is a designers' responsibility, whereas providing the definitions is a responsibility shared with the content author.
+* Show examples of abbreviations, such as short forms of words and acronyms. Explain that people who are not familiar with the abbreviations need an explanation or an expansion of that abbreviation to understand their meaning. Explain that defining the methods to provide such explanations or expansions is a designers' responsibility, whereas providing the explanations or expansions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -175,7 +175,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Students group related information in a form that collects personal information, payment methods, and consent to legal conditions. Assess how students build groups of related information, and how students provide ways for users to identify each of the groups.
-* Practical &mdash; Give students a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group  long sets of data into smaller subsets.
+* Practical &mdash; Give students a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group long sets of data into smaller subsets.
 
 {% include excol.html type="end" %}
 
@@ -215,7 +215,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students  a table and ask them to define the table's header cells and data cells. Assess how students understand the difference between header cells and data cells.
+* Practical &mdash; Give students a table and ask them to define the table's header cells and data cells. Assess how students understand the difference between header cells and data cells.
 * Practical &mdash; Give students a set of tables and ask them to provide clear styles to distinguish data cells from header cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
 * Practical &mdash; Give students a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
 

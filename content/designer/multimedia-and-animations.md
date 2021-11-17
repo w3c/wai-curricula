@@ -126,7 +126,7 @@ Students should be able to
 * design user experiences of alternatives for multimedia content, including:
   * placement of the alternatives
   * methods to turn on and off the alternatives
-* evaluate the need for designing custom media players and select existing media players with support for accessibility where possible
+* evaluate the need for designing custom media players and select existing media players with support for accessibility when possible
 * describe characteristics of accessible media player controls, including:
   * keyboard support
   * visible keyboard focus indicators
@@ -158,7 +158,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show moving content, such as carousels and animations. Present methods to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios where possible.
+Show moving content, such as carousels and animations. Present methods to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios when possible.
 
 #### Learning Outcomes for Topic
 
