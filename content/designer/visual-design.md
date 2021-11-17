@@ -219,9 +219,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content. Demonstrate how content sequence, focus indicators, and target sizes adapt to different screen sizes, screen configurations, and style sheets. Emphasize that designers need to plan for these features early on in the visual design phase.
+Explain how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets to identify, distinguish, and process content. Explain that, in addition to using techniques such as responsive design, other elements, including content sequence, focus indicators, and target sizes need to adapt to different screen sizes, screen configurations, and style sheets for an accessible user experience. Emphasize that designers need to plan for these accessible user experiences early on in the visual design phase.
 
-Demonstrate how too many design elements can cause overload and distraction for some users. Demonstrate approaches to balance the use of too many design elements.
+Demonstrate approaches to balance the use of too many design elements to avoid potential overload and distraction for some users.
 
 #### Learning Outcomes for Topic
 
@@ -230,7 +230,7 @@ Students should be able to:
 * design layouts to support text resizing without loss of content and functionality
 * design layouts to support text zooming and enlarging in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts with target sizes that adapt to different screen sizes,  screen configurations, and style sheets
+* design layouts with target sizes that adapt to different screen sizes,  screen configurations, and style sheets, for example when creating responsive designs
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
 * define meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 * evaluate the use of too many design elements, in particular interactive widgets, images, and moving content) on a page, and select elements that avoid potential distraction and cognitive overload
