@@ -38,13 +38,14 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
-* define different interactions for navigational components, including by keyboard, mouse, touch, and voice
+* describe different interactions for navigational components, including by keyboard, mouse, touch, and voice
 * define clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
 * define blocks of repeated content
 * define site maps and descriptive page titles to help users locate specific web pages within websites
-* evaluate the use of navigational components, including menus, tables of contents, and site maps, and select navigational components that avoid potential distraction and unnecessary noise
+* evaluate the use of navigational components, including menus, tables of contents, and site maps
+* select navigational components that minimize distraction and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and voice
   * clear and descriptive names for navigational components
@@ -110,7 +111,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show different types of navigation menus, for example static, fly-out, and mega menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
+Explore different types of navigation menus, for example static, fly-out, and mega menus. Explain the different scenarios where each of them can be used. For references on the different types of menus and their uses, see the WAI tutorials on [Menus](https://www.w3.org/WAI/tutorials/menus/).
 
 Explain styling conventions for menus, such as expected location, appropriate size, and ability for menus and menu items to resize depending on different user configurations. For references on how to apply accessible menu styles, see the WAI tutorial on [Menu Styling](https://www.w3.org/WAI/tutorials/menus/styling/).
 
@@ -124,7 +125,7 @@ Students should be able to:
   * visual and non-visual indications about the current page in the navigation menu 
 * define interactions inside navigation menus, including mouse, keyboard, touch, and voice
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
-* define distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
+* apply distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
   * non-visual identification and naming of menus
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited
@@ -136,18 +137,18 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
-* Demonstrate interactions with navigation menu using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example wrap so that it is perceived in its entirety. Explain that different languages may have different word sizes, so designers need to consider provisions for different word lengths.
+* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define mouse, keyboard, touch, and voice interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and voice. Assess how students understand the need for different interaction patterns based on the input method in use.
+* Practical &mdash; Have students define mouse, keyboard, touch, and voice interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and voice. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual methods to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
 * Practical &mdash; Give students a navigation menu and ask them to provide visual and non-visual indications about the currently selected item. Assess how students provide appropriate indications about the page location with respect to the entire website.
-* Practical &mdash; Give students navigation menus containing long strings of text and ask them to ensure the text is shown irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
+* Practical &mdash; Give students navigation menus containing long strings of text. Ask them to ensure the text is displayed irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
 
 {% include excol.html type="end" %}
 
@@ -163,7 +164,7 @@ Discuss strategies that people use to navigate to different pages of the same si
 
 Students should be able to:
 
-* define navigational components to help navigate to different pages of the same site, including:
+* select navigational components to help navigate to different pages of the same site, including:
   * navigational menus to provide the overall site structure
   * breadcrumb trails to communicate the current location within the site
   * site maps to provide an overview of the entire website
@@ -171,15 +172,16 @@ Students should be able to:
 * design methods for users to locate specific web pages within websites, for example:
   * descriptive page titles
   * text and visual indications about the current page in the navigation menu 
-* evaluate the amount of site navigational components in use, and select components that help users navigate and orient
+* evaluate the amount of site navigational components in use
+* select components that help users navigate and orient
 * identify related requirements for developers to apply semantics to page titles, headings, as well as visual and non-visual indications in navigation menus
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a whole website. Emphasize that they are useful especially in cases where the navigation contains a lot of nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
-* Show examples of site maps and explain that they provide an overview of the whole site. Explain that some users rely on site maps to better understand the structure of the site and to find its way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
+* Show examples of breadcrumb trails. Explain that they provide information about the user's location in the context of a whole website. Emphasize that they are useful especially in cases where the navigation contains several nested levels. For reference on how to provide breadcrumb trails, see technique [G65: Providing a breadcrumb trail](https://www.w3.org/WAI/WCAG21/Techniques/general/G65).
+* Show examples of site maps and explain that they provide an overview of the whole site. Explain that some users rely on site maps to better understand the structure of the site and to find their way more easily through it. For references on how to provide a site map, see [G63: Providing a site map](https://www.w3.org/WAI/WCAG21/Techniques/general/G63.html).
 * Show examples of search functionalities. Explain that they help users find content by supporting navigation to different parts of the site. Emphasize that some users prefer this way of navigating, especially when they are already familiar with the site and know what they are looking for. For references on how to provide a search functionality, see technique [G161: Providing a search function to help users find content](https://www.w3.org/WAI/WCAG21/Techniques/general/G161).
 * Invite students to research different ways to present information in page titles. Reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page. Some browsers and assistive technologies may truncate the titles or not show them at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 * Show examples of visual and non-visual indications in menus about the current page with respect to the website.
@@ -190,7 +192,7 @@ Optional ideas to teach the learning outcomes:
 
 * Practical &mdash; Give students a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
-* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components should stay and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
+* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
 
@@ -206,13 +208,14 @@ Discuss strategies that people use to navigate to different parts of a web page,
 
 Students should be able to:
 
-* define methods to identify blocks of repeated content, such as navigation bars and header contents
-* define methods to skip blocks of repeated content using the following approaches:
+* select methods to identify blocks of repeated content, such as navigation bars and header contents
+* select methods to skip blocks of repeated content using the following approaches:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
-* evaluate the amount of page navigational components in use, and select components that help users navigate and orient
+* evaluate the amount of page navigational components in use
+* select components that help users navigate and orient
 
 #### Teaching Ideas for Topic
 
@@ -228,7 +231,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
+* Practical &mdash; Have students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
 * Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide table of contents for documents.
 
 {% include excol.html type="end" %}
@@ -239,8 +242,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate theose different types of navigational methods for websites, documents, and applications.
-* Portfolio &mdash; Students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
+* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate those different types of navigational methods for websites, documents, and applications.
+* Portfolio &mdash; Have students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
 

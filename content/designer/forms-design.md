@@ -135,7 +135,8 @@ Students should be able to:
 
 * identify different uses and intended purposes of form elements
 * identify how using form elements with unintended purposes can cause compatibility issues and cognitive overload
-* evaluate the use of standard versus non-standard form elements and select those which minimize extra work to make them accessible in the implementation phase
+* evaluate the use of standard versus non-standard form elements
+* select form elements that minimize extra work to make them accessible in the implementation phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose as well as their current state and value
 
 ### Teaching Ideas for Topic
@@ -281,7 +282,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students when it is possible to provide suggestions for correction and when it is not. Assess how students identify scenarios where it is possible to provide suggestions for correction and scenarios where it is not.
-* Portfolio &mdash; Students design a form. Assess how students consider placement, structure, labels, instructions, and notifications when designing accessible forms.
+* Portfolio &mdash; Have students design a form. Assess how students consider placement, structure, labels, instructions, and notifications when designing accessible forms.
 
 ## Teaching Resources
 

@@ -126,7 +126,8 @@ Students should be able to
 * design user experiences of alternatives for multimedia content, including:
   * placement of the alternatives
   * methods to turn on and off the alternatives
-* evaluate the need for designing custom media players and select existing media players with support for accessibility when possible
+* evaluate the need for designing custom media players
+* select existing media players with support for accessibility when possible
 * describe characteristics of accessible media player controls, including:
   * keyboard support
   * visible keyboard focus indicators
@@ -203,7 +204,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Students include accessible video and audio content on a website. Assess how students understand the accessibility requirements of video and audio content, including description, captions, transcripts, and sign language.
+* Portfolio &mdash; Have students include accessible video and audio content on a website. Assess how students understand the accessibility requirements of video and audio content, including description, captions, transcripts, and sign language.
 
 ## Teaching Resources
 

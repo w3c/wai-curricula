@@ -42,7 +42,8 @@ Students should be able to:
 * define consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* evaluate the potential distraction and cognitive overload from using too many images and select alternative ways to provide the information, including tables and plain text
+* evaluate the potential distraction and cognitive overload from using too many images
+* select alternative ways to provide the information contained in images, including tables and plain text
 * identify related requirements for:
   * developers to code images and text alternatives appropriately
   * content authors to provide appropriate descriptions for images, including charts, diagrams, and other complex graphics
@@ -154,7 +155,8 @@ Students should be able to:
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * define alternatives to biometrics and CAPTCHA, for example by providing visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
-* evaluate the issues associated to accessing information contained in informative images and select other ways to convey the information when possible, including plain text
+* evaluate the issues associated to accessing information contained in informative images
+* select other ways to convey the information contained in images when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -189,7 +191,8 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * apply appropriate color contrast for complex images
-* evaluate the use of complex images and select other ways to present the information, for example using tables, simpler images, and plain text
+* evaluate the use of complex images
+* select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
 * define the placement and spacing for alternatives to complex images
 * define clear and consistent identification methods for complex image descriptions, including appropriate headings and expandable and collapsible components
@@ -212,8 +215,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Students add complex images to a website, such as charts or diagrams, and ensure they have the required color contrast. Assess how students understand the contrast requirements for complex images.
-* Practical &mdash; Students cooperate with developers and content authors to implement a map in a way that everybody can understand its meaning and interact with it. Assess how students identify the need for text alternatives for complex images and cooperate with other team members to ensure such alternatives exist.
+* Practical &mdash; Have students add complex images to a website, such as charts or diagrams, and ensure they have the required color contrast. Assess how students understand the contrast requirements for complex images.
+* Practical &mdash; Have students cooperate with developers and content authors to implement a map in a way that everybody can understand its meaning and interact with it. Assess how students identify the need for text alternatives for complex images and cooperate with other team members to ensure such alternatives exist.
 
 {% include excol.html type="end" %}
 
@@ -258,7 +261,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students which types of images require which color contrast ratios. Assess how students understand the different types of images and their color contrast requirements.
-* Portfolio &mdash; Students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design, for example color contrast, text alternatives that belong to the design phase, and placeholders for any other text alternative that is planned for later stages of the design and development process.
+* Portfolio &mdash; Have students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design, for example color contrast, text alternatives that belong to the design phase, and placeholders for any other text alternative that is planned for later stages of the design and development process.
 
 ## Teaching Resources
 

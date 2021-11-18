@@ -37,7 +37,7 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to interact with links, buttons, controls, and complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
 * design user experiences for different input methods, including mouse, touch, keyboard, and voice
-* define interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
+* design interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
 * define methods to disable device and user motion to prevent accidental actuation
 * define alternatives for complex gestures, including swiping, pinching, and drawing shapes
@@ -137,7 +137,8 @@ Students should be able to:
   * first letter navigation to jump to specific pieces of data in lists and grids
 * identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
 * explain how keyboard support benefits other ways of interacting, including voice interaction and interaction using assistive technologies
-* evaluate the use of custom keyboard interactions and select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
+* evaluate the use of custom keyboard interactions
+* select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
 * cooperate with developers to provide methods to remap or disable conflicting shortcuts
 * define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * define consistent placement and appearance of focus indicators
@@ -161,7 +162,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about commonly used modifier keys of operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
 * Practical &mdash; Give students an interface that only works with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
-* Practical &mdash; Students cooperate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students cooperate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
+* Practical &mdash; Have students cooperate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students cooperate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
 * Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance depending on changes in context and user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement.
 
 {% include excol.html type="end" %}
@@ -212,7 +213,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Practical &mdash: Give students a web application, such as a web email client, and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
-* Portfolio &mdash; Students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and voice.
+* Portfolio &mdash; Have students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and voice.
 
 ## Teaching Resources
 
