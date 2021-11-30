@@ -39,7 +39,7 @@ Students should be able to:
 * define consistent use, placement, and appearance of form elements
 * define interactions with form elements, including through mouse, keyboard, touch, and voice
 * define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
-* define clear and descriptive visual and non-visual instructions about the current step and about the total number of steps in multi-step forms
+* define clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
 * define clear and descriptive error messages that:
   * identify the field in error 
   * provide suggestions for correction when possible
@@ -127,7 +127,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show examples of different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard components and how use of non-standard elements impacts accessibility.
+Show examples of different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
@@ -169,10 +169,10 @@ Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
 * define clear and consistent names for form elements across websites and applications
-* define visual and non-visual instructions about which input fields are required
+* define visual and non-visual instructions for required input fields
 * define clear visual and non-visual instructions about changes in context before the component that originates such changes
 * define overall visual and non-visual instructions about existing time limits in a form and about how to adjust them, extend them, and turn them off
-* define clear visual and non-visual instructions about the current step and about the total number of steps involved in a multi-step form
+* define clear visual and non-visual instructions for the current step and the total number of steps involved in a multi-step form
 * identify related requirements for developers to provide semantics for labels and instructions
 
 #### Teaching Ideas for Topic
