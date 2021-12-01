@@ -40,7 +40,7 @@ Students should be able to:
 * design user experiences for description, captions, transcripts, and sign languages, including interactions, placement, and methods to turn on and off the alternatives
 * identify accessibility considerations for media players, including:
   * support for different methods of interaction, including mouse, keyboard, touch, and voice
-  * controls that have clear and descriptive names, that are easy to find, and that are reachable by all users
+  * controls that have clear and descriptive names, that are easy to find on the page, and that are reachable by all users
 * define methods to control automatic audio and movement, including:
   * mute and control the volume of auto-playing audio
   * pause, stop, and hide moving, blinking, and auto-updating content, including carousels and animations
@@ -142,7 +142,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of captions. Explain that captions are a synchronized text version of the speech and non-speech audio information needed to understand the content. Explain that different standards and policies may refer to captions using different terms, such as subtitles. Explain that defining the methods to turn on and off the captions is a designers' responsibility, whereas providing the captions is a responsibility shared with the content author. Explain that determining where to place captions and in what color and font they are presented is a designers' responsibility, whereas providing such captions is a responsibility shared with the content author.
 * Show examples of text transcripts. Explain that transcripts are a text version of the speech and non-speech audio information needed to understand the content. Explain that defining the placement and spacing for the transcripts is a designers' responsibility, whereas providing the transcripts is a responsibility shared with the content author.
 * Show examples of sign language. Explain that sign language is essential for people who are deaf and who do not understand written language well. Explain that defining the methods to enable and disable sign language is a designers' responsibility, whereas providing the sign language interpretation is a responsibility shared with the content author.
-* Show examples of accessible and inaccessible media players. Emphasize that it is generally more reliable to use an existing media player with support for accessibility than to design one from scratch. Emphasize how accessible media players are operable by keyboard, make keyboard focus visible, have clear labels, have appropriate contrast ratios, and are easy to find. For an overview on skills needed to develop a media player, expected functionality, and existing players, see the resource Making Audio and Video Media Accessible, [Media players](/media/av/player/).
+* Show examples of accessible and inaccessible media players. Emphasize that it is generally more reliable to use an existing media player with support for accessibility than to design one from scratch. Emphasize how accessible media players are operable by keyboard, make keyboard focus visible, have clear labels, have appropriate contrast ratios, and are easy to find on the page. For an overview on skills needed to develop a media player, expected functionality, and existing players, see the resource Making Audio and Video Media Accessible, [Media players](/media/av/player/).
 
 #### Ideas to Assess Knowledge for Topic
 
