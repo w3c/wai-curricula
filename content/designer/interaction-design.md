@@ -121,7 +121,7 @@ Topics to achieve the learning outcomes:
 
 Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support benefits other ways of interacting, including voice interaction and interaction using some assistive technologies.
 
-Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the users' expectations. Designers must document these custom interactions and make them consistent throughout the interface. Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
+Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the users' expectations. Designers must document these custom interactions and make them consistent throughout the interface. Emphasize that defining the keyboard interactions is a designer's responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
@@ -154,7 +154,7 @@ Optional ideas to teach the learning outcomes:
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Invite students to research how assistive technologies and adaptive strategies rely on keyboard support to provide specific functionality, such as navigating sequentially using voice commands. Demonstrate interaction with assistive technologies in web pages and applications with and without keyboard support.
 * Refer back to [Designer Module 1: Visual Design, Topic Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues) to reflect on focus indicators. Explain that, in addition to visually distinguishable focus indicators, designers must consider programmatic keyboard focus must be considered when providing keyboard support. Emphasize that designers must cooperate with other team members, including developers and user researchers, to design user experiences that use focus placement to reflect changes of context and user interaction.
-* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using those shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
+* Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using those shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designer's responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 

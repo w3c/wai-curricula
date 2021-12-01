@@ -210,7 +210,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Designer Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-use-of-color). Explain that they must have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
-* Explain that complex images must also have text descriptions that allow people who don’t see them to understand and interact with the image content. Explain that providing these text alternatives is a designers' responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
+* Explain that complex images must also have text descriptions that allow people who don’t see them to understand and interact with the image content. Explain that providing these text alternatives is a designer's responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -243,7 +243,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designers' responsibility, whereas coding the images so that they render with the appropriate role is a developers' responsibility.
+* Show examples of images and graphics that do not convey function or information, such as ornamental icons. Explain that they serve ornamental purposes as long as people can understand and interact with the user interface with or without such icons. Explain that deciding what is the images' role is a designer's responsibility, whereas coding the images so that they render with the appropriate role is a developer's responsibility.
 * Invite students to research how overuse of decorative images can impact some users. For example, too many decorative images can create distractions and cognitive overload, as well as slow down loading times.
 
 #### Ideas to Assess Knowledge for Topic
