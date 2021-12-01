@@ -111,7 +111,7 @@ Topics to achieve the learning outcomes:
 
 Explain how sufficient contrast ratio is essential for people with disabilities to perceive, distinguish, and understand content.
 
-Describe how some people rely on color to understand and distinguish content. Explain that some people cannot perceive color well or at all. Discuss different ways to supplement information presented using color, such as using shapes and icons.
+Describe how some people rely on color to understand and distinguish content. Explain that some people perceive color in different ways, and that some may not perceive color at all. Discuss different ways to supplement information presented using color, such as using shapes and icons.
 
 #### Learning Outcomes for Topic
 
@@ -132,7 +132,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of sufficient and insufficient contrast ratio for text. Explain that contrast ratio for text (including images of text) needs to be at least 4.5:1 with respect to their background. For references on how to apply sufficient contrast ratio to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links. Explain that they should have a contrast ratio of at least 3:1. For references on how to apply sufficient contrast ratio to interactive components, see techniques [G207: Ensuring that a contrast ratio of 3:1 is provided for icons](https://www.w3.org/WAI/WCAG21/Techniques/general/G207) and [G209: Provide sufficient contrast at the boundaries between adjoining colors](https://www.w3.org/WAI/WCAG21/Techniques/general/G209).
-* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some users cannot perceive color well or at all, so they require additional methods to convey that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of interfaces where information is conveyed exclusively with differences in color, such as a form where required fields are marked in red. Explain that some people perceive color in different ways, and that some may not perceive color at all. Some people may require methods different from color to understand that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
