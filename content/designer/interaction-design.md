@@ -121,7 +121,7 @@ Topics to achieve the learning outcomes:
 
 Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support benefits other ways of interacting, including voice interaction and interaction using some assistive technologies.
 
-Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the users' expectations. Designers need to document these custom interactions and make them consistent throughout the interface. Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
+Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the users' expectations. Designers must document these custom interactions and make them consistent throughout the interface. Emphasize that defining the keyboard interactions is a designers' responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
@@ -129,16 +129,16 @@ Students should be able to:
 
 * design user experiences for keyboard navigation through and inside components of websites and applications, for example using:
   * the tab key to move through different components
-  * the enter key to enter a specific component and to select a specific item on a component
+  * the enter key to access a specific component and to select an item on a component
   * the arrow keys to move through elements inside components, including sliders, tabs, dialogs, application menus, and tree views
   * the escape key to exit components
   * specific keyboard shortcuts to reveal, review, and dismiss notifications
   * specific keyboard shortcuts to support efficiency
   * first letter navigation to jump to specific pieces of data in lists and grids
-* identify situations when it is necessary to provide additional keyboard shortcuts, for example when designing a custom functionality that is not keyboard supported by default
+* identify situations when additional keyboard shortcuts are necessary, for example when designing a custom functionality that is not keyboard supported by default
 * explain how keyboard support benefits other ways of interacting, including voice interaction and interaction using assistive technologies
 * evaluate the use of custom keyboard interactions
-* select keyboard interactions that avoid conflicts with the operating system, browser, and assistive technologies when possible
+* select keyboard interactions that do not conflict with the operating system, browser, and assistive technologies when possible
 * cooperate with developers to provide methods to remap or disable conflicting shortcuts
 * define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * define consistent placement and appearance of focus indicators
@@ -149,11 +149,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that standard interactions need to be preserved as much as possible when designing custom widgets, as users mostly expect these.
-* Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers need to cooperate with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and collaborating with developers to implement such keystrokes.
+* Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that standard interactions must be preserved as much as possible when designing custom widgets, as users mostly expect these.
+* Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers must cooperate with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and collaborating with developers to implement such keystrokes.
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Invite students to research how assistive technologies and adaptive strategies rely on keyboard support to provide specific functionality, such as navigating sequentially using voice commands. Demonstrate interaction with assistive technologies in web pages and applications with and without keyboard support.
-* Refer back to [Designer Module 1: Visual Design, Topic Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues) to reflect on focus indicators. Explain that, in addition to visually distinguishable focus indicators, programmatic keyboard focus needs to be considered when providing keyboard support. Emphasize that designers need to cooperate with other team members, including developers and user researchers, to design user experiences that consider focus placement depending on changes of context and user interaction.
+* Refer back to [Designer Module 1: Visual Design, Topic Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues) to reflect on focus indicators. Explain that, in addition to visually distinguishable focus indicators, designers must consider programmatic keyboard focus must be considered when providing keyboard support. Emphasize that designers must cooperate with other team members, including developers and user researchers, to design user experiences that use focus placement to reflect changes of context and user interaction.
 * Show examples of help functionality for custom keyboard shortcuts used in rich applications and in complex widgets. Explain that, while custom keyboard shortcuts are preferred by some users for efficiency reasons, using those shortcuts alone can distract others who may not be familiar with such keyboard shortcuts. Explain that providing these help methods is a designers' responsibility, whereas implementing them is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
@@ -161,7 +161,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about commonly used modifier keys of operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
-* Practical &mdash; Give students an interface that only works with the mouse and ask them to define keyboard interaction patterns. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
+* Practical &mdash; Give students an interface that only works with the mouse and ask them to provide keyboard interaction. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 * Practical &mdash; Have students cooperate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students cooperate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
 * Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance depending on changes in context and user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement.
 
@@ -173,7 +173,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, others may not be able to perform them at all. Present alternatives to motion-based gestures, for example providing methods to undo, abort, and reverse actions performed using complex gestures.
+Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, while others may not be able to perform them at all. Present alternatives to motion-based gestures, for example providing methods to undo, abort, and reverse actions performed using complex gestures.
 
 Discuss gestures that require dragging and drawing specific paths on a touch screen. Explain that these are difficult (and sometimes impossible) to perform for some people.
 
@@ -191,9 +191,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of interactions based on swipe and pinch gestures. Explain that users with mobility impairments may have difficulty to perform such gestures, so interfaces need to have alternatives that do not require swiping or pinching to perform an action.
-* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments may have difficulty to perform such gestures, so interfaces need to have alternatives that do not require motion for these gestures.
-* Show examples of operations carried out using path-based gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events, so interfaces need to support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
+* Show examples of interactions based on swipe and pinch gestures. Explain that users with mobility impairments may have difficulty to perform such gestures, so interfaces must have alternatives that do not require swiping or pinching to perform an action.
+* Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments may have difficulty to perform such gestures, so interfaces must have alternatives that do not require motion for these gestures.
+* Show examples of operations carried out using path-based gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events. Therefore, interfaces must support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
 * Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts). Explain that larger target sizes for pointer are recommended where possible. The minimum recommended size is 44 by 44 CSS pixels.
 
 #### Ideas to Assess Knowledge for Topic
@@ -212,7 +212,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash: Give students a web application, such as a web email client, and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
+* Practical &mdash; Give students a web application, such as a web email client, and ask them to provide the necessary custom keyboard shortcuts. Assess how students balance the use of standard versus custom keyboard shortcuts.
 * Portfolio &mdash; Have students design the interactions for a given interface, including mouse, keyboard, touch, and voice. Assess how students design user experiences for different input methods, including mouse, touch, keyboard, and voice.
 
 ## Teaching Resources

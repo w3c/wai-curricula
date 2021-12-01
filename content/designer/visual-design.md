@@ -40,7 +40,7 @@ Students should be able to:
 * design layouts with sufficient color contrast for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example by using borders, color, and highlighting
 * use headings, spacing, and styling to group related content
-* use visual and non-visual cues to convey information, including text, color, patterns, and icons 
+* use several visual and non-visual cues to convey information, including text, color, patterns, and icons
 * design layouts that adapt to:
   * different font sizes and spacing set by the user in browser and operating system settings
   * different screen sizes, screen configurations, and user style sheets
@@ -241,11 +241,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. Explain that some people often need to resize text to read it properly. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
+* Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. Explain that some people often must resize text to read it properly. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
 * Discuss the use of multiple screen sizes, screen configurations, and style sheets by people with low vision. Explain that these configurations often go beyond the traditional mobile, tablet, and desktop breakpoints.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is essential for people who cannot change their device orientation due to mobility impairments.
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
-* Show examples of different target sizes and explain that some people have difficulty to tap smaller targets due to mobility impairments. Explain that target sizes need to be large enough to accommodate different people's needs.
+* Show examples of different target sizes and explain that some people have difficulty to tap smaller targets due to mobility impairments. Explain that target sizes must be large enough to accommodate different people's needs.
 
 #### Ideas to Assess Knowledge for Topic
 
