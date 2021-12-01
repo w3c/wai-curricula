@@ -232,7 +232,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
-* Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide table of contents for documents.
+* Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide the table of contents for documents.
 
 {% include excol.html type="end" %}
 

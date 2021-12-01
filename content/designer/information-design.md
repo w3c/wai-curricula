@@ -44,7 +44,7 @@ Students should be able to:
 * define methods to communicate both visually and non-visually all relevant information about multi-step processes 
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the name and purpose of components using descriptive labels and instructions
-* discuss ways to break down information presented in tables, including use of simple tables, lists, imagery, and plain text
+* discuss ways to break down information presented in tables, including the use of simple tables, lists, imagery, and plain text
 * evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
 * identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 

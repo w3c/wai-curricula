@@ -229,7 +229,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
-* Practical &mdash; Give students a form field submission containing errors and ask them to provide messages about each of the wrongly submitted field. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for correction when possible.
+* Practical &mdash; Give students a form field submission containing errors and ask them to provide messages about each of the wrongly submitted fields. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for correction when possible.
 * Practical &mdash; Give students a form field submission containing errors and ask them to provide suggestion for correction when possible. Assess how students provide suggestion for correction.
 * Practical &mdash; Give students a form submission containing legal data and ask them to provide methods to reverse, check, and confirm that submission. Assess how students understand the need for methods to reverse, check, and confirm critical submissions.
 
