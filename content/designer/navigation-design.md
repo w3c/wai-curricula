@@ -137,15 +137,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
-<<<<<<< HEAD
-* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and speech. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
-* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
-=======
-* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and speech. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 * Show examples of navigation menus and menu items with large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
->>>>>>> survey-changes
 
 #### Ideas to Assess Knowledge for Topic
 
