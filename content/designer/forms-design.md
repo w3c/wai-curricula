@@ -84,7 +84,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
   * [WCAG Success Criterion 1.3.4 Orientation](https://www.w3.org/WAI/WCAG21/quickref/#orientation)
-  * [WCAG Success Criteria 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
+  * [WCAG Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
   * [WCAG Success Criterion 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
   * [WCAG Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
   * [WCAG Success Criterion 1.4.4 Resize Text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
@@ -127,7 +127,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Show examples of different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
+Explore different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
@@ -144,13 +144,13 @@ Students should be able to:
 Optional ideas to teach the learning outcomes.
 
 * Show examples of different form elements and reflect on their intended purpose. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that using a form element with an unintended purpose can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
-* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires further coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
+* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires additional coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to support assessment:
 
-* Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to convey these purposes using standard elements when possible, and to elaborate on what are the accessibility implications of using non-standard elements. Assess how students understand and communicate the accessibility implications of using non-standard elements.
+* Short Answer Questions &mdash; Give students specific purposes for form elements. Ask them to research how to communicate these purposes using standard elements. If standard elements are found to be inadequate for the purpose, have students discuss the accessibility requirements for using non-standard elements and how they would approach such requirements. Assess how students understand and communicate the accessibility requirements for using non-standard elements.
 * Practical &mdash; Ask students to select the appropriate form elements based on a given set of input requirements. Ask students to use standard elements when possible for each of these input requirements and to annotate keyboard interaction and expected behavior with assistive technologies when using non-standard elements. Assess how students annotate keyboard interactions and expected behavior with assistive technologies when using non-standard elements.
  
 {% include excol.html type="end" %}
@@ -182,14 +182,14 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
 * Show examples of different form elements, for example buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Show examples of required and non-required form fields. Explain that instructions about which of the fields are required should be provided using several methods, including visual and non-visual instructions.
-* Present examples of time limits, such as those warning about session expirations. Explain that visual and non-visual instructions need to be provided so that users are aware of the time limits, and methods need to be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designers' responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Present examples of time limits, such as those warning about session expirations. Explain that visual and non-visual instructions must be provided so that users are aware of the time limits, and methods must be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designer's responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a form and ask them to define labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
+* Practical &mdash; Give students a form and ask them to assign labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
 * Practical &mdash; Give students a form with required and non-required fields and ask them to provide visual and non-visual instructions to communicate the required  fields. Assess how students provide clear and understandable instructions for each required field.
 * Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
 
@@ -218,10 +218,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of placement and appearance of error messages. Explain that some users rely on consistent placement and appearance of these messages to identify the errors.
+* Show both effective and ineffective examples of placement and appearance of error messages. Explain that some users rely on consistent placement and appearance of these messages to identify the errors.
 * Show examples of overall information about submission errors. Explain that this information makes users aware that their submission contains errors and help them search for specific error messages in the rest of the content.
-* Show examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission when possible, so that users can understand what needs to be corrected.
-* Show examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
+* Show effective and ineffective examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission when possible, so that users can understand what needs to be corrected.
+* Show effective and ineffective examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
 * Show examples of critical submissions, for example buying an airline ticket and submitting legal data. Discuss methods to reverse, check, and confirm the information included in such submissions.
 
 #### Ideas to Assess Knowledge for Topic
@@ -229,7 +229,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an interface containing errors and ask them to provide an overall descriptive message informing that there are submission errors. Assess how students provide overall informative messages when there are submission errors
-* Practical &mdash; Give students a form field submission containing errors and ask them to provide messages about each of the wrongly submitted field. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for correction when possible.
+* Practical &mdash; Give students a form field submission containing errors and ask them to provide messages about each of the wrongly submitted fields. Assess how students provide appropriate error messages for wrongly submitted fields and how they provide suggestions for correction when possible.
 * Practical &mdash; Give students a form field submission containing errors and ask them to provide suggestion for correction when possible. Assess how students provide suggestion for correction.
 * Practical &mdash; Give students a form submission containing legal data and ask them to provide methods to reverse, check, and confirm that submission. Assess how students understand the need for methods to reverse, check, and confirm critical submissions.
 
@@ -241,9 +241,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of notification messages. Explain that they need to be distinguishable by all users, including visually and programmatically.
+Show examples of notification messages. Explain that they must be  identified both visually and programmatically  in order to be distinguishable by all users.
 
-Show examples of visual and non-visual notifications for error messages and other types of feedback for forms. Explain that notifications may have different levels of priority when in the context of a complex form. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designers' responsibility whereas implementing these levels is a developers' responsibility.
+Show examples of visual and non-visual notifications for error messages and other types of feedback for forms. Explain that notifications may have different levels of priority when in the context of a complex form. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designer's responsibility whereas implementing these levels is a developer's responsibility.
 
 #### Learning Outcomes for Topic
 
@@ -251,7 +251,7 @@ Students should be able to:
 
 * define the placement and appearance of notifications
 * define meaningful and descriptive notification messages, including:
-  * on input (to communicate if the provided input is valid or invalid
+  * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
 * design user experiences to queue and prioritize application notifications coming from different components
 * design user experiences to store notifications that disappear after a period of time to be checked at the users' pace
@@ -261,16 +261,16 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of placement and appearance of notifications. Explain that these notifications need to be distinguishable both visually and non-visually. Explain that defining the notifications placement and appearance is responsibility of the designer, whereas implementing such notifications is a developer's responsibility.
+* Show examples of placement and appearance of notifications. Explain that these notifications must be distinguishable both visually and non-visually. Explain that defining the notifications placement and appearance is responsibility of the designer, whereas implementing such notifications is a developer's responsibility.
 * Show examples of different methods to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows. Explain that there needs to be a variety of methods available to allow interaction by different groups of users.
-* Show examples of overlapping notifications. Explain that some users may find it daunting to process several notifications at the same time, so a method needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining methods to prioritize notifications based on their relevance is a designers' responsibility, whereas implementing the methods is a developers' responsibility.
+* Show examples of overlapping notifications. Explain that some users may find it daunting to process several notifications at the same time, so a method needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining methods to prioritize notifications based on their relevance is a designer's responsibility, whereas implementing the methods is a developer's responsibility.
 * Demonstrate examples of notification processing using assistive technologies, including screen readers and voice assistants. Explain that the notifications may come at a faster pace than the technology is able to process, so users may end up missing information. Emphasize that it is good practice to design methods to store the notifications to allow users to check the notifications at their own pace.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a form field that validate on user input and ask them to provide descriptive validation messages. Assess how students provide clear validation messages for fields that validate on user input.
+* Practical &mdash; Give students a form field that validates on user input and ask them to provide descriptive validation messages. Assess how students provide clear validation messages for fields that validate on user input.
 * Practical &mdash; Give students a form with notifications coming from different fields and ask them to define methods to queue and prioritize such notifications. Assess how students prioritize and organize notifications coming from different views.
 
 {% include excol.html type="end" %}
