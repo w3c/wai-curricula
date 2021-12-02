@@ -36,7 +36,7 @@ The designer modules guide the creation of courses that:
   * interaction design
   * images and graphics
   * multimedia and animations
-  * forms design
+  * forms
 
 These modules focus on accessible user experiences. They are primarily designed for teaching:
 

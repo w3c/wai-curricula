@@ -137,9 +137,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
-* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
-* Show examples of navigation menus and menu items with large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
-* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
+* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -186,9 +186,9 @@ Optional ideas to teach the learning outcomes:
 * Invite students to research different ways to present information in page titles. Reflect with them on how well the titles describe the page contents. Explain that page titles are useful to identify the purpose of a specific web page within a website. Mention that it is best practice to put the title text both in the page title and in the first heading of level 1 on the page. Some browsers and assistive technologies may truncate the titles or not show them at all. Explain that providing page titles is a responsibility shared with the content author. For references on how to provide descriptive page titles, see technique [G88: Providing descriptive titles for Web pages](https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html).
 * Show examples of visual and non-visual indications in menus about the current page with respect to the website.
 
-#### Ideas to Assess Knowledge for Topic
+#### Teaching Ideas for Topic
 
-Optional ideas to assess knowledge:
+Optional ideas to teach the learning outcomes:
 
 * Practical &mdash; Give students a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
@@ -232,7 +232,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
-* Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide the table of contents for documents.
+* Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide table of contents for documents.
 
 {% include excol.html type="end" %}
 
