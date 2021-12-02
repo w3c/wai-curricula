@@ -39,7 +39,7 @@ Students should be able to:
 * identify accessibility requirements for different types of audio and video content
 * design user experiences for description, captions, transcripts, and sign languages, including interactions, placement, and methods to turn on and off the alternatives
 * identify accessibility considerations for media players, including:
-  * support for different methods of interaction, including mouse, keyboard, touch, and voice
+  * support for different methods of interaction, including mouse, keyboard, touch, and speech
   * controls that have clear and descriptive names, that are easy to find on the page, and that are reachable by all users
 * define methods to control automatic audio and movement, including:
   * mute and control the volume of auto-playing audio
@@ -170,7 +170,7 @@ Students should be able to:
 * create designs with enough time for users to read parts of moving content, for example different slides in a carousel
 * define visual and non-visual identification of animated content and its different parts, for example identifying a carousel region and its different slides
 * define focus order within animated content, including how to move to different parts of the carousel and how to get to the carousel controls
-* define methods for stopping or controlling the volume of any audio that plays automatically for more than 3 seconds
+* define methods for stopping or controlling the volume of any audio that plays automatically for more than three seconds
 
 #### Teaching Ideas for Topic
 
@@ -182,9 +182,9 @@ Optional ideas to teach the learning outcomes:
   * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152),
   * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186), and
   * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187).
-* Show examples of flashing content and explain that it can cause seizures and physical reactions for some people. Emphasize that all interface components muswt be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole interface. For references on how to design interfaces that flash below the general flash and red flash thresholds or that flash below 3 seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
+* Show examples of flashing content and explain that it can cause seizures and physical reactions for some people. Emphasize that all interface components muswt be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole interface. For references on how to design interfaces that flash below the general flash and red flash thresholds or that flash below three seconds, see techniques [G19: Ensuring that no component of the content flashes more than three times in any 1-second period](https://www.w3.org/WAI/WCAG21/Techniques/general/G19.html) and [G15: Using a tool to ensure that content does not violate the general flash threshold or red flash threshold](https://www.w3.org/WAI/WCAG21/Techniques/general/G15.html).
 * Show examples of interactions triggered by animations, such as additional movements when scrolling and decorative gimmicks. Explain that these animations can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
-* Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than 3 seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a method to pause or control the volume of that audio. Explain that the operating system often provides such method. For references on how to design interfaces with methods to pause or control the volume of any audio that plays automatically, see the following techniques:
+* Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than three seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a method to pause or control the volume of that audio. Explain that the operating system often provides such method. For references on how to design interfaces with methods to pause or control the volume of any audio that plays automatically, see the following techniques:
   * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html),
   * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html), and
   * [G171: Playing sounds only on user request](https://www.w3.org/WAI/WCAG21/Techniques/general/G171.html).
