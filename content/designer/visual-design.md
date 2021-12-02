@@ -118,10 +118,10 @@ Describe how some people rely on color to understand and distinguish content. Ex
 Students should be able to:
 
 * explain how appropriate use of color enables people with disabilities to read, understand, and distinguish components
-* determine sufficient contrast ratiofor text, images of text, and controls
+* determine sufficient contrast ratio for text, images of text, and controls
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
-* design components and graphics that have a contrast ratio of at least 3:1 with respect to their background
+* design user interface components and graphics that have a contrast ratio of at least 3:1 with respect to their background
 * define layouts to enable users to change colors based on customized screen sizes, screen configurations, and style sheets
 * use visual cues in addition to text color, for example by using different patterns, shapes, and icons
 * use text to complement information provided visually
@@ -175,7 +175,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Have students design a prototype with adaptable and distinguishable styles that help users perceive different content. Assess how students use different style properties such as font sizes and spacing to make content perceivable and to distinguish components from one another.
+* Practical &mdash; Have students design a prototype with adaptable and distinguishable styles that help users perceive different content. Assess how students use different styles such as font sizes and spacing to make content perceivable and to distinguish components from one another.
 
 {% include excol.html type="end" %}
 
@@ -185,7 +185,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities use visual and non-visual cues to orient on web pages and applications. For example, focus indicators as well as spacing and grouping to communicate regions. Present strategies to help students incorporate early planning for such cues within the visual design phase.
+Explain how people with disabilities use visual and non-visual cues to orient on web pages and applications. For example, focus indicators to show interactive elements and spacing and grouping to communicate regions. Present strategies to help students incorporate early planning for such cues within the visual design phase.
 
 #### Learning Outcomes for Topic
 
@@ -193,7 +193,7 @@ Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using headings, spacing, and grouping
-* design layouts that enable presentation of visual and non-visual cues in different screen sizes, screen configurations, and style sheets
+* design layouts that enable presentation of visual and non-visual cues in different screen sizes and screen configurations
 * define methods to help users perceive and understand visual and non-visual cues, for example by using text, color, and icons to convey the status of tasks in a project
 
 #### Teaching Ideas for Topic
@@ -220,7 +220,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Refer to responsive design techniques. Explain that other elements also contribute to an accessible user experience. Encourage consideration of how content sequence, focus indicators, and target size can be designed to adapt to different screen sizes, screen configurations, and style sheets.
+Refer to responsive design techniques. Explain that other elements also contribute to an accessible user experience. Encourage consideration of how content sequence, focus indicators, and target size can be designed to adapt to different screen sizes and screen configurations.
 
 Demonstrate approaches to balance the use of too many design elements to avoid potential overload and distraction for some users.
 
@@ -231,7 +231,7 @@ Students should be able to:
 * design layouts to support text resizing without loss of content and functionality
 * design layouts to support text zooming and enlarging in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts with target sizes that adapt to different screen sizes, screen configurations, and style sheets, for example when creating responsive designs
+* design layouts with target sizes that adapt to different screen sizes and screen configurations, for example when creating responsive designs
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
 * define meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 * evaluate the overuse of design elements, in particular interactive widgets, images, and moving content
