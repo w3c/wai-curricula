@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
-* describe different interactions for navigational components, including by keyboard, mouse, touch, and voice
+* describe different interactions for navigational components, including by keyboard, mouse, touch, and speech
 * define clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
@@ -47,7 +47,7 @@ Students should be able to:
 * evaluate the use of navigational components, including menus, tables of contents, and site maps
 * select navigational components that minimize distraction and unnecessary noise
 * identify related requirements for developers to implement:
-  * interactions for navigational components, including by keyboard, mouse, touch, and voice
+  * interactions for navigational components, including by keyboard, mouse, touch, and speech
   * clear and descriptive names for navigational components
   * additional semantics for navigational components, including menus, menu items, and menu item states
   * methods to bypass blocks of repeated content
@@ -123,13 +123,13 @@ Students should be able to:
 * define visual and text indications to identify menus, including:
   * consistent styling for menu identification across websites
   * visual and non-visual indications about the current page in the navigation menu 
-* define interactions inside navigation menus, including mouse, keyboard, touch, and voice
+* define interactions inside navigation menus, including mouse, keyboard, touch, and speech
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * apply distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
   * non-visual identification and naming of menus
   * semantics for different menu states and properties, such as hover, focus, current, active, and visited
-  * support for different interaction methods, including keyboard, mouse, touch, and voice
+  * support for different interaction methods, including keyboard, mouse, touch, and speech
   * support for different text and screen sizes
 
 #### Teaching Ideas
@@ -137,15 +137,21 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Present different types of navigation menus, such as static, fly-out, and mega menus. Explain conventions for accessible navigation menus, for example clear and consistent styling to convey menu behaviors and states.
+<<<<<<< HEAD
+* Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and speech. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+* Show examples of navigation menus and menu items large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
+* Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designers' responsibility, whereas providing the underlying code is a developers' responsibility.
+=======
 * Demonstrate interactions with navigation menus using different input devices, including keyboard, mouse, touch, and voice. For example, activating a menu option by tapping, pressing the Enter and Space keys, and mouse clicking. Explain that defining the interactions is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
 * Show examples of navigation menus and menu items with large text. Explain that the text needs to adapt to different viewports and screen configurations, for example lines of text must wrap to avoid horizontal scrolling. Explain that different languages may have different word sizes, so designers must consider provisions for different word lengths.
 * Show examples of different menu and submenu item states, such as hover, focus, current, active, and visited. Explain how to communicate the states of these menu items visually and non-visually. Explain that defining the visual presentation is a designer's responsibility, whereas providing the underlying code is a developer's responsibility.
+>>>>>>> survey-changes
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Have students define mouse, keyboard, touch, and voice interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and voice. Assess how students understand the need for different interaction patterns based on the input method in use.
+* Practical &mdash; Have students define mouse, keyboard, touch, and speech interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and speech. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual methods to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
 * Practical &mdash; Give students a navigation menu and ask them to provide visual and non-visual indications about the currently selected item. Assess how students provide appropriate indications about the page location with respect to the entire website.
 * Practical &mdash; Give students navigation menus containing long strings of text. Ask them to ensure the text is displayed irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
@@ -242,7 +248,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to recite the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate those different types of navigational methods for websites, documents, and applications.
+* Short Answer Questions &mdash; Ask students to outline the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate those different types of navigational methods for websites, documents, and applications.
 * Portfolio &mdash; Have students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
