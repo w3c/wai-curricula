@@ -104,7 +104,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Discuss ways to use text and semantic structure to communicate the organization of pages and documents. For example, using pages to split the content into logical units, landmarks to define page regions, and headings with their corresponding levels to group related information.
+Discuss ways to use text and semantic structure to communicate the organization of pages and documents. For example, using pages to split the content into logical units, landmarks to define page regions, and headings with their corresponding rank levels to group related information.
 
 Discuss the use of diagrams and illustrations to help users understand the information provided in text.
 
@@ -156,7 +156,7 @@ Discuss the use of labels, instructions, and graphical representations to help p
 
 Students should be able to:
 
-* define clear and distinguishable names for components, including visual and programmatic labels
+* define clear and distinguishable labels for components, including visual and programmatic names
 * define overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
 * define visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
 * define related controls, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
@@ -165,7 +165,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of names for components, including links, buttons, and form controls. Explain that these names help users identify these components. Explain that defining the presentation of these names is a designer's responsibility, implementing these names is a developer's responsibility, and defining names is a responsibility shared with the content author.
+* Show examples of labels, including names for links, buttons, and form controls. Explain that these labels help users identify these components. Explain that defining the presentation of these labels is a designer's responsibility, implementing these labels is a developer's responsibility, and providing labels is a responsibility shared with the content author.
 * Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that instruction presentation is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining the content of these instructions is a responsibility shared with the content author.
 * Show examples of multi-step processes, such as a multi-step form, with instructions to indicate the current step and total number of steps in the process. Then show examples of multi-step processes without such instructions. Compare the user experiences for each of the examples. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and providing these instructions is a responsibility shared with the content author.
 * Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look is a designer's responsibility, whereas coding those relations is a developer's responsibility.
@@ -215,8 +215,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a table and ask them to define the table's header and data cells. Assess how students understand the difference between header and data cells.
-* Practical &mdash; Give students a set of tables and ask them to provide clear styles to distinguish header cells from data cells. Assess how students provide clear and distinguishable styles for header and data cells.
+* Practical &mdash; Give students a table and ask them to define the table's header cells and data cells. Assess how students understand the difference between header cells and data cells.
+* Practical &mdash; Give students a set of tables and ask them to provide clear styles to distinguish header cells from data cells. Assess how students provide clear and distinguishable styles for header cells and data cells.
 * Practical &mdash; Give students a complex table and ask them to split the information using simpler tables, lists, and graphical representations where appropriate. Assess how students provide alternative ways to present tabular information.
 
 {% include excol.html type="end" %}
