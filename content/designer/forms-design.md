@@ -37,7 +37,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * define consistent use, placement, and appearance of form elements
-* define interactions with form elements, including through mouse, keyboard, touch, and voice
+* define interactions with form elements, including through mouse, keyboard, touch, and speech
 * define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
 * define clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
 * define clear and descriptive error messages that:
@@ -127,23 +127,23 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explore different form elements and their intended purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
+Explore different form elements and their purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* identify different uses and intended purposes of form elements
-* identify how using form elements with unintended purposes can cause compatibility issues and cognitive overload
+* identify the purposes of form elements, including edit boxes, check boxes, radio buttons, and buttons
+* identify how using form elements with purposes different than those defined in the standards can cause compatibility issues and cognitive overload
 * evaluate the use of standard versus non-standard form elements
 * select form elements that minimize extra work to make them accessible in the implementation phase
-* identify related requirements for developers to write code for form elements that programmatically identifies their intended purpose as well as their current state and value
+* identify related requirements for developers to write code for form elements that programmatically identifies their purpose as well as their current state and value
 
 ### Teaching Ideas for Topic
 
-Optional ideas to teach the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
-* Show examples of different form elements and reflect on their intended purpose. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that using a form element with an unintended purpose can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
+* Show examples of different form elements and reflect on their purposes as defined in the standards. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that using form elements with purposes different than those defined in the standards can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
 * Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires additional coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
