@@ -132,7 +132,7 @@ Students should be able to:
   * support for different interaction methods, including keyboard, mouse, touch, and speech
   * support for different text and screen sizes
 
-#### Teaching Ideas
+#### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
@@ -158,7 +158,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding potential distractions and unnecessary noise.
+Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different people rely on different navigational components. Discuss strategies to use several site navigational methods that minimize distractions and unnecessary noise.
 
 #### Learning Outcomes for Module
 
@@ -174,7 +174,7 @@ Students should be able to:
   * text and visual indications about the current page in the navigation menu 
 * evaluate the amount of site navigational components in use
 * select components that help users navigate and orient
-* identify related requirements for developers to apply semantics to page titles, headings, as well as visual and non-visual indications in navigation menus
+* identify related requirements for developers to apply semantics and styles to site navigational components
 
 #### Teaching Ideas for Topic
 
