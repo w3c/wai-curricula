@@ -185,7 +185,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Research strategies that people with disabilities use to interact with information presented in tables. For example, using textual descriptions, graphical representations of the table content, as well as several simpler tables or individual lists to present the information in a complex table.
+Investigate strategies that people with disabilities use to interact with information presented in tables. For example, using textual descriptions, graphical representations of the table content, as well as several simpler tables or individual lists to present the information in a complex table.
 
 #### Learning Outcomes for Topic
 
