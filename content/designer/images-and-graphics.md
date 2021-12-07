@@ -102,7 +102,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
+Functional images convey the purpose of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
 
 #### Learning Outcomes for Topic
 
@@ -153,7 +153,7 @@ Students should be able to:
   * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the content
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
-* define alternatives to biometrics and CAPTCHA, for example by using visual, auditory, and logical CAPTCHA
+* define alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
 * explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
 * evaluate the issues associated with accessing information contained in informative images
 * select other ways to convey the information contained in images when possible, including plain text
@@ -164,9 +164,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that such information must be provided using text alternatives in order to be understood by users who do not see the image. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
-* Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as text or as an image. Coordination among designers, developers,
-and content authors is therefore needed to determine if the technologies in use can achieve the same desired visual presentation in a text format. Emphasize that, if an image of text is still required, there must be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
-* Show examples of different verification systems, such as CAPTCHA, to identify human beings trying to access a service or system. Explain that these verification systems must support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
+* Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as text or as an image. Coordination among designers, developers, and content authors is therefore needed to determine if the technologies in use can achieve the same desired visual presentation in a text format. Emphasize that, if an image of text is still required, there must be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
+* Show examples of different verification systems, such as CAPTCHA, to identify humans trying to access a service or system. Explain that these verification systems must support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -261,7 +260,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students which types of images require which contrast ratio. Assess how students understand the different types of images and their contrast ratio requirements.
+* Short Answer Questions &mdash; Ask students which types of images require which contrast ratio. Assess how students understand the different types of images and their requirements for contrast ratio .
 * Portfolio &mdash; Have students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design, for example contrast ratio, text alternatives that belong to the design phase, and placeholders for any other text alternative that is planned for later stages of the design and development process.
 
 ## Teaching Resources
