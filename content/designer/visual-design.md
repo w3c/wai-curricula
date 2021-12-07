@@ -30,13 +30,13 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities rely on layouts that adapt to different screen sizes, screen configurations, and style sheets
-* explain accessibility requirements for color, layout, spacing, and position of components
+* explain accessibility requirements for color, layout, spacing, and placement of components
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and positions
+* explain how people with disabilities rely on designs that adapt to different colors, layouts, spacing, and placement
 * design layouts with sufficient contrast ratio for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example by using borders, color, and highlighting
 * use headings, spacing, and styling to group related content
@@ -44,7 +44,7 @@ Students should be able to:
 * design layouts that adapt to:
   * different font sizes and spacing set by the user in browser and operating system settings
   * different screen sizes, screen configurations, and user style sheets
-* evaluate the overuse of design elements
+* evaluate the potential overuse of design elements
 * select design elements that minimize distraction and cognitive overload
 * identify related requirements for developers to apply the necessary semantics to interface components
 
@@ -193,7 +193,7 @@ Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions by using headings, spacing, and grouping
-* design layouts that enable presentation of visual and non-visual cues in different screen sizes and screen configurations
+* design layouts that enable presentation of visual and non-visual cues in different screen sizes, screen configurations, and style sheets
 * define methods to help users perceive and understand visual and non-visual cues, for example by using text, color, and icons to convey the status of tasks in a project
 
 #### Teaching Ideas for Topic
@@ -231,17 +231,17 @@ Students should be able to:
 * design layouts to support text resizing without loss of content and functionality
 * design layouts to support text zooming and enlarging in different viewport sizes and through multiple breakpoints
 * design layouts that adapt their content view and operation to portrait and landscape orientations
-* design layouts with target sizes that adapt to different screen sizes and screen configurations, for example when creating responsive designs
+* design layouts with target sizes that adapt to different screen sizes, screen configurations, and style sheets, for example when creating responsive designs
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
 * define meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
-* evaluate the overuse of design elements, in particular interactive widgets, images, and moving content
+* evaluate the potential overuse of design elements, in particular interactive widgets, images, and moving content
 * select elements that minimize distraction and cognitive overload
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. Explain that some people often must resize text to read it properly. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
+* Discuss with students the differences between web sites and applications that preserve content and functionality when resized up to 200% and those which do not. Explain that some people often need to resize text to read it properly. For references on how to ensure text resizes up to 200%, see technique [G179: Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width](https://www.w3.org/WAI/WCAG21/Techniques/general/G179).
 * Discuss the use of multiple screen sizes, screen configurations, and style sheets by people with low vision. Explain that these configurations often go beyond the traditional mobile, tablet, and desktop breakpoints.
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is essential for people who cannot change their device orientation due to mobility impairments.
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
@@ -263,7 +263,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the contrast ratio for the different user interface components. Assess how students understand the different contrast ratio requirements depending on the components.
-* Portfolio &mdash; Have students design a web page. Assess how students use customizable color, layout, spacing, and position to support content perception, identification, and readability.
+* Portfolio &mdash; Have students design a web page. Assess how students use customizable color, layout, spacing, and placement to support content perception, identification, and readability.
 
 ## Teaching Resources
 
