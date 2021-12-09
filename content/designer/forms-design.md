@@ -127,14 +127,14 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explore different form elements and their purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain uses of standard versus non-standard elements and how use of non-standard elements impacts accessibility.
+Explore different form elements and their purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain standard versus non-standard uses of form elements and how non-standard uses of form elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * identify the purposes of form elements, including edit boxes, check boxes, radio buttons, and buttons
-* identify how using form elements with purposes different than those defined in the standards can cause compatibility issues and cognitive overload
+* identify how non-standard uses of form elements (for example using read-only edit boxes when expecting text input) can cause compatibility issues and cognitive overload
 * evaluate the use of standard versus non-standard form elements
 * select form elements that minimize extra work to make them accessible in the implementation phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their purpose as well as their current state and value
@@ -143,7 +143,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different form elements and reflect on their purposes as defined in the standards. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that using form elements with purposes different than those defined in the standards can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
+* Show examples of different form elements and reflect on their purposes. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that non-standard uses of form elements can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
 * Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires additional coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
