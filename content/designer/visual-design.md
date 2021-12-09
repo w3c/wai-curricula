@@ -40,7 +40,7 @@ Students should be able to:
 * design layouts with sufficient contrast ratio for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example by using borders, color, and highlighting
 * use headings, spacing, and styling to group related content
-* use several visual and non-visual cues to convey information, including text, color, patterns, and icons
+* use multiple visual and non-visual cues to convey information, including text, color, patterns, and icons
 * design layouts that adapt to:
   * different font sizes and spacing set by the user in browser and operating system settings
   * different screen sizes, screen configurations, and user style sheets
