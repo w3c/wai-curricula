@@ -235,7 +235,8 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* evaluate the potential distraction and cognitive overload from using too many decorative images and select decorative images that avoid distractions and cognitive overload
+* evaluate the use of decorative images
+* select decorative images that avoid distractions and cognitive overload
 * explain how the overuse of decorative images could slow down loading times and interaction for users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
 
