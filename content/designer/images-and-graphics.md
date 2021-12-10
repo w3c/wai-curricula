@@ -171,6 +171,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment.
 
+* Practical &mdash; Give students a set of informative images. Ask students to annotate text alternatives that help developers and content authors provide the descriptions in the implementation phase. Assess how students provide boilerplate descriptions that would then be completed and maintained through the development and authoring phases.
 * Practical &mdash; Give students an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
 * Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide various authentication alternatives for biometrics and CAPTCHA. Assess how students understand the need for providing various authentication alternatives for biometrics and CAPTCHA.
 
