@@ -84,6 +84,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
   * [WCAG Success Criterion 1.4.4 Resize Text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
   * [WCAG Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
+  * [WCAG Success Criterion 1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG21/quickref/#visual-presentation)
   * [WCAG Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
   * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
   * [WCAG Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
@@ -150,7 +151,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities rely on distinguishable and customizable style properties, such as font types, sizes, and spacing, to support readability.
+Explain how people with disabilities rely on distinguishable and customizable style properties, such as font types, sizes, spacing, and text alignment to support readability.
 
 #### Learning Outcomes for Topic
 
@@ -161,6 +162,7 @@ Students should be able to:
   * font types
   * font sizes
   * spacing
+  * text alignment
   * colors
 
 #### Teaching Ideas for Topic
@@ -170,12 +172,13 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of styles to distinguish links, buttons, and form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to read and understand content properly.
 * Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of the content and for better identification of the different parts of the interface.
+* Show examples of text aligned to the left, to the right, and justified. Explain that it is difficult for some users to read justified text due to the unpredictable spacing created by the justification. Therefore, text should align to only one side where possible to enhance readability. For reference, see technique [G169: Aligning Text on Only One Side](https://www.w3.org/WAI/WCAG21/Techniques/general/G169).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Have students design a prototype with adaptable and distinguishable styles that help users perceive different content. Assess how students use different styles such as font sizes and spacing to make content perceivable and to distinguish components from one another.
+* Practical &mdash; Have students design a prototype with adaptable and distinguishable styles that help users perceive different content. Assess how students use different style properties such as font types, sizes, spacing, and text alignment to make content perceivable and to distinguish components from one another.
 
 {% include excol.html type="end" %}
 
