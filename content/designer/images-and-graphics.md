@@ -153,8 +153,8 @@ Students should be able to:
   * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the content
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
-* define alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
-* explain the issues associated with relying only on one form of biometrics and CAPTCHA, and describe alternative approaches for authentication
+* explain the accessibility considerations when relying only on one form of biometrics and CAPTCHA
+* describe alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
 * evaluate the issues associated with accessing information contained in informative images
 * select other ways to convey the information contained in images when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
