@@ -141,7 +141,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an eBook. Ask them to propose how it might be split into smaller and more manageable pieces to more easily navigate and understand. Assess how students use pages, landmarks, and headings with their corresponding rank levels to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text. Ask them to define the presentations of diagrams and illustrations that complement the text. Assess how students define the presentations of diagrams and illustrations to complement processes and instructions presented in text.
+* Practical &mdash; Give students a complex piece of text. Ask them to define the presentation of diagrams and illustrations that complement the text. Assess how students define the presentation of diagrams and illustrations to complement processes and instructions presented in text.
 * Practical &mdash; Give students diagrams and illustrations. Ask them to define the presentation of descriptions to make information perceivable for people who cannot see the images. Assess how students define the presentation of descriptions for diagrams and illustrations.
 * Practical &mdash; Give students unusual words and abbreviations. Ask them to propose methods to explain such words or expand the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
 
