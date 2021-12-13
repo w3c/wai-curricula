@@ -128,10 +128,11 @@ Present examples of specific non-standard shortcuts. Explain that providing cust
 Students should be able to:
 
 * design user experiences for keyboard navigation through and inside components of websites and applications, for example using:
-  * the tab key to move through different components
+  * the tab key to move through different components in a meaningful sequence
   * the enter key to access a component and to select a specific item on a component
   * the arrow keys to move through elements inside components, including sliders, tabs, dialogs, application menus, and tree views
   * the escape key to exit components
+  * meaningful sequences across web pages and applications and inside complex widgets
   * additional keyboard shortcuts to reveal, review, and dismiss notifications
   * additional keyboard shortcuts to support efficiency
   * first letter navigation to jump to specific pieces of data in lists and grids
@@ -139,17 +140,18 @@ Students should be able to:
 * explain how keyboard support benefits other ways of interacting, including speech interaction and interaction using assistive technologies
 * evaluate the use of custom keyboard interactions
 * select keyboard interactions that do not conflict with the operating system, browser, and assistive technologies when possible
-* cooperate with developers to provide methods to remap or disable conflicting shortcuts
 * define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * define consistent placement and appearance of focus indicators
- * cooperate with developers to programmatically set focus in complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
+* cooperate with developers to:
+  * provide methods to remap or disable conflicting shortcuts
+  * programmatically set focus in complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
 * identify related requirements for developers to implement keyboard support for components that have no keyboard support by default
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Invite students to try standard keyboard conventions. For example, use of the tab to move through user interface components, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that standard interactions must be preserved as much as possible when designing custom widgets, as users mostly expect these.
+* Invite students to try standard keyboard conventions. For example, the use of the tab to move through user interface components in a meaningful sequence, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that standard interactions must be preserved as much as possible when designing custom widgets, as users mostly expect these.
 * Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers must cooperate with other team members, including developers and user researchers, on strategies to define custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and collaborating with developers to implement such keystrokes.
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Invite students to research how assistive technologies and adaptive strategies rely on keyboard support to provide specific functionality, such as navigating sequentially using spoken commands. Demonstrate interaction with assistive technologies in web pages and applications with and without keyboard support.
@@ -163,7 +165,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students about the commonly used modifier keys in operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
 * Practical &mdash; Give students an interface that only works with the mouse and ask them to provide keyboard interaction. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 * Practical &mdash; Have students cooperate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students cooperate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
-* Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance depending on changes in context and user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement.
+* Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance as well as depending on changes in context and user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement as well as meaningful sequences.
 
 {% include excol.html type="end" %}
 
