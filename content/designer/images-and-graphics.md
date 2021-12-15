@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain how images and graphics help people with disabilities to process information, identify content, and understand functionality
 * explain how text alternatives are essential for people with disabilities to understand the information contained in images
-* define meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
+* select meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
 * define consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
@@ -108,7 +108,7 @@ Functional images convey the purpose of a component. For example, search, print,
 
 Students should be able to:
 
-* define text alternatives for functional images using the following methods:
+* select text alternatives for functional images using the following methods:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
@@ -147,7 +147,7 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* define text alternatives that are equally informative as the described images using the following methods:
+* apply text alternatives that are equally informative as the described images using the following methods:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
@@ -195,8 +195,8 @@ Students should be able to:
 * evaluate the use of complex images
 * select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
-* define the placement and spacing for alternatives to complex images
-* define clear and consistent identification methods for complex image descriptions, including appropriate headings and expandable and collapsible components
+* design the placement and spacing for alternatives to complex images
+* apply methods to identify methods for complex image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including:
   * how to get to the image descriptions
   * what the description should look like

@@ -36,14 +36,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
-* define consistent use, placement, and appearance of form elements
-* define interactions with form elements, including through mouse, keyboard, touch, and speech
-* define clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
-* define clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
-* define clear and descriptive error messages that:
+* design consistent use, placement, and appearance of form elements
+* design interactions with form elements, including through mouse, keyboard, touch, and speech
+* select clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
+* select clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
+* apply clear and descriptive error messages that:
   * identify the field in error 
   * provide suggestions for correction when possible
-* define meaningful and descriptive visual and non-visual notifications, including for:
+* apply meaningful and descriptive visual and non-visual notifications, including for:
   * imminent time limits
   * success messages
   * status changes
@@ -168,11 +168,12 @@ Refer back to [Designer Module 2: Information Design, Topic: Naming and Grouping
 Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
-* define clear and consistent names for form elements across websites and applications
-* define visual and non-visual instructions for required input fields
-* define clear visual and non-visual instructions about changes in context before the component that originates such changes
-* define overall visual and non-visual instructions about existing time limits in a form and about how to adjust them, extend them, and turn them off
-* define clear visual and non-visual instructions for the current step and the total number of steps involved in a multi-step form
+* select clear and consistent names for form elements across websites and applications
+* apply visual and non-visual instructions for
+  * required input fields
+  * changes in context before the component that originates such changes
+  * existing time limits in a form and how to adjust them, extend them, and turn them off
+  * the current step and the total number of steps involved in a multi-step form
 * identify related requirements for developers to provide semantics for labels and instructions
 
 #### Teaching Ideas for Topic
@@ -207,12 +208,12 @@ Show examples of common input errors and suggestions for correcting them. Explai
 
 Students should be able to:
 
-* define the placement and appearance of error messages
+* design the placement and appearance of error messages
 * define error messages in the page title or before the form that:
   * identify the fields in error
   * describe the cause of the error
   * provide suggestions to correct the error when possible
-* define methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
+* apply methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
 
 #### Teaching Ideas for Topic
 
@@ -250,7 +251,7 @@ Show examples of visual and non-visual notifications for error messages and othe
 Students should be able to:
 
 * define the placement and appearance of notifications
-* define meaningful and descriptive notification messages, including:
+* seelect meaningful and descriptive notification messages, including:
   * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
 * design user experiences to queue and prioritize application notifications coming from different components

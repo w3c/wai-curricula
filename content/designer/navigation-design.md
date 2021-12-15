@@ -39,11 +39,11 @@ Students should be able to:
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
 * describe different interactions for navigational components, including by keyboard, mouse, touch, and speech
-* define clear and consistent visual and non-visual:
+* select clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
-* define blocks of repeated content
-* define site maps and descriptive page titles to help users locate specific web pages within websites
+* communicate blocks of repeated content
+* create site maps and descriptive page titles to help users locate specific web pages within websites
 * evaluate the use of navigational components, including menus, tables of contents, and site maps
 * select navigational components that minimize distraction and unnecessary noise
 * identify related requirements for developers to implement:
@@ -120,10 +120,10 @@ Explain styling conventions for menus, such as expected location, appropriate si
 Students should be able to:
 
 * describe uses of different types of navigation menus, such as static, fly-out, and mega menus
-* define visual and text indications to identify menus, including:
+* select visual and text indications to identify menus, including:
   * consistent styling for menu identification across websites
   * visual and non-visual indications about the current page in the navigation menu 
-* define interactions inside navigation menus, including mouse, keyboard, touch, and speech
+* design interactions inside navigation menus, including mouse, keyboard, touch, and speech
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * apply distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:
@@ -208,8 +208,8 @@ Discuss strategies that people use to navigate to different parts of a web page,
 
 Students should be able to:
 
-* select methods to identify blocks of repeated content, such as navigation bars and header contents
-* select methods to skip blocks of repeated content using the following approaches:
+* identify and communicate blocks of repeated content, such as navigation bars and header contents
+* apply methods to skip blocks of repeated content using the following approaches:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
   * tables of contents at the top of the page that go to each area of the content

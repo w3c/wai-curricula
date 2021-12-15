@@ -41,7 +41,7 @@ Students should be able to:
   *  pages, landmarks, and headings
   * lists, simpler tables, and plain text
   * groups of form controls that share a common purpose
-* define methods to communicate both visually and non-visually all relevant information about multi-step processes 
+* apply methods to communicat all relevant information about multi-step processes visually and non-visually
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the name and purpose of components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including the use of simple tables, lists, imagery, and plain text
@@ -118,10 +118,10 @@ Students should be able to:
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
   * paragraphs, lists, and other structures to convey content meaning
-* define the presentation of diagrams and illustrations to make textual information easier to understand; for example, a diagram of the process described in the text 
-* define the presentation of textual information to make diagrams and illustrations perceivable, for example a text description of an electronic device in a user manual
-* select methods to provide specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
-* select methods to provide the expanded form or meaning of acronyms and abbreviations
+* select diagrams and illustrations to make textual information easier to understand; for example, a diagram of the process described in the text 
+* select textual information to make diagrams and illustrations perceivable, for example a text description of an electronic device in a user manual
+* apply methods to provide specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
+* apply methods to provide the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for:
   * developers to code the regions, headings, and language of pages and parts
   * content authors to provide clear language and easy-to-read texts whenever possible
@@ -160,10 +160,10 @@ Discuss the use of labels, instructions, and graphical representations to help p
 
 Students should be able to:
 
-* define clear and distinguishable labels for components, including visual and programmatic names
-* define overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
-* define visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
-* define related controls, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
+* select clear and distinguishable labels for components, including visual and programmatic names
+* select overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
+* select visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
+* group controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
 
 #### Teaching Ideas for Topic
 
@@ -197,7 +197,7 @@ Students should be able to:
 
 * identify uses of tables to present data that share a logical relationship
 * define table header cells and data cells, and provide clear and distinguishable styles for each
-* define graphical representations of complex tables that help users more easily understand its purpose and meaning
+* select graphical representations of complex tables that help users more easily understand its purpose and meaning
 * evaluate the use of complex tables and select simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations

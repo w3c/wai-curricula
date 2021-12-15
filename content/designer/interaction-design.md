@@ -39,8 +39,8 @@ Students should be able to:
 * design user experiences for different input methods, including mouse, touch, keyboard, and speech
 * design interactions and meaningful sequences inside complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
 * evaluate the use of custom keyboard shortcuts for complex widgets and applications and provide information about their purpose and scope
-* define methods to disable response to device and user motion to prevent accidental activation
-* define alternatives for complex gestures, including swiping, pinching, and drawing shapes
+* apply methods to disable response to device and user motion to prevent accidental activation
+* apply alternatives for complex gestures such as swiping, pinching, and drawing shapes
 * identify related requirements for developers to write code for interactions, including through mouse, keyboard, touch, and speech
 
 {% include excol.html type="all" %}
@@ -140,8 +140,8 @@ Students should be able to:
 * explain how keyboard support benefits other ways of interacting, including speech interaction and interaction using assistive technologies
 * evaluate the use of custom keyboard interactions
 * select keyboard interactions that do not conflict with the operating system, browser, and assistive technologies when possible
-* define methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
-* define consistent placement and appearance of focus indicators
+* apply methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
+* design consistent placement and appearance of focus indicators
 * cooperate with developers to:
   * provide methods to remap or disable conflicting shortcuts
   * programmatically set focus in complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
@@ -183,10 +183,10 @@ Discuss gestures that require dragging and drawing specific paths on a touch scr
 
 Students should be able to:
 
-* define alternatives to multi-pointer gestures (including swiping, pinching, and drawing shapes) by using single pointer activation
-* define methods to undo or abort an action carried out with path-based gestures, including use of the up event to undo, abort, and reverse activation
-* define alternatives for device or user motion, for example components performing the same function that do not require user motion 
-* define methods to disable response to device or user motion to prevent accidental activation
+* apply alternatives to multi-pointer gestures (including swiping, pinching, and drawing shapes) by using single pointer activation
+* apply methods to undo or abort an action carried out with path-based gestures, including use of the up event to undo, abort, and reverse activation
+* apply alternatives for device or user motion, for example components performing the same function that do not require user motion 
+* apply methods to disable response to device or user motion to prevent accidental activation
 * design user experiences that consider larger target sizes for pointer inputs
 
 #### Teaching Ideas for Topic
