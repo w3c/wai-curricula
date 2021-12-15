@@ -127,14 +127,14 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explore different form elements and their purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain standard versus non-standard uses of form elements and how non-standard uses of form elements impacts accessibility.
+Explore different form elements and their purpose, including edit boxes, check boxes, radio buttons, and buttons. Explain standard versus non-standard uses of form elements (for example using read-only edit boxes when expecting text input) and how non-standard uses of form elements impacts accessibility.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * identify the purposes of form elements, including edit boxes, check boxes, radio buttons, and buttons
-* identify how non-standard uses of form elements (for example using read-only edit boxes when expecting text input) can cause compatibility issues and cognitive overload
+* describe how non-standard uses of form elements can cause compatibility issues and cognitive overload
 * evaluate the use of standard versus non-standard form elements
 * select form elements that minimize extra work to make them accessible in the implementation phase
 * identify related requirements for developers to write code for form elements that programmatically identifies their purpose as well as their current state and value
