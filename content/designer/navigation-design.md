@@ -208,7 +208,7 @@ Discuss strategies that people use to navigate to different parts of a web page,
 
 Students should be able to:
 
-* identify and communicate blocks of repeated content, such as navigation bars and header contents
+* apply visual and non-visual methods to help users identify blocks of repeated content, including navigation bars and header contents
 * apply methods to skip blocks of repeated content using the following approaches:
   * a link at the top of each page that goes directly to the main content area
   * a link at the beginning of a block of repeated content to go to the end of the block
