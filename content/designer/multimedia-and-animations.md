@@ -159,7 +159,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Blinking and flashing content can put some people at risk, including yourself. Communicate clearly that you are about to show blinking and flashing content. Ensure students are comfortable with being exposed to blinking and flashing content.
+**Caution**: Blinking and flashing content can put some people at risk, including yourself. Let students know before showing blinking and flashing content. Ensure students understand the risks of being exposed to blinking and flashing content.
 
 Show moving content, such as carousels and animations. Present methods to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios when possible.
 
@@ -177,6 +177,8 @@ Students should be able to:
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
+
+**Caution**: Use all of the following teaching ideas only with prior warning that they include flickering, flashing, or animated content. Make sure students understand the risks of engaging with the examples. Make these teeaching ideas optional for learners.
 
 * Show examples of content that moves or blinks, such as animations and carousels. Explain that moving content can be problematic and can cause distraction and anxiety for several types of users. Emphasize that some animation frequencies are also known to cause seizures and physical reactions for certain users. For references on how to design interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
   * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4),
@@ -197,6 +199,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the accepted general flash and red flash thresholds. Assess how students understand accessibility requirements for flashing content.
 * Practical &mdash; Give students an interface containing animations and ask them to make them accessible. Assess how students define methods to reduce or disable the animations.
+* Practical &mdash; Give students examples of web pages using carousels. Ask them to evaluate the carousel's support for accessibility. Assess how students understand accessibility requirements for carousels.
 
 {% include excol.html type="end" %}
 
