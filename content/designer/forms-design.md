@@ -174,6 +174,7 @@ Students should be able to:
   * changes in context before the component that originates such changes
   * existing time limits in a form and how to adjust them, extend them, and turn them off
   * the current step and the total number of steps involved in a multi-step form
+* associate form elements that share the same purpose, such as those to provide an address, and communicate these groups visually and non-visually
 * identify related requirements for developers to provide semantics for labels and instructions
 
 #### Teaching Ideas for Topic

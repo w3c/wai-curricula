@@ -163,7 +163,7 @@ Students should be able to:
 * select clear and distinguishable labels for components, including visual and programmatic names
 * select overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
 * select visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
-* group controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such relationships visually and non-visually
+* associate controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such groups visually and non-visually
 
 #### Teaching Ideas for Topic
 
