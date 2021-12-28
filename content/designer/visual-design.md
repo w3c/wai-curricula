@@ -172,7 +172,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of styles to distinguish links, buttons, and form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to read and understand content properly.
 * Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of the content and for better identification of the different parts of the interface.
-* Show examples of text aligned to the left, to the right, and justified. Explain that it is difficult for some users to read justified text due to the unpredictable spacing created by the justification. Therefore, text should align to only one side where possible to enhance readability. For reference, see technique [G169: Aligning Text on Only One Side](https://www.w3.org/WAI/WCAG21/Techniques/general/G169).
+* Show examples of text aligned to the left, to the right, and justified. Explain that it is difficult for some users to read justified text due to the uneven spacing created by the justification. Therefore, text should align to only one side where possible to enhance readability. For reference, see technique [G169: Aligning Text on Only One Side](https://www.w3.org/WAI/WCAG21/Techniques/general/G169).
 
 #### Ideas to Assess Knowledge for Topic
 
