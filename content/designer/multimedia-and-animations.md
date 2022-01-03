@@ -178,7 +178,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-**Caution**: Use all of the following teaching ideas only with prior warning that they include flickering, flashing, or animated content. Make sure students understand the risks of engaging with the examples. Make these teaching ideas optional for learners.
+**Caution**: Use all of the following teaching ideas only with prior warning that they include flickering, flashing, or animated content. Make sure students understand the risks of engaging with the examples. Make these teaching ideas optional for students.
 
 * Show examples of content that moves or blinks, such as animations and carousels. Explain that moving content can be problematic and can cause distraction and anxiety for several types of users. Emphasize that some animation frequencies are also known to cause seizures and physical reactions for certain users. For references on how to design interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
   * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4),
