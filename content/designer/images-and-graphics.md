@@ -42,7 +42,7 @@ Students should be able to:
 * define consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
-* evaluate the potential distraction and cognitive overload from using too many images
+* evaluate the potential overuse of images
 * select alternative ways to provide the information contained in images, including tables and plain text
 * identify related requirements for:
   * developers to code images and text alternatives appropriately
@@ -155,7 +155,6 @@ Students should be able to:
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * explain the accessibility considerations when relying only on one form of biometrics and CAPTCHA
 * describe alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
-* evaluate the issues associated with accessing information contained in informative images
 * select other ways to convey the information contained in images when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
@@ -192,7 +191,7 @@ Explain that coordination among different team members is required to assess the
 Students should be able to:
 
 * apply appropriate contrast ratio for complex images
-* evaluate the use of complex images
+* evaluate the potential overuse of complex images
 * select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
 * design the placement and spacing for alternatives to complex images
@@ -235,7 +234,7 @@ Students should be able to:
 
 * describe the differences between decorative and non-decorative images depending on the type of information conveyed by the image and the overall context
 * describe different ways to present information contained in an image in the surrounding content so that the image can be considered decorative
-* evaluate the use of decorative images
+* evaluate the potential overuse of decorative images
 * select decorative images that avoid distractions and cognitive overload
 * explain how the overuse of decorative images could slow down loading times and interaction for users
 * identify related requirements for developers to code decorative images so that they are skipped by assistive technologies
