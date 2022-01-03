@@ -38,7 +38,7 @@ Students should be able to:
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * design consistent use, placement, and appearance of form elements
 * design interactions with form elements, including through mouse, keyboard, touch, and speech
-* select clear and distinguishable names as well as visual and non-visual instructions to understand the purpose and functionality of form elements
+* select clear and distinguishable names as well as visual and non-visual instructions to help understand the purpose and functionality of form elements
 * select clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
 * apply clear and descriptive error messages that:
   * identify the field in error 
