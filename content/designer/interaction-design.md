@@ -165,7 +165,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students about the commonly used modifier keys in operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
 * Practical &mdash; Give students an interface that only works with the mouse and ask them to provide keyboard interaction. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 * Practical &mdash; Have students cooperate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students cooperate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
-* Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance as well as depending on changes in context and user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement as well as meaningful sequences.
+* Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance as well as meaningful sequences depending on user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement as well as meaningful sequences.
 
 {% include excol.html type="end" %}
 
