@@ -41,7 +41,7 @@ Students should be able to:
   *  pages, landmarks, and headings
   * lists, simpler tables, and plain text
   * groups of form controls that share a common purpose
-* apply methods to communicat all relevant information about multi-step processes visually and non-visually
+* apply methods to communicate all relevant information about multi-step processes visually and non-visually
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the name and purpose of components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including the use of simple tables, lists, imagery, and plain text
