@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain how people with disabilities use several methods to obtain and process information, including text, labels, instructions, semantics, and imagery
 * describe approaches to define content in discrete and more manageable segments, for example using:
-  *  pages, landmarks, and headings
+  * pages, landmarks, and headings
   * lists, simpler tables, and plain text
   * groups of form controls that share a common purpose
 * apply methods to communicate all relevant information about multi-step processes visually and non-visually
@@ -142,9 +142,9 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students an eBook. Ask them to propose how it might be split into smaller and more manageable pieces to more easily navigate and understand. Assess how students use pages, landmarks, and headings with their corresponding rank levels as well as paragraphs, lists, and other structures to split large amounts of text into smaller and more manageable pieces.
-* Practical &mdash; Give students a complex piece of text. Ask them to define the presentation of diagrams and illustrations that complement the text. Assess how students define the presentation of diagrams and illustrations to complement processes and instructions presented in text.
-* Practical &mdash; Give students diagrams and illustrations. Ask them to define the presentation of descriptions to make information perceivable for people who cannot see the images. Assess how students define the presentation of descriptions for diagrams and illustrations.
-* Practical &mdash; Give students unusual words and abbreviations. Ask them to propose methods to explain such words or expand the abbreviations. Assess how students define methods to provide explanations of unusual words and expansions of abbreviations.
+* Practical &mdash; Give students a complex piece of text. Ask them to select diagrams and illustrations that complement the text. Assess how students select diagrams and illustrations to complement processes and instructions presented in text.
+* Practical &mdash; Give students diagrams and illustrations. Ask them to select descriptions to make information perceivable for people who cannot see the images. Assess how students select descriptions for diagrams and illustrations.
+* Practical &mdash; Give students unusual words and abbreviations. Ask them to select methods to explain such words or expand the abbreviations. Assess how students select methods to provide explanations of unusual words and expansions of abbreviations.
 
 {% include excol.html type="end" %}
 
@@ -172,14 +172,14 @@ Optional ideas to teach the learning outcomes:
 * Show examples of labels, including names for links, buttons, and form controls. Explain that these labels help users identify these components. Explain that defining the presentation of these labels is a designer's responsibility, implementing these labels is a developer's responsibility, and providing labels is a responsibility shared with the content author.
 * Show examples of overall instructions, for example indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that instruction presentation is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining the content of these instructions is a responsibility shared with the content author.
 * Show examples of multi-step processes, such as a multi-step form, with instructions to indicate the current step and total number of steps in the process. Then show examples of multi-step processes without such instructions. Compare the user experiences for each of the examples. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and providing these instructions is a responsibility shared with the content author.
-* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and programmatically, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look is a designer's responsibility, whereas coding those relations is a developer's responsibility.
+* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and non-visually, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look is a designer's responsibility, whereas coding those relations is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students group related information in a form that collects personal information, payment methods, and consent to legal conditions. Assess how students build groups of related information, and how students provide ways for users to identify each of the groups.
-* Practical &mdash; Give students a long list of items and ask them to define ways to split the list into smaller subsets. Assess how students use different strategies to group long sets of data into smaller subsets.
+* Practical &mdash; Give students a long list of items and ask them to select ways to split the list into smaller subsets. Assess how students use different strategies to group long sets of data into smaller subsets.
 
 {% include excol.html type="end" %}
 
@@ -213,7 +213,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of different types of information presented in tables. Explain that tables are used when there is a logical, tabular relationship between the information presented, for example when displaying a list of events with their date and venue.
 * Refer back to [Designer Module 1: Visual Design, Topic: Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts) and explain that some users may require different ways of presenting tabular information. For example, providing graphical representations for complex tables, splitting complex tables into simpler ones, and using lists to group the logically related information.
-* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells must be perceived both visually and programmatically. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relation is a responsibility shared with the developer.
+* Show examples of table data cells and header cells. Discuss with students which of these cells should be the header cells and which should be the data cells. Emphasize that the relation between the table data cells and header cells must be perceived both visually and non-visually. Explain that providing the styles is a designer's responsibility, whereas establishing the programmatic relation is a responsibility shared with the developer.
 
 #### Ideas to Assess Knowledge for Topic
 

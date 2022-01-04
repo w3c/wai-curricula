@@ -192,7 +192,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
-* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students balance the use of navigational components to avoid distraction and unnecessary noise.
+* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students select navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
 
@@ -215,7 +215,7 @@ Students should be able to:
   * tables of contents at the top of the page that go to each area of the content
   * expandable and collapsible contents to make it easier for users to skip over them
 * evaluate the amount of page navigational components in use
-* select components that help users navigate and orient
+* select components that minimize distractions and unnecessary noise
 
 #### Teaching Ideas for Topic
 
@@ -231,7 +231,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Have students define the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
+* Practical &mdash; Have students identify and describe the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify and describe blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
 * Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide the table of contents for documents.
 
 {% include excol.html type="end" %}
