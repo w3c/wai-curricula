@@ -169,7 +169,7 @@ Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
 * select clear and consistent names for form elements across websites and applications
-* apply visual and non-visual instructions for
+* apply visual and non-visual instructions for:
   * required input fields
   * changes in context before the component that originates such changes
   * existing time limits in a form and how to adjust them, extend them, and turn them off
@@ -185,6 +185,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of different form elements, for example buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
 * Show examples of required and non-required form fields. Explain that instructions about which of the fields are required should be provided using several methods, including visual and non-visual instructions.
 * Present examples of time limits, such as those warning about session expirations. Explain that visual and non-visual instructions must be provided so that users are aware of the time limits, and methods must be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designer's responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Show examples of form elements that share the same purpose, for example those to provide an address. Explain that form elements that share the same purpose need clear visual and non-visual associations.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
@@ -194,6 +195,7 @@ Optional ideas to assess knowledge:
 * Practical &mdash; Give students a form and ask them to assign labels for each of the fields. Assess how students provide clear and descriptive names for each of the form fields.
 * Practical &mdash; Give students a form with required and non-required fields and ask them to provide visual and non-visual instructions to communicate the required  fields. Assess how students provide clear and understandable instructions for each required field.
 * Practical &mdash; Give students a form and ask them to provide the necessary instructions for users to understand each of the fields and fill in the form. Assess how students provide clear and concise instructions.
+* Practical &mdash; Give students a form and ask them to associate those which share the same purpose. Assess how students associate form elements that share the same purpose.
 
 {% include excol.html type="end" %}
 
@@ -252,7 +254,7 @@ Show examples of visual and non-visual notifications for error messages and othe
 Students should be able to:
 
 * define the placement and appearance of notifications
-* seelect meaningful and descriptive notification messages, including:
+* select meaningful and descriptive notification messages, including:
   * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
 * design user experiences to queue and prioritize application notifications coming from different components
