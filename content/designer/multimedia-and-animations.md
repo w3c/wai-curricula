@@ -150,6 +150,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what description, captions, transcripts, and sign language mean in the context of accessible media content. Assess how students define alternatives to multimedia content.
 * Practical &mdash; Give students pieces of multimedia content and ask them to define the user experiences for the alternatives of those pieces. Assess how students define placement, interactions, and methods to control the alternatives.
+* Practical &mdash; Ask students to research for existing media players that can be integrated in a web page and to describe their support for accessibility. Assess how students recognize keyboard support, visible keyboard focus indicators, clear labels, and contrast ratio of controls.
 
 {% include excol.html type="end" %}
 
