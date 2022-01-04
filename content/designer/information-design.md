@@ -118,8 +118,8 @@ Students should be able to:
   * headings (with their corresponding rank levels)
   * sidebars and other page regions
   * paragraphs, lists, and other structures to convey content meaning
-* select diagrams and illustrations to make textual information easier to understand; for example, a diagram of the process described in the text 
-* select textual information to make diagrams and illustrations perceivable, for example a text description of an electronic device in a user manual
+* define the presentation of diagrams and illustrations to make textual information easier to understand; for example, a diagram of the process described in the text 
+* define the presentation of textual information to make diagrams and illustrations perceivable, for example a text description of an electronic device in a user manual
 * apply methods to provide specific definitions of words and meaning of phrases, such as professional terms, idioms, and jargon
 * apply methods to provide the expanded form or meaning of acronyms and abbreviations
 * identify related requirements for:

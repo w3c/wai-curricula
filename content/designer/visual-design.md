@@ -196,7 +196,7 @@ Explain how people with disabilities use visual and non-visual cues to orient on
 Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
-* create page regions using headings, spacing, and grouping
+* define page regions using headings, spacing, and grouping
 * select layouts that enable presentation of visual and non-visual cues in different screen sizes, screen configurations, and style sheets
 * apply methods to help users perceive and understand visual and non-visual cues, for example by using text, color, and icons to convey the status of tasks in a project
 

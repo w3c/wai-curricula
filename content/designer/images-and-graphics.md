@@ -195,7 +195,7 @@ Students should be able to:
 * select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
 * design the placement and spacing for alternatives to complex images
-* apply methods to identify methods for complex image descriptions, including appropriate headings and expandable and collapsible components
+* specify clear and consistent identification methods for image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including:
   * how to get to the image descriptions
   * what the description should look like

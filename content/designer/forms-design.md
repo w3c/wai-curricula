@@ -212,7 +212,7 @@ Show examples of common input errors and suggestions for correcting them. Explai
 Students should be able to:
 
 * design the placement and appearance of error messages
-* define error messages in the page title or before the form that:
+* specify error messages in the page title or before the form that:
   * identify the fields in error
   * describe the cause of the error
   * provide suggestions to correct the error when possible
@@ -253,7 +253,7 @@ Show examples of visual and non-visual notifications for error messages and othe
 
 Students should be able to:
 
-* define the placement and appearance of notifications
+* specify the placement and appearance of notifications
 * select meaningful and descriptive notification messages, including:
   * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
