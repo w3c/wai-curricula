@@ -160,7 +160,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-**Caution**: Blinking and flashing content can put some people at risk, including yourself. Let students know before showing blinking and flashing content. Ensure students understand the risks of being exposed to blinking and flashing content.
+**Caution**: Blinking and flashing content can put some people at risk, including yourself. Let students know before showing blinking and flashing content. Ensure students understand the risks. Communicate to students with enough time when you plan to show flashing content. For example, tell them in advance when the session dealing with blinking and flashing content will take place. Give students the possibility to privately opt out from being exposed to blinking and flashing content.
 
 Show moving content, such as carousels and animations. Present methods to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios when possible.
 
