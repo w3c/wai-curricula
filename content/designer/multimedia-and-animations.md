@@ -41,7 +41,7 @@ Students should be able to:
 * identify accessibility considerations for media players, including:
   * support for different methods of interaction, including mouse, keyboard, touch, and speech
   * controls that have clear and descriptive names, that are easy to find on the page, and that are reachable by all users
-* select methods to control automatic audio and movement, including:
+* specify methods to control automatic audio and movement, including:
   * mute and control the volume of auto-playing audio
   * pause, stop, and hide moving, blinking, and auto-updating content, including carousels and animations
 * identify related requirements for:
@@ -168,12 +168,12 @@ Show moving content, such as carousels and animations. Present methods to avoid 
 
 Students should be able to:
 
-* select methods for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example animations, carousels, and decorative gimmicks
+* specify methods for pausing, stopping, or hiding any content that blinks, moves, or auto-updates, for example animations, carousels, and decorative gimmicks
 * create designs that avoid flashing entirely or only flash below the acceptable thresholds
 * create designs with enough time for users to read parts of moving content, for example different slides in a carousel
 * identify and communicate animated content and its different parts visually and non-visually, for example a carousel region and its different slides
-* design focus order within animated content, including how to move to different parts of the carousel and how to get to the carousel controls
-* select methods for stopping or controlling the volume of any audio that plays automatically for more than three seconds
+* specify the focus order within animated content, including how to move to different parts of the carousel and how to get to the carousel controls
+* specify methods for stopping or controlling the volume of any audio that plays automatically for more than three seconds
 
 #### Teaching Ideas for Topic
 

@@ -39,10 +39,10 @@ Students should be able to:
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
 * describe different interactions for navigational components, including by keyboard, mouse, touch, and speech
-* select clear and consistent visual and non-visual:
+* define clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
-* communicate blocks of repeated content
+* specify blocks of repeated content
 * create site maps and descriptive page titles to help users locate specific web pages within websites
 * evaluate the use of navigational components, including menus, tables of contents, and site maps
 * select navigational components that minimize distraction and unnecessary noise
@@ -120,10 +120,10 @@ Explain styling conventions for menus, such as expected location, appropriate si
 Students should be able to:
 
 * describe uses of different types of navigation menus, such as static, fly-out, and mega menus
-* select visual and text indications to identify menus, including:
+* define visual and text indications to identify menus, including:
   * consistent styling for menu identification across websites
   * visual and non-visual indications about the current page in the navigation menu 
-* design interactions inside navigation menus, including mouse, keyboard, touch, and speech
+* specify interactions inside navigation menus, including through mouse, keyboard, touch, and speech
 * design navigation menus that adapt to different text sizes, screen magnifications, and screen sizes and resolutions 
 * apply distinguishable and consistent styles for menu items in their different states, for example in fly-out menus
 * identify related requirements for developers to implement:

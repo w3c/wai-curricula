@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain how images and graphics help people with disabilities to process information, identify content, and understand functionality
 * explain how text alternatives are essential for people with disabilities to understand the information contained in images
-* select meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
+* specify meaningful and consistent text alternatives for functional images, for example those included in buttons, links, icons, and logos
 * define consistent imagery to help users recognize the purpose of icons, thumbnails, and other graphical components
 * explain the issues associated with perception, interpretation, and rendering of images of text
 * explain how to avoid images of text by using technologies that achieve the desired visual presentation wherever possible
@@ -108,7 +108,7 @@ Functional images convey the purpose of a component. For example, search, print,
 
 Students should be able to:
 
-* select text alternatives for functional images using the following methods:
+* specify text alternatives for functional images using the following methods:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
@@ -147,14 +147,14 @@ Explain that providing text alternatives for informative images is a responsibil
 
 Students should be able to:
 
-* apply text alternatives that are equally informative as the described images using the following methods:
+* specify text alternatives that are equally informative as the described images using the following methods:
   * boilerplate descriptions that would then be completed and maintained through the development and authoring phases
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the content
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
-* explain the accessibility considerations when relying only on one form of biometrics and CAPTCHA
-* describe alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
+* explain the accessibility considerations of relying only on one form of biometrics and CAPTCHA
+* specify alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
 * select other ways to convey the information contained in images when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
@@ -194,7 +194,7 @@ Students should be able to:
 * evaluate the potential overuse of complex images
 * select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
-* design the placement and spacing for alternatives to complex images
+* define the placement and spacing for alternatives to complex images
 * specify clear and consistent identification methods for image descriptions, including appropriate headings and expandable and collapsible components
 * design user experiences for complex images, including:
   * how to get to the image descriptions

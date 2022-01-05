@@ -37,10 +37,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on placement, structure, labels, instructions, and notifications to understand, navigate, and interact with forms
 * design consistent use, placement, and appearance of form elements
-* design interactions with form elements, including through mouse, keyboard, touch, and speech
-* select clear and distinguishable names as well as visual and non-visual instructions to help understand the purpose and functionality of form elements
-* select clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
-* apply clear and descriptive error messages that:
+* specify interactions with form elements, including through mouse, keyboard, touch, and speech
+* specify clear and distinguishable names as well as visual and non-visual instructions to help understand the purpose and functionality of form elements
+* define clear and descriptive visual and non-visual instructions for the current step and the total number of steps in multi-step forms
+* specify clear and descriptive error messages that:
   * identify the field in error 
   * provide suggestions for correction when possible
 * apply meaningful and descriptive visual and non-visual notifications, including for:
@@ -168,8 +168,8 @@ Refer back to [Designer Module 2: Information Design, Topic: Naming and Grouping
 Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
-* select clear and consistent names for form elements across websites and applications
-* apply visual and non-visual instructions for:
+* specify clear and consistent names for form elements across websites and applications
+* define visual and non-visual instructions for:
   * required input fields
   * changes in context before the component that originates such changes
   * existing time limits in a form and how to adjust them, extend them, and turn them off
@@ -211,12 +211,12 @@ Show examples of common input errors and suggestions for correcting them. Explai
 
 Students should be able to:
 
-* design the placement and appearance of error messages
+* define the placement and appearance of error messages
 * specify error messages in the page title or before the form that:
   * identify the fields in error
   * describe the cause of the error
   * provide suggestions to correct the error when possible
-* apply methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
+* specify methods to reverse, check, and confirm critical submissions, including legal, financial, and sensitive data
 
 #### Teaching Ideas for Topic
 
@@ -253,8 +253,8 @@ Show examples of visual and non-visual notifications for error messages and othe
 
 Students should be able to:
 
-* specify the placement and appearance of notifications
-* select meaningful and descriptive notification messages, including:
+* define the placement and appearance of notifications
+* specify meaningful and descriptive notification messages, including:
   * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
 * design user experiences to queue and prioritize application notifications coming from different components

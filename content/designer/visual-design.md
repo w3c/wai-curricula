@@ -123,7 +123,7 @@ Students should be able to:
 * design text and images of text that have a contrast ratio of at least 4.5:1 with respect to their background
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design user interface components and graphics that have a contrast ratio of at least 3:1 with respect to their background
-* select layouts to enable users to change colors based on customized screen sizes, screen configurations, and style sheets
+* define layouts that enable users to change colors based on customized screen sizes, screen configurations, and style sheets
 * use visual cues in addition to text color, for example by using different patterns, shapes, and icons
 * use text to complement information provided visually
 
@@ -158,7 +158,7 @@ Explain how people with disabilities rely on distinguishable and customizable st
 Students should be able to:
 
 * use clear and distinguishable styles for links, buttons, form labels and instructions, and text
-* select customizable style properties to support content readability, including:
+* specify customizable style properties to support content readability, including:
   * font types
   * font sizes
   * spacing
@@ -197,8 +197,8 @@ Students should be able to:
 
 * design focus indicators that enable people to tell where they are as they move through web pages and applications using the keyboard
 * define page regions using headings, spacing, and grouping
-* select layouts that enable presentation of visual and non-visual cues in different screen sizes, screen configurations, and style sheets
-* apply methods to help users perceive and understand visual and non-visual cues, for example by using text, color, and icons to convey the status of tasks in a project
+* design layouts that enable presentation of visual and non-visual cues in different screen sizes, screen configurations, and style sheets
+* specify methods to help users perceive and understand visual and non-visual cues, for example by using text, color, and icons to convey the status of tasks in a project
 
 #### Teaching Ideas for Topic
 
@@ -237,7 +237,7 @@ Students should be able to:
 * design layouts that adapt their content view and operation to portrait and landscape orientations
 * design layouts with target sizes that adapt to different screen sizes, screen configurations, and style sheets, for example when creating responsive designs
 * design layouts to support user customization of line height, as well as spacing between paragraphs, words, and letters
-* create meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
+* specify meaningful focus orders that adapt to different viewports, screen sizes, and multiple breakpoints
 * evaluate the potential overuse of design elements, in particular interactive widgets, images, and moving content
 * select elements that minimize distraction and cognitive overload
 
