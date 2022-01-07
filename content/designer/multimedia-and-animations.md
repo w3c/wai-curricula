@@ -162,7 +162,7 @@ Optional ideas to assess knowledge:
 
 Discuss different types of moving content, including carousels and animations. Present methods to avoid seizures, physical reactions, distractions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content.
 
-**Caution**: Do not show blinking or flashing that can cause seizures. Moving content can cause nausea and other reactions. If you choose to show examples, give students enough time to avoid seeing the content and to privately opt out of it.
+**Caution**: Do not show blinking or flashing that can cause seizures. Moving content can cause nausea and other reactions. If you choose to show examples, give students enough time to privately opt out of seeing the content.
 
 #### Learning Outcomes for Topic
 
