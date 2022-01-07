@@ -55,7 +55,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
+* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
 * Prior [Designer Modules](/curricula/designer-modules/)
 * Knowledge of:
   * Visual Design

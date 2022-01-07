@@ -60,7 +60,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
+* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
 * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
 * Basic knowledge of:
   * Visual Design
@@ -85,7 +85,7 @@ Skills required for this module:
   * [WCAG Success Criterion 3.2.2 ON Input](https://www.w3.org/WAI/WCAG21/quickref/#on-input)
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
 * In-depth knowledge of:
-  * [Foundation Prerequisites](/curricula/designer-modules#foundation-prerequisites)
+  * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design/)
   * Visual Design
   * Prototyping
