@@ -160,9 +160,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-**Caution**: Blinking and flashing content can put some people at risk, including yourself. Let students know before showing blinking and flashing content. Ensure students understand the risks. Communicate to students with enough time when you plan to show flashing content. For example, tell them in advance when the session dealing with blinking and flashing content will take place. Give students the possibility to privately opt out of being exposed to blinking and flashing content.
+Discuss different types of moving content, including carousels and animations. Present methods to avoid distractions, seizures, physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as minimizing blinking and flashing when possible.
 
-Show moving content, such as carousels and animations. Present methods to avoid distractions, seizures and physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as using flashing that is below the accepted ratios when possible.
+**Caution**: Blinking and flashing content can put people at risk. Let students know with enough time if you plan to show examples. Ensure students understand the risks and can privately opt out of being exposed to this content.
 
 #### Learning Outcomes for Topic
 
@@ -179,16 +179,14 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-**Caution**: Use all of the following teaching ideas only with prior warning that they include flickering, flashing, or animated content. Make sure students understand the risks of engaging with the examples. Make these teaching ideas optional for students.
-
-* Show examples of content that moves or blinks, such as animations and carousels. Explain that moving content can be problematic and can cause distraction and anxiety for several types of users. Emphasize that some animation frequencies are also known to cause seizures and physical reactions for certain users. For references on how to design interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
+* Invite students to research about different types of moving content, such as carousels and animations. Explain that moving content can cause distraction and anxiety for several types of users. Emphasize that some animation frequencies are also known to cause seizures and physical reactions for certain users. For references on how to design interfaces that allow to pause, stop, and hide moving, blinking, or auto-updating content, see the following techniques:
   * [G4: Allowing the content to be paused and restarted from where it was paused](https://www.w3.org/WAI/WCAG21/Techniques/general/G4),
   * [G11: Creating content that blinks for less than 5 seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G11),
   * [G152: Setting animated gif images to stop blinking after n cycles (within 5 seconds)](https://www.w3.org/WAI/WCAG21/Techniques/general/G152),
   * [G186: Using a control in the Web page that stops moving, blinking, or auto-updating content](https://www.w3.org/WAI/WCAG21/Techniques/general/G186), and
   * [G187: Using a technology to include blinking content that can be turned off via the user agent](https://www.w3.org/WAI/WCAG21/Techniques/general/G187).
-* Show examples of flashing content. Emphasize that all interface components must be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole interface. For references on how to design interfaces that flash below the general flash and red flash thresholds or that flash below three seconds, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Explain that interactions triggered by animations, such as additional movements when scrolling and decorative gimmicks, can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Illustrate with examples only when students understand the risks and are comfortable with being exposed to such content. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
+* Invite students to research about flashing content. Emphasize that all interface components must flash only up to three times in one second or be below the general flash and red flash thresholds, as any flashing interferes with the ability to use the whole interface. For references on how to design interfaces that flash below the general flash and red flash thresholds or that flash below three times in a second, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
+* Explain that interactions triggered by animations, such as additional movements when scrolling and decorative gimmicks, can cause distraction and vestibular disorders (such as dizziness, nausea, and headaches) for some people. Discuss the use of preferences as well as technology specific properties to reduce or disable such animations.
 * Demonstrate the use of a screen reader to navigate an application that plays audio automatically for more than three seconds. Explain that the playing audio interferes with the ability to hear the screen reader output. Emphasize that there should be a method to pause or control the volume of that audio. Explain that the operating system often provides such method. For references on how to design interfaces with methods to pause or control the volume of any audio that plays automatically, see the following techniques:
   * [G60: Playing a sound that turns off automatically within three seconds](https://www.w3.org/WAI/WCAG21/Techniques/general/G60.html),
   * [G170: Providing a control near the beginning of the Web page that turns off sounds that play automatically](https://www.w3.org/WAI/WCAG21/Techniques/general/G170.html), and
@@ -198,8 +196,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
+* Practical &mdash; Ask students to include methods for reducing or disabling animations in a user interface. Assess how students specify methods to reduce or disable animations.
 * Short Answer Questions &mdash; Ask students about the accepted general flash and red flash thresholds. Assess how students understand accessibility requirements for flashing content.
-* Practical &mdash; Give students an interface containing animations and ask them to make them accessible. Assess how students define methods to reduce or disable the animations.
 * Practical &mdash; Give students examples of web pages using carousels. Ask them to evaluate the carousel's support for accessibility. Assess how students understand accessibility requirements for carousels.
 
 {% include excol.html type="end" %}
