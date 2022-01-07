@@ -160,9 +160,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss different types of moving content, including carousels and animations. Present methods to avoid distractions, seizures, physical reactions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as minimizing blinking and flashing when possible.
+Discuss different types of moving content, including carousels and animations. Present methods to avoid seizures, physical reactions, distractions, and unpredictable keyboard focus management caused by moving content. For example, support for pausing, stopping, or hiding moving content, as well as minimizing blinking and flashing.
 
-**Caution**: Blinking and flashing content can put people at risk. Let students know with enough time if you plan to show examples. Ensure students understand the risks and can privately opt out of being exposed to this content.
+**Caution**: Do not show blinking or flashing that can cause seizures. Moving content can cause nausea and other reactions. If you choose to show examples, give students enough time to privately opt out of seeing the content.
 
 #### Learning Outcomes for Topic
 
