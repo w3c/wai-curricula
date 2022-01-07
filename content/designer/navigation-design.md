@@ -173,7 +173,6 @@ Students should be able to:
   * descriptive page titles
   * text and visual indications about the current page in the navigation menu 
 * evaluate the amount of site navigational components in use
-* select components that help users navigate and orient
 * identify related requirements for developers to apply semantics and styles to site navigational components
 
 #### Teaching Ideas for Topic
@@ -226,6 +225,7 @@ Optional ideas to teach the learning outcomes:
   * [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and
   * [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
 * Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content. For references on how to provide a table of contents, see technique [G64: Providing a Table of Contents](https://www.w3.org/WAI/WCAG21/Techniques/general/G64.html).
+* Invite students to research how the overuse of page navigational components can cause distraction and unnecessary noise for some users. For example, too many methods to bypass blocks of repeated content can contribute to a more cluttered keyboard user experience instead of making navigation easier.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -233,6 +233,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students identify and describe the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify and describe blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
 * Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide the table of contents for documents.
+* Practical &mdash; Give students an interface with too many page navigational components. Ask students to identify the ones that are likely to cause distractions and unnecessary noise. Assess how students select page navigational components that minimize distractions and unnecesssary noise.
 
 {% include excol.html type="end" %}
 
