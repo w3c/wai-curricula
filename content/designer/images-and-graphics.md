@@ -155,7 +155,7 @@ Students should be able to:
 * use styled text instead of images of text when the technology in use can provide the desired visual presentation
 * explain the accessibility considerations of relying only on one form of biometrics and CAPTCHA
 * specify alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
-* select other ways to convey the information contained in images when possible, including plain text
+* select alternative ways to convey the information contained in images when possible, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic
@@ -192,7 +192,7 @@ Students should be able to:
 
 * apply appropriate contrast ratio for complex images
 * evaluate the potential overuse of complex images
-* select other ways to present the information contained in complex images, for example using tables, simpler images, and plain text
+* select alternative ways to present the information contained in complex images, for example using tables, simpler images, and plain text
 * determine if and how complex images are operated using input devices, including mouse, keyboard, touch, and voice
 * define the placement and spacing for alternatives to complex images
 * specify clear and consistent identification methods for image descriptions, including appropriate headings and expandable and collapsible components
@@ -251,7 +251,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Ask students to provide decorative images to illustrate a text article and ask them to ensure these icons are visible in different screen sizes and devices. Assess how students understand the need for decorative images to adapt to the different user needs and preferences.
-* Practical &mdash; Give students an interface with too many decorative images and ask students to identify the ones that are likely to cause  distractions, cognitive overload, and slow loading times. Assess how students balance the use of decorative images to minimize distractions, cognitive overload, and slow loading times.
+* Practical &mdash; Give students an interface with too many decorative images and ask students to identify the ones that are likely to cause distractions, cognitive overload, and slow loading times. Assess how students select decorative images that minimize distractions, cognitive overload, and loading times.
 
 {% include excol.html type="end" %}
 
