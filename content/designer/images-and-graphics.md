@@ -112,7 +112,7 @@ Students should be able to:
   * text alternatives for images
   * combinations of text alternatives of images and adjacent text inside components
   * adjacent text inside components to understand its function
-* use consistent naming and imagery for components that have the same functionality across web pages
+* specify consistent naming and imagery for components that have the same functionality across web pages
 * explain the benefits of using text labels and decorative images for functionality, instead of using images with text alternatives that are only available to some users, such as screen reader users
 * apply appropriate contrast ratio for functional images
 
@@ -152,10 +152,10 @@ Students should be able to:
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the content
-* use styled text instead of images of text when the technology in use can provide the desired visual presentation
+* cooperate with developers and content authors to use styled text when the technology in use can provide the desired visual presentation
 * explain the accessibility considerations of relying only on one form of biometrics and CAPTCHA
 * specify alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
-* select alternative ways to convey the information contained in images when possible, including plain text
+* specify alternative ways to convey the information contained in images, including plain text
 * identify related requirements for developers to code alternative texts for informative images
 
 ### Teaching Ideas for Topic

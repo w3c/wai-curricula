@@ -39,10 +39,10 @@ Students should be able to:
 * explain strategies that people with disabilities use to navigate websites and applications
 * design different navigational components, including menus, tables of contents, and search functionalities
 * describe different interactions for navigational components, including by keyboard, mouse, touch, and speech
-* define clear and consistent visual and non-visual:
+* specify clear and consistent visual and non-visual:
   * presentation of menus and menu items
   * indication of state changes for menu items
-* specify blocks of repeated content
+* define blocks of repeated content
 * create site maps and descriptive page titles to help users locate specific web pages within websites
 * evaluate the use of navigational components, including menus, tables of contents, and site maps
 * select navigational components that minimize distraction and unnecessary noise
@@ -233,7 +233,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students identify and describe the blocks of repeated content in a website and cooperate with developers to provide a way for users to bypass such blocks. Assess how students identify and describe blocks of repeated content and how they cooperate with developers to provide a method to bypass such blocks.
 * Practical &mdash; Give students a document and ask them to provide the table of contents. Assess how students provide the table of contents for documents.
-* Practical &mdash; Give students an interface with too many page navigational components. Ask students to identify the ones that are likely to cause distractions and unnecessary noise. Assess how students select page navigational components that minimize distractions and unnecesssary noise.
+* Practical &mdash; Give students an interface with too many page navigational components. Ask students to identify the ones that are likely to cause distractions and unnecessary noise. Assess how students select page navigational components that minimize distractions and unnecessary noise.
 
 {% include excol.html type="end" %}
 

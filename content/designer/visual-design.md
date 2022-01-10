@@ -40,7 +40,7 @@ Students should be able to:
 * design layouts with sufficient contrast ratio for text, images of text, and controls
 * design clear and distinguishable focus indicators, for example by using borders, color, and highlighting
 * use headings, spacing, and styling to group related content
-* use multiple visual and non-visual cues to convey information, including text, color, patterns, and icons
+* specify multiple visual and non-visual cues to convey information, including text, color, patterns, and icons
 * design layouts that adapt to:
   * different font sizes and spacing set by the user in browser and operating system settings
   * different screen sizes, screen configurations, and user style sheets
@@ -124,7 +124,7 @@ Students should be able to:
 * design large-scale text and images of text that have a contrast ratio of at least 3:1 with respect to their background
 * design user interface components and graphics that have a contrast ratio of at least 3:1 with respect to their background
 * define layouts that enable users to change colors based on customized screen sizes, screen configurations, and style sheets
-* use visual cues in addition to text color, for example by using different patterns, shapes, and icons
+* specify visual cues in addition to text color, for example by using different patterns, shapes, and icons
 * use text to complement information provided visually
 
 #### Teaching Ideas for Topic
@@ -157,7 +157,7 @@ Explain how people with disabilities rely on distinguishable and customizable st
 
 Students should be able to:
 
-* use clear and distinguishable styles for links, buttons, form labels and instructions, and text
+* specify clear and distinguishable styles for links, buttons, form labels and instructions, and text
 * specify customizable style properties to support content readability, including:
   * font types
   * font sizes

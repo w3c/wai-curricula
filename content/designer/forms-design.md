@@ -169,7 +169,7 @@ Students should be able to:
 
 * design user experiences that consider position and appearance for labels and instructions
 * specify clear and consistent names for form elements across websites and applications
-* define visual and non-visual instructions for:
+* specify visual and non-visual instructions for:
   * required input fields
   * changes in context before the component that originates such changes
   * existing time limits in a form and how to adjust them, extend them, and turn them off
