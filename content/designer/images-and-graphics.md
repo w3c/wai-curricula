@@ -152,7 +152,7 @@ Students should be able to:
   * adjacent textual information to complement images and icons, for example in a news headline
   * text alternatives that describe the information conveyed by images
 * apply the appropriate contrast ratio to images that are necessary to understand the content
-* cooperate with developers and content authors to use styled text when the technology in use can provide the desired visual presentation
+* collaborate with developers and content authors to use styled text when the technology in use can provide the desired visual presentation
 * explain the accessibility considerations of relying only on one form of biometrics and CAPTCHA
 * specify alternatives to biometrics and CAPTCHA, for example using visual, auditory, and logical CAPTCHA
 * specify alternative ways to convey the information contained in images, including plain text

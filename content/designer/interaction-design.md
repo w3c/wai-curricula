@@ -142,7 +142,7 @@ Students should be able to:
 * select keyboard interactions that do not conflict with the operating system, browser, and assistive technologies when possible
 * specify methods to obtain information about custom keyboard shortcuts, for example those used to support efficiency and those used in custom widgets and complex applications
 * design consistent placement and appearance of focus indicators
-* cooperate with developers to:
+* collaborate with developers to:
   * provide methods to remap or disable conflicting shortcuts
   * programmatically set focus in complex widgets, including sliders, tabs, dialogs, application menus, tree views, and notifications
   * implement keyboard support for components that have no keyboard support by default
