@@ -54,8 +54,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-* [Developer Modules](/curricula/curriculum-for-developers)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* [Developer Modules](/curricula/developer-modules)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 * Basic knowledge of [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
 
@@ -90,8 +90,8 @@ Skills required for this module:
   * [HTML common input element attributes {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/input.html#common-input-element-attributes)
   * [HTML date, time, and input formats {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#input-author-notes)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-  * [Page Structure](/curricula/developer-modules/page-structure/)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}
 
@@ -105,7 +105,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
+Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Developer Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
 
 #### Learning Outcomes for Topic
 
@@ -247,6 +247,7 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
+* [Designing for Web Accessibility](/tips/designing/) &mdash; Tips for user interface and visual design.
 * [Forms (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

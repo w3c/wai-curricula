@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/developer-modules/rich-applications/
-  next: /curricula/designer-modules/flexible-layout-and-design/
+  next: /curricula/designer-modules/visual-design/
 ---
 
 ## Introduction
@@ -27,22 +27,25 @@ navigation:
 
 The designer modules guide the creation of courses that:
 
-* introduce key accessibility terms for designers and relate some design terms to accessibility
+* explain how design principles and practices relate to accessibility
 * demonstrate and explain how accessible design enables people with disabilities to use websites and applications
 * teach accessible design techniques for:
   * visual design
   * information design
-  * user experience
+  * navigation design
   * interaction design
+  * images and graphics
+  * multimedia and animations
+  * forms
 
-These modules focus on visual, information, user experience, and interaction aspects to design accessible web pages and applications. The modules primarily address the following roles:
+These modules focus on accessible user experiences. They are primarily designed for teaching:
 
-* Visual Designer
-* Information Architect
-* User Experience (UX) Designer
-* Interaction Designer
+* Visual Designers
+* Information Architects
+* User Experience (UX) Designers
+* Interaction Designers
 
-### Prerequisites for Students
+### Foundation Prerequisites
 
 The designer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
@@ -59,33 +62,34 @@ The designer modules are designed for students who have achieved the learning ou
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
+## Designer Modules
 
-## Modules
-
--   [Module 1: Flexible Layout and Design](/curricula/designer-modules/flexible-layout-and-design)
-    -   [Topic: Text Styling](/curricula/designer-modules/flexible-layout-and-design/#topic-text-styling)
-    -   [Topic: Landmarks and Cues](/curricula/designer-modules/flexible-layout-and-design/#topic-landmarks-and-cues)
-    -   [Topic: Use of Color](/curricula/designer-modules/flexible-layout-and-design/#topic-use-of-color)
-    -   [Topic: Flexible Design](/curricula/designer-modules/flexible-layout-and-design/#topic-flexible-design)
--   [Module 2: Navigation](/curricula/designer-modules/navigation/)
-    -   [Topic: Menu Behaviors and Patterns](/curricula/designer-modules/navigation/#topic-menu-behaviors-and-patterns)
-    -   [Topic: Other Navigation Mechanisms](/curricula/designer-modules/navigation/#topic-other-navigation-mechanisms)
-    -   [Topic: Location](/curricula/designer-modules/navigation/#topic-location)
--  [Module 3: InformationDesign](/curricula/designer-modules/information-design/)
-    -   [Topic: Textual Information](/curricula/designer-modules/information-design/#topic-textual-information)
-    -   [Topic: Tabular Information](/curricula/designer-modules/information-design/#topic-tabular-information)
-    -   [Topic: Forms and Controls](/curricula/designer-modules/information-design/#topic-forms-and-controls)
--   [Module 4: Images and Graphics](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
+-   [Module 1: Visual Design](/curricula/designer-modules/visual-design)
+    -   [Topic: Color](/curricula/designer-modules/visual-design/#topic-color)
+    -   [Topic: Styles](/curricula/designer-modules/visual-design/#topic-styles)
+    -   [Topic: Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues)
+    -   [Topic: Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts)
+-   [Module 2: Information Design](/curricula/designer-modules/information-design/)
+    -   [Topic: Text and Structure](/curricula/designer-modules/information-design/#topic-text-and-structure)
+    -   [Topic: Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping)
+    -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tables)
+-   [Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
+    -   [Topic: Menus](/curricula/designer-modules/navigation-design/#topic-menus)
+    -   [Topic: Site Navigation](/curricula/designer-modules/navigation-design/#topic-site-navigation)
+    -   [Topic: Page Navigation](/curricula/designer-modules/navigation-design/#topic-page-navigation)
+-   [Module 4: Interaction Design](/curricula/designer-modules/interaction-design/)
+    -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-design/#topic-keyboard-interactions)
+    -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-design/#topic-gestures-and-motion)
+-   [Module 5: Images and Graphics](/curricula/designer-modules/images-and-graphics/)
     -   [Topic: Functional Images](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
     -   [Topic: Informative Images](/curricula/designer-modules/images-and-graphics/#topic-informative-images)
-    -   [Topic: Decorative Images](/curricula/designer-modules/images-and-graphics/#topic-decorative-images)
     -   [Topic: Complex Images](/curricula/designer-modules/images-and-graphics/#topic-complex-images)
--   [Module 5: Multimeedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
+    -   [Topic: Decorative Images](/curricula/designer-modules/images-and-graphics/#topic-decorative-images)
+-   [Module 6: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
--   [Module 6: Interaction and Feedback](/curricula/designer-modules/interaction-and-feedback/)
-    -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-and-feedback/#topic-keyboard-interactions)
-    -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-and-feedback/#topic-gestures-and-motion)
-    -   [Topic: Labels and Instructions](/curricula/designer-modules/interaction-and-feedback/#topic-labels-and-instructions)
-    -   [Topic: Errors and Notifications](/curricula/designer-modules/interaction-and-feedback/#topic-errors-and-notifications)
-    
+-   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
+    -   [Topic: Form Elements](/curricula/designer-modules/forms-design/#topic-form-elements)
+    -   [Topic: Labels and Instructions](/curricula/designer-modules/forms-design/#topic-labels-and-instructions)
+    -   [Topic: Errors](/curricula/designer-modules/forms-design/#topic-errors)
+    -   [Topic: Notifications](/curricula/designer-modules/forms-design/#topic-notifications)

@@ -54,7 +54,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of the [HTML `table` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#the-table-element)
 
 {% include excol.html type="end" %}
@@ -79,7 +79,7 @@ Skills required for this module:
   * [HTML `headers` attribute {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#attr-tdth-headers)
   * [HTML `Caption` element {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element)
   * [HTML `Summary` attribute {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/obsolete.html#attr-table-summary)
-* In-depth knowledge of [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* In-depth knowledge of [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 
 {% include excol.html type="end" %}
 

@@ -106,7 +106,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %} 
 
-Explain that web accessibility depends on several components working together: content, browsers, authoring tools, web designers and developers, and more. Briefly note that there are W3C Standards for the different components. (The standards are explored in detail in [Module 4](/curricula/foundation-modules/principles-standards-and-checks/).) For an explanation of the components and how they link together, see [Essential Components of Web Accessibility](/fundamentals/components/).
+Explain that web accessibility depends on several components working together: content, browsers, authoring tools, web designers and developers, and more. Briefly note that there are W3C Standards for the different components. (The standards are explored in detail in [Foundation Module 4](/curricula/foundation-modules/principles-standards-and-checks/).) For an explanation of the components and how they link together, see [Essential Components of Web Accessibility](/fundamentals/components/).
 
 #### Learning Outcomes for Topic
 

@@ -239,8 +239,6 @@
         url: "/curricula/foundation-modules/principles-standards-and-checks/"
       - name: Getting Started with Accessibility
         url: "/curricula/foundation-modules/getting-started-with-accessibility/"
-      - name: Understanding and Involving Users
-        url: "/curricula/foundation-modules/understanding-and-involving-users/"
     - name: Developer Modules
       url: "/curricula/developer-modules/"
       pages:
@@ -261,18 +259,20 @@
     - name: Designer Modules
       url: "/curricula/designer-modules/"
       pages:
-      - name: Flexible Layout and Design
-        url: "/curricula/designer-modules/flexible-layout-and-design/"
-      - name: Navigation
-        url: "/curricula/designer-modules/navigation/"
+      - name: Visual Design
+        url: "/curricula/designer-modules/visual-design/"
       - name: Information Design
         url: "/curricula/designer-modules/information-design/"
+      - name: Navigation Design
+        url: "/curricula/designer-modules/navigation-design/"
+      - name: Interaction Design
+        url: "/curricula/designer-modules/interaction-design/"
       - name: Images and Graphics
         url: "/curricula/designer-modules/images-and-graphics/"
       - name: Multimedia and Animations
         url: "/curricula/designer-modules/multimedia-and-animations/"
-      - name: Interaction and Feedback
-        url: "/curricula/designer-modules/interaction-and-feedback/"
+      - name: Forms Design
+        url: "/curricula/designer-modules/forms-design/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true
