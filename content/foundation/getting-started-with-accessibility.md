@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/foundation-modules/principles-standards-and-checks/
-  next: /curricula/developeer-modules/
+  next: /curricula/developer-modules/
 ---
 
 ## Introduction
