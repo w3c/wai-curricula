@@ -239,6 +239,8 @@
         url: "/curricula/foundation-modules/principles-standards-and-checks/"
       - name: Getting Started with Accessibility
         url: "/curricula/foundation-modules/getting-started-with-accessibility/"
+      - name: Understanding and Involving Users
+        url: "/curricula/foundation-modules/understanding-and-involving-users/""
     - name: Developer Modules
       url: "/curricula/developer-modules/"
       pages:
