@@ -199,7 +199,7 @@ Students should be able to:
 * design user experiences for complex images, including:
   * how to get to the image descriptions
   * what the descriptions should look like
-  * if the descriptions are sufficient to understand the information provided in the image
+  * if the descriptions are equivalent to the information provided in the image
 * identify related requirements for content authors to:
   * provide descriptive, equivalent textual information to understand complex images and graphics, including diagrams, charts, maps, and infographics
   * break down complex images into smaller and more manageable pieces, for example simpler images, tables, and plain text
