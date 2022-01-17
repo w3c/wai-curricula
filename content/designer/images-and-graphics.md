@@ -261,7 +261,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students which types of images require which contrast ratio. Assess how students understand the different types of images and their requirements for contrast ratio .
+* Short Answer Questions &mdash; Ask students which types of images require which contrast ratio. Assess how students understand the different types of images and their requirements for contrast ratio.
 * Portfolio &mdash; Have students design the imagery for a website. Assess how students include accessibility requirements in the images in graphics they design, for example contrast ratio, text alternatives that belong to the design phase, and placeholders for any other text alternative that is planned for later stages of the design and development process.
 
 ## Teaching Resources
