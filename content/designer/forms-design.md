@@ -253,7 +253,7 @@ Show examples of visual and non-visual notifications for error messages and othe
 
 Students should be able to:
 
-* define the placement and appearance of notifications
+* specify the placement and appearance of notifications
 * specify meaningful and descriptive notification messages, including:
   * on input (to communicate if the provided input is valid or invalid)
   * on task completion (to communicate success or failure of a specific task)
