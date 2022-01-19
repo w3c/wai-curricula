@@ -112,7 +112,7 @@ Topics to achieve the learning outcomes:
 
 Explain how sufficient contrast ratio is essential for people with disabilities to perceive, distinguish, and understand content.
 
-Describe how some people rely on color to understand and distinguish content. Explain that some people perceive color in different ways, and that some may not perceive color at all. Discuss different ways to supplement information presented using color, such as using shapes and icons.
+Describe how some people rely on color differences to understand and distinguish content. Explain that some people perceive color in different ways, and that some may not perceive color at all. Discuss different ways to supplement information presented using color, such as using shapes and icons.
 
 #### Learning Outcomes for Topic
 
