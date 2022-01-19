@@ -171,7 +171,7 @@ Students should be able to:
 * specify clear and consistent names for form elements across websites and applications
 * specify visual and non-visual instructions for:
   * required input fields
-  * changes in context before the component that originates such changes
+  * major changes in the content before the component that originates such changes
   * existing time limits in a form and how to adjust them, extend them, and turn them off
   * the current step and the total number of steps involved in a multi-step form
 * associate form elements that share the same purpose, such as those to provide an address, and communicate these groups visually and non-visually
@@ -245,9 +245,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Show examples of notification messages. Explain that they must be  identified both visually and non-visually in order to be distinguishable by all users.
+Show examples of notification messages. Explain that users need visual and non-visual methods to identify and distinguish such notifications.
 
-Show examples of visual and non-visual notifications for error messages and other types of feedback for forms. Explain that notifications may have different levels of priority when in the context of a complex form. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designer's responsibility whereas implementing these levels is a developer's responsibility.
+Show examples of visual and non-visual notifications for error messages and other types of feedback for forms. Explain that notifications may have different levels of priority when in the context of a complex form. Explain that defining such levels of priority and which types of notifications each of these levels should contain is a designer's responsibility, whereas implementing these levels is a developer's responsibility.
 
 #### Learning Outcomes for Topic
 
