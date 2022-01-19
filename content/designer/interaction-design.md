@@ -164,7 +164,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the commonly used modifier keys in operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
 * Practical &mdash; Give students an interface that only works with the mouse and ask them to provide keyboard interaction. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
-* Practical &mdash; Have students collaborate with developers to avoid custom keyboard shortcut conflicts with existing operating system and assistive technology keystrokes. Assess how students collaborate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
+* Practical &mdash; Have students collaborate with developers to include custom keyboard shortcuts that do not conflict with existing operating system and assistive technology keystrokes. Assess how students collaborate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
 * Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance as well as meaningful sequences depending on user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement as well as meaningful sequences.
 
 {% include excol.html type="end" %}
@@ -196,7 +196,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of interactions based on swipe and pinch gestures. Explain that users with mobility impairments may have difficulty to perform such gestures. Therefore, interfaces must have alternatives that do not require swiping or pinching to perform an action.
 * Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments may have difficulty to perform such gestures. Therefore, interfaces must have alternatives that do not require motion for these gestures.
 * Show examples of operations carried out using path-based gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events. Therefore, interfaces must support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
-* Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts). Explain that larger target sizes for pointer are recommended where possible. The minimum recommended size is 44 by 44 CSS pixels.
+* Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts). Explain that larger target sizes for pointer inputs are recommended where possible. The minimum recommended size is 44 by 44 CSS pixels.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -221,7 +221,7 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Keyboard Compatibility (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/keyboard/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Colors with Good Contrast (Web Accessibility Perspective)](/perspective-videos/contrast/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Clear Layout and Design (Web Accessibility Perspective)](/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
