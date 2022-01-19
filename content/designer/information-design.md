@@ -43,7 +43,7 @@ Students should be able to:
   * groups of form controls that share a common purpose
 * specify methods to communicate all relevant information about multi-step processes visually and non-visually
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
-* describe how to provide information about the name and purpose of components using descriptive labels and instructions
+* describe how to provide information about the name and purpose of user interface components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including the use of simple tables, lists, imagery, and plain text
 * evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
 * identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
@@ -155,7 +155,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss the use of labels, instructions, and graphical representations to help people understand components. Explain that defining the presentation of labels, instructions, and graphical representations is a responsibility of the designer, whereas providing such labels and instructions is a responsibility shared with the content author.
+Discuss the use of labels, instructions, and graphical representations to help people understand the purpose and functionality of user interface components. Explain that defining the presentation of labels, instructions, and graphical representations is a responsibility of the designer, whereas providing such labels and instructions is a responsibility shared with the content author.
 
 #### Learning Outcomes for Topic
 
