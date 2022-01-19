@@ -110,7 +110,7 @@ Students should be able to:
 
 * specify text alternatives for functional images using the following methods:
   * text alternatives for images
-  * combinations of text alternatives of images and adjacent text inside components
+  * combinations of text alternatives for images and adjacent text inside components
   * adjacent text inside components to understand its function
 * specify consistent naming and imagery for components that have the same functionality across web pages
 * explain the benefits of using text labels and decorative images for functionality, instead of using images with text alternatives that are only available to some users, such as screen reader users
@@ -128,7 +128,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students different examples of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative. Assess how students identify images that convey function and how they provide text alternatives that describe the functionality of the component the image is attached to.
+* Practical &mdash; Give students different examples of images conveying function, such as a printer for a "print" button and a magnifying glass for a "search" button. Ask students to provide an appropriate text alternative for each. Assess how students identify images that convey function and how they provide text alternatives that describe the functionality of the component.
 * Practical &mdash; Ask students to design a series of graphical buttons and links in a way that they are perceivable and distinguishable by all users. Assess how students apply accessibility requirements, such as contrast ratio, to graphical buttons and links.
 
 {% include excol.html type="end" %}
@@ -162,7 +162,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that such information must be provided using text alternatives in order to be understood by users who do not see the image. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
+* Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that users who do not see the image need text alternatives to understand such information. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
 * Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as text or as an image. Coordination among designers, developers, and content authors is therefore needed to determine if the technologies in use can achieve the same desired visual presentation in a text format. Emphasize that, if an image of text is still required, there must be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
 * Show examples of different verification systems, such as CAPTCHA, to identify humans trying to access a service or system. Explain that these verification systems must support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
