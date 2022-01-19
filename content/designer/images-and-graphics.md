@@ -171,7 +171,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment.
 
 * Practical &mdash; Give students a set of informative images. Ask students to annotate text alternatives that help developers and content authors provide the descriptions in the implementation phase. Assess how students provide boilerplate descriptions that would then be completed and maintained through the development and authoring phases.
-* Practical &mdash; Give students an image of text and ask them to cooperate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
+* Practical &mdash; Give students an image of text and ask them to collaborate with other team roles such as developers and content authors to ensure the image has an equivalent alternative text. Assess how students identify the need for alternative text for images of text.
 * Short Answer Questions &mdash; Present students with a situation where a human verification system needs to be used and ask them to provide various authentication alternatives for biometrics and CAPTCHA. Assess how students understand the need for providing various authentication alternatives for biometrics and CAPTCHA.
 
 {% include excol.html type="end" %}
@@ -216,7 +216,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students add complex images to a website, such as charts or diagrams, and ensure they have the required contrast ratio. Assess how students understand the contrast requirements for complex images.
-* Practical &mdash; Have students cooperate with developers and content authors to implement a map that can be understood and effectively used by all. Assess how students identify the need for text alternatives for complex images and cooperate with other team members to ensure such alternatives are effective.
+* Practical &mdash; Have students collaborate with developers and content authors to implement a map that can be understood and effectively used by all. Assess how students identify the need for text alternatives for complex images and collaborate with other team members to ensure such alternatives are effective.
 
 {% include excol.html type="end" %}
 
