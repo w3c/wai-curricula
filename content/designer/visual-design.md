@@ -226,7 +226,7 @@ Optional ideas to assess knowledge:
 
 Refer to responsive design techniques. Explain that other elements also contribute to an accessible user experience. Encourage consideration of how content sequence, focus indicators, and target size can be designed to adapt to different screen sizes and screen configurations.
 
-Demonstrate approaches to detect the overuse of design elements to avoid potential overload and distraction for some users.
+Demonstrate approaches to detect the overuse of design elements to minimize potential overload and distraction for some users.
 
 #### Learning Outcomes for Topic
 
@@ -250,6 +250,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of user interfaces showing up in both portrait and landscape modes. Explain that the ability to show an interface both in portrait and landscape is essential for people who cannot change their device orientation due to mobility impairments.
 * Show examples of different user interfaces that support customizing line height as well as spacing between paragraphs, words, and letters to support readability.
 * Show examples of different target sizes and explain that some people have difficulty to tap smaller targets due to mobility impairments. Explain that target sizes must be large enough to accommodate different people's needs.
+* Invite students to research how overuse of design elements can cause distractions and cognitive overload for some users. For example, overuse of interactive widgets, images, and moving content can make some users overwhelmed.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -257,6 +258,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students design different layouts considering text resizing, line height, spacing between paragraphs, words, and letters. Assess how students consider text resizing, line height, and spacing between paragraphs, words, and letters.
 * Practical &mdash; Have students design an interface that adapts to portrait and landscape modes. Assess how students understand the need for interfaces to adapt to both portrait and landscape modes.
+* Short Answer Questions &mdash; Ask students about the elements that can cause distractions and cognitive overload. Assess how students identify interactive widgets, images, and moving content as elements that can cause distractions and cognitive overload.
 
 {% include excol.html type="end" %}
 
@@ -267,6 +269,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the contrast ratio for the different user interface components. Assess how students understand the different contrast ratio requirements depending on the components.
+* Practical &mdash; Give students a complex layout and ask them to simplify it so that it can be used by all. Assess how students select elements that minimize distractions and cognitive overload.
 * Portfolio &mdash; Have students design a web page. Assess how students use customizable color, layout, spacing, and placement to support content perception, identification, and readability.
 
 ## Teaching Resources
