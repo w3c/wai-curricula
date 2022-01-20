@@ -158,7 +158,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different people rely on different navigational components. Discuss strategies to use several site navigational methods that minimize distractions and unnecessary noise.
+Discuss strategies that people use to navigate to different pages of the same site, including menus, breadcrumb trails, search functionalities, and site maps. Explain that different people rely on different navigational components. Discuss strategies to use several site navigational methods to favor various user experiences.
 
 #### Learning Outcomes for Module
 
@@ -191,7 +191,6 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a website and ask them to provide multiple ways to navigate across the website. Assess how students identify and design the different user experiences for site navigation, including search functionalities, breadcrumb trails, and site maps.
 * Practical &mdash; Give students a website and ask them to provide descriptive titles that identify each of the pages. Assess how students provide clear and descriptive page titles.
-* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students select navigational components to avoid distraction and unnecessary noise.
 
 {% include excol.html type="end" %}
 
@@ -201,7 +200,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss strategies that people use to navigate to different parts of a web page, including tables of contents and methods to bypass blocks of repeated content. Explain that different groups of users rely on different navigational components. Discuss how to assess and balance which ones to use to favor various user experiences while avoiding distractions and unnecessary noise.
+Discuss strategies that people use to navigate to different parts of a web page, including tables of contents and methods to bypass blocks of repeated content. Explain that different groups of users rely on different navigational components. Discuss how to use page navigation components that minimize distractions and unnecessary noise.
 
 ### Learning Outcomes for Topic
 
@@ -244,6 +243,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students to outline the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate those different types of navigational methods for websites, documents, and applications.
+* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students select navigational components to avoid distraction and unnecessary noise.
 * Portfolio &mdash; Have students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources
