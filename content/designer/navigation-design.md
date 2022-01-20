@@ -45,7 +45,7 @@ Students should be able to:
 * define blocks of repeated content
 * create site maps and descriptive page titles to help users locate specific web pages within websites
 * evaluate the use of navigational components, including menus, tables of contents, and site maps
-* select navigational components that minimize distraction and unnecessary noise
+* select navigational components that minimize distractions and unnecessary noise
 * identify related requirements for developers to implement:
   * interactions for navigational components, including by keyboard, mouse, touch, and speech
   * clear and descriptive names for navigational components
@@ -91,6 +91,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG 2 Success Criterion 2.4.8 Location](https://www.w3.org/WAI/WCAG21/quickref/#location)
   * [WCAG 2 Success Criterion 3.2.3 Consistent Navigation](https://www.w3.org/WAI/WCAG21/quickref/#consistent-navigation)
+  * [WCAG Success Criterion 3.2.4 Consistent Identification](https://www.w3.org/WAI/WCAG21/quickref/#consistent-identification)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * Prior [Designer Modules](/curricula/designer-modules/)
@@ -223,8 +224,8 @@ Optional ideas to teach the learning outcomes:
   * [G1: Adding a link at the top of each page that goes directly to the main content area](https://www.w3.org/WAI/WCAG21/Techniques/general/G1.html),
   * [G123: Adding a link at the beginning of a block of repeated content to go to the end of the block](https://www.w3.org/WAI/WCAG21/Techniques/general/G123.html), and
   * [G124: Adding links at the top of the page to each area of the content](https://www.w3.org/WAI/WCAG21/Techniques/general/G124.html).
-* Show examples of tables of contents, for example in an electronic book or document. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content. For references on how to provide a table of contents, see technique [G64: Providing a Table of Contents](https://www.w3.org/WAI/WCAG21/Techniques/general/G64.html).
-* Invite students to research how the overuse of page navigational components can cause distraction and unnecessary noise for some users. For example, too many methods to bypass blocks of repeated content can contribute to a more cluttered keyboard user experience instead of making navigation easier.
+* Show tables of contents for electronic books or documents. Explain that they provide an overview of the whole document and allow navigation to specific parts of the content. For references on how to provide a table of contents, see technique [G64: Providing a Table of Contents](https://www.w3.org/WAI/WCAG21/Techniques/general/G64.html).
+* Invite students to research how the overuse of page navigational components can cause distractions and unnecessary noise for some users. For example, too many methods to bypass blocks of repeated content can contribute to a more cluttered keyboard user experience instead of making navigation easier.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -242,8 +243,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to outline the different types of navigational methods that exist and provide examples for each. Assess how students understand and communicate those different types of navigational methods for websites, documents, and applications.
-* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which of these navigational components are necessary and which should be removed. Assess how students select navigational components to avoid distraction and unnecessary noise.
+* Short Answer Questions &mdash; Ask students to outline the different types of navigational methods that exist and to provide examples for each. Assess how students understand and communicate the different types of navigational methods for websites, documents, and applications.
+* Practical &mdash; Give students an interface with excessive use of navigational components and ask them to determine which are necessary and which should be removed. Assess how students select navigational components that minimize distractions and unnecessary noise.
 * Portfolio &mdash; Have students design the navigation menu and other navigational components for a website. Assess how students understand accessibility features of navigation across websites and applications.
 
 ## Teaching Resources

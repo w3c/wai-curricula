@@ -77,12 +77,15 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
+  * [WCAG Success Criterion 1.1.1	Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG Success Criterion 2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
-  * [WCAG Success Criterion 3.1.1 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
+  * [WCAG Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+  * [WCAG Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
+  * [WCAG 2 Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
+  * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
+  * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
+  * [WCAG Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
-  * [WCAG Success Criterion 3.2.1 On Focus](https://www.w3.org/WAI/WCAG21/quickref/#on-focus)
-  * [WCAG Success Criterion 3.2.2 ON Input](https://www.w3.org/WAI/WCAG21/quickref/#on-input)
   * [WCAG Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
@@ -131,7 +134,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of pages and explain how they are divided into several regions. Demonstrate that, in addition to visually distinguishing these regions, semantics and text are needed to ensure that all users can understand the relations between them. Explain that defining and planning the different regions is a designer's responsibility, whereas adding the semantics is a responsibility shared with the developer.
+* Discuss different types of page regions, including header, navigation, main, and footer. Demonstrate that, in addition to visually distinguishing these regions, some people need semantics and text to understand the relations between them. Explain that defining and planning the different regions is a designer's responsibility, whereas adding the semantics is a responsibility shared with the developer.
 * Show examples of online articles and forms. Discuss how these are divided into manageable pieces so that they are easier to understand and to navigate. For example, by using headings with their corresponding rank levels to indicate the different parts, as well as sections, paragraphs, and lists to convey content meaning.
 * Show examples of diagrams and illustrations that can complement the information presented in text. For example, visual instructions that supplement the text of a user manual. Explain that they help users with reading disabilities to understand difficult pieces of text. Explain that defining the presentation of such diagrams and illustrations is a responsibility of the designer, whereas providing the diagrams and illustrations is a responsibility of the content author. For reference on how to provide visual illustrations, pictures, and symbols to help explain ideas, events, and processes, see technique [G103: Providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes](https://www.w3.org/WAI/WCAG21/Techniques/general/G103).
 * Show examples of text descriptions to make diagrams and illustrations perceivable. For example, text descriptions of an electronic device layout. Explain that these descriptions help people who don’t see the images to perceive the information. Explain that defining the presentation of such descriptions is a responsibility of the designer, whereas providing such descriptions is a responsibility shared with the content author. Text alternatives will be discussed in detail in [Designer Module 5: Images and Graphics](/curricula/designer-modules/images-and-graphics/).
