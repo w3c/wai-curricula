@@ -132,14 +132,14 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of sufficient and insufficient contrast ratio for text. Explain that contrast ratio for text (including images of text) needs to be at least 4.5:1 with respect to their background. For references on how to apply sufficient contrast ratio to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
-* Show examples of different interactive components, such as buttons and links. Explain that they should have a contrast ratio of at least 3:1. For references on how to apply sufficient contrast ratio to interactive components, see techniques [G207: Ensuring that a contrast ratio of 3:1 is provided for icons](https://www.w3.org/WAI/WCAG21/Techniques/general/G207) and [G209: Provide sufficient contrast at the boundaries between adjoining colors](https://www.w3.org/WAI/WCAG21/Techniques/general/G209).
+* Show examples of different interactive components, such as buttons and links. Explain that they must have a contrast ratio of at least 3:1. For references on how to apply sufficient contrast ratio to interactive components, see techniques [G207: Ensuring that a contrast ratio of 3:1 is provided for icons](https://www.w3.org/WAI/WCAG21/Techniques/general/G207) and [G209: Provide sufficient contrast at the boundaries between adjoining colors](https://www.w3.org/WAI/WCAG21/Techniques/general/G209).
 * Show examples of interfaces that convey information exclusively with differences in color, such as a form with required fields marked in red. Explain that some people perceive color in different ways, and that some may not perceive color at all. Some people may require methods different from color to understand that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Give students several components and ask them what the contrast ratio should be. Assess how students understand and distinguish sufficient contrast ratio for different components.
+* Short Answer Questions &mdash; Give students several components and ask them what the contrast ratio must be. Assess how students understand and distinguish sufficient contrast ratio for different components.
 * Practical &mdash; Have students design a prototype and apply sufficient contrast ratio to text, images of text, components, and graphics. Assess how students understand and apply sufficient contrast ratio based on the different components that they are designing.
 * Practical &mdash; Discuss examples of information presented using color. Ask students to supplement that information using other visual cues. Assess how students use shapes and icons to supplement information presented using color distinguishable.
 
@@ -171,7 +171,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of styles to distinguish links, buttons, and form labels and instructions, from plain text. Explain how people rely on font types, font sizes, spacing, and color to distinguish components.
 * Show examples of usable font sizes and explain how they support readability. Contrast previous examples with fonts that are not as easy to read. Emphasize that several user groups rely on customizable fonts to read and understand content properly.
-* Demonstrate the use of custom style properties to increase the contrast ratio in a web page, for example properties in user style sheets and functionality in operating systems. Explain that use of these tools affect how the page is viewed.
+* Demonstrate the use of custom style properties to increase the contrast ratio in a web page, for example properties in user style sheets and functionality in operating systems. Explain that use of these tools affects how the page is viewed.
 * Show examples of different page layouts with and without appropriate spacing. Explain how spacing allows for better readability of the content and for better identification of the different parts of the interface.
 * Show examples of text aligned to the left, to the right, and justified. Explain that it is difficult for some users to read justified text due to the uneven spacing created by the justification. Therefore, text should align to only one side where possible to enhance readability. For reference, see technique [G169: Aligning Text on Only One Side](https://www.w3.org/WAI/WCAG21/Techniques/general/G169).
 

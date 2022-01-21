@@ -145,7 +145,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different form elements and reflect on their purposes. For example, edit boxes, check boxes, radio buttons, and buttons. Emphasize that non-standard uses of form elements can cause cognitive overload as well as compatibility issues with assistive technologies and adaptive strategies.
-* Show examples of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires additional coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
+* Demonstrate the use of standard versus non-standard form elements. Explain that standard elements are generally accessible by default, and that there is little need for extra work to make them accessible at a later phase. However, use of non-standard elements generally requires additional coding to ensure these elements are usable with the keyboard and compatible with assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -183,10 +183,10 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate how labels for form fields are placed differently depending on the components, the language, and the user expectations. For example, labels for edit boxes are placed to the left of the field or above it in left-to-right languages, and to the right of the field or below it in right-to-left languages. Labels for radio buttons are placed to the right of the field or below it in left-to-right languages, or to the left of the field or above it in right-to-left languages.
-* Show examples of different form elements, for example buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
-* Show examples of required and non-required form fields. Explain that instructions about which of the fields are required should be provided using several methods, including visual and non-visual instructions.
-* Present examples of time limits, such as those warning about session expirations. Explain that visual and non-visual instructions must be provided so that users are aware of the time limits, and methods must be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designer's responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
-* Show examples of form elements that share the same purpose, for example those to provide an address. Explain that form elements that share the same purpose need clear visual and non-visual associations.
+* Show examples of different form elements, including buttons, checkboxes, text boxes, and listboxes, across websites and applications. Emphasize that each should have a clear name that identifies its purpose. For reference on how to provide consistent names for different form elements across websites and applications, see technique [G197: Using labels, names, and text alternatives consistently for content that has the same functionality](https://www.w3.org/WAI/WCAG21/Techniques/general/G197).
+* Demonstrate the use of several methods to provide instructions for required form fields, including color as well as visual and non-visual instructions.
+* Invite students to reflect on time limits, such as those warning about session expirations. Explain that visual and non-visual instructions must be provided so that users are aware of the time limits, and methods must be implemented to stop, adjust, or extend time limits. Explain that defining and providing the instructions is a designer's responsibility, whereas implementing methods to stop, extend, or adjust time limits is a responsibility shared with the developer.
+* Discuss groups of form elements that share the same purpose, for example those to provide an address. Explain that form elements that share the same purpose need clear visual and non-visual associations.
 * Show examples of multi-step forms. Explain that overall instructions should be provided about the current step in a form and about the total number of steps involved.
 
 #### Ideas to Assess Knowledge for Topic
@@ -227,7 +227,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of overall information about submission errors. Explain that this information makes users aware that their submission contains errors and help them search for specific error messages in the rest of the content.
 * Show effective and ineffective examples of specific messages that identify each of the fields in error. Explain that these messages help users identify and locate the specific fields that contain errors. Mention that it is best practice to keep the original submission when possible, so that users can understand what needs to be corrected.
 * Show effective and ineffective examples of suggestions for correction. Explain that these suggestions help users understand what the right way is to submit the form. Emphasize that these suggestions should be provided when possible, unless they compromise the security and the purpose of the form.
-* Show examples of critical submissions, for example buying an airline ticket and submitting legal data. Discuss methods to reverse, check, and confirm the information included in such submissions.
+* Show examples of critical submissions, including buying an airline ticket and submitting legal data. Discuss methods to reverse, check, and confirm the information included in such submissions.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -267,9 +267,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of placement and appearance of notifications. Explain that these notifications must be distinguishable both visually and non-visually. Explain that defining the notifications placement and appearance is responsibility of the designer, whereas implementing such notifications is a developer's responsibility.
-* Show examples of different methods to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows. Explain that there needs to be a variety of methods available to allow interaction by different groups of users.
+* Discuss different methods to communicate notifications, such as through text messages, semantic relations, haptic and audio feedback, and popup windows. Explain that there needs to be a variety of methods available to allow interaction by different groups of users.
 * Show examples of overlapping notifications. Explain that some users may find it daunting to process several notifications at the same time, so a method needs to be defined that allows to prioritize notifications based on their relevance. Explain that defining methods to prioritize notifications based on their relevance is a designer's responsibility, whereas implementing the methods is a developer's responsibility.
-* Demonstrate examples of notification processing using assistive technologies, including screen readers and voice assistants. Explain that the notifications may come at a faster pace than the technology is able to process, so users may end up missing information. Emphasize that it is good practice to design methods to store the notifications to allow users to check the notifications at their own pace.
+* Demonstrate how assistive technologies, including screen readers and voice assistants, process notifications. Explain that the notifications may come at a faster pace than the technology is able to process, so users may end up missing information. Emphasize that it is good practice to design methods to store the notifications to allow users to check the notifications at their own pace.
 
 #### Ideas to Assess Knowledge for Topic
 

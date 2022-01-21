@@ -124,7 +124,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of different images used to convey functionality, for example for printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Demonstrate the use of images to convey functionality, for example printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
 * Invite students to research the most common iconography and naming for elements such as print, save, and search. Explain that these iconography and names must be consistent throughout the website.
 * Refer back to [Designer Module 1 Visual Design, Topic Color](/curricula/designer-modules/visual-design/#topic-color) to explain contrast ratio requirements for functional images.
 
@@ -167,6 +167,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of different images that convey information, such as images to provide instructions, and to identify people and objects. Explain that users who do not see the image need text alternatives to understand such information. Emphasize that these alternatives may require coordination among designers, developers, and content authors. For references on how to provide text alternatives for images, see [G82: Providing a text alternative that identifies the purpose of the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G82.html).
+* Refer back to [Designer Module 1 Visual Design, Topic Color](/curricula/designer-modules/visual-design/#topic-color) to explain contrast ratio requirements for informative images.
 * Explain that images of text present information intended to be read as text. Emphasize that sometimes it is difficult to tell visually if text has been coded as text or as an image. Coordination among designers, developers, and content authors is therefore needed to determine if the technologies in use can achieve the same desired visual presentation in a text format. Emphasize that, if an image of text is still required, there must be a text alternative that conveys the same information as the image of text. Explain that coding an image of text appropriately is a responsibility of the developer, whereas providing descriptions for images of text is a responsibility shared with the content author.
 * Show examples of different verification systems, such as CAPTCHA, to identify humans trying to access a service or system. Explain that these verification systems must support several modalities, including visual, auditory, and cognitive. For references on how to provide accessible CAPTCHA, see technique [G143: Providing a text alternative that describes the purpose of the CAPTCHA](https://www.w3.org/WAI/WCAG21/Techniques/general/G143.html) and [G144: Ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality](https://www.w3.org/WAI/WCAG21/Techniques/general/G144.html).
 
@@ -188,7 +189,7 @@ Optional ideas to support assessment.
 
 Complex images are those whose description requires more than a short phrase or sentence. Show examples of complex images, including diagrams and charts, and explain accessibility requirements that these images have, such as appropriate contrast ratio and appropriate text descriptions.
 
-Explain that coordination among different team members is required to assess the use of complex images based on the overall context, so that the information of such images is perceived and understood visually and through the provided descriptions.
+Explain that designers must coordinate with different team members to specify the placement, operation, and functionality of complex images visually and through the provided alternatives.
 
 #### Learning Outcomes for Topic
 
@@ -212,7 +213,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Designer Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-color). Explain that they must have a contrast ratio of at least 3:1, as they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
+* Provide examples of complex images and graphics, such as charts, diagrams, maps, and infographics. Refer back to [Designer Module 1: Visual Design, Topic: Color](/curricula/designer-modules/visual-design/#topic-color). Explain that they must have a contrast ratio of at least 3:1, depending on text size and format when they are necessary to understand the content. For references on how to provide complex graphics that meet the required contrast ratio, see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Explain that complex images must also have text descriptions that allow people who don’t see them to understand and interact with the image content. Explain that providing these text alternatives is a designer's responsibility, whereas providing the text descriptions is a responsibility shared with the content author.
 
 #### Ideas to Assess Knowledge for Topic

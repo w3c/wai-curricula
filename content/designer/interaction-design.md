@@ -95,7 +95,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
   * [WCAG Success Criterion 2.5.1 Pointer Gestures](https://www.w3.org/WAI/WCAG21/quickref/#pointer-gestures)
   * [WCAG Success Criterion 2.5.2 Pointer Cancellation](https://www.w3.org/WAI/WCAG21/quickref/#pointer-cancellation)
-  * [Success Criterion 2.5.4 Motion Actuation](https://www.w3.org/WAI/WCAG21/quickref/#motion-actuation)
+  * [WCAG Success Criterion 2.5.4 Motion Actuation](https://www.w3.org/WAI/WCAG21/quickref/#motion-actuation)
   * [WCAG Success Criterion 2.5.5 Target Size]()
   * [WCAG Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 * In-depth knowledge of:
@@ -153,7 +153,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Invite students to try standard keyboard conventions. For example, the use of the tab to move through user interface components in a meaningful sequence, use of the arrow keys to move through list items, and use of the enter key to select an item. Explain that standard interactions must be preserved as much as possible when designing custom widgets, as users mostly expect these.
-* Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers must collaborate with other team members, including developers and user researchers, on strategies to include custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and collaborating with developers to implement such keystrokes. For information on developing custom keyboard interfaces, see WAI-ARIA Authoring Practices [Developing a Keyboard INterface](https://www.w3.org/TR/wai-aria-practices-1.1/#keyboard/)
+* Invite students to research keystrokes that are not part of standard keyboard interactions. For example, letter keys together with modifier keys to perform specific actions. Explain that designers must collaborate with other team members, including developers and user researchers, on strategies to include custom keyboard shortcuts. This includes researching commonly used keystrokes for complex interaction patterns, defining the keystrokes in the design phase, and collaborating with developers to implement such keystrokes. For information on developing custom keyboard interfaces, see WAI-ARIA Authoring Practices [Developing a Keyboard Interface](https://www.w3.org/TR/wai-aria-practices-1.1/#keyboard/)
 * Present examples of keyboard shortcuts that may conflict with browsers, operating systems, and assistive technologies. For example, modifier keys and single letter keys that are used by browsers and assistive technologies to provide built-in functionality. Explain that these keystrokes should be avoided when possible.
 * Invite students to research how assistive technologies and adaptive strategies rely on keyboard support to provide specific functionality, such as navigating sequentially using spoken commands. Demonstrate interaction with assistive technologies in web pages and applications with and without keyboard support.
 * Refer back to [Designer Module 1: Visual Design, Topic Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues) to reflect on focus indicators. Explain that, in addition to visually distinguishable focus indicators, designers must consider programmatic keyboard focus when providing keyboard support. Emphasize that designers must collaborate with other team members, including developers and user researchers, to design user experiences that use focus placement to reflect changes of context and user interaction.
@@ -164,7 +164,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the commonly used modifier keys in operating systems, browsers, and assistive technologies. Assess how students identify commonly used modifier keys in operating systems, browsers, and assistive technologies.
-* Practical &mdash; Give students an interface that only works with the mouse and ask them to provide keyboard interaction. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
+* Practical &mdash; Give students an interface and ask them to provide its keyboard interactions. Assess how students understand the need for alternatives to mouse input and how they use standard keyboard interactions when possible.
 * Practical &mdash; Have students collaborate with developers to include custom keyboard shortcuts that do not conflict with existing operating system and assistive technology keystrokes. Assess how students collaborate with developers to develop strategies that avoid custom keyboard shortcut conflicts.
 * Practical &mdash; Give students a custom widget and ask them to define appropriate focus placement and appearance as well as meaningful sequences depending on user interaction. Assess how students create user experiences that consider visual focus indicators and focus placement as well as meaningful sequences.
 
@@ -197,7 +197,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of interactions based on swipe and pinch gestures. Explain that users with mobility impairments may have difficulty to perform such gestures. Therefore, interfaces must have alternatives that do not require swiping or pinching to perform an action.
 * Show examples of gestures that require motion, such as shaking the device, to perform an action. Explain that users with mobility impairments may have difficulty to perform such gestures. Therefore, interfaces must have alternatives that do not require motion for these gestures.
 * Show examples of operations carried out using path-based gestures, such as dragging. Explain that people with mobility impairments may inadvertently initiate touch or mouse events. Therefore, interfaces must support alternatives for people to perform actions associated with multi-pointer gestures or to undo actions carried out inadvertently with multi-pointer gestures.
-* Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts). Explain that larger target sizes for pointer inputs are recommended where possible. The minimum recommended size is 44 by 44 CSS pixels.
+* Refer back to [Designer Module 1: Visual Design, Topic Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts). Explain that larger target sizes for pointer inputs are recommended where possible. The minimum recommended size is forty-four by forty-four CSS pixels.
 
 #### Ideas to Assess Knowledge for Topic
 
