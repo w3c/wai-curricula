@@ -45,7 +45,7 @@ Students should be able to:
 * describe how to communicate the structure of multi-page articles or processes visually and non-visually
 * describe how to provide information about the name and purpose of user interface components using descriptive labels and instructions
 * discuss ways to break down information presented in tables, including the use of simple tables, lists, imagery, and plain text
-* evaluate the use of several methods to convey the information, including text, labels, instructions, semantics, and imagery depending on user needs
+* evaluate the use of several methods to convey information, including text, labels, instructions, semantics, and imagery depending on user needs
 * identify related requirements for developers to programmatically associate landmarks, headings, table header cells and data cells, as well as form labels and instructions to their corresponding control
 
 {% include excol.html type="all" %}
@@ -81,8 +81,8 @@ Skills required for this module:
   * [WCAG Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
   * [WCAG Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
-  * [WCAG 2 Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
-  * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
+  * [WCAG Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
+  * [WCAG Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
@@ -167,7 +167,7 @@ Students should be able to:
 * specify clear and distinguishable labels for components, including visual and programmatic names
 * define overall instructions to make information in multi-step processes more understandable, for example text and graphical representations 
 * define visual and non-visual instructions to communicate the total number of steps and the current step in multi-step forms and processes
-* associate controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions, and communicate such groups visually and non-visually
+* associate controls that share the same purpose, such as those collecting personal information, payment methods, or consent to legal conditions, and communicate such groups visually and non-visually
 
 #### Teaching Ideas for Topic
 
@@ -176,7 +176,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of labels, including names for links, buttons, and form controls. Explain that these labels help users identify these components. Explain that defining the presentation of these labels is a designer's responsibility, implementing these labels is a developer's responsibility, and providing labels is a responsibility shared with the content author.
 * Show examples of overall instructions, such as indications of what will happen after pressing a button. Explain that these instructions help users better understand the purpose and functionality of components. Explain that instruction presentation is a designer's responsibility, implementing these instructions is a developer's responsibility, and defining the content of these instructions is a responsibility shared with the content author.
 * Show examples of multi-step processes, such as a multi-step form, with instructions to indicate the current step and total number of steps in the process. Then show examples of multi-step processes without such instructions. Compare the user experiences for each of the examples. Explain that people rely on such instructions to get an understanding of where they are in the process and how many steps the process has. Explain that defining the presentation of such instructions is a designer's responsibility, implementing these instructions is a developer's responsibility, and providing these instructions is a responsibility shared with the content author.
-* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, and consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and non-visually, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look is a designer's responsibility, whereas coding those relations is a developer's responsibility.
+* Show examples of form controls that share the same purpose, such as those collecting personal information, payment methods, or consent to legal conditions. Explain that grouping them is essential for some people to understand and fill in such forms and is useful for all users. Discuss several ways to group those controls both visually and non-visually, such as using proximity relations or putting each of the groups on a dedicated step of the process. Explain that designing the grouping relations and defining how they look is a designer's responsibility, whereas coding those relations is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -201,7 +201,7 @@ Students should be able to:
 
 * identify uses of tables to present data that share a logical relationship
 * define table header cells and data cells, and provide clear and distinguishable styles for each
-* define graphical representations of complex tables that help users more easily understand its purpose and meaning
+* define graphical representations of complex tables that help users more easily understand their purpose and meaning
 * evaluate the use of complex tables and select simpler ways to provide the information, for example:
   * simpler tables
   * charts, diagrams, and other graphical representations
