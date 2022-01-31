@@ -122,7 +122,7 @@ Topics to achieve the learning outcomes:
 
 Demonstrate standard keyboard interactions, for example the use of the tab, enter, escape, and arrow keys. Explain how keyboard support benefits other ways of interacting, including speech interaction and effective use of some assistive technologies.
 
-Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the users' expectations. Designers must document these custom interactions and make them consistent throughout the interface. Emphasize that defining the keyboard interactions is a designer's responsibility, whereas implementing such interactions is a responsibility shared with the developer.
+Present examples of specific non-standard shortcuts. Explain that providing custom keyboard interactions can support efficiency but can also disrupt the user's expectations. Designers must document these custom interactions and make them consistent throughout the interface. Emphasize that defining keyboard interactions is a designer's responsibility, whereas implementing such interactions is a responsibility shared with the developer.
 
 #### Learning Outcomes for Topic
 
@@ -178,7 +178,7 @@ Optional ideas to assess knowledge:
 
 Show examples of user interfaces that react to motion, such as shaking the device to perform a specific action. Explain that some people may perform these motion-based gestures inadvertently, while others may not be able to perform them at all. Present alternatives to motion-based gestures, for example providing methods to undo, abort, and reverse actions performed using complex gestures.
 
-Discuss gestures that require dragging and drawing specific paths on a touch screen. Explain the difficulties these may present for some people with disabilities. Present approaches to using complex gestures appropriately in interaction design.
+Discuss gestures that require dragging and drawing specific paths on a touch screen. Explain the difficulties these may present for some people with disabilities. Present approaches to using complex gestures appropriately.
 
 #### Learning Outcomes for Topic
 
