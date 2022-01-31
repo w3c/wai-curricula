@@ -148,7 +148,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Have students define mouse, keyboard, touch, and speech interactions for navigation menus. For example, how to open, navigate, activate, and close such menus using the mouse, keyboard, touch, and speech. Assess how students understand the need for different interaction patterns based on the input method in use.
 * Practical &mdash; Give students different navigation menu states, such as hover, focus, current, active, and visited, and ask them to provide visual and non-visual methods to distinguish them from one another. Assess how students communicate navigation menus and menu items states visually and non-visually.
-* Practical &mdash; Give students a navigation menu and ask them to provide visual and non-visual indications about the currently selected item. Assess how students provide appropriate indications about the page location with respect to the entire website.
+* Practical &mdash; Give students a navigation menu and ask them to provide visual and non-visual indications about the currently selected item. Assess how students provide appropriate indications about the currently selected item.
 * Practical &mdash; Give students navigation menus containing long strings of text. Ask them to ensure the text is displayed irrespective of the viewport and screen configuration used. Assess how students understand the diversity among different languages, viewports, and screen configurations.
 
 {% include excol.html type="end" %}
