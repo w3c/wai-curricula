@@ -102,7 +102,7 @@ Skills required for this module:
   * [WCAG Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG Success Criterion 2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
   * [WCAG Success Criterion 3.3.1 Error Identification](https://www.w3.org/WAI/WCAG21/quickref/#error-identification)
-  * [WCAG Success Criterion 3.3.2 Labels and Instructions]()https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions
+  * [WCAG Success Criterion 3.3.2 Labels and Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
   * [WCAG Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
   * [WCAG Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
   * [WCAG Success Criterion 4.1.3 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
