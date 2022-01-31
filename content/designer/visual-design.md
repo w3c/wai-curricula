@@ -133,7 +133,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of sufficient and insufficient contrast ratio for text. Explain that contrast ratio for text (including images of text) needs to be at least 4.5:1 with respect to their background. For references on how to apply sufficient contrast ratio to text (including images of text), see technique [G18: Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text](https://www.w3.org/WAI/WCAG21/Techniques/general/G18.html).
 * Show examples of different interactive components, such as buttons and links. Explain that they must have a contrast ratio of at least 3:1. For references on how to apply sufficient contrast ratio to interactive components, see techniques [G207: Ensuring that a contrast ratio of 3:1 is provided for icons](https://www.w3.org/WAI/WCAG21/Techniques/general/G207) and [G209: Provide sufficient contrast at the boundaries between adjoining colors](https://www.w3.org/WAI/WCAG21/Techniques/general/G209).
-* Show examples of interfaces that convey information exclusively with differences in color, such as a form with required fields marked in red. Explain that some people perceive color in different ways, and that some may not perceive color at all. Some people may require methods different from color to understand that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
+* Show examples of interfaces that convey information exclusively through differences in color, such as a form with required fields marked in red. Explain that some people perceive color in different ways, and that some may not perceive color at all. Some people may require methods different from color to understand that information. For references on how to supplement information conveyed through color, see technique [G182: Ensuring that additional visual cues are available when text color differences are used to convey information](https://www.w3.org/WAI/WCAG21/Techniques/general/G182.html).
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -189,7 +189,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how people with disabilities use visual and non-visual cues to orient on web pages and applications. For example, focus indicators to show interactive elements and spacing and grouping to communicate regions. Present strategies to help students incorporate early planning for such cues within the visual design phase.
+Explain how people with disabilities use visual and non-visual cues to orient themselves on web pages and applications. For example, focus indicators to show interactive elements and spacing and grouping to communicate regions. Present strategies to help students incorporate early planning for such cues within the visual design phase.
 
 #### Learning Outcomes for Topic
 
