@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Functional images convey the purpose of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
+Functional images convey the purpose of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples. Emphasise that to avoid duplication of output by assistive technology, text alternatives should not include the component's role (e.g. "button") when this is conveyed programmatically by an HTML element or role attribute value.
 
 #### Learning Outcomes for Topic
 
