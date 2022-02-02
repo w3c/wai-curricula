@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Functional images convey the purpose of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples. Emphasise that to avoid duplication of output by assistive technology, text alternatives should not include the component's role (e.g. "button") when this is conveyed programmatically by an HTML element or role attribute value.
+Functional images convey the purpose of a component. For example, search, print, and save functionality are often presented using icon imagery. Explain requirements related to color and contrast to help users distinguish these images from other components. Show examples of graphical links and buttons as well as logos. Discuss with students how they would describe each of those examples.
 
 #### Learning Outcomes for Topic
 
@@ -124,7 +124,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of images to convey functionality, for example printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Demonstrate the use of images to convey functionality, for example printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. Emphasize that text alternatives must not include the component's role (for example "image" "link", or "button". The role will be announced by assistive technologies when conveyed programmatically in the implementation phase. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
 * Invite students to research the most common iconography and naming for elements such as print, save, and search. Explain that these iconography and names must be consistent throughout the website.
 * Refer back to [Designer Module 1: Visual Design, Topic Color](/curricula/designer-modules/visual-design/#topic-color) to explain contrast ratio requirements for functional images.
 
