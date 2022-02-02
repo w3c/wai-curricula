@@ -64,31 +64,31 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Visual Design](/curricula/designer-modules/visual-design)
+-   [Module 1: Visual Design](/curricula/designer-modules/visual-design) -- Explains accessibility requirements for color, layout, spacing, and placement of components, and relates those requirements to how people with disabilities use the Web
     -   [Topic: Color](/curricula/designer-modules/visual-design/#topic-color)
     -   [Topic: Styles](/curricula/designer-modules/visual-design/#topic-styles)
     -   [Topic: Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues)
     -   [Topic: Flexible Layouts](/curricula/designer-modules/visual-design/#topic-flexible-layouts)
--   [Module 2: Information Design](/curricula/designer-modules/information-design/)
+-   [Module 2: Information Design](/curricula/designer-modules/information-design/) -- Explains accessible approaches to communicate the structure, relations, and purpose of information, and relates those approaches to how people with disabilities use the Web
     -   [Topic: Text and Structure](/curricula/designer-modules/information-design/#topic-text-and-structure)
     -   [Topic: Naming and Grouping](/curricula/designer-modules/information-design/#topic-naming-and-grouping)
     -   [Topic: Tables](/curricula/designer-modules/information-design/#topic-tables)
--   [Module 3: Navigation Design](/curricula/designer-modules/navigation-design/)
+-   [Module 3: Navigation Design](/curricula/designer-modules/navigation-design/) -- Explains accessibility requirements of navigational components, and relates those requirements to how people with disabilities use the Web
     -   [Topic: Menus](/curricula/designer-modules/navigation-design/#topic-menus)
     -   [Topic: Site Navigation](/curricula/designer-modules/navigation-design/#topic-site-navigation)
     -   [Topic: Page Navigation](/curricula/designer-modules/navigation-design/#topic-page-navigation)
--   [Module 4: Interaction Design](/curricula/designer-modules/interaction-design/)
+-   [Module 4: Interaction Design](/curricula/designer-modules/interaction-design/) -- Explains accessibility requirements related to input methods, and relates those requirements to how people with disabilities use the Web
     -   [Topic: Keyboard Interactions](/curricula/designer-modules/interaction-design/#topic-keyboard-interactions)
     -   [Topic: Gestures and Motion](/curricula/designer-modules/interaction-design/#topic-gestures-and-motion)
--   [Module 5: Images and Graphics](/curricula/designer-modules/images-and-graphics/)
+-   [Module 5: Images and Graphics](/curricula/designer-modules/images-and-graphics/) -- Explains accessibility requirements related to images and graphics, and relates those requirements to how people with disabilities use the Web
     -   [Topic: Functional Images](/curricula/designer-modules/images-and-graphics/#topic-functional-images)
     -   [Topic: Informative Images](/curricula/designer-modules/images-and-graphics/#topic-informative-images)
     -   [Topic: Complex Images](/curricula/designer-modules/images-and-graphics/#topic-complex-images)
     -   [Topic: Decorative Images](/curricula/designer-modules/images-and-graphics/#topic-decorative-images)
--   [Module 6: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/)
+-   [Module 6: Multimedia and Animations](/curricula/designer-modules/multimedia-and-animations/) -- Explains accessibility requirements for multimedia content, and relates those requirements to how people with disabilities use the Web
     -   [Topic: Alternatives to Multimedia Content](/curricula/designer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
     -   [Topic: Movement and Animations](/curricula/designer-modules/multimedia-and-animations/#topic-movement-and-animations)
--   [Module 7: Forms Design](/curricula/designer-modules/forms-design/)
+-   [Module 7: Forms Design](/curricula/designer-modules/forms-design/) -- Explains accessibility requirements related to forms, and relates those to how people with disabilities use the Web
     -   [Topic: Form Elements](/curricula/designer-modules/forms-design/#topic-form-elements)
     -   [Topic: Labels and Instructions](/curricula/designer-modules/forms-design/#topic-labels-and-instructions)
     -   [Topic: Errors](/curricula/designer-modules/forms-design/#topic-errors)
