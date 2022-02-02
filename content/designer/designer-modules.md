@@ -25,7 +25,7 @@ navigation:
 ## Introduction
 {:.no-display}
 
-The designer modules guide the creation of courses that:
+The Designer Modules guide the creation of courses that:
 
 * explain how design principles and practices relate to accessibility
 * demonstrate and explain how accessible design enables people with disabilities to use websites and applications
@@ -47,7 +47,7 @@ These modules focus on accessible user experiences. They are primarily designed 
 
 ### Foundation Prerequisites
 
-The designer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
+The Designer Modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](/curricula/foundation-modules/what-is-web-accessibility/)
   * Topic: Stories of People with Disabilities
