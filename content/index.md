@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, content authors, and others.
+This resource provides teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, and others.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
@@ -49,8 +49,8 @@ You can also use this resource to review existing and proposed courses.
 
 Some example uses of this resource include:
 
-* **faculty lecturer** &mdash; selects topics from the Foundation, Developer, and Designer Modules to teach accessibility to computer science students
-* **accessibility professional** &mdash; selects topics from the Foundation, Developer, Designer, and Author Modules to create accessibility training courses
+* **faculty lecturer** &mdash; selects topics from the foundation, developer, and designer modules to teach accessibility to computer science students
+* **accessibility professional** &mdash; selects topics from the foundation, developer and designer modules to create accessibility training courses
 * **employee training coordinator** &mdash; compares the course content offered by different providers based on the modules provided in this resource
 * **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
 * **hiring manager** &mdash; compares the competencies assessed for different certificates based on the modules provided in this resource
@@ -59,9 +59,9 @@ This resource is organized in granular modules that you can combine to create li
 
 ## Contents
 
-This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing, designing, and authoring accessible digital content.
+This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing and designing accessible digital content.
 
-The Foundation, Developer, and Designer Modules are available now. The Designer and Author modules will be available in 2021.
+The foundation, developer, and designer modules are available now. More modules may be available later.
 
 ### Curricula Modules
 
@@ -82,11 +82,10 @@ The Foundation, Developer, and Designer Modules are available now. The Designer 
     </tr>
 </table>
 
-<table summary="Specifics for developers, designers, and content authors. Column one: Developer Modules. Column two: Designer Moddules. Column three: outlines for Author Modules." class="dense" style="width: 100%;">
+<table summary="Specifics for developers and designers. Column one: Developer Modules. Column two: Designer Modules." class="dense" style="width: 100%;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th><a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
-      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
     </tr>
     <tr>
       <td>
@@ -111,23 +110,12 @@ The Foundation, Developer, and Designer Modules are available now. The Designer 
           <li><a href="{{ '/curricula/designer-modules/forms-design/' | relative_url }}">Forms Design</a></li>
         </ul>
       </td>
-      <td>
-        <ul>
-          <li>Headings and Structure</li>
-          <li>Navigational Cues </li>
-          <li>Alternatives for Images, Graphics, and Multimedia </li>
-          <li>Document accessibility </li>
-          <li>Tables and Data Representation</li>
-          <li>Form Instructions and Feedback </li>
-          <li>&hellip; </li>
-        </ul>
-      </td>
     </tr>
 </table>
 
 ## Structure and Terminology
 
-Each part of these curricula (Foundation, Developer, Designer, Author) has:
+Each part of these curricula (Foundation, Developer, and Designer) has:
 
 * **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
 * **Modules** &mdash; Designed to be taught and assessed in their entirety.  
