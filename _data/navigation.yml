@@ -256,6 +256,23 @@
         url: "/curricula/developer-modules/custom-widgets/"
       - name: Rich Applications
         url: "/curricula/developer-modules/rich-applications/"
+    - name: Designer Modules
+      url: "/curricula/designer-modules/"
+      pages:
+      - name: Visual Design
+        url: "/curricula/designer-modules/visual-design/"
+      - name: Information Design
+        url: "/curricula/designer-modules/information-design/"
+      - name: Navigation Design
+        url: "/curricula/designer-modules/navigation-design/"
+      - name: Interaction Design
+        url: "/curricula/designer-modules/interaction-design/"
+      - name: Images and Graphics
+        url: "/curricula/designer-modules/images-and-graphics/"
+      - name: Multimedia and Animations
+        url: "/curricula/designer-modules/multimedia-and-animations/"
+      - name: Forms Design
+        url: "/curricula/designer-modules/forms-design/"
     - name: Changelog
       url: "/curricula/changelog/"
       hide: true

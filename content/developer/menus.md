@@ -63,8 +63,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-* [Module 1: Page Structure](/curricula/developer-modules/page-structure/) from [Developer Modules](/curricula/developer-modules/)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}
 
@@ -86,8 +86,8 @@ Skills required for this module:
   * [HTML5 grouping content {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/grouping-content.html#grouping-content)
   * [WAI-ARIA landmark roles](https://www.w3.org/TR/wai-aria/#landmark_roles)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-  * [Module 1: Page Structure](/curricula/developer-modules/page-structure/) from [Developer Modules](/curricula/developer-modules/)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}
 
@@ -101,7 +101,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Build on [Module 1: Page Structure](/curricula/developer-modules/page-structure/) to explain the use of HTML and WAI-ARIA to convey structure. Relate this to the structure of menus, in particular using lists and list items.
+Build on [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/) to explain the use of HTML and WAI-ARIA to convey structure. Relate this to the structure of menus, in particular using lists and list items.
 
 #### Learning Outcomes for Topic
 
@@ -211,7 +211,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Show examples of specific scenarios where application menus can be used. Application menus are commonly used in rich applications, which are further discussed in [Module 7 Rich Applications](/curricula/developer-modules/rich-applications). Explain the uses of additional WAI-ARIA roles and properties to mark up application menus. Refer to coding techniques to make application menus operable using various input devices, including keyboard only.
+Show examples of specific scenarios where application menus can be used. Application menus are commonly used in rich applications, which are further discussed in [Developer Module 7 Rich Applications](/curricula/developer-modules/rich-applications). Explain the uses of additional WAI-ARIA roles and properties to mark up application menus. Refer to coding techniques to make application menus operable using various input devices, including keyboard only.
 
 #### Learning Outcomes for Topic
 
