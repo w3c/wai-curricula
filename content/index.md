@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This resource provides teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, and others.
+This resource provides teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, content authors, and others.
 
 {::nomarkdown}
 {% include box.html type="end" title="Summary" class="" %}
