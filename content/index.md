@@ -115,7 +115,7 @@ The foundation, developer, and designer modules are available now. The author mo
 
 ## Structure and Terminology
 
-Each part of these curricula (Foundation, Developer, and Designer) has:
+Each part of these curricula (foundation, developer, and designer) has:
 
 * **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
 * **Modules** &mdash; Designed to be taught and assessed in their entirety.  
