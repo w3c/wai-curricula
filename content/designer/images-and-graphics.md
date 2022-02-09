@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Images and Graphics"
+title: "Module 5: Images and Graphics"
 nav_title: "Images and Graphics"
 permalink: /curricula/designer-modules/images-and-graphics/
 ref: /curricula/designer-modules/images-and-graphics/
@@ -11,7 +11,7 @@ license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> Updated @@ Month 2021. First published December 2019. CHANGELOG</p>
+  <p><strong>Date:</strong> Updated 9 Febuary 2022. First published December 2019. CHANGELOG</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1:
@@ -124,7 +124,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of images to convey functionality, for example printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. Emphasize that text alternatives must not include the component's role, for example "image", "link", or "button". The role will be announced by assistive technologies when conveyed programmatically in the implementation phase. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
+* Demonstrate the use of images to convey functionality, for example printing, searching, or saving a document. Explain that these images need an equivalent, succinct text alternative that explains the function rather than a description of the image. For reference on how to provide a text alternative for an image conveying function, see technique [G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G94.html).
 * Invite students to research the most common iconography and naming for elements such as print, save, and search. Explain that these iconography and names must be consistent throughout the website.
 * Refer back to [Designer Module 1: Visual Design, Topic Color](/curricula/designer-modules/visual-design/#topic-color) to explain contrast ratio requirements for functional images.
 
