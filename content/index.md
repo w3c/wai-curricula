@@ -59,7 +59,7 @@ This resource is organized in granular modules that you can combine to create li
 
 ## Contents
 
-This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing and designing accessible digital content.
+This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing, designing, and authoring accessible digital content.
 
 The foundation, developer, and designer modules are available now. The author modules will be available later.
 
