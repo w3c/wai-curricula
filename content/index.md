@@ -86,6 +86,7 @@ The foundation, developer, and designer modules are available now. The author mo
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th><a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
+      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
     </tr>
     <tr>
       <td>
@@ -108,6 +109,17 @@ The foundation, developer, and designer modules are available now. The author mo
           <li><a href="{{ '/curricula/designer-modules/images-and-graphics/' \ relative_url }}">Images and Graphics</a></li>
           <li><a href="{{ '/curricula/designer-modules/multimedia-and-animations/' | relative_url }}">Multimedia and Animations</a></li>
           <li><a href="{{ '/curricula/designer-modules/forms-design/' | relative_url }}">Forms Design</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Headings and Structure</li>
+          <li>Navigational Cues </li>
+          <li>Alternatives for Images, Graphics, and Multimedia </li>
+          <li>Document accessibility </li>
+          <li>Tables and Data Representation</li>
+          <li>Form Instructions and Feedback </li>
+          <li>&hellip; </li>
         </ul>
       </td>
     </tr>
