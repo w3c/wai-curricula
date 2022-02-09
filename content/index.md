@@ -50,7 +50,7 @@ You can also use this resource to review existing and proposed courses.
 Some example uses of this resource include:
 
 * **faculty lecturer** &mdash; selects topics from the foundation, developer, and designer modules to teach accessibility to computer science students
-* **accessibility professional** &mdash; selects topics from the foundation, developer and designer modules to create accessibility training courses
+* **accessibility professional** &mdash; selects topics from the foundation, developer, designer, and author modules to create accessibility training courses
 * **employee training coordinator** &mdash; compares the course content offered by different providers based on the modules provided in this resource
 * **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
 * **hiring manager** &mdash; compares the competencies assessed for different certificates based on the modules provided in this resource
@@ -61,7 +61,7 @@ This resource is organized in granular modules that you can combine to create li
 
 This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing and designing accessible digital content.
 
-The foundation, developer, and designer modules are available now. More modules may be available later.
+The foundation, developer, and designer modules are available now. The author modules will be available later.
 
 ### Curricula Modules
 
@@ -82,7 +82,7 @@ The foundation, developer, and designer modules are available now. More modules 
     </tr>
 </table>
 
-<table summary="Specifics for developers and designers. Column one: Developer Modules. Column two: Designer Modules." class="dense" style="width: 100%;">
+<table summary="Specifics for developers, designers, and content authors. Column one: Developer Modules. Column two: Designer Modules. Column three: outlines for Author Modules." class="dense" style="width: 100%;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th><a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
