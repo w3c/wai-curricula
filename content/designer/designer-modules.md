@@ -64,7 +64,7 @@ The designer modules are designed for students who have achieved the learning ou
 
 ## Designer Modules
 
--   [Module 1: Visual Design](/curricula/designer-modules/visual-design)
+-   [Module 1: Visual Design](/curricula/designer-modules/visual-design/)
     -   [Topic: Color](/curricula/designer-modules/visual-design/#topic-color)
     -   [Topic: Styles](/curricula/designer-modules/visual-design/#topic-styles)
     -   [Topic: Orientation Cues](/curricula/designer-modules/visual-design/#topic-orientation-cues)
