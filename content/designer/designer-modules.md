@@ -6,7 +6,7 @@ ref: /curricula/designer-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/designer/designer-modules/
+  path: content/designer/designer-modules.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
