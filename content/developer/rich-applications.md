@@ -54,7 +54,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Prior [Developer Modules](/curricula/developer-modules/)
 * Knowledge of [HTML5 living standard](https://html.spec.whatwg.org/multipage/)
 
@@ -85,7 +85,7 @@ Skills required for this module:
   * [WAI-ARIA specification](https://www.w3.org/TR/wai-aria/)
   * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Developer Modules](/curricula/developer-modules/)
 
 {% include excol.html type="end" %}

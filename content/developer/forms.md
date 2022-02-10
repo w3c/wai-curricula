@@ -54,8 +54,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-* [Developer Modules](/curricula/curriculum-for-developers)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* [Developer Modules](/curricula/developer-modules)
   * [Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 * Basic knowledge of [HTML forms {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#forms)
 
@@ -90,8 +90,8 @@ Skills required for this module:
   * [HTML common input element attributes {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/input.html#common-input-element-attributes)
   * [HTML date, time, and input formats {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/forms.html#input-author-notes)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
-  * [Page Structure](/curricula/developer-modules/page-structure/)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/)
 
 {% include excol.html type="end" %}
 
@@ -105,7 +105,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
+Explain the use of HTML elements and, if necessary, WAI-ARIA attributes to provide form controls and labels for form controls. Demonstrate how these semantics benefit different users in different situations, such as people using screen readers, screen magnification, voice interaction, and other assistive technologies. Non-standard form controls are addressed in [Developer Module 6: Custom Widgets](/curricula/developer-modules/custom-widgets/).
 
 #### Learning Outcomes for Topic
 
@@ -126,7 +126,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Provide examples of explicit and implicit associations using the `label` element. Explain that an implicit association can be achieved by wrapping the `label` element and its content around the form control. Explain explicit associations by means of the `for` attribute and indicate that its value must be a unique identifier of the form control that the label refers to. Explain the use of other explicit associations using the HTML attribute `title`, the WAI-ARIA attributes `aria-label` and `aria-labelledby`. Explain that use of `placeholder` for labels should be avoided as its value disappears once the user has entered a value. Examples of how to label form controls are provided in the WAI tutorials on [Labeling controls](https://www.w3.org/WAI/tutorials/forms/labels/).
-* Show examples of form controls that are related to each other, such as check boxes and radio buttons to select possible answers for a given question. Mention that the `fieldset` element is used to group them all, and that the `legend` element provides the label they share. Examples of how to group form controls are provided in the WAI tutorials on [Grouping controls](https://www.w3.org/WAI/tutorials/forms/grouping/).
+* Show examples of form controls that are related to each other, such as checkboxes and radio buttons to select possible answers for a given question. Mention that the `fieldset` element is used to group them all, and that the `legend` element provides the label they share. Examples of how to group form controls are provided in the WAI tutorials on [Grouping controls](https://www.w3.org/WAI/tutorials/forms/grouping/).
 * Invite students to navigate form controls using the keyboard only. Demonstrate the use of the tab key to move through different form controls. Demonstrate the use of the arrow keys to select options from combo boxes and lists.
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate through form controls. Explore advanced functionality that some tools provide, such as  presenting all form controls in a list where users can select the form control they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Demonstrate how people with mobility impairments or with low vision can click the label element to activate a specific form control if both are associated with each other.
@@ -247,6 +247,7 @@ Optional ideas to support assessment:
 
 Suggested resources to support your teaching:
 
+* [Designing for Web Accessibility](/tips/designing/) &mdash; Tips for user interface and visual design.
 * [Forms (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Notifications and Feedback (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/notifications/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

@@ -55,7 +55,7 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Prior [Developer Modules](/curricula/developer-modules/)
 * Knowledge of [HTML5 living standard {% include_cached icon.html name="external-link" %}](https://html.spec.whatwg.org/multipage/)
 
@@ -78,7 +78,7 @@ Skills required for this module:
   * [WAI-ARIA specification](https://www.w3.org/TR/wai-aria/)
   * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
 * In-depth knowledge of:
-  * [Prerequisites for Students](/curricula/developer-modules/#prerequisites-for-students)
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Developer Modules](/curricula/developer-modules/)
 
 {% include excol.html type="end" %}
@@ -93,7 +93,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Build on previous modules, in particular [Module 5: Forms](/curricula/developer-modules/forms/) and [Module 1: Page Structure](/curricula/developer-modules/page-structure/) to explain the importance of proper role definitions for widgets. Demonstrate how native HTML interactive elements, such as controls and links, provide such semantics by default. Demonstrate and explain the use of WAI-ARIA attributes to define additional roles when HTML interactive elements are not sufficient.
+Build on previous modules, in particular [Developer Module 5: Forms](/curricula/developer-modules/forms/) and [Developer Module 1: Page Structure](/curricula/developer-modules/page-structure/) to explain the importance of proper role definitions for widgets. Demonstrate how native HTML interactive elements, such as controls and links, provide such semantics by default. Demonstrate and explain the use of WAI-ARIA attributes to define additional roles when HTML interactive elements are not sufficient.
 
 #### Learning Outcomes for Topic
 
@@ -133,7 +133,7 @@ Optional ideas to support assessment:
 
 {% include excol.html type="middle" %}
 
-Refer back to [Module 5: Forms](/curricula/developer-modules/forms/) to review the importance of labels for controls. Demonstrate how custom widgets also require similar labeling techniques, and explain how to provide accessible names for widgets. Demonstrate how some custom widgets require additional descriptions, and explain how to provide such descriptions for widgets.
+Refer back to [Developer Module 5: Forms](/curricula/developer-modules/forms/) to review the importance of labels for controls. Demonstrate how custom widgets also require similar labeling techniques, and explain how to provide accessible names for widgets. Demonstrate how some custom widgets require additional descriptions, and explain how to provide such descriptions for widgets.
 
 #### Learning Outcomes for Topic
 
