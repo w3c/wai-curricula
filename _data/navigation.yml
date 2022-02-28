@@ -342,9 +342,9 @@
       url: "/curricula/content-author-modules/"
       pages:
       - name: Clear Language
-        url: "/curricula/content-author-modules/clear-language"
+        url: "/curricula/content-author-modules/clear-language/"
       - name: Content Structure
-        url: "/curricula/designer-modules/content-structure"
+        url: "/curricula/content-author-modules/content-structure/"
       - name: Images
         url: "/curricula/content-author-modules/images/"
       - name: Data Tables
