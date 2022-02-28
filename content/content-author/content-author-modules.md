@@ -27,6 +27,7 @@ navigation:
 
 [TBD]
 
+{% comment %}
 The content author modules guide the creation of courses that:
 
 * explain how clear writing and plane language relate to accessibility
@@ -65,3 +66,4 @@ The content author modules are designed for students who have achieved the learn
 -   [Module 1: @@@ ](/curricula/content-author-modules/)
     -   [Topic: @@@](/curricula/content-author-modules/)
 
+{% endcomment %}
