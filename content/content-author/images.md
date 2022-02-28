@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/
-  next: /curricula/content-author-modules/
+  previous: /curricula/content-author-modules/content-structure/
+  next: /curricula/content-author-modules/data-tables/
 ---
 
 ## Introduction
@@ -89,8 +89,8 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * write unique and equivalent text alternatives that help people who don't see the image understand its content
+* provide information about the function of the images in the text alternative
 * employ tools that support the inclusion of text alternatives for images
-* @@@
 
 #### Teaching Ideas for Topic
 

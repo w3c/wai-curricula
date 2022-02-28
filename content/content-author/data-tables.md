@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/
-  next: /curricula/content-author-modules/
+  previous: /curricula/content-author-modules/images/
+  next: /curricula/content-author-modules/multimedia/
 ---
 
 ## Introduction
@@ -35,9 +35,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on appropriate table markup and relations between table header cells and data cells to understand information presented in tables
-* describe table headers as those which provide information about the type of data in a row or column
-* describe data cells as those which contain information of a specific type
+* explain how people with disabilities rely on appropriate table markup and clear relations between table header cells and data cells to understand information presented in tables
 * designate header cells and data cells and communicate those relationships
 * provide regular data tables as alternatives to graphical representations of tabular data
 * provide table captions to help users understand the purpose of complex tables
@@ -76,7 +74,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Plain Language
+### Topic: Header Cells
 
 {% include excol.html type="middle" %}
 
@@ -86,10 +84,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* clear language
-* simple language
-* short sentences
-* active voice
+* describe table headers as those which provide information about the type of data in a row or column
 
 #### Teaching Ideas for Topic
 
@@ -107,7 +102,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Terminology
+### Topic: Data Cells
 {% include excol.html type="middle" %}
 
 [Intro paragraph TBD].
@@ -116,11 +111,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* use words that are easy to understand
-* provide the extended form of:
-  * abbreviations
-  * acronyms
-* provide explanations for complex terms and jargon
+* describe data cells as those which contain information of a specific type of data
 
 #### Teaching Ideas for Topic
 
@@ -138,7 +129,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Readability
+### Topic: Captions
 
 {% include excol.html type="middle" %}
 
@@ -148,11 +139,10 @@ Intro paragraph [TBD].
 
 Students should be able to:
 
-* fonts
-* contrast ratio
-* spacing
-* grouping
-
+* write captions that:
+  * describe the purpose of the table
+  * describe the layout of the table
+  * provide information about the type of data in each column and row
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:

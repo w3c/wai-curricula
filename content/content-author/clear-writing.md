@@ -6,7 +6,7 @@ ref: /curricula/content-author-modules/clear-writing/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/content-structure.md
+  path: content/content-author-modules/clear-writing.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/content-author-modules/
-  next: /curricula/content-author-modules/
+  next: /curricula/content-author-modules/content-structure/
 ---
 
 ## Introduction
@@ -35,7 +35,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear, easy-to-understand, and easy-to-read language to process Clear Writing
+* explain how people with disabilities rely on clear, easy-to-understand, and easy-to-read language to process text
 * write text using plain language
 * provide the extended form for abbreviations and acronyms
 * use iconography to help understand Clear Writing
@@ -88,10 +88,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* clear language
+* write text using clear language
 * simple language
-* short sentences
-* active voice
+* write short sentences where possible
+* employ active voice when possible 
 
 #### Teaching Ideas for Topic
 
@@ -110,6 +110,7 @@ Optional ideas to assess knowledge:
 {% include excol.html type="start" %}
 
 ### Topic: Terminology
+
 {% include excol.html type="middle" %}
 
 [Intro paragraph TBD].
@@ -118,42 +119,11 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* use words that are easy to understand
+* utilise words that are easy to understand
 * provide the extended form of:
   * abbreviations
   * acronyms
 * provide explanations for complex terms and jargon
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[TBD]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-[TBD]
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Readability
-
-{% include excol.html type="middle" %}
-
-Intro paragraph [TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* fonts
-* contrast ratio
-* spacing
-* grouping
 
 #### Teaching Ideas for Topic
 

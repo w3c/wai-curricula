@@ -2,11 +2,11 @@
 title: "[Draft] Module 6: Labels and Instructions"
 nav_title: "Labels and Instructions"
 permalink: /curricula/content-author-modules/labels-and-instructions/
-ref: /curricula/content-author-modules/labels-andinstructions/
+ref: /curricula/content-author-modules/labels-and-instructions/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/labels-andinstructions.md
+  path: content/content-author-modules/labels-and-instructions.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/
+  previous: /curricula/content-author-modules/multimedia/
   next: /curricula/content-author-modules/
 ---
 
@@ -35,15 +35,14 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear and meaningful instructions to understand and interact with content
+* explain how people with disabilities rely on clear and meaningful labels and instructions to understand and interact with web pages and applications
+* provide clear and meaningful textual and visual labels for controls that help users understand their purpose
 * provide textual and visual instructions that describe the overall purpose and intent of the content
-* create content with textual instructions that help understand the visual content, for example using text alternatives to communicate the information contained in an image
-* create content with visual instructions that help understand the textual content, for example using diagrams to explain multi-step processes communicated through text
 * provide instructions about the current step and about the total number of steps in a multi-step process
 * provide clear instructions when collecting user input, including:
   * expected input types and formats
   * error messages and suggestions for correction when possible
-* identify related requirements for designers and developers to make instructions perceivable both visually and non-visually
+* identify related requirements for designers and developers to make labels and instructions perceivable both visually and non-visually
 
 {% include excol.html type="all" %}
 
@@ -77,7 +76,35 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: 
+### Topic: Labels
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+[TBD]
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Instructions
 
 {% include excol.html type="middle" %}
 

@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/
-  next: /curricula/content-author-modules/
+  previous: /curricula/content-author-modules/data-tables/
+  next: /curricula/content-author-modules/labels-and-instructions/
 ---
 
 ## Introduction
@@ -35,7 +35,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in multimedia content
+* explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in video and audio content
 * provide transcripts for audio content to help people who cannot hear the audio
 * create audio and video content with:
   * clear and easy to understand speech

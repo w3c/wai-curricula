@@ -1,12 +1,12 @@
 ---
-title: "Writer Modules"
-nav_title: "Writer Modules"
-permalink: /curricula/writer-modules/
-ref: /curricula/writer-modules/
+title: "Content Author Modules"
+nav_title: "Content Author Modules"
+permalink: /curricula/content-author-modules/
+ref: /curricula/content-author-modules/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/writer/writer-modules.md
+  path: content/content-author/content-author-modules.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -19,37 +19,35 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/designer-modules/forms-design/
-  next: /curricula/writer-modules/
+  next: /curricula/content-author-modules/clear-writing/
 ---
 
 ## Introduction
 {:.no-display}
+
 [TBD]
 
 {% comment %}
-The writer modules guide the creation of courses that:
 
-* explain how design principles and practices relate to accessibility
-* demonstrate and explain how accessible design enables people with disabilities to use websites and applications
-* teach accessible design techniques for:
-  * visual design
-  * information design
-  * navigation design
-  * interaction design
-  * images and graphics
-  * multimedia and animations
-  * forms design
+The content author modules guide the creation of courses that:
 
-These modules focus on accessible user experiences. They are primarily designed for teaching:
+* explain how clear writing and plane language relate to accessibility
+* demonstrate and explain how accessible content enables people with disabilities to use websites and applications
+* teach accessible authoring techniques for:
+  * text
+  * images
+  * tables
+  * audio and viddeo
 
-* Visual writers
-* Information Architects
-* User Experience (UX) writers
-* Interaction writers
+These modules focus on accessible content creeation. They are primarily designed for teaching:
+
+* writers
+* editors
+* content creators
 
 ### Foundation Prerequisites
 
-The writer modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
+The content author modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
 * [Module 1: What is Web accessibility](/curricula/foundation-modules/what-is-web-accessibility/)
   * Topic: Stories of People with Disabilities
@@ -66,33 +64,7 @@ The writer modules are designed for students who have achieved the learning outc
 
 ## writer Modules
 
--   [Module 1: Visual Design](/curricula/writer-modules/visual-design/)
-    -   [Topic: Color](/curricula/writer-modules/visual-design/#topic-color)
-    -   [Topic: Styles](/curricula/writer-modules/visual-design/#topic-styles)
-    -   [Topic: Orientation Cues](/curricula/writer-modules/visual-design/#topic-orientation-cues)
-    -   [Topic: Flexible Layouts](/curricula/writer-modules/visual-design/#topic-flexible-layouts)
--   [Module 2: Information Design](/curricula/writer-modules/information-design/)
-    -   [Topic: Text and Structure](/curricula/writer-modules/information-design/#topic-text-and-structure)
-    -   [Topic: Naming and Grouping](/curricula/writer-modules/information-design/#topic-naming-and-grouping)
-    -   [Topic: Tables](/curricula/writer-modules/information-design/#topic-tables)
--   [Module 3: Navigation Design](/curricula/writer-modules/navigation-design/)
-    -   [Topic: Menus](/curricula/writer-modules/navigation-design/#topic-menus)
-    -   [Topic: Site Navigation](/curricula/writer-modules/navigation-design/#topic-site-navigation)
-    -   [Topic: Page Navigation](/curricula/writer-modules/navigation-design/#topic-page-navigation)
--   [Module 4: Interaction Design](/curricula/writer-modules/interaction-design/)
-    -   [Topic: Keyboard Interactions](/curricula/writer-modules/interaction-design/#topic-keyboard-interactions)
-    -   [Topic: Gestures and Motion](/curricula/writer-modules/interaction-design/#topic-gestures-and-motion)
--   [Module 5: Images and Graphics](/curricula/writer-modules/images-and-graphics/)
-    -   [Topic: Functional Images](/curricula/writer-modules/images-and-graphics/#topic-functional-images)
-    -   [Topic: Informative Images](/curricula/writer-modules/images-and-graphics/#topic-informative-images)
-    -   [Topic: Complex Images](/curricula/writer-modules/images-and-graphics/#topic-complex-images)
-    -   [Topic: Decorative Images](/curricula/writer-modules/images-and-graphics/#topic-decorative-images)
--   [Module 6: Multimedia and Animations](/curricula/writer-modules/multimedia-and-animations/)
-    -   [Topic: Alternatives to Multimedia Content](/curricula/writer-modules/multimedia-and-animations/#topic-alternatives-to-multimedia-content)
-    -   [Topic: Movement and Animations](/curricula/writer-modules/multimedia-and-animations/#topic-movement-and-animations)
--   [Module 7: Forms Design](/curricula/writer-modules/forms-design/)
-    -   [Topic: Form Elements](/curricula/writer-modules/forms-design/#topic-form-elements)
-    -   [Topic: Labels and Instructions](/curricula/writer-modules/forms-design/#topic-labels-and-instructions)
-    -   [Topic: Errors](/curricula/writer-modules/forms-design/#topic-errors)
-    -   [Topic: Notifications](/curricula/writer-modules/forms-design/#topic-notifications)
+-   [Module 1: @@@ ](/curricula/content-author-modules/)
+    -   [Topic: @@@](/curricula/content-author-modules/)
+
 {% endcomment %}
