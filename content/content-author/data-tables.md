@@ -36,9 +36,9 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate table markup and clear relations between table header cells and data cells to understand information presented in tables
-* designate header cells and data cells and communicate those relationships
+* designate the table header cells
 * provide regular data tables as alternatives to graphical representations of tabular data
-* provide table captions to help users understand the purpose of complex tables
+* provide table descriptions to help users understand the purpose of complex tables
 * employ tools that produce accessible markup for data tables
 * collaborate with designers and developers to achieve the desired visual presentation of multi-column content using styles instead of layout tables
 
@@ -74,7 +74,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Header Cells
+### Topic: Table Header Cells
 
 {% include excol.html type="middle" %}
 
@@ -84,7 +84,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
+* explain how people with disabilities rely on table headers to understand the type of information presented in a row or column
 * describe table headers as those which provide information about the type of data in a row or column
+* provide short, descriptive column and row headers for tables
+* employ tools that produce accessible markup for table headers
 
 #### Teaching Ideas for Topic
 
@@ -102,7 +105,8 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Data Cells
+### Topic: Table Data Cells
+
 {% include excol.html type="middle" %}
 
 [Intro paragraph TBD].
@@ -111,6 +115,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
+* explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information of a specific type of data
 
 #### Teaching Ideas for Topic
@@ -129,7 +134,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions
+### Topic: Table Descriptions
 
 {% include excol.html type="middle" %}
 
@@ -139,10 +144,17 @@ Intro paragraph [TBD].
 
 Students should be able to:
 
+* explain how people with disabilities rely on meaningful table descriptions to understand the purpose of the talbe and to more easily navigate them
+* provide table descriptions that help identify the purpose of the table
 * write captions that:
+  * provide navigational hints for complex tables
   * describe the purpose of the table
   * describe the layout of the table
   * provide information about the type of data in each column and row
+* employ tools that:
+  * support the inclusion of table descriptions
+  * produce accessible markup for table descriptions
+
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
@@ -163,7 +175,9 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]## Teaching Resources
+[TBD]
+
+## Teaching Resources
 
 Suggested resources to support your teaching:
 

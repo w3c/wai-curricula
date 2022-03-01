@@ -85,7 +85,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Functional Multimedia
+### Topic: Transcripts
 
 {% include excol.html type="middle" %}
 
@@ -95,9 +95,6 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* write unique and equivalent text alternatives that help people who don't see the image understand its content
-* employ tools that support the inclusion of text alternatives for Multimedia
-* @@@
 
 #### Teaching Ideas for Topic
 
@@ -115,7 +112,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Complex Multimedia
+### Topic: Descriptions
 
 {% include excol.html type="middle" %}
 
@@ -125,8 +122,59 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* collaborate with designers and developers to include alternatives for complex Multimedia, including tables, additional blocks of content, and separate pages
-* collaborate with other subject-matter experts to include alternatives for complex Multimedia
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Captions
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+{% include excol.html type="start" %}
+
+### Topic: Sign Languages
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
 
 #### Teaching Ideas for Topic
 
@@ -148,7 +196,9 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]## Teaching Resources
+[TBD]
+
+## Teaching Resources
 
 Suggested resources to support your teaching:
 

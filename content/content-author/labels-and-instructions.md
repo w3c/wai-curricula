@@ -86,7 +86,11 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-[TBD]
+* provide unique and descriptive labels for controls
+* ensure labels are perceived both visually and non-visually
+* employ tools that:
+  * support the inclusion of labels for controls
+  * produce appropriate markup for labels
 
 #### Teaching Ideas for Topic
 
@@ -114,7 +118,12 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-[TBD]
+* provide clear instructions about the overall purpose of the content
+* provide instructions about the current step and about the total number of steps in a multi-step process
+* ensure instructions are perceived both visually and non-visually
+* employ tools that:
+  * support the inclusion of instructions for overall content and for specific parts of the content
+  * produce appropriate markup for instructions
 
 #### Teaching Ideas for Topic
 
@@ -136,7 +145,9 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]## Teaching Resources
+[TBD]
+
+## Teaching Resources
 
 Suggested resources to support your teaching:
 

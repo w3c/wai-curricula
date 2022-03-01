@@ -88,9 +88,39 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* write unique and equivalent text alternatives that help people who don't see the image understand its content
-* provide information about the function of the images in the text alternative
+* write unique and equivalent text alternatives that help people who don't see the image understand its function
+* provide information about the function of the image in the text alternative
 * employ tools that support the inclusion of text alternatives for images
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Informative Images
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide clear and descriptive text alternatives for images conveying information by:
+  * writing clear and succinct text alternaatives associated to the images
+  * ensuring that adjacent text conveys the same information as the image
 
 #### Teaching Ideas for Topic
 
@@ -141,7 +171,9 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]## Teaching Resources
+[TBD]
+
+## Teaching Resources
 
 Suggested resources to support your teaching:
 
