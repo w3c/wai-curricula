@@ -203,7 +203,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Portfolio &mdash; Have students create a page with accessible content structures, including title, headings, links, paragraphs, and lists. Assess how students include accessible titles, headings, links, paragraphs, and lists in their pages.
+* @@@
 
 ## Teaching Resources
 
