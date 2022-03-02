@@ -29,14 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand and process content
+* demonstrate how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate, and process content
 * explain accessibility requirements related to content structure
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand and process content
+* explain how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate and process content
 * write titles that describe the purpose of the page
 * provide headings to help users identify the different content sections
 * write clear and meaningful link text to communicate the link purpose
@@ -60,6 +60,7 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
+  * Content creation
   * Content editing
 
 {% include excol.html type="end" %}
@@ -72,11 +73,13 @@ Skills required for this module:
 
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
+  * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * Accessibility of authoring tools.
+  * Accessibility of authoring tools
 
 {% include excol.html type="end" %}
 
@@ -99,7 +102,7 @@ Students should be able to:
 * write unique, descriptive, and meaningful page titles
 * provide information about the current step in the page title when the page is part of a multi-step process
 * provide relevant and unique information first in page titles
-* employ tools that produce appropriate markup for accessible page titles
+* employ accessible tools that produce appropriate markup for accessible page titles
 
 #### Teaching Ideas for Topic
 
@@ -136,7 +139,7 @@ Students should be able to:
 * provide headings and their corresponding rank levels to help users identify the different content sections and sub sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * ensure headings are perceived both visually and non-visually
-* employ tools that produce appropriate markup for headings and their corresponding rank levels
+* employ accessible tools that produce appropriate markup for headings and their corresponding rank levels
 
 #### Teaching Ideas for Topic
 
@@ -176,17 +179,17 @@ Students should be able to:
   * if the link will open a new window
   * the file type and format (when linking to a file)
 * ensure links and their different states are perceived both visually and non-visually
-* employ tools that:
-  * allow the inclusion of link text
+* employ accessible tools that:
+  * allow the inclusion of additional information for links where needed
   * produce appropriate markup for links
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format and where the link will open.
+* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
 * Show examples of some predefined styles for links and link states. Explain that redefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
-* Introduce accessible authoring tools that produce accessible markup for links and that support the inclusion of link text where appropriate. Explain that some tools may name these differently. For example, "link name", "link text", "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
