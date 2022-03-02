@@ -130,7 +130,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* utilise words that are easy to understand for the target audience(s)
+* utilize words that are easy to understand for the target audience(s)
 * provide the extended form of:
   * abbreviations
   * acronyms

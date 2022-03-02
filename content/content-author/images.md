@@ -119,7 +119,7 @@ Optional ideas to assess knowledge:
 Students should be able to:
 
 * provide clear and descriptive text alternatives for images conveying information by:
-  * writing clear and succinct text alternaatives associated to the images
+  * writing clear and succinct text alternatives associated to the images
   * ensuring that adjacent text conveys the same information as the image
 
 #### Teaching Ideas for Topic

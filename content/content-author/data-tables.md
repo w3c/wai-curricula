@@ -29,7 +29,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on the vissual and non-vissual identification of header andd data cells to understand, navigate, and process data tables
+* demonstrate how people with disabilities rely on the visual and non-visual identification of header and data cells to understand, navigate, and process data tables
 * explain accessibility requirements related to data tables
 
 ## Learning Outcomes for Module
@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate table markup and clear relations between header and data cells to understand, navigate, and process information presented in data tables
-* designate the cells role in data tables, including header and data ccells as well as cell scope
+* designate the cell role, including header and data cells as well as cell scope
 * provide regular data tables as alternatives to graphical representations of tabular data
 * provide table descriptions to help users understand the purpose of complex tables
 * employ tools that produce accessible markup for data tables
@@ -130,7 +130,7 @@ Students should be able to:
 
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information of a specific type of data
-* provide clear and succinct information in each  data cel
+* provide clear and succinct information in each data cell
 * employ accessible tools that produce appropriate markup for table data cells, including the cell scope
 
 #### Teaching Ideas for Topic
