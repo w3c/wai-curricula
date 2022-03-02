@@ -43,7 +43,7 @@ Students should be able to:
 * ensure content structures are perceived visually and non-visually, including titles, headings, paragraphs, lists, quotes, and others
 * employ tools that:
   * support the inclusion of titles, headings, lists, paragraphs, and other content structures
-  * produce accessible markup for content structures
+  * produce appropriate markup for content structures
 * identify related requirements for designers and developers to make content structures perceivable visually and non-visually
 
 {% include excol.html type="all" %}
@@ -102,7 +102,7 @@ Students should be able to:
 * write unique, descriptive, and meaningful page titles
 * provide information about the current step in the page title when the page is part of a multi-step process
 * provide relevant and unique information first in page titles
-* employ accessible tools that produce appropriate markup for accessible page titles
+* employ accessible tools that produce appropriate markup for page titles
 
 #### Teaching Ideas for Topic
 
@@ -111,7 +111,7 @@ Optional ideas to teach the learning outcomes:
 * Present examples of titles that describe the purpose of the page and then show examples of those that do not. Explain that page titles must describe the purpose of the page.
 * Show examples of page titles for pages that are part of a multi-step process. Emphasize how information about the current step is presented in the page title, as well as in other parts of the page.
 * Discuss different ways to organize information inside page titles. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps everybody scan the titles.
-* Introduce accessible authoring tools that produce accessible markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -120,7 +120,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Give students non-descriptive titles and ask them to turn these titles into descriptive ones by tweaking their language. Assess how students write unique, meaningful, and descriptive page titles.
 * Short Answer Questions &mdash; Ask students about good practices for structuring the information in page titles. Assess how students relate good practices for structuring information in page titles.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Practical &mdash; Students select an authoring tool that produces accessible markup for page titles and include page titles using the tool's user interface.
+* Practical &mdash; Students select an authoring tool that produces appropriate markup for page titles and include page titles using the tool's user interface.
 
 {% include excol.html type="end" %}
 
@@ -148,7 +148,7 @@ Optional ideas to teach the learning outcomes:
 * Discuss different ways of structuring pages and documents. Explain how these structures relate to headings in the content. Discuss headings and their corresponding rank levels. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain some uses of heading text. These include entitling a given section, providing a headline for a piece of news, and summarizing the content the heading precedes.
 * Show examples of how headings may appear visually. Explain that predefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
-* Introduce accessible authoring tools that produce accessible markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
+* Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -189,7 +189,7 @@ Optional ideas to teach the learning outcomes:
 
 * Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
 * Show examples of some predefined styles for links and link states. Explain that redefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
-* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
