@@ -177,7 +177,11 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Demonstrate how assistive technologies announce the table summary and caption as the user moves through different tables on the same page. Explain that this information helps the user differentiate one table from the other, as well as it provides information on what the table is about.
+* Show examples of table summaries. Explain that they provide information on what the table is about. Emphasize that it is good practice to display these summaries on screen, as they are essential for some users and benefit all.
+* Explain situations where people need additional information to understand the table purpose and how it is organized. This includes complex tables, tables that are difficult to navigate,  and tables containing information that is difficult to process, among others. Explain that table captions use to hold this additional information.
+* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Explain that some tools may refer to table summaries as titles or names.
+
 
 #### Ideas to Assess Knowledge for Topic
 
