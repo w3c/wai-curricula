@@ -71,7 +71,8 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * [WCAG 2 Success Criterion 3.1.2 Meaningful ]Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful ]Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
   * [WCAG 2 Success Criterion 3.1.1 Language of Page](https://www.w3.org/WAI/WCAG21/quickref/#language-of-page)
   * [WCAG 2 Success Criterion 3.1.2 Language of Parts](https://www.w3.org/WAI/WCAG21/quickref/#language-of-parts)
