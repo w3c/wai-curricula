@@ -29,22 +29,22 @@ navigation:
 
 Courses based on this module should:
 
-[TBD]
+* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content 
+* explain accessibility requirements related to content clarity
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how clear, easy-to-understand, and easy-to-read content is essential for some people with disabilities and benefits all
-* write text using short sentences and clear language
+* explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
+* provide clear content and easy to understand language depending on context, audience, and resource
 * provide the extended form for abbreviations and acronyms
 * use iconography to help understand text content
 * use text alternatives to help understand content from images and other graphics
-* provide clear and concise instructions for overall content and specific input requirements
-* identify related requirements for designers and developers to:
-  * use grouping and spacing to communicate content sections
-  * use font types that are easy to read
-  * ensure appropriate contrast ratio for content
+* ensure:
+  * content grouping and spacing to communicate sections
+  * easy to read and easy to understand font types
+  * appropriate contrast ratio for content
 
 {% include excol.html type="all" %}
 
@@ -58,7 +58,9 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* Basic knowledge of:
+  * Content editing
 
 {% include excol.html type="end" %}
 
@@ -69,9 +71,13 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * Applied expertise in teaching:
-  * @@@
+  * [WCAG 2 Success Criterion 3.1.2 Meaningful ]Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
   * [WCAG 2 Success Criterion 3.1.1 Language of Page](https://www.w3.org/WAI/WCAG21/quickref/#language-of-page)
   * [WCAG 2 Success Criterion 3.1.2 Language of Parts](https://www.w3.org/WAI/WCAG21/quickref/#language-of-parts)
+  * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
+  * [WCAG 2 Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
+  * [WCAG 2 Success Criterion 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
 * In-depth knowledge of [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 
 {% include excol.html type="end" %}
@@ -92,9 +98,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* write text using clear and concise language
-* write short paragraphs and sentences where possible
-* employ active voice when possible 
+* write text using as much concise and straightforward language as possible to make the content easier to understand and process
+* employ active voice and address the reader directly when possible
+* write content with paragraphs and lists to group related information
+* employ easy to read font types and sizes, and ensure people can use their preferred font types and sizes when reading the content
 
 #### Teaching Ideas for Topic
 
@@ -122,7 +129,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* utilise words that are easy to understand
+* utilise words that are easy to understand for the target audience(s)
 * provide the extended form of:
   * abbreviations
   * acronyms

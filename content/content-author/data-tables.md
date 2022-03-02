@@ -144,7 +144,7 @@ Intro paragraph [TBD].
 
 Students should be able to:
 
-* explain how people with disabilities rely on meaningful table descriptions to understand the purpose of the talbe and to more easily navigate them
+* explain how people with disabilities rely on meaningful table descriptions to understand the purpose of the table and to more easily navigate them
 * provide table descriptions that help identify the purpose of the table
 * write captions that:
   * provide navigational hints for complex tables
