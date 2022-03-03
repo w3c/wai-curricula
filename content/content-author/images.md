@@ -44,6 +44,7 @@ Students should be able to:
   * support the inclusion of text alternatives for images
   * support marking an image as decorative when it has an ornamental purpose
   * produce appropriate markup for text alternatives
+  * support several modalities of CAPTCHA, including visual, auditory, and biometrics
 * identify related requirements for designers and developers to make images perceivable, understandable, and operable visually and non-visually
 
 {% include excol.html type="all" %}
@@ -57,8 +58,10 @@ Skills required for this module:
 ### Students
 
 {% include excol.html type="middle" %}
-
-[TBD]
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* Basic knowledge of:
+  * Content creation
+  * Content editing
 
 {% include excol.html type="end" %}
 
@@ -68,7 +71,14 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* Applied expertise in teaching:
+  * [WCAG Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
+  * [WCAG Success Criterion 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
+  * [WCAG Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
+  * [WCAG Success Criterion 1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text)
+  * [WCAG Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
+  * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
+  * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
 
 {% include excol.html type="end" %}
 
@@ -90,19 +100,26 @@ Students should be able to:
 
 * write unique and equivalent text alternatives that help people who don't see the image understand its function
 * provide information about the function of the image in the text alternative
-* employ tools that support the inclusion of text alternatives for images
+* ensure people can rely on different modalities of CAPTCHA, including visual, auditory, and biometrics
+* employ tools that:
+  * support the inclusion of text alternatives for images
+  * produce appropriate markup for functional images
+  * support different modalities of CAPTCHA, including visual, auditory, and biometrics
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Discuss examples of functional images, for example graphical buttons and links. Explain that these images must contain a text alternative that describe the functionality of the component. For example "Search", "print", or "save".
+* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying on one particular modality of CAPTCHA for people with disabilities. Emphasize that authors must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself or using plugins that include that functionality.
+* Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that tools may refer to alternative texts as image descriptions.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students about the type of information that functional images should convey. Assess how students understand the type of information that functional images should convey.
+* Practical &mdash; Give students several examples of functional images and ask them to provide their functionality.
 
 {% include excol.html type="end" %}
 
@@ -121,7 +138,9 @@ Students should be able to:
 * provide clear and descriptive text alternatives for images conveying information by:
   * writing clear and succinct text alternatives associated to the images
   * ensuring that adjacent text conveys the same information as the image
-
+* write textual information as text instead of including text in an image file
+* employ tools that:
+  * 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
