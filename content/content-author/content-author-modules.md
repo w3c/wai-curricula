@@ -22,12 +22,13 @@ navigation:
   next: /curricula/content-author-modules/content-clarity/
 ---
 
+{% comment %}
+
 ## Introduction
 {:.no-display}
 
 [TBD]
 
-{% comment %}
 The content author modules guide the creation of courses that:
 
 * explain how clear writing and plane language relate to accessibility
@@ -61,9 +62,33 @@ The content author modules are designed for students who have achieved the learn
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
-## writer Modules
-
--   [Module 1: @@@ ](/curricula/content-author-modules/)
-    -   [Topic: @@@](/curricula/content-author-modules/)
-
 {% endcomment %}
+
+## Content Author Modules
+
+-   [Module 1: Content clarity ](/curricula/content-author-modules/)
+    -   [Topic: Plain Language](/curricula/content-author-modules/)
+    -   [Topic: Terminology](/curricula/content-author-modules/)
+    -   [Topic: Appearance](/curricula/content-author-modules/)
+-   [Module 2: Content Structure](/curricula/content-author-modules/)
+   -   [Topic: Titles](/curricula/content-author-modules/)
+   -   [Topic: Headings](/curricula/content-author-modules/)
+   -   [Topic: Links](/curricula/content-author-modules/)
+-   [Module 3: Images](/curricula/content-author-modules/)
+   -   [Topic: Functional Images](/curricula/content-author-modules/)
+   -   [Topic: Informative Images](/curricula/content-author-modules/)
+   -   [Topic: Complex Images](/curricula/content-author-modules/)
+   -   [Topic: Decorative Images](/curricula/content-author-modules/)
+-   [Module 4: Data Tables](/curricula/content-author-modules/)
+   -   [Topic: Table Headers](/curricula/content-author-modules/)
+   -   [Topic: Table Cells](/curricula/content-author-modules/)
+   -   [Topic: Table Summaries and Descriptions](/curricula/content-author-modules/)
+-   [Module 5: Multimedia](/curricula/content-author-modules/)
+   -   [Topic: Transcripts](/curricula/content-author-modules/)
+   -   [Topic: Description](/curricula/content-author-modules/)
+   -   [Topic: Captions](/curricula/content-author-modules/)
+   -   [Topic: Sign Language](/curricula/content-author-modules/)
+-   [Module 6: Labels and Instructions](/curricula/content-author-modules/)
+   -   [Topic: Labels](/curricula/content-author-modules/)
+   -   [Topic: Instructions](/curricula/content-author-modules/)
+   -   [Topic: Error Messages](/curricula/content-author-modules/)
