@@ -56,7 +56,11 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* Prior [Content Author Modules](/curricula/content-author-modules/)
+* Basic knowledge of:
+  * Content creation
+  * Content editing
 
 {% include excol.html type="end" %}
 
@@ -66,7 +70,17 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* Applied expertise in teaching:
+  * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG 2 Success Criterion 1.3.5 Identify Input Purpose](https://www.w3.org/WAI/WCAG21/quickref/#identify-input-purpose)
+  * [WCAG 2 Success Criterion 2.2.1 Timing Adjustable](https://www.w3.org/WAI/WCAG21/quickref/#timing-adjustable)
+  * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
+  * [WCAG 2 Success Criterion 2.5.3 Label in Name](https://www.w3.org/WAI/WCAG21/quickref/#label-in-name)
+  * [WCAG 2 Success Criterion 3.2.2 On Input](https://www.w3.org/WAI/WCAG21/quickref/#on-input)
+  * [WCAG 2 Success Criterion 3.3.1 Error Identification](https://www.w3.org/WAI/WCAG21/quickref/#error-identification)
+  * [WCAG 2 Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
+  * [WCAG 2 Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
+  * [WCAG 2 Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
 
 {% include excol.html type="end" %}
 
@@ -86,11 +100,52 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
+* explain how people with disabilities rely on clear and meaningful labels to identify and understand the purpose of forms and controls
 * provide unique and descriptive labels for controls
 * ensure labels are perceived both visually and non-visually
 * employ tools that:
   * support the inclusion of labels for controls
-  * produce appropriate markup for labels
+  * programmatically associate labels to their corresponding control
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Demonstrate assistive technology interaction with controls, including form fields, links, and buttons. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
+* Reflect with students about commonly used labels for form fields and controls, including "name", "surname", "address", "phone", "email", and others. Explain that the label should be a short, succinct, and straightforward text that communicates the purpose and intent of the control.
+* refer back to [Content Author Module 1: Content Clarity](/curricula/content-author-modules/content-clarity). Explain that some users need to have imagery and iconography to make it easier for them to understand the purpose of these labels.
+* Introduce accessible authoring tools that support the inclusion of labels for forms and controls and that programmatically associate these to the control.  Explain that content authors should provide these labels and ensure the tool associates this to their corresponding control.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand what is the type of information  that labels should contain.
+* Practical &mdash; Give students several controls without a label and ask them to provide one for each. Assess how students provide short, succinct, and straightforward labels for controls.
+* Practical &mdash; Have students include labels for controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for controls.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Instructions
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* explain how people with disabilities rely on clear instructions to understand the content and to provide accurate input when required
+* provide clear instructions about the overall purpose of the content
+* write additional instructions for controls that communicate the information that the user should provide
+* include instructions about the current step and about the total number of steps in a multi-step process
+* ensure instructions are perceived both visually and non-visually
+* employ tools that:
+  * support the inclusion of instructions for overall content and for specific parts of the content
+  * programmatically associate instructions to their corresponding control
 
 #### Teaching Ideas for Topic
 
@@ -108,30 +163,31 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Instructions
+### Topic: Error MEssages
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+[Intro paragraph TBD]
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* provide clear instructions about the overall purpose of the content
-* provide instructions about the current step and about the total number of steps in a multi-step process
-* ensure instructions are perceived both visually and non-visually
-* employ tools that:
-  * support the inclusion of instructions for overall content and for specific parts of the content
-  * produce appropriate markup for instructions
+* explain how people with disabilities rely on error messages that communicate the problem and suggest possible fixes where possible
+* write error messages that communicate the problem by:
+  * identifying the field in error
+  * specifying the cause of the error
+* suggest fixes for the errors when possible by providing:
+  * examples of expected input
+  * additional guidance for users to understand the required input
 
-#### Teaching Ideas for Topic
+### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 [TBD]
 
-#### Ideas to Assess Knowledge for Topic
+### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
