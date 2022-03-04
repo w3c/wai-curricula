@@ -58,6 +58,7 @@ Skills required for this module:
 ### Students
 
 {% include excol.html type="middle" %}
+
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Content creation
@@ -100,7 +101,7 @@ Students should be able to:
 
 * write unique and equivalent text alternatives that help people who don't see the image understand its function
 * provide information about the function of the image in the text alternative
-* ensure people can rely on different modalities of CAPTCHA, including visual, auditory, and biometrics
+* ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
 * employ tools that:
   * support the inclusion of text alternatives for images
   * produce appropriate markup for functional images
