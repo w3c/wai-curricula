@@ -106,7 +106,7 @@ The foundation, developer, and designer modules are available now. The author mo
           <li><a href="{{ '/curricula/designer-modules/information-design/' | relative_url }}">Information Design</a></li>
           <li><a href="{{ '/curricula/designer-modules/navigation-design' | relative_url }}">Navigation Design</a></li>
           <li><a href="{{ '/curricula/designer-modules/interaction-design/' | relative_url }}">Interaction Design</a></li>
-          <li><a href="{{ '/curricula/designer-modules/images-and-graphics/' \ relative_url }}">Images and Graphics</a></li>
+          <li><a href="{{ '/curricula/designer-modules/images-and-graphics/' | relative_url }}">Images and Graphics</a></li>
           <li><a href="{{ '/curricula/designer-modules/multimedia-and-animations/' | relative_url }}">Multimedia and Animations</a></li>
           <li><a href="{{ '/curricula/designer-modules/forms-design/' | relative_url }}">Forms Design</a></li>
         </ul>
