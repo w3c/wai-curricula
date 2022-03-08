@@ -1,8 +1,8 @@
 ---
 title: "[Draft] Module 5: Multimedia"
 nav_title: "Multimedia"
-permalink: /curricula/content-author-modules/Multimedia/
-ref: /curricula/content-author-modules/Multimedia/
+permalink: /curricula/content-author-modules/multimedia/
+ref: /curricula/content-author-modules/multimedia/
 lang: en
 github:
   repository: w3c/wai-curricula
