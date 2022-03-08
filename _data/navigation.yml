@@ -341,8 +341,8 @@
     - name: Content Author Modules
       url: "/curricula/content-author-modules/"
       pages:
-      - name: Content Clarity
-        url: "/curricula/content-author-modules/content-clarity/"
+      - name: Clear Content
+        url: "/curricula/content-author-modules/clear-content/"
       - name: Content Structure
         url: "/curricula/content-author-modules/content-structure/"
       - name: Images

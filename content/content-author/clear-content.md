@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Content Clarity"
-nav_title: "Content Clarity"
-permalink: /curricula/content-author-modules/content-clarity/
-ref: /curricula/content-author-modules/content-clarity/
+title: "[Draft] Module 1: Clear Content"
+nav_title: "Clear Content"
+permalink: /curricula/content-author-modules/clear-content/
+ref: /curricula/content-author-modules/clear-content/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/content-clarity.md
+  path: content/content-author-modules/clear-content.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -30,14 +30,18 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content 
-* explain accessibility requirements related to content clarity
+* explain how some accessibility requirements relate to clear content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
-* provide clear content and easy to understand language depending on context, audience, and resource
+* provide clear content depending on context, audience, and resource by using:
+  * easy-to-understand content
+  * easy-to-read font types and sizes
+  * short sentences
+  * active voice
 * provide the extended form for abbreviations and acronyms
 * use iconography to help understand text content
 * use text alternatives to help understand content from images and other graphics
@@ -108,7 +112,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
+* Demonstrate use of active versus passive voice in senten structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps several groups of people with disabilities understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
+* Demonstrate approaches to group related content for easier processing and readability. For example, appropriate spacing between different content sections and use of paragraphs and lists to group related content.
+* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -140,14 +147,16 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+* Demonstrate how to provide the extended form for abbreviatiosn and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Reflect with students about terms that are jargony and otherwise difficult to understand. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when they cannot be changed, for example including a glossary of terms in the odcument.
+
 [TBD]
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
-
+* Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
