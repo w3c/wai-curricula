@@ -40,11 +40,12 @@ Students should be able to:
 * write titles that describe the purpose of the page
 * provide headings to help users identify the different content sections
 * write clear and meaningful link text to communicate the link purpose
-* ensure content structures are perceived visually and non-visually, including titles, headings, paragraphs, lists, quotes, and others
-* employ tools that:
+* employ accessible authoring tools that:
   * support the inclusion of titles, headings, lists, paragraphs, and other content structures
   * produce appropriate markup for content structures
-* identify related requirements for designers and developers to make content structures perceivable visually and non-visually
+* collaborate with developers and designers to ensure:
+  * adequate content grouping and spacing to communicate sections
+  * visual and non-visual perception of content structures , including titles, headings, paragraphs, lists, quotes, and others
 
 {% include excol.html type="all" %}
 
@@ -102,7 +103,7 @@ Students should be able to:
 * write unique, descriptive, and meaningful page titles
 * provide information about the current step in the page title when the page is part of a multi-step process
 * provide relevant and unique information first in page titles
-* employ accessible tools that produce appropriate markup for page titles
+* employ accessible authoring tools that produce appropriate markup for page titles
 
 #### Teaching Ideas for Topic
 
@@ -139,7 +140,7 @@ Students should be able to:
 * provide headings and their corresponding rank levels to help users identify the different content sections and sub sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * ensure headings are perceived both visually and non-visually
-* employ accessible tools that produce appropriate markup for headings and their corresponding rank levels
+* employ accessible authoring tools that produce appropriate markup for headings and their corresponding rank levels
 
 #### Teaching Ideas for Topic
 
@@ -161,44 +162,6 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="start" %}
-
-### Topic: Links
-
-{% include excol.html type="middle" %}
-
-Intro paragraph [TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* write unique, descriptive, and meaningful link text
-* provide relevant information about the link destination in the link text where possible, including:
-  * the target resource title
-  * if the link will open a new window
-  * the file type and format (when linking to a file)
-* ensure links and their different states are perceived both visually and non-visually
-* employ accessible tools that:
-  * allow the inclusion of additional information for links where needed
-  * produce appropriate markup for links
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
-* Show examples of some predefined styles for links and link states. Explain that redefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
-* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Short Answer Questions &mdash; Ask students which types of information the link text could contain. Assess how students relate the information that the link text could contain, including link destination, document type and format, and where the link will open.
-* Practical &mdash; Give students a link text that is not meaningful and ask them to make it meaningful by tweaking its language. Assess how students provide meaningful and descriptive link text.
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
 

@@ -103,7 +103,7 @@ Students should be able to:
 * explain how people with disabilities rely on clear and meaningful labels to identify and understand the purpose of forms and controls
 * provide unique and descriptive labels for controls
 * ensure labels are perceived both visually and non-visually
-* employ tools that:
+* employ accessible authoring tools that:
   * support the inclusion of labels for controls
   * programmatically associate labels to their corresponding control
 
@@ -143,7 +143,7 @@ Students should be able to:
 * write additional instructions for controls that communicate the information that the user should provide
 * include instructions about the current step and about the total number of steps in a multi-step process
 * ensure instructions are perceived both visually and non-visually
-* employ tools that:
+* employ accessible authoring tools that:
   * support the inclusion of instructions for overall content and for specific parts of the content
   * programmatically associate instructions to their corresponding control
 

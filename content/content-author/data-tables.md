@@ -40,7 +40,7 @@ Students should be able to:
 * designate the cell role, including header and data cells as well as cell scope
 * provide regular data tables as alternatives to graphical representations of tabular data
 * provide table descriptions to help users understand the purpose of complex tables
-* employ tools that produce accessible markup for data tables
+* employ accessible authoring tools that produce accessible markup for data tables
 * collaborate with designers and developers to achieve the desired visual presentation of multi-column content using styles instead of layout tables
 
 {% include excol.html type="all" %}
@@ -169,7 +169,7 @@ Students should be able to:
   * provide navigational hints for complex tables
   * describe how the table is organized
   * provide information about the type of data in each column and row
-* employ tools that:
+* employ accessible authoring tools that:
   * support the inclusion of table descriptions
   * produce accessible markup for table descriptions
 

@@ -39,16 +39,15 @@ Students should be able to:
 * explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
 * provide clear content depending on context, audience, and resource by using:
   * easy-to-understand content
-  * easy-to-read font types and sizes
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
 * use iconography to help understand text content
 * use text alternatives to help understand content from images and other graphics
-* ensure:
-  * content grouping and spacing to communicate sections
-  * easy to read and easy to understand font types
+* collaborate with designers and developers to ensure:
   * appropriate contrast ratio for content
+  * easy to read and easy to understand font types
+
 
 {% include excol.html type="all" %}
 
@@ -147,8 +146,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate how to provide the extended form for abbreviatiosn and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Reflect with students about terms that are jargony and otherwise difficult to understand. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when they cannot be changed, for example including a glossary of terms in the odcument.
+* Demonstrate how to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Reflect with students about terms that are difficult to understand, including jargon and terms that require advanced reading ability. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when they cannot be changed, for example including a glossary of terms in the document.
 
 [TBD]
 
@@ -157,6 +156,45 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Links
+
+{% include excol.html type="middle" %}
+
+Intro paragraph [TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* write unique, descriptive, and meaningful link text
+* provide relevant information about the link destination in the link text where possible, including:
+  * the target resource title
+  * if the link will open a new window
+  * the file type and format (when linking to a file)
+* ensure links and their different states are perceived both visually and non-visually
+* employ accessible authoring tools that:
+  * allow the inclusion of additional information for links where needed
+  * produce appropriate markup for links
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
+* Show examples of some predefined styles for links and link states. Explain that redefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students which types of information the link text could contain. Assess how students relate the information that the link text could contain, including link destination, document type and format, and where the link will open.
+* Practical &mdash; Give students a link text that is not meaningful and ask them to make it meaningful by tweaking its language. Assess how students provide meaningful and descriptive link text.
+
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
