@@ -39,9 +39,10 @@ Students should be able to:
 * provide clear and meaningful textual and visual labels for controls that help users understand their purpose
 * provide textual and visual instructions that describe the overall purpose and intent of the content
 * provide instructions about the current step and about the total number of steps in a multi-step process
-* provide clear instructions when collecting user input, including:
-  * expected input types and formats
-  * error messages and suggestions for correction when possible
+* collaborate with designers and developers to provide:
+  * instructions about expected input types and formats
+  * error messages that identify the field in error
+  * suggestions for correction when possible based on the selected input formats and validation methods
 * identify related requirements for designers and developers to make labels and instructions perceivable both visually and non-visually
 
 {% include excol.html type="all" %}
