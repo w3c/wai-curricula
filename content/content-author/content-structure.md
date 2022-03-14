@@ -162,7 +162,6 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="end" %}
 
-
 {% include excol.html type="all" %}
 
 ## Ideas to Assess Knowledge for Module
