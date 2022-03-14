@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/content-structure/
+  previous: /curricula/content-author-modules/structure/
   next: /curricula/content-author-modules/data-tables/
 ---
 

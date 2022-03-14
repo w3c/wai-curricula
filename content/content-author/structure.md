@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 2: Content Structure"
-nav_title: "Content Structure"
-permalink: /curricula/content-author-modules/content-structure/
-ref: /curricula/content-author-modules/content-structure/
+title: "[Draft] Module 2: Structure"
+nav_title: "Structure"
+permalink: /curricula/content-author-modules/structure/
+ref: /curricula/content-author-modules/structure/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/content-structure.md
+  path: content/content-author-modules/structure.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -139,7 +139,7 @@ Students should be able to:
 
 * provide headings and their corresponding rank levels to help users identify the different content sections and sub sections
 * write descriptive and meaningful heading text depending on the heading purpose
-* ensure headings are perceived both visually and non-visually
+* collaborate with designers and developers to ensure visual and non-visual perception of headings
 * employ accessible authoring tools that produce appropriate markup for headings and their corresponding rank levels
 
 #### Teaching Ideas for Topic

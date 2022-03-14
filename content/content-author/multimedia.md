@@ -66,7 +66,10 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)* Prior [Content Author Modules](/curricula/content-author-modules/)
+* Basic knowledge of:
+  * Content editing
+  * Content Creation
 
 {% include excol.html type="end" %}
 
@@ -76,7 +79,19 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-[TBD]
+* Applied expertise in teaching:
+  * [WCAG Success Criterion 1.2.1	Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
+  * [WCAG Success Criterion 1.2.2	Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
+  * [WCAG Success Criterion 1.2.3	Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
+  * [WCAG Success Criterion 1.2.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
+  * [WCAG Success Criterion 1.2.5 Audio Description (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
+  * [WCAG Success Criterion 1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/quickref/#audio-control)
+  * [WCAG Success Criterion 1.4.6 Sign Language (prerecorded](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded)
+  * [WCAG Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide)
+  * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
+* In-depth knowledge of:
+  * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
+  * Prior [Content Author Modules](/curricula/content-author-modules/)
 
 {% include excol.html type="end" %}
 
@@ -113,7 +128,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Descriptions
+### Topic: Description
 
 {% include excol.html type="middle" %}
 
@@ -164,6 +179,7 @@ Optional ideas to assess knowledge:
 [TBD]
 
 {% include excol.html type="end" %}
+
 {% include excol.html type="start" %}
 
 ### Topic: Sign Languages

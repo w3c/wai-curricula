@@ -41,7 +41,7 @@ The content author modules guide the creation of courses that:
 
 These modules focus on accessible content creeation. They are primarily designed for teaching:
 
-* writers
+* technical writers
 * editors
 * content creators
 
@@ -68,8 +68,8 @@ The content author modules are designed for students who have achieved the learn
 
 (links not working, will fix later)
 
--   [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
-    -   [Topic: Plain Language](/curricula/content-author-modules/)
+-   [Module 1: Plain Language(/curricula/content-author-modules/plain-language/)
+    -   [Topic: Clear Content](/curricula/content-author-modules/)
     -   [Topic: Terminology](/curricula/content-author-modules/)
     -   [Topic: Appearance](/curricula/content-author-modules/)
 -   [Module 2: Content Structure](/curricula/content-author-modules/)

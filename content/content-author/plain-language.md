@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Clear Content"
-nav_title: "Clear Content"
-permalink: /curricula/content-author-modules/clear-content/
-ref: /curricula/content-author-modules/clear-content/
+title: "[Draft] Module 1: Plain Language"
+nav_title: "Plain Language"
+permalink: /curricula/content-author-modules/plain-language/
+ref: /curricula/content-author-modules/plain-language/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/clear-content.md
+  path: content/content-author-modules/plain-language.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -21,7 +21,7 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/content-author-modules/
-  next: /curricula/content-author-modules/content-structure/
+  next: /curricula/content-author-modules/structure/
 ---
 
 ## Introduction
@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content 
-* explain how some accessibility requirements relate to clear content
+* explain how clear, easy to understand, and easy to read content benefits accessibility
 
 ## Learning Outcomes for Module
 
@@ -43,11 +43,10 @@ Students should be able to:
   * active voice
 * provide the extended form for abbreviations and acronyms
 * use iconography to help understand text content
-* use text alternatives to help understand content from images and other graphics
+* use equivalent text alternatives to help understand content from images and other graphics
 * collaborate with designers and developers to ensure:
   * appropriate contrast ratio for content
   * easy to read and easy to understand font types
-
 
 {% include excol.html type="all" %}
 
@@ -92,7 +91,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Plain Language
+### Topic: Clear Content
 
 {% include excol.html type="middle" %}
 
@@ -105,7 +104,7 @@ Students should be able to:
 * write text using as much concise and straightforward language as possible to make the content easier to understand and process
 * employ active voice and address the reader directly when possible
 * write content with paragraphs and lists to group related information
-* employ easy to read font types and sizes, and ensure people can use their preferred font types and sizes when reading the content
+* collaborate with designer's and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
 
@@ -160,7 +159,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Links
+### Topic: Link Text
 
 {% include excol.html type="middle" %}
 
@@ -175,7 +174,7 @@ Students should be able to:
   * the target resource title
   * if the link will open a new window
   * the file type and format (when linking to a file)
-* ensure links and their different states are perceived both visually and non-visually
+* collaborate with designers and developers to ensure visual and non-visual perception of links and their different states
 * employ accessible authoring tools that:
   * allow the inclusion of additional information for links where needed
   * produce appropriate markup for links

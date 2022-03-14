@@ -341,10 +341,10 @@
     - name: Content Author Modules
       url: "/curricula/content-author-modules/"
       pages:
-      - name: Clear Content
-        url: "/curricula/content-author-modules/clear-content/"
-      - name: Content Structure
-        url: "/curricula/content-author-modules/content-structure/"
+      - name: plain-language
+        url: "/curricula/content-author-modules/plain-language/"
+      - name: Structure
+        url: "/curricula/content-author-modules/structure/"
       - name: Images
         url: "/curricula/content-author-modules/images/"
       - name: Data Tables
