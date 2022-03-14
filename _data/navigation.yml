@@ -341,7 +341,7 @@
     - name: Content Author Modules
       url: "/curricula/content-author-modules/"
       pages:
-      - name: plain-language
+      - name: plain Language
         url: "/curricula/content-author-modules/plain-language/"
       - name: Structure
         url: "/curricula/content-author-modules/structure/"

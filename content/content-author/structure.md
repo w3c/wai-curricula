@@ -155,7 +155,6 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a page and ask them to provide the headings. Assess how students relate the outline with headings and their corresponding rank levels.
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where headings can be used.
 * Practical &mdash; Give students several page headings and ask them to use accessible styles. Assess how students employ accessible styles for headings.
 * Practical &mdash; Have students include headings using a given authoring tool. Assess how students rely on the tool's built-in functionality to include headings.
