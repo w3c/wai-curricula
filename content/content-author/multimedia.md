@@ -47,8 +47,10 @@ Students should be able to:
 * include descriptions of visual information for people who cannot see the videos by:
   * integrating descriptions into the main audio where possible
   * providing a separate description track or text file
-* employ accessible authoring tools that support including and controlling alternatives to audio and video content
+* avoid blinking and flashing content that can cause seizures
 * collaborate with designers and developers to ensure visual and non-visual operation of:
+* employ accessible authoring tools that support including and controlling alternatives to audio and video content
+* identify related requirements for designers and developers to make the following perceivable and operable both visually and non-visually:
   * alternatives to multimedia content 
   * media players
   * media player controls

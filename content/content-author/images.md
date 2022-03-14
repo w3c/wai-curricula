@@ -35,7 +35,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on images (including diagrams, charts, maps, and infographics) and their corresponding text alternatives to understand information
+* explain how people with disabilities rely on text alternatives for images (including diagrams, charts, maps, and infographics) and their corresponding text alternatives to understand information
 * provide icons and symbols that help people better understand text content
 * write clear and succinct text alternatives for images that convey functionality
 * write equivalent and understandable text alternatives for images conveying information
