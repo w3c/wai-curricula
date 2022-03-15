@@ -39,7 +39,6 @@ Students should be able to:
 * explain how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate and process content
 * write titles that describe the purpose of the page
 * provide headings to help users identify the different content sections
-* write clear and meaningful link text to communicate the link purpose
 * employ accessible authoring tools that:
   * support the inclusion of titles, headings, lists, paragraphs, and other content structures
   * produce appropriate markup for content structures
@@ -74,9 +73,7 @@ Skills required for this module:
 
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
-  * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)

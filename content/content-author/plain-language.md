@@ -42,8 +42,9 @@ Students should be able to:
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
-* use iconography to help understand text content
+* use icons and symbols to help users understand text content
 * use equivalent text alternatives to help understand content from images and other graphics
+* write clear and meaningful link text to communicate the link purpose
 * collaborate with designers and developers to ensure:
   * appropriate contrast ratio for content
   * easy to read and easy to understand font types
@@ -63,6 +64,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Content editing
+  * Content Creation
 
 {% include excol.html type="end" %}
 
@@ -76,6 +78,8 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 1.3.2 Meaningful ]Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+  * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
+  * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
   * [WCAG 2 Success Criterion 3.1.1 Language of Page](https://www.w3.org/WAI/WCAG21/quickref/#language-of-page)
   * [WCAG 2 Success Criterion 3.1.2 Language of Parts](https://www.w3.org/WAI/WCAG21/quickref/#language-of-parts)
   * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
@@ -103,7 +107,6 @@ Students should be able to:
 
 * write text using as much concise and straightforward language as possible to make the content easier to understand and process
 * employ active voice and address the reader directly when possible
-* write content with paragraphs and lists to group related information
 * collaborate with designer's and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
