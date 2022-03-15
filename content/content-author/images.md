@@ -110,7 +110,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of functional images, for example graphical buttons and links. Explain that these images must contain a text alternative that describe the functionality of the component. For example "Search", "print", or "save".
+* Discuss examples of functional images, for example graphical buttons and links. Explain that these images must contain a text alternative that describes the functionality of the component. For example "Search", "print", or "save".
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that tools may refer to alternative texts as image descriptions.
 
 #### Ideas to Assess Knowledge for Topic
