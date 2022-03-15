@@ -37,7 +37,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in video and audio content
 * provide transcripts for audio content to help people who cannot hear the audio
-* create audio and video content with:
+* ensure audio and video content includes:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
   * visuals that help understand the audio where possible
