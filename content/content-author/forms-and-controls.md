@@ -35,15 +35,15 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear and meaningful Forms and Controls to understand and interact with web pages and applications
+* explain how people with disabilities rely on clear and meaningful labels and instructions for form fields and controls, including edit boxes, lists, buttons, and others, to understand and interact with web pages and applications
 * provide clear and meaningful textual and visual labels for controls that help users understand their purpose
-* provide textual and visual instructions that describe the overall purpose and intent of the content
+* provide textual and visual instructions that describe the overall purpose and intent of the form
 * provide instructions about the current step and about the total number of steps in a multi-step process
 * collaborate with designers and developers to provide:
   * instructions about expected input types and formats
   * error messages that identify the field in error
   * suggestions for correction when possible based on the selected input formats and validation methods
-* identify related requirements for designers and developers to make Forms and Controls perceivable both visually and non-visually
+* identify related requirements for designers and developers to ensure visual and non-visual perception of and operation with forms and controls
 
 {% include excol.html type="all" %}
 
@@ -103,7 +103,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on clear and meaningful labels to identify and understand the purpose of forms and controls
 * provide unique and descriptive labels for controls
-* ensure labels are perceived both visually and non-visually
+* collaborate with designers and developers to ensure visual and non-visual perception of labels
 * employ accessible authoring tools that:
   * support the inclusion of labels for controls
   * programmatically associate labels to their corresponding control

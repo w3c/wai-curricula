@@ -22,12 +22,8 @@ navigation:
   next: /curricula/content-author-modules/content-clarity/
 ---
 
-{% comment %}
-
 ## Introduction
 {:.no-display}
-
-[TBD]
 
 The content author modules guide the creation of courses that:
 
@@ -37,9 +33,10 @@ The content author modules guide the creation of courses that:
   * text
   * images
   * tables
-  * audio and viddeo
+  * forms
+  * audio and video
 
-These modules focus on accessible content creeation. They are primarily designed for teaching:
+These modules focus on accessible content creation. They are primarily designed for teaching:
 
 * technical writers
 * editors
@@ -62,20 +59,19 @@ The content author modules are designed for students who have achieved the learn
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
-{% endcomment %}
-
 ## [Tentative] Content Author Modules
 
 (links not working, will fix later)
 
--   [Module 1: Plain Language(/curricula/content-author-modules/clarity-and-semantics/)
-    -   [Topic: Clear Content](/curricula/content-author-modules/)
+-   [Module 1: Clarity(/curricula/content-author-modules/clarity/)
+    -   [Topic: Plain Language](/curricula/content-author-modules/#topic-plain-language)
     -   [Topic: Terminology](/curricula/content-author-modules/)
+    -   [Topic: Orientation and Semantics](/curricula/content-author-modules/)
     -   [Topic: Appearance](/curricula/content-author-modules/)
--   [Module 2: Content Structure](/curricula/content-author-modules/)
-    -   [Topic: Titles](/curricula/content-author-modules/)
-    -   [Topic: Headings](/curricula/content-author-modules/)
-    -   [Topic: Links](/curricula/content-author-modules/)
+-   [Module 2: Structure](/curricula/content-author-modules/structure/)
+    -   [Topic: Headings](/curricula/content-author-modules/structure/)
+    -   [Topic: Lists](/curricula/content-author-modules/structure/)
+    -   [Topic: Paragraphs](/curricula/content-author-modules/structure/)
 -   [Module 3: Images](/curricula/content-author-modules/)
     -   [Topic: Functional Images](/curricula/content-author-modules/)
     -   [Topic: Informative Images](/curricula/content-author-modules/)

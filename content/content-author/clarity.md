@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Clarity and Semantics"
-nav_title: "Plain Language"
-permalink: /curricula/content-author-modules/clarity-and-semantics/
-ref: /curricula/content-author-modules/clarity-and-semantics/
+title: "[Draft] Module 1: Clarity"
+nav_title: "Clarity"
+permalink: /curricula/content-author-modules/clarity/
+ref: /curricula/content-author-modules/clarity/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/clarity-and-semantics.md
+  path: content/content-author-modules/clarity.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
@@ -44,10 +44,13 @@ Students should be able to:
 * provide the extended form for abbreviations and acronyms
 * use icons and symbols to help users understand text content
 * use equivalent text alternatives to help understand content from images and other graphics
-* write clear and meaningful link text to communicate the link purpose
+* write clear and meaningful:
+  * titles that describe the purpose of the page
+  * link text to communicate the link purpose
 * collaborate with designers and developers to ensure:
   * appropriate contrast ratio for content
-  * easy to read and easy to understand font types
+  * easy to read and easy to understand font types and sizes
+  * adequate content grouping and spacing to communicate semantics visually
 
 {% include excol.html type="all" %}
 
@@ -95,7 +98,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Clear Content
+### Topic: Plain Language
 
 {% include excol.html type="middle" %}
 
@@ -162,40 +165,46 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Link Text
+### Topic: Orientation and Semantics
 
 {% include excol.html type="middle" %}
 
-Intro paragraph [TBD].
+[Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* write unique, descriptive, and meaningful link text
+* write unique, descriptive, and meaningful:
+  * link text
+  * page titles
 * provide relevant information about the link destination in the link text where possible, including:
   * the target resource title
   * if the link will open a new window
   * the file type and format (when linking to a file)
-* collaborate with designers and developers to ensure visual and non-visual perception of links and their different states
+* provide information about the current step in the page title when the page is part of a multi-step process
+* provide relevant and unique information first in page titles
 * employ accessible authoring tools that:
-  * allow the inclusion of additional information for links where needed
-  * produce appropriate markup for links
+  * produce appropriate markup for links and page titles
+  * support the inclusion of additional information for links where needed
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
-* Show examples of some predefined styles for links and link states. Explain that redefining the styles is a designer's and author tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
+* present different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
+* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps everybody scan the titles.* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 * Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students which types of information the link text could contain. Assess how students relate the information that the link text could contain, including link destination, document type and format, and where the link will open.
-* Practical &mdash; Give students a link text that is not meaningful and ask them to make it meaningful by tweaking its language. Assess how students provide meaningful and descriptive link text.
+* Short Answer Questions &mdash; Ask students which types of information page titles and  link text could contain. Assess how students relate the information that page titles and  link text could contain, including link destination, document type and format, and where the link will open.
+* Short Answer Questions &mdash; Ask students about good practices for structuring the information in page titles. Assess how students relate good practices for structuring information in page titles.
+* Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
+* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include these page titles and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
 
 {% include excol.html type="end" %}
 

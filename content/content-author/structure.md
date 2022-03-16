@@ -37,13 +37,11 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate and process content
-* write titles that describe the purpose of the page
 * provide headings to help users identify the different content sections
 * employ accessible authoring tools that:
   * support the inclusion of titles, headings, lists, paragraphs, and other content structures
   * produce appropriate markup for content structures
 * collaborate with developers and designers to ensure:
-  * adequate content grouping and spacing to communicate sections
   * visual and non-visual perception of content structures , including titles, headings, paragraphs, lists, quotes, and others
 
 {% include excol.html type="all" %}
@@ -85,42 +83,6 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-{% include excol.html type="start" %}
-
-### Topic: Titles
-
-{% include excol.html type="middle" %}
-
-[Intro paragraph TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-* write unique, descriptive, and meaningful page titles
-* provide information about the current step in the page title when the page is part of a multi-step process
-* provide relevant and unique information first in page titles
-* employ accessible authoring tools that produce appropriate markup for page titles
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Present examples of titles that describe the purpose of the page and then show examples of those that do not. Explain that page titles must describe the purpose of the page.
-* Show examples of page titles for pages that are part of a multi-step process. Emphasize how information about the current step is presented in the page title, as well as in other parts of the page.
-* Discuss different ways to organize information inside page titles. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps everybody scan the titles.
-* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Short Answer Questions &mdash; Give students non-descriptive titles and ask them to turn these titles into descriptive ones by tweaking their language. Assess how students write unique, meaningful, and descriptive page titles.
-* Short Answer Questions &mdash; Ask students about good practices for structuring the information in page titles. Assess how students relate good practices for structuring information in page titles.
-* Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Practical &mdash; Students select an authoring tool that produces appropriate markup for page titles and include page titles using the tool's user interface.
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
