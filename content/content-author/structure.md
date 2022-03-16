@@ -29,20 +29,19 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate, and process content
+* demonstrate how people with disabilities rely on headings, paragraphs, lists, and other structures to understand, navigate, and process content
 * explain accessibility requirements related to content structure
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on titles, headings, paragraphs, lists, and other structures to understand, navigate and process content
+* explain how people with disabilities rely on headings, paragraphs, lists, and other structures to understand, navigate and process content
 * provide headings to help users identify the different content sections
 * employ accessible authoring tools that:
-  * support the inclusion of titles, headings, lists, paragraphs, and other content structures
-  * produce appropriate markup for content structures
-* collaborate with developers and designers to ensure:
-  * visual and non-visual perception of content structures , including titles, headings, paragraphs, lists, quotes, and others
+  * support the inclusion of headings, lists, paragraphs, and other content structures
+  * produce appropriate markup for headings, lists, paragraphs, and other content structures
+* collaborate with developers and designers to ensure visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
 
 {% include excol.html type="all" %}
 
@@ -126,7 +125,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Have students create a page with accessible content structures, including title, headings, links, paragraphs, and lists. Assess how students include accessible titles, headings, links, paragraphs, and lists in their pages.
+* Portfolio &mdash; Have students create a page with accessible content structures, including headings, links, paragraphs, and lists. Assess how students include accessible headings, links, paragraphs, and lists in their pages.
 * @@@
 
 ## Teaching Resources
