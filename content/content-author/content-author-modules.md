@@ -90,7 +90,7 @@ The content author modules are designed for students who have achieved the learn
     -   [Topic: Description](/curricula/content-author-modules/)
     -   [Topic: Captions](/curricula/content-author-modules/)
     -   [Topic: Sign Language](/curricula/content-author-modules/)
--   [Module 6: Labels and Instructions](/curricula/content-author-modules/)
+-   [Module 6: Forms and Controls](/curricula/content-author-modules/forms-and-controls/)
     -   [Topic: Labels](/curricula/content-author-modules/)
     -   [Topic: Instructions](/curricula/content-author-modules/)
     -   [Topic: Error Messages](/curricula/content-author-modules/)
