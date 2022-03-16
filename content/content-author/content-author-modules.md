@@ -68,7 +68,7 @@ The content author modules are designed for students who have achieved the learn
 
 (links not working, will fix later)
 
--   [Module 1: Plain Language(/curricula/content-author-modules/plain-language/)
+-   [Module 1: Plain Language(/curricula/content-author-modules/clarity-and-semantics/)
     -   [Topic: Clear Content](/curricula/content-author-modules/)
     -   [Topic: Terminology](/curricula/content-author-modules/)
     -   [Topic: Appearance](/curricula/content-author-modules/)

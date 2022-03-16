@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Plain Language"
+title: "[Draft] Module 1: Clarity and Semantics"
 nav_title: "Plain Language"
-permalink: /curricula/content-author-modules/plain-language/
-ref: /curricula/content-author-modules/plain-language/
+permalink: /curricula/content-author-modules/clarity-and-semantics/
+ref: /curricula/content-author-modules/clarity-and-semantics/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/plain-language.md
+  path: content/content-author-modules/clarity-and-semantics.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
