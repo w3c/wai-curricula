@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 6: Forms and Controls"
-nav_title: "Forms and Controls"
-permalink: /curricula/content-author-modules/forms-and-controls/
-ref: /curricula/content-author-modules/forms-and-controls/
+title: "[Draft] Module 6: Forms"
+nav_title: "Forms"
+permalink: /curricula/content-author-modules/forms/
+ref: /curricula/content-author-modules/forms/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/forms-and-controls.md
+  path: content/content-author-modules/forms.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

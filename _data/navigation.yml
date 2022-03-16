@@ -351,8 +351,8 @@
         url: "/curricula/content-author-modules/data-tables/"
       - name: Multimedia
         url: "/curricula/content-author-modules/multimedia/"
-      - name: Forms and Controls
-        url: "/curricula/content-author-modules/forms-and-controls/"
+      - name: Forms
+        url: "/curricula/content-author-modules/forms/"
   - name: Develop Accessibility Training
     url: "/teach-advocate/accessibility-training/"
     pages:
