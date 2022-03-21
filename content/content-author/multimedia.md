@@ -35,15 +35,15 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in video and audio content
+* explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in audio and video content
 * provide transcripts for audio content to help people who cannot hear the audio
-* ensure audio and video content includes:
+* collaborate with designers and developers to ensure audio and video content includes:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
   * visuals that help understand the audio where possible
   * audio that helps understand the visuals where possible
   * captions to help users who cannot hear the audio get the information
-  * transcripts for people who cannot hear the audio or see the visuals get the information
+  * transcripts to help people who cannot hear the audio or see the visuals get the information
 * include descriptions of visual information for people who cannot see the videos by:
   * integrating descriptions into the main audio where possible
   * providing a separate description track or text file
