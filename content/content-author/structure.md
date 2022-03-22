@@ -95,10 +95,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* provide headings and their corresponding rank levels to help users identify the different content sections and sub sections
+* provide headings and their corresponding rank levels to help users identify the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
-* collaborate with designers and developers to ensure visual and non-visual perception of headings
 * employ accessible authoring tools that produce appropriate markup for headings and their corresponding rank levels
+* identify related requirements for designers and developers to ensure visual and non-visual perception of headings
 
 #### Teaching Ideas for Topic
 
@@ -114,10 +114,35 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where headings can be used.
-* Practical &mdash; Give students several page headings and ask them to use accessible styles. Assess how students employ accessible styles for headings.
 * Practical &mdash; Have students include headings using a given authoring tool. Assess how students rely on the tool's built-in functionality to include headings.
 
 {% include excol.html type="end" %}
+
+### Topic: Paragraphs and Lists
+
+[Intro paragraph TBD.]
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* explain how people with disabilities rely on paragraphs and lists to understand and process content grouping
+* group related content using:
+  * paragraph structures to group thematic units
+  * unordered lists when the item numbering is not relevant
+  * ordered lists when the item numbering is relevant
+
+#### Teaching Ideas
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
 
 {% include excol.html type="all" %}
 
@@ -125,8 +150,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Have students create a page with accessible content structures, including headings, links, paragraphs, and lists. Assess how students include accessible headings, links, paragraphs, and lists in their pages.
-* @@@
+* Short Answer Questions &mdash; Ask students about the structural units that exist and their purpose. Assess how students recall the structural units that exist and how they explain their purpose.
+* Portfolio &mdash; Have students create a page with accessible content structures, including headings, paragraphs, and lists. Assess how students include accessible headings, paragraphs, and lists in their pages.
 
 ## Teaching Resources
 

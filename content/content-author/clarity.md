@@ -29,7 +29,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content 
+* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to read and process information
 * explain how clear, easy to understand, and easy to read content benefits accessibility
 
 ## Learning Outcomes for Module
@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
 * provide clear content depending on context, audience, and resource by using:
-  * easy-to-understand content
+  * easy-to-understand words
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
@@ -47,7 +47,7 @@ Students should be able to:
 * write clear and meaningful:
   * titles that describe the purpose of the page
   * link text to communicate the link purpose
-* collaborate with designers and developers to ensure:
+* identify related requirements for designers and developers to ensure:
   * appropriate contrast ratio for content
   * easy to read and easy to understand font types and sizes
   * adequate content grouping and spacing to communicate semantics visually
@@ -108,9 +108,9 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* write text using as much concise and straightforward language as possible to make the content easier to understand and process
+* write text using concise and straightforward language to make the content easier to understand and process
 * employ active voice and address the reader directly when possible
-* collaborate with designer's and developers to provide easy to read font types 
+* identify related requirements for designers and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
 
@@ -142,7 +142,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* utilize words that are easy to understand for the target audience(s)
+* utilize words that are easy to understand for the target audience
 * provide the extended form of:
   * abbreviations
   * acronyms
@@ -153,7 +153,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate how to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Reflect with students about terms that are difficult to understand, including jargon and terms that require advanced reading ability. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when they cannot be changed, for example including a glossary of terms in the document.
+* Reflect with students about terms that are difficult to understand, including jargon and terms that require advanced reading ability. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when the terms cannot be changed, for example including a glossary of terms in the document.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -166,7 +166,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Orientation and Semantics
+### Topic: Titles and Link Text
 
 {% include excol.html type="middle" %}
 
@@ -202,10 +202,10 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students which types of information page titles and  link text could contain. Assess how students relate the information that page titles and  link text could contain, including link destination, document type and format, and where the link will open.
+* Short Answer Questions &mdash; Ask students which types of information page titles and  link text should contain. Assess how students relate the information that page titles and link text should contain, including link destination, document type and format, and where the link will open.
 * Short Answer Questions &mdash; Ask students about good practices for structuring the information in page titles. Assess how students relate good practices for structuring information in page titles.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include these page titles and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
+* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and some link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
 
 {% include excol.html type="end" %}
 

@@ -29,14 +29,15 @@ navigation:
 
 Courses based on this module should:
 
-[TBD]
+* demonstrate how people with disabilities rely on clear labels and instructions for form fields and controls, including edit boxes, lists, buttons, and others, to understand and interact with web pages and applications
+* explain accessibility requirements for labels and instructions for form fields and controls
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
 * explain how people with disabilities rely on clear and meaningful labels and instructions for form fields and controls, including edit boxes, lists, buttons, and others, to understand and interact with web pages and applications
-* provide clear and meaningful textual and visual labels for controls that help users understand their purpose
+* provide clear and meaningful textual and visual labels for form fields and controls that help users understand their purpose
 * provide textual and visual instructions that describe the overall purpose and intent of the form
 * provide instructions about the current step and about the total number of steps in a multi-step process
 * collaborate with designers and developers to provide:
@@ -101,29 +102,29 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear and meaningful labels to identify and understand the purpose of forms and controls
-* provide unique and descriptive labels for controls
-* collaborate with designers and developers to ensure visual and non-visual perception of labels
+* explain how people with disabilities rely on clear and meaningful labels to identify and understand the purpose of form fields and controls
+* provide unique and descriptive labels for form fields and controls
 * employ accessible authoring tools that:
   * support the inclusion of labels for controls
   * programmatically associate labels to their corresponding control
+* collaborate with designers and developers to ensure visual and non-visual perception of labels
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate assistive technology interaction with controls, including form fields, links, and buttons. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
+* Demonstrate assistive technology interaction with form fields and controls, including  edit boxes, lists, buttons, and others. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
 * Reflect with students about commonly used labels for form fields and controls, including "name", "surname", "address", "phone", "email", and others. Explain that the label should be a short, succinct, and straightforward text that communicates the purpose and intent of the control.
-* refer back to [Content Author Module 1: Content Clarity](/curricula/content-author-modules/content-clarity). Explain that some users need to have imagery and iconography to make it easier for them to understand the purpose of these labels.
-* Introduce accessible authoring tools that support the inclusion of labels for forms and controls and that programmatically associate these to the control.  Explain that content authors should provide these labels and ensure the tool associates this to their corresponding control.
+* Explain that some users rely on imagery and iconography to understand the purpose of these labels.
+* Introduce accessible authoring tools that support the inclusion of labels for forms and controls and that programmatically associate these to the form field and control. Explain that some tools may refer to labels as "names" or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand what is the type of information  that labels should contain.
-* Practical &mdash; Give students several controls without a label and ask them to provide one for each. Assess how students provide short, succinct, and straightforward labels for controls.
-* Practical &mdash; Have students include labels for controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for controls.
+* Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students recall the type of information  that labels should contain.
+* Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide short, succinct, and straightforward labels for controls.
+* Practical &mdash; Have students include labels for form fields and controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for form fields and controls.
 
 {% include excol.html type="end" %}
 
@@ -141,12 +142,12 @@ Students should be able to:
 
 * explain how people with disabilities rely on clear instructions to understand the content and to provide accurate input when required
 * provide clear instructions about the overall purpose of the content
-* write additional instructions for controls that communicate the information that the user should provide
+* write additional instructions that communicate the information that the user should provide
 * include instructions about the current step and about the total number of steps in a multi-step process
-* ensure instructions are perceived both visually and non-visually
 * employ accessible authoring tools that:
   * support the inclusion of instructions for overall content and for specific parts of the content
   * programmatically associate instructions to their corresponding control
+* identify related requirements for designers and developers to support visual and non-visual perception of  instructions
 
 #### Teaching Ideas for Topic
 
@@ -164,7 +165,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Error MEssages
+### Topic: Error Messages
 
 {% include excol.html type="middle" %}
 
@@ -178,7 +179,7 @@ Students should be able to:
 * write error messages that communicate the problem by:
   * identifying the field in error
   * specifying the cause of the error
-* suggest fixes for the errors when possible by providing:
+* provide suggestions for fixing the errors when possible by providing:
   * examples of expected input
   * additional guidance for users to understand the required input
 
