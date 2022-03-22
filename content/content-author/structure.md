@@ -132,17 +132,19 @@ Students should be able to:
   * unordered lists when the item numbering is not relevant
   * ordered lists when the item numbering is relevant
 
-#### Teaching Ideas
+#### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Explain different uses of paragraphs to group thematic units. Explain that providing the paragraphs is an authors responsibility, defining how these paragraphs look like is a designers responsibility, and implementing markup for these paragraphs is a developers responsibility.
+* Explain uses of ordered lists (where numbering does not matter) and unordered lists (where numbering matters). Explain that providing these lists is an authors responsibility, defining how these lists look like is a designers responsibility, and implementing markup for these lists is a developers responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students about different uses of paragraphs and lists. Assess how students recall different uses of paragraphs and lists.
+* Practical &mdash; Give students a set of related items where numbering matters and a set of related items where numbering does not matter. Ask them to provide the correct type of list for each.. Assess how students use ordered and unordered lists.
 
 {% include excol.html type="all" %}
 

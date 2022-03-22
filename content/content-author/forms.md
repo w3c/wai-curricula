@@ -142,7 +142,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on clear instructions to understand the content and to provide accurate input when required
 * provide clear instructions about the overall purpose of the content
-* write additional instructions that communicate the information that the user should provide
+* write additional instructions that provide examples of expected input when possible
 * include instructions about the current step and about the total number of steps in a multi-step process
 * employ accessible authoring tools that:
   * support the inclusion of instructions for overall content and for specific parts of the content
