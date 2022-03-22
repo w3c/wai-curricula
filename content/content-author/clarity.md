@@ -125,7 +125,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Practical &mdash; give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
+* Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
 
 {% include excol.html type="end" %}
 
@@ -154,13 +155,13 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate how to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
 * Reflect with students about terms that are difficult to understand, including jargon and terms that require advanced reading ability. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when they cannot be changed, for example including a glossary of terms in the document.
 
-[TBD]
-
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
+* Short Answer Questions &mdash; Ask students what to do when using terms that are difficult to understand for the audience. Assess how students recall approaches for dealing with terms that are easier to understand.
 * Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
+
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
@@ -214,7 +215,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Portfolio &mdash; Ask them to produce a piece of content that is easy to understand for a given audience dealing with a given subject. Assess how students create content that is easy to understand for the audience.
+* Portfolio &mdash; Ask students to provide a correct page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
 
 ## Teaching Resources
 
