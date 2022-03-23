@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how text alternatives for images enable people who cannot see the images to understand the image content
-* explain accessibility requirements related to images, including text alternatives and long descriptions
+* explain accessibility requirements related to informative, decorative, functional, and complex images
 
 ## Learning Outcomes for Module
 
@@ -42,13 +42,11 @@ Students should be able to:
   * functional (convey functionality)
   * complex (require long descriptions and sometimes alternative interaction methods)
 * write clear and succinct text alternatives for functional images
-* write equivalent and understandable text alternatives for informative images
-* explain the issues associated with:
-  * perception, interpretation, and rendering of images of text
-  * automatically generated alternative texts that have not been checked for quality and accuracy
+* write equivalent and descriptive text alternatives for informative images
+* explain the issues associated with relying on an image format to provide textual information:
 * employ accessible authoring tools that
   * support the inclusion of text alternatives for images
-  * enable authors to amend suggested text alternatives when needed
+  * enable authors to amend suggested text alternatives for quality and accuracy
   * support marking an image as decorative when it has an ornamental purpose
   * produce appropriate markup for text alternatives
   * support several modalities of CAPTCHA, including visual, auditory, and biometrics
@@ -100,13 +98,14 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* provide quality-checked text alternatives for informational images using:
+* explain how people with disabilities rely on text alternatives for informative images that provide the same information as that of the image
+* provide quality-checked text alternatives for informative images using:
   * clear and descriptive text alternatives associated to the images
   * adjacent text that conveys the same information as the image
 * write textual information as text instead of including text content in an image file
