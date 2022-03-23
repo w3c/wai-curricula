@@ -37,11 +37,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate table markup and clear relations between header and data cells to understand, navigate, and process information presented in data tables
-* designate the cell role, including header and data cells as well as cell scope
-* provide regular data tables as alternatives to graphical representations of tabular data
-* provide table descriptions to help users understand the purpose of complex tables
+* collaborate with designers and developers to provide alternatives for:
+  * complex images, including charts, diagrams, and infographics, for example using data tables
+  * data tables, for example using charts, diagrams, and infographics
+* designate the cell role and scope in a table, including header and data cells
+* provide table summaries and descriptions to help users understand the purpose of complex tables
 * employ accessible authoring tools that produce accessible markup for data tables
 * collaborate with designers and developers to achieve the desired visual presentation of multi-column content using styles instead of layout tables
+* identify related requirements for designers to ensure appropriate contrast ratio for charts, diagrams, infographics, and data tables
 
 {% include excol.html type="all" %}
 
@@ -92,8 +95,8 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* explain how people with disabilities rely on table headers to understand the type of information presented in a row or column
-* describe table headers as those which provide information about the type of data in a row or column
+* explain how people with disabilities rely on appropriate visual and non-visual identification of table headers to understand the type of information presented in a row or column
+* define table headers as those which provide information about the type of data in a row or column
 * provide short, descriptive column and row headers for tables
 * employ accessible tools that produce appropriate markup for table headers, including the header scope
 
@@ -101,8 +104,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data tables. Emphasize how table headers are announced together with the data cells they are associated to.
-* Explain that table header cells describe the type of information included in a row or column.
+* Demonstrate use of assistive technologies to navigate data tables. Emphasize how table headers are announced before or after the data cells they are associated to.
 * Show examples of table header cells. Explain that table headers contain succinct and clear information about the data the column or row contains.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope using the tool's user interface.
 
@@ -110,7 +112,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to explain what table headers are and what type of information they should contain. Assess how students define table headers.
+* Short Answer Questions &mdash; Ask students to explain what table headers are and what type of information they should contain. Assess how students define table headers and how they understand the type of information headers should contain.
 * Practical &mdash; Give students a table without designated headers and ask them to designate the headers and their scope. Assess how students understand the purpose and scope of table headers.
 * Practical &mdash; Have students designate the table headers and their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to designate the table headers and their scope.
 
@@ -163,7 +165,7 @@ Intro paragraph [TBD].
 
 Students should be able to:
 
-* explain how people with disabilities rely on meaningful table summaries and descriptions to understand the tables purpose and to more easily navigate them
+* explain how people with disabilities rely on meaningful table summaries and descriptions to understand the table purpose and to more easily navigate them
 * provide table summaries that help identify the tables purpose
 * write captions that:
   * provide navigational hints for complex tables
