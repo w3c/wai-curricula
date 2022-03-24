@@ -175,7 +175,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images are charts, diagrams, maps, and infographics. They require short descriptions that identify the complex images as well as and long descriptions that provide the same information as that in the image provides.
+Complex images require short descriptions that identify the image as well as long descriptions that provide the same information as that in the image. These images include charts, diagrams, maps, and infographics.  @@@
 
 #### Learning Outcomes for Topic
 
