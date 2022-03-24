@@ -4,7 +4,7 @@ nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
 lang: en
-github:
+fgithub:
   repository: w3c/wai-curricula
   path: content/content-author-modules/images.md
 license: creative-commons
@@ -175,19 +175,21 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images are charts, diagrams, maps, and infographics. They require short descriptions that identify the complex images, and long descriptions that provide the same information as that in the image provides.
+Complex images are charts, diagrams, maps, and infographics. They require short descriptions that identify the complex images as well as and long descriptions that provide the same information as that in the image provides.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * write short, succinct, and clear descriptions that:
-  * identify the described complex image
+  * identify the image
   * include reference to the alternative long description for the image
-* provide textual information that helps understand and process the image contents through:
+* provide textual information that helps understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
-* collaborate with designers and developers to ensure:
+* collaborate with designers and developers to provide:
+  * alternative data visualizations for complex images, including text descriptions,data tables, and other graphical representations
+* identify related requirements for designers and developers to ensure:
   * appropriate contrast ratios for complex images and descriptions
   * reliable identification of short and long descriptions for complex images
 
@@ -216,5 +218,12 @@ Optional ideas to assess knowledge:
 ## Teaching Resources
 
 Suggested resources to support your teaching:
+
+* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
+* [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
+
 
 [TBD]
