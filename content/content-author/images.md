@@ -42,7 +42,7 @@ Students should be able to:
   * functional (require descriptions that convey functionality)
   * decorative (require empty alternative text that convey their ornamental purpose)
   * complex (require short and long descriptions and sometimes alternative data visualizations)
-* write equivalent, appropriate, quality-checked text alternatives for images depending on the image purpose and context
+* write equivalent, appropriate text alternatives for images based on the image purpose and context
 * explain the issues associated with relying on an image format to provide textual information:
 * employ accessible authoring tools that
   * support the inclusion of text alternatives for images
