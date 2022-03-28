@@ -43,7 +43,7 @@ Students should be able to:
   * active voice
 * provide the extended form for abbreviations and acronyms
 * use icons and symbols to help users understand text content
-* use equivalent text alternatives to help understand content from images and other graphics
+* provide text alternatives that clearly communicate the purpose and content of images and other graphics
 * write clear and meaningful:
   * titles that describe the purpose of the page
   * link text to communicate the link purpose
