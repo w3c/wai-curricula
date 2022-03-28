@@ -1,12 +1,12 @@
 ---
-title: "[Draft] Module 1: Clarity"
-nav_title: "Clarity"
-permalink: /curricula/content-author-modules/clarity/
-ref: /curricula/content-author-modules/clarity/
+title: "[Draft] Module 1: Clear Content"
+nav_title: "Clear Content"
+permalink: /curricula/content-author-modules/clear-content/
+ref: /curricula/content-author-modules/clear-content/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/clarity.md
+  path: content/content-author-modules/clear-content.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
