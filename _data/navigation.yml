@@ -345,14 +345,14 @@
         url: "/curricula/content-author-modules/clear-content/"
       - name: Structure
         url: "/curricula/content-author-modules/structure/"
+      - name: Forms
+        url: "/curricula/content-author-modules/forms/"
       - name: Images
         url: "/curricula/content-author-modules/images/"
       - name: Data Tables
         url: "/curricula/content-author-modules/data-tables/"
       - name: Multimedia
         url: "/curricula/content-author-modules/multimedia/"
-      - name: Forms
-        url: "/curricula/content-author-modules/forms/"
   - name: Develop Accessibility Training
     url: "/teach-advocate/accessibility-training/"
     pages:

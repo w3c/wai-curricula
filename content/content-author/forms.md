@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 6: Forms"
+title: "[Draft] Module 3: Forms"
 nav_title: "Forms"
 permalink: /curricula/content-author-modules/forms/
 ref: /curricula/content-author-modules/forms/
@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/multimedia/
-  next: /curricula/content-author-modules/
+  previous: /curricula/content-author-modules/struccture/
+  next: /curricula/content-author-modules/images/
 ---
 
 ## Introduction

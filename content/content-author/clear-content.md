@@ -45,7 +45,7 @@ Students should be able to:
 * use icons and symbols to help users understand text content
 * provide text alternatives that clearly communicate the purpose and content of images and other graphics
 * write clear and meaningful:
-  * titles that describe the purpose of the page
+  * titles to describe the purpose of the page
   * link text to communicate the link purpose
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratio for content
@@ -118,7 +118,6 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
 * Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps several groups of people with disabilities understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
-* Demonstrate approaches to group related content for easier processing and readability. For example, appropriate spacing between different content sections and use of paragraphs and lists to group related content.
 * Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif
 
 #### Ideas to Assess Knowledge for Topic
@@ -194,9 +193,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * present different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
-* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps everybody scan the titles.* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
-* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all scan the titles.
 * Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -215,7 +214,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Ask them to produce a piece of content that is easy to understand for a given audience dealing with a given subject. Assess how students create content that is easy to understand for the audience.
+* Portfolio &mdash; Ask students to produce a piece of content that is clear and easy to understand. Assess how students create content that is clear and easy to understand.
 * Portfolio &mdash; Ask students to provide a correct page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
 
 ## Teaching Resources

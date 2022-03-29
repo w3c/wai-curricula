@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Multimedia"
+title: "[Draft] Module 6: Multimedia"
 nav_title: "Multimedia"
 permalink: /curricula/content-author-modules/multimedia/
 ref: /curricula/content-author-modules/multimedia/
@@ -101,7 +101,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Transcripts
+### Topic: Captions
 
 {% include excol.html type="middle" %}
 
@@ -110,6 +110,7 @@ Topics to achieve the learning outcomes:
 #### Learning Outcomes for Topic
 
 Students should be able to:
+
 
 
 #### Teaching Ideas for Topic
@@ -155,7 +156,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions
+### Topic: Transcripts
 
 {% include excol.html type="middle" %}
 
@@ -179,6 +180,8 @@ Optional ideas to assess knowledge:
 [TBD]
 
 {% include excol.html type="end" %}
+
+
 
 {% include excol.html type="start" %}
 

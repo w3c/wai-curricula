@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 3: Images"
+title: "[Draft] Module 4: Images"
 nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
@@ -181,10 +181,10 @@ Complex images require short descriptions that identify the image as well as lon
 
 Students should be able to:
 
-* write short, succinct, and clear descriptions that:
+* write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide textual information that helps understand and process the image contents using:
+* provide long descriptions for complex images that help understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
 * collaborate with designers and developers to provide:
@@ -224,6 +224,3 @@ Suggested resources to support your teaching:
 * [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-
-
-[TBD]

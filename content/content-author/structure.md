@@ -82,7 +82,6 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
-
 {% include excol.html type="start" %}
 
 ### Topic: Headings
@@ -138,6 +137,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain different uses of paragraphs to group thematic units. Explain that providing the paragraphs is an authors responsibility, defining how these paragraphs look like is a designers responsibility, and implementing markup for these paragraphs is a developers responsibility.
 * Explain uses of ordered lists (where numbering does not matter) and unordered lists (where numbering matters). Explain that providing these lists is an authors responsibility, defining how these lists look like is a designers responsibility, and implementing markup for these lists is a developers responsibility.
+* Demonstrate approaches to group related content for easier processing. For example, appropriate spacing between different content sections and use of paragraphs and lists to group related content.
 
 #### Ideas to Assess Knowledge for Topic
 
