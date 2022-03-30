@@ -36,19 +36,18 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in audio and video content
-* ensure audio and video content includes:
+* plan for the creation of accessible multimedia content from the start of the project, including for:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
-  * visuals that help understand the audio where possible
-  * audio that helps understand the visuals where possible
-  * captions to help users who cannot hear the audio get the information
-  * transcripts to help people who cannot hear the audio or see the visuals get the information
-* include descriptions of visual information for people who cannot see the videos by:
-  * integrating descriptions into the main audio where possible
-  * providing a separate description track or text file
-* avoid blinking and flashing content that can cause seizures
+  * visual and audio content that complements each other where possible
+* ensure  multimedia content includes alternatives to audio and video content based on content type and format, including:
+  * captions (to help users who cannot hear the audio get the information)
+  * description of visual information
+  * transcripts (to help people who cannot hear the audio or see the visuals get the information)
+  * sign language (for people whose first language is sign language)
+* create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * employ accessible authoring tools that support including and controlling alternatives to audio and video content
-* identify related requirements for designers and developers to make the following perceivable and operable both visually and non-visually:
+* identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
   * media players
   * media player controls
@@ -65,7 +64,8 @@ Skills required for this module:
 
 {% include excol.html type="middle" %}
 
-* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)* Prior [Content Author Modules](/curricula/content-author-modules/)
+* [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
+* Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Content editing
   * Content Creation
@@ -84,8 +84,8 @@ Skills required for this module:
   * [WCAG Success Criterion 1.2.3	Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
   * [WCAG Success Criterion 1.2.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
   * [WCAG Success Criterion 1.2.5 Audio Description (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
+  * [WCAG Success Criterion 1.2.6 Sign Language (prerecorded](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded)
   * [WCAG Success Criterion 1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/quickref/#audio-control)
-  * [WCAG Success Criterion 1.4.6 Sign Language (prerecorded](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded)
   * [WCAG Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide)
   * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
 * In-depth knowledge of:
@@ -221,4 +221,8 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-[TBD]
+* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign language. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
+* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
+* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

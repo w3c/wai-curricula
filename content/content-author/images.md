@@ -219,7 +219,7 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
+* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
 * [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
 * [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
