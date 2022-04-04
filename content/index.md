@@ -72,11 +72,11 @@ The foundation, developer, and designer modules are available now. The author mo
     <tr>
       <td colspan="3">
         <ul>
-          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">What is Web accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">What is Web Accessibility</a></li>
           <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">People and Digital Technology</a></li>
           <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Business Case and Benefits</a></li>
           <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Principles, Standards, and Checks</a></li>
-          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Getting Started with accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Getting Started with Accessibility</a></li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ The foundation, developer, and designer modules are available now. The author mo
           <li>Headings and Structure</li>
           <li>Navigational Cues </li>
           <li>Alternatives for Images, Graphics, and Multimedia </li>
-          <li>Document accessibility </li>
+          <li>Document Accessibility </li>
           <li>Tables and Data Representation</li>
           <li>Form Instructions and Feedback </li>
           <li>&hellip; </li>
@@ -138,7 +138,7 @@ Each module consists of:
   Each topic consists of:
     * **Learning Outcomes for Topic** &mdash; Detailed description of what students will learn and should be able to demonstrate.
     * **Teaching Ideas for Topic** &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-    * **Ideas to assess knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+    * **Ideas to Assess Knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
   * **Ideas to Assess Knowledge for Module** &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * **Teaching Resources** &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
