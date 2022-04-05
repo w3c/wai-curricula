@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how text alternatives for images enable people who cannot see the images to understand the image content
-* explain accessibility requirements related to informative, decorative, functional, and complex images
+* explain accessibility requirements related to texxt alternatives for informative, decorative, functional, and complex images
 
 ## Learning Outcomes for Module
 
@@ -43,8 +43,8 @@ Students should be able to:
   * decorative (require empty alternative text that convey their ornamental purpose)
   * complex (require short and long descriptions and sometimes alternative data visualizations)
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
-* explain the issues associated with relying on an image format to provide textual information:
-* employ accessible authoring tools that
+* explain the issues associated with relying only on an image format to provide textual information
+* employ accessible authoring tools that:
   * support the inclusion of text alternatives for images
   * enable authors to amend suggested text alternatives for quality and accuracy
   * support marking an image as decorative when it has an ornamental purpose
@@ -128,8 +128,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the type of information that alternative text for informative images should contain. Assess how students explain the type of information that alternative text for informative images should contain.
-* Practical &mdash; Give students several informative images with adjacent text. Ask them to determine if the adjacent text provides enough information to understand the image and what type of alternative text they would include. Assess how students provide alternative text for informative images based on the information contained in the image and in its adjacent text.
+* Short Answer Questions &mdash; Ask students about the type of information that alternative text for informative images should convey. Assess how students explain the type of information that alternative text for informative images should convey.
+* Practical &mdash; Give students several informative images with adjacent text. Ask them to determine if the adjacent text provides enough information to understand the image and to include alternative text when needed. Assess how students provide alternative text for informative images based on the information conveyed in the image and on its adjacent text.
 
 {% include excol.html type="end" %}
 
@@ -139,7 +139,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for search functionality. @@@
+Functional images convey functionality. For example, magnifying glasses for searching, and denvelopes for sharing. @@@
 
 #### Learning Outcomes for Topic
 
@@ -147,7 +147,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for functional images that describe the image function
 * write short, succinct, and quality-checked  text alternatives to help people who don't see the image understand its function
-* provide information about the image function in the text alternative instead of describing the image appearance
+* provide information about the image function in the text alternative
 * employ accessible authoring tools that:
   * support the inclusion of text alternatives for images
   * enable authors to amend suggested text alternatives when needed
@@ -157,7 +157,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of functional images, for example graphical buttons and links. Explain that text alternatives for these images must describe the functionality of the component. For example "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Discuss examples of functional images, for example graphical buttons and links. Explain that text alternatives for these images must describe the functionality of the component  instead of describing the image appearance. For example "Search" instead of "magnifying glasses", and "print" instead of "printer".
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as image descriptions.
 
 #### Ideas to Assess Knowledge for Topic
@@ -184,7 +184,7 @@ Students should be able to:
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide long descriptions for complex images that help understand and process the image contents using:
+* provide long descriptions for complex images that help understand and process the image contents via:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
 * collaborate with designers and developers to provide:
@@ -197,11 +197,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+
 [TBD]
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students about the type of information that short and long descriptions for complex images should convey. Assess how students explain the type of information that short and long descriptions for complex images should convey.
+* Practical &mdash; Give students a complex image and ask them to provide an alternative data visualization for the image, for example through a data table or through descriptive piece of text. Assess how students provide alternative data visualizations for complex images.
 
 [TBD]
 
@@ -212,6 +216,8 @@ Optional ideas to assess knowledge:
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to assess knowledge:
+
+* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are building. Assess how students determine the type of texxt alternative to include based on the types of iamges and their context.
 
 [TBD]
 

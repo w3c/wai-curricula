@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/struccture/
+  previous: /curricula/content-author-modules/structure/
   next: /curricula/content-author-modules/images/
 ---
 
@@ -113,7 +113,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate assistive technology interaction with form fields and controls, including  edit boxes, lists, buttons, and others. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
+* Demonstrate assistive technology interaction with form fields and controls, including edit boxes, lists, buttons, and others. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
 * Reflect with students about commonly used labels for form fields and controls, including "name", "surname", "address", "phone", "email", and others. Explain that the label should be a short, succinct, and straightforward text that communicates the purpose and intent of the control.
 * Explain that some users rely on imagery and iconography to understand the purpose of these labels.
 * Introduce accessible authoring tools that support the inclusion of labels for forms and controls and that programmatically associate these to the form field and control. Explain that some tools may refer to labels as "names" or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
@@ -153,7 +153,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+[TBD.]
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -209,4 +209,8 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-[TBD]
+* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
+* [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
