@@ -29,19 +29,22 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on headings, paragraphs, lists, and other structures to understand, navigate, and process content
+* demonstrate how people with disabilities rely on headings, paragraphs, lists, and other structures to orient themselves, as well as to understand, navigate, and process content
 * explain accessibility requirements related to content structure
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on headings, paragraphs, lists, and other structures to understand, navigate and process content
-* provide headings to help users identify the different content sections
+* explain how people with disabilities rely on headings, paragraphs, lists, and other structures to orient themselves, as well as to understand, navigate and process content
+* provide headings to help users identify and navigate the different content sections
+* group content using paragraphs, lists, and other structures
+* provide tables of contents to give an overall summary of the content structure
+* collaborate with designers and developers to include methods to move back and forth through long pieces of content, including "back to top" links
 * employ accessible authoring tools that:
   * support the inclusion of headings, lists, paragraphs, and other content structures
   * produce appropriate markup for headings, lists, paragraphs, and other content structures
-* collaborate with developers and designers to ensure visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
+* identify related requirements for developers and designers to ensure visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
 
 {% include excol.html type="all" %}
 
@@ -74,7 +77,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * Accessibility of authoring tools
+  * Authoring tools accessibility
 
 {% include excol.html type="end" %}
 
@@ -94,7 +97,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* provide headings and their corresponding rank levels to help users identify the different content sections
+* provide headings and their corresponding rank levels to help users identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * employ accessible authoring tools that produce appropriate markup for headings and their corresponding rank levels
 * identify related requirements for designers and developers to ensure visual and non-visual perception of headings
@@ -117,7 +120,11 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="end" %}
 
+{% include excol.html type="start" %}
+
 ### Topic: Paragraphs and Lists
+
+{% include excol.html type="middle" %}
 
 [Intro paragraph TBD.]
 
@@ -145,6 +152,49 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about different uses of paragraphs and lists. Assess how students recall different uses of paragraphs and lists.
 * Practical &mdash; Give students a set of related items where numbering matters and a set of related items where numbering does not matter. Ask them to provide the correct type of list for each.. Assess how students use ordered and unordered lists.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Orientation and Navigation
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD]
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* explain how people with disabilities rely on meaningful content sequence, tables of contents, and orientation methods to navigate content
+* provide tables of contents to:
+  * give a summary of the overall content structure
+  * help users navigate to parts of the content
+* ensure availability of methods for users to move back and forth through long passages of content, for example using:
+  * tables of contents
+  * links to get back to the top of the content and to the top of specific sections
+  * methods to move from a footnote to its content and from its content back to the footnote
+* identify related requirements for designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Demonstrate use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
+* Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
+* Discuss the use of methods to get back to the table of contents, for example “Back to top” links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise they would have to tab back through the whole document, which creates a poorer user experience.
+* Show examples of document footnotes. Explain that keyboard users need methods to move from the footnote to its contents and to move back from the footnote contents to the text. Explain that providing the footnote and its contents is an author’s responsibility, defining the appearance and operation of the footnote is a designer’s responsibility, and implementing the footnote is a developer’s responsibility.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students about different methods to help users orient and navigate long passages of text. Assess how students recall methods to help users orient and navigate long passages of text, including tables of contents and “Back to top” links.
+* Practical &mdash; Ask students to provide the table of contents for a document. Assess how students provide the table of contents for a document.
+* Practical &mdash; Ask students to collaborate with other team members to provide accessible footnotes. Assess how students collaborate with other team members to include methods for users to move back and forth through the footnotes and its contents.
+
+{% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
 
