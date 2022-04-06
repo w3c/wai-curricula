@@ -88,7 +88,11 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG 2 Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
   * [WCAG 2 Success Criterion 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-* In-depth knowledge of [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* In-depth knowledge of
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* In-depth knowledge of
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * Authoring tools accessibility
 
 {% include excol.html type="end" %}
 

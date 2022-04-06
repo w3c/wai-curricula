@@ -76,6 +76,10 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * @@@
+* In-depth knowledge of
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * Prior [Content Author Modules](/curricula/content-author-modules/)
+  * Authoring tools accessibility
 
 {% include excol.html type="end" %}
 

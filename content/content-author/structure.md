@@ -77,6 +77,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
   * Authoring tools accessibility
 
 {% include excol.html type="end" %}

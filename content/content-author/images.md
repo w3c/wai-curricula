@@ -85,6 +85,10 @@ Skills required for this module:
   * [WCAG Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
   * [WCAG Success Criterion 1.4.9 Images of Text (No Exception)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text-no-exception)
   * [WCAG Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
+* In-depth knowledge of
+  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+  * Prior [Content Author Modules](/curricula/content-author-modules/)
+  * Authoring tools accessibility
 
 {% include excol.html type="end" %}
 

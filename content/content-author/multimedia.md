@@ -91,6 +91,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
+  * Authoring tools accessibility
 
 {% include excol.html type="end" %}
 
