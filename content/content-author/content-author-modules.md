@@ -27,20 +27,21 @@ navigation:
 
 The content author modules guide the creation of courses that:
 
-* explain how clear writing and plane language relate to accessibility
+* demonstrate and explain how clear content benefits accessibility
 * demonstrate and explain how accessible content enables people with disabilities to use websites and applications
 * teach accessible authoring techniques for:
   * text
   * images
   * tables
   * forms
-  * audio and video
+  * multimedia (including audio and video)
 
 These modules focus on accessible content creation. They are primarily designed for teaching:
 
 * technical writers
 * editors
 * content creators
+* content publishers
 
 ### Foundation Prerequisites
 
@@ -63,30 +64,29 @@ The content author modules are designed for students who have achieved the learn
 
 (links not working, will fix later)
 
--   [Module 1: Clarity(/curricula/content-author-modules/clear-content/)
+-   [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
     -   [Topic: Plain Language](/curricula/content-author-modules/#topic-plain-language)
-    -   [Topic: Terminology](/curricula/content-author-modules/)
--   [Topic: Titles and Link Text](/curricula/content-author-modules/)
-    -   [Topic: Appearance](/curricula/content-author-modules/)
+    -   [Topic: Terminology](/curricula/content-author-modules/#topic-terminology)
+-   [Topic: Titles and Link Text](/curricula/content-author-modules/#topic-titles-and-page-text)
 -   [Module 2: Structure](/curricula/content-author-modules/structure/)
-    -   [Topic: Headings](/curricula/content-author-modules/structure/)
-    -   [Topic: Lists](/curricula/content-author-modules/structure/)
-    -   [Topic: Paragraphs](/curricula/content-author-modules/structure/)
--   [Module 3: Images](/curricula/content-author-modules/)
-    -   [Topic: Functional Images](/curricula/content-author-modules/)
-    -   [Topic: Informative Images](/curricula/content-author-modules/)
-    -   [Topic: Complex Images](/curricula/content-author-modules/)
-    -   [Topic: Decorative Images](/curricula/content-author-modules/)
--   [Module 4: Data Tables](/curricula/content-author-modules/)
-    -   [Topic: Table Headers](/curricula/content-author-modules/)
-    -   [Topic: Table Cells](/curricula/content-author-modules/)
-    -   [Topic: Table Summaries and Descriptions](/curricula/content-author-modules/)
--   [Module 5: Multimedia](/curricula/content-author-modules/)
-    -   [Topic: Transcripts](/curricula/content-author-modules/)
-    -   [Topic: Description](/curricula/content-author-modules/)
-    -   [Topic: Captions](/curricula/content-author-modules/)
-    -   [Topic: Sign Language](/curricula/content-author-modules/)
--   [Module 6: Forms and Controls](/curricula/content-author-modules/forms-and-controls/)
-    -   [Topic: Labels](/curricula/content-author-modules/)
-    -   [Topic: Instructions](/curricula/content-author-modules/)
-    -   [Topic: Error Messages](/curricula/content-author-modules/)
+    -   [Topic: Headings](/curricula/content-author-modules/structure/#topic-headings)
+    -   [Topic: Paragraphs and Lists](/curricula/content-author-modules/structure/#topic-paragraphs-and-lists)
+    -   [Topic: Orientation and Navigation](/curricula/content-author-modules/structure/#topic-orientation-and-navigation)
+-   [Module 6: Forms](/curricula/content-author-modules/forms/)
+    -   [Topic: Labels](/curricula/content-author-modules/forms/#topic-labels)
+    -   [Topic: Instructions](/curricula/content-author-modules/forms/#topic-instructions)
+    -   [Topic: Error Messages](/curricula/content-author-modules/forms/#topic-error-messages)
+-   [Module 4: Images](/curricula/content-author-modules/images/)
+    -   [Topic: Informative Images](/curricula/content-author-modules/images/#topic-informative-images)
+    -   [Topic: Functional Images](/curricula/content-author-modules/images/#topic-functional-images)
+    -   [Topic: Complex Images](/curricula/content-author-modules/images/#complex-images)
+-   [Module 5: Data Tables](/curricula/content-author-modules/data-tables/)
+    -   [Topic: Header Cells](/curricula/content-author-modules/data-tables/#topic-header-cells)
+    -   [Topic: Data Cells](/curricula/content-author-modules/data-tables/#topic-data-cells)
+    -   [Topic: Summaries and Descriptions](/curricula/content-author-modules/data-tables/#topic-summaries-and-descriptions)
+-   [Module 6: Multimedia](/curricula/content-author-modules/multimedia/)
+    -   [Topic: Planning Multimedia Content Creation](/curricula/content-author-modules/multimedia/#topic-planning-multimedia-content-creation)
+    -   [Topic: Captions](/curricula/content-author-modules/multimedia/#topidc-captions)
+    -   [Topic: Description](/curricula/content-author-modules/multimedia/#topic-descriptions)
+    -   [Topic: Transcripts](/curricula/content-author-modules/multimedia/#topic-transcripts)
+    -   [Topic: Sign Language](/curricula/content-author-modules/multimedia/#topic-sign-language)

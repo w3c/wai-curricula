@@ -29,7 +29,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to read and process information
+* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to process information
 * explain how clear, easy to understand, and easy to read content benefits accessibility
 
 ## Learning Outcomes for Module
@@ -38,7 +38,7 @@ Students should be able to:
 
 * explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
 * provide clear content depending on context, audience, and resource by using:
-  * easy-to-understand words
+  * appropriate words based on audience and context
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
@@ -46,7 +46,7 @@ Students should be able to:
 * provide text alternatives that clearly communicate the purpose and content of images and other graphics
 * write clear and meaningful:
   * titles to describe the purpose of the page
-  * link text to communicate the link purpose
+  * link text to communicates the link purpose
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratio for content
   * easy to read and easy to understand font types and sizes
@@ -79,7 +79,7 @@ Skills required for this module:
 
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG 2 Success Criterion 1.3.2 Meaningful ]Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
   * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
@@ -121,15 +121,16 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
-* Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps several groups of people with disabilities understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
-* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif
+* Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps people understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
+* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Explain that defining which fonts to use is a designers responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
 * Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
+* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how studnets identify font types that provide good reading experience.
 
 {% include excol.html type="end" %}
 
@@ -149,20 +150,21 @@ Students should be able to:
 * provide the extended form of:
   * abbreviations
   * acronyms
-* provide explanations for complex terms and jargon
+* provide explanations for complex terms and jargon based on audience and context
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate how to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Reflect with students about terms that are difficult to understand, including jargon and terms that require advanced reading ability. Demonstrate how to provide substitutions for those terms when possible. Explain how to provide explanations when the terms cannot be changed, for example including a glossary of terms in the document.
+* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example including a glossary of terms in the document.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what to do when using terms that are difficult to understand for the audience. Assess how students recall approaches for dealing with terms that are easier to understand.
+* Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 * Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
 
 {% include excol.html type="end" %}
@@ -180,35 +182,35 @@ Optional ideas to assess knowledge:
 Students should be able to:
 
 * write unique, descriptive, and meaningful:
-  * link text
   * page titles
-* provide relevant information about the link destination in the link text where possible, including:
+  * link text
+* provide relevant and unique information first in page titles
+* provide information about the current step in the page title when the page is part of a multi-step process
+* include relevant information about the link destination in the link text where possible, for example:
   * the target resource title
   * if the link will open a new window
   * the file type and format (when linking to a file)
-* provide information about the current step in the page title when the page is part of a multi-step process
-* provide relevant and unique information first in page titles
 * employ accessible authoring tools that:
   * produce appropriate markup for links and page titles
-  * support the inclusion of additional information for links where needed
+  * support the inclusion of additional information for links when needed
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* present different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
-* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all scan the titles.
-* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
 * Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* present different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students which types of information page titles and  link text should contain. Assess how students relate the information that page titles and link text should contain, including link destination, document type and format, and where the link will open.
 * Short Answer Questions &mdash; Ask students about good practices for structuring the information in page titles. Assess how students relate good practices for structuring information in page titles.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and some link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
+* Short Answer Questions &mdash; Ask students which types of information page titles and  link text should contain. Assess how students relate the information that page titles and link text should contain, including link destination, target document type and format, and where the link will open.
+* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
 
 {% include excol.html type="end" %}
 
@@ -218,8 +220,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Ask students to produce a piece of content that is clear and easy to understand. Assess how students create content that is clear and easy to understand.
-* Portfolio &mdash; Ask students to provide a correct page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
+* Portfolio &mdash; Have students create a page with content that is clear and easy to understand. Assess how students create content that is clear and easy to understand.
+* Portfolio &mdash; Have students add an appropriate page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
 
 ## Teaching Resources
 

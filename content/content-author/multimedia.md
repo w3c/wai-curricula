@@ -99,6 +99,35 @@ Skills required for this module:
 
 Topics to achieve the learning outcomes:
 
+
+{% include excol.html type="start" %}
+
+### Topic: Planning Multimedia Content Creation
+
+{% include excol.html type="middle" %}
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+[TBD]
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+
 {% include excol.html type="start" %}
 
 ### Topic: Captions
@@ -111,7 +140,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-
+[TBD]
 
 #### Teaching Ideas for Topic
 
@@ -139,6 +168,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
+[TBD]
 
 #### Teaching Ideas for Topic
 
@@ -166,6 +196,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
+[TBD]
 
 #### Teaching Ideas for Topic
 
@@ -181,8 +212,6 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="end" %}
 
-
-
 {% include excol.html type="start" %}
 
 ### Topic: Sign Languages
@@ -195,6 +224,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
+[TBD]
 
 #### Teaching Ideas for Topic
 
