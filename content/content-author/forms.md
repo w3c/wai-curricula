@@ -147,11 +147,11 @@ Optional ideas to assess knowledge:
 Students should be able to:
 
 * explain how people with disabilities rely on clear instructions to understand the content and to provide input reliably when required
-* provide clear instructions about the overall purpose of the content
+* provide clear instructions about the overall purpose of the forms
 * write additional instructions that provide examples of expected input when possible
 * include instructions about the current step and about the total number of steps in a multi-step process
 * employ accessible authoring tools that:
-  * support the inclusion of instructions for the overall form and for specific form fieldss and controls
+  * support the inclusion of instructions for the overall form and for specific form fields and controls
   * programmatically associate instructions to their corresponding form field and control
 * identify related requirements for designers and developers to support visual and non-visual perception of  instructions
 
@@ -159,13 +159,19 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD.]
+* Demonstrate use of form fields and controls with and without meaningful instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to better interact with the form fields and controls.
+* Discuss examples of instructions for overall forms, including explanations about what type of data the form collects. Emphasize that providing these instructions is a responsibility of the content author, defining their appearance is a responsibility of the designer, and implementing them is a developers responsibility.
+* Show examples of form fields that collect specific types of input. Explain that it is required to provide examples of how to provide the input, unless these examples may compromise the security and purpose of the form.
+* Demonstrate approaches to providing instructions for multi-step processes. For example, including this information in the page title or before the form.
+* Introduce accessible authoring tools that support the inclusion of instructions for form fields and controls and that produce appropriate markup for instructions. Explain that some tools may refer to instructions as “descriptions”, “tooltips”, and others.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students what type for information instructions should contain. Assess how students understand the type of information that instructions should contain.
+* Practical &mdash; Give students a multi-step process and ask them to provide the instructions for each of the steps. Assess how students provide the relevant instructions for each of the steps in a multi-step process.
+* Practical &mdash; Give students a form field with specific input requirements and ask them to provide instructions about how to provide that input. Assess how students provide instructions to help users complete form fields.
 
 {% include excol.html type="end" %}
 
