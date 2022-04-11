@@ -129,7 +129,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
 * Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
-* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how studnets identify font types that provide good reading experience.
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
 
 {% include excol.html type="end" %}
 
