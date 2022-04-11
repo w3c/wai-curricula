@@ -27,8 +27,9 @@ navigation:
 
 The content author modules guide the creation of courses that:
 
-* demonstrate and explain how clear content benefits accessibility
-* demonstrate and explain how accessible content enables people with disabilities to use websites and applications
+* demonstrate and explain how
+  * clear content benefits accessibility
+  * accessible content enables people with disabilities to use websites and applications
 * teach accessible authoring techniques for:
   * text
   * images

@@ -42,7 +42,7 @@ Students should be able to:
 * write instructions about the current step and about the total number of steps in a multi-step process
 * collaborate with designers and developers to include:
   * instructions about expected input types and formats
-  * error messages that identify the field in error
+  * error messages that identify the field in error and communicate the problem
   * suggestions for correction when possible based on the selected input formats and the validation methods in use
 * identify related requirements for designers and developers to ensure visual and non-visual perception and operation of forms and controls
 
@@ -199,13 +199,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Demonstrate assistive technology interaction with form fields that contain accessible error messages and with those that do not. Reflect with students on how accessible error messages are essential for people with disabilities and help all interact with form fields and correct errors.
+* Demonstrate approaches to communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these do not compromise the security of the interface.
 
 ### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students what type of information error messages should contain. Assess how students understand the information that error messages should contain.
+* Practical &mdash; Give students a submissions containing errors and ask them to provide accessible error messages. Assess how students provide error messages that identify the field in error and provide suggestions for correction where possible.
 
 {% include excol.html type="end" %}
 
