@@ -42,15 +42,14 @@ Students should be able to:
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
-* use icons and symbols to help users understand text content
-* provide text alternatives that clearly communicate the purpose and content of images and other graphics
+* use icons and symbols to complement text content
+* write text alternatives that clearly describe the purpose and communicate the content of images and other graphics
 * write clear and meaningful:
   * titles to describe the purpose of the page
-  * link text to communicates the link purpose
+  * link text to communicate the link purpose
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratio for content
   * easy to read and easy to understand font types and sizes
-  * adequate content grouping and spacing to communicate semantics visually
 
 {% include excol.html type="all" %}
 

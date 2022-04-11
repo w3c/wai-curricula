@@ -29,13 +29,14 @@ navigation:
 
 Courses based on this module should:
 
-[TBD]
+* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign languages, to understand information contained in audio and video content
+* explain accessibility requirements for planning and including alternatives to audio and video content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content (including description of visual information, captions, transcripts, and sign language) to understand information contained in audio and video content
+* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions, transcripts, and sign languages, to understand information contained in audio and video content
 * plan for the creation of accessible multimedia content from the start of the project, including for:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
@@ -44,7 +45,7 @@ Students should be able to:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
-  * sign language (for people whose first language is sign language)
+  * sign languages (for people whose first language is a sign language)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * employ accessible authoring tools that support including and controlling alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
@@ -252,7 +253,7 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign language. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
+* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign languages. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 * [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
 * [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

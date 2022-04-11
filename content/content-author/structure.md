@@ -40,11 +40,13 @@ Students should be able to:
 * provide headings to help users identify and navigate the different content sections
 * group content using paragraphs, lists, and other structures
 * provide tables of contents to give an overall summary of the content structure
-* collaborate with designers and developers to include methods to move back and forth through long pieces of content, including "back to top" links
+* collaborate with designers and developers to include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
 * employ accessible authoring tools that:
   * support the inclusion of headings, lists, paragraphs, and other content structures
   * produce appropriate markup for headings, lists, paragraphs, and other content structures
-* identify related requirements for developers and designers to ensure visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
+* identify related requirements for developers and designers to ensure:
+  * visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
+  * adequate content grouping and spacing to communicate semantic structures visually
 
 {% include excol.html type="all" %}
 
