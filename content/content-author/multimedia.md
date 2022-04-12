@@ -40,7 +40,7 @@ Students should be able to:
 * plan for the creation of accessible multimedia content from the start of the project, including for:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
-  * visual and audio content that complements each other where possible
+  * redundant visual and audio content where possible
 * ensure  multimedia content includes alternatives to audio and video content based on content type and format, including:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
@@ -50,7 +50,6 @@ Students should be able to:
 * employ accessible authoring tools that support including and controlling alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
-  * media players
   * media player controls
 
 {% include excol.html type="all" %}
@@ -113,6 +112,52 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
+* assess the required alternatives to multimedia content based on multimedia types and formats
+* plan for the inclusion of:
+  * integrated descriptions in the audio content to minimize the need for additional descriptions
+  * captions to help users understand audio content
+  * audio with as little background as possible
+  * clear language to help users better understand the content
+  * position of the signer if including sign language interpretation (generally at the bottom right)
+* inform users when a specific alternative is not needed to avoid confusion 
+
+[TBD]
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+[TBD]
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+[TBD]
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Description of Visual Information
+
+{% include excol.html type="middle" %}
+
+Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately. Provide examples of such descriptions and demonstrate different approaches to providing description of visual information.
+
+[Intro paragraph TBD].
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* define description of visual information as information (including text in the video) for people who cannot see the video to understand the content
+* identify different approaches to providing description, including:
+  * integrated (speakers describe the relevant information)
+  * narrative (included in the main audio track and provided in an alternative version of the video)
+  * provided in a separate text file or audio track (if supported by the media player)
+* ensure description of visual information is included in the videos when required
+
 [TBD]
 
 #### Teaching Ideas for Topic
@@ -135,39 +180,19 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-[TBD]
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[TBD]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-[TBD]
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Description
-
-{% include excol.html type="middle" %}
+Captions are a text version of the speech and non-speech audio information needed to understand the content. 
 
 [Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
+
+* ensure availability of accurate captions for audio content byÑ
+  * providing a caption file
+  * amending automatically generated captions
+* identify characteristics of quality captions, including time stamps and non-speech information
+* recognize different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language)
 
 [TBD]
 
@@ -191,11 +216,20 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
+Transcripts are a text version of the speech and non-speech audio information needed to understand the content.
+
 [Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
+
+* create transcripts that:
+  * convey the speech and non-speech information needed to understand the content
+  * identify the speaker
+* provide descriptive transcripts based on existing captions and description
+* collaborate with designers to ensure transcripts are easy to find on the page
+* ensure inclusion of transcripts for audio and video content when required
 
 [TBD]
 

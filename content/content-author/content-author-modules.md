@@ -87,7 +87,7 @@ The content author modules are designed for students who have achieved the learn
     -   [Topic: Summaries and Descriptions](/curricula/content-author-modules/data-tables/#topic-summaries-and-descriptions)
 -   [Module 6: Multimedia](/curricula/content-author-modules/multimedia/)
     -   [Topic: Planning Multimedia Content Creation](/curricula/content-author-modules/multimedia/#topic-planning-multimedia-content-creation)
+    -   [Topic: Description of Visual Information](/curricula/content-author-modules/multimedia/#topic-description-of-visual-information)
     -   [Topic: Captions](/curricula/content-author-modules/multimedia/#topidc-captions)
-    -   [Topic: Description](/curricula/content-author-modules/multimedia/#topic-descriptions)
     -   [Topic: Transcripts](/curricula/content-author-modules/multimedia/#topic-transcripts)
     -   [Topic: Sign Language](/curricula/content-author-modules/multimedia/#topic-sign-language)
