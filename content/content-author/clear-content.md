@@ -101,7 +101,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Plain Language
+### Topic: Easy to Understand Language
 
 {% include excol.html type="middle" %}
 
