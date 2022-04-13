@@ -4,7 +4,7 @@ nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
 lang: en
-fgithub:
+github:
   repository: w3c/wai-curricula
   path: content/content-author-modules/images.md
 license: creative-commons
@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how text alternatives for images enable people who cannot see the images to understand the image content
-* explain accessibility requirements related to texxt alternatives for informative, decorative, functional, and complex images
+* explain accessibility requirements related to text alternatives for informative, decorative, functional, and complex images
 
 ## Learning Outcomes for Module
 
@@ -88,7 +88,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Authoring tools accessibility
+  * Accessible Content CCreation
 
 {% include excol.html type="end" %}
 
@@ -143,7 +143,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for searching, and denvelopes for sharing. @@@
+Functional images convey functionality. For example, magnifying glasses for searching, and envelopes for sharing. @@@
 
 #### Learning Outcomes for Topic
 
@@ -221,7 +221,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are building. Assess how students determine the type of texxt alternative to include based on the types of iamges and their context.
+* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are building. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 [TBD]
 

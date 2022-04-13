@@ -37,14 +37,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate table markup and clear relations between header and data cells to understand, navigate, and process information presented in data tables
-* collaborate with designers and developers to provide alternatives for:
-  * complex images, including charts, diagrams, and infographics, for example using data tables
-  * data tables, for example using charts, diagrams, and infographics
+* provide data tables as alternative data visualizations for charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
+* collaborate with designers and developers to:
+  * present multi-column content using CSS styles instead of layout tables
+  * ensure presentation of data table content in a meaningful sequence
 * employ accessible authoring tools that produce accessible markup for data tables
-* collaborate with designers and developers to achieve the desired visual presentation of multi-column content using styles instead of layout tables
-* identify related requirements for designers to ensure appropriate contrast ratio for charts, diagrams, infographics, and data tables
+* identify related requirements for designers to ensure appropriate contrast ratio for data tables
 
 {% include excol.html type="all" %}
 
@@ -79,7 +79,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Authoring tools accessibility
+  * Accessible Content Creation
 
 {% include excol.html type="end" %}
 
@@ -89,7 +89,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Header Cells
+### Topic: Table Header Cells
 
 {% include excol.html type="middle" %}
 
@@ -99,8 +99,8 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* explain how people with disabilities rely on appropriate visual and non-visual identification of table headers to understand the type of information presented in a row or column
-* define table headers as those which provide information about the type of data in a row or column
+* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand the type of information presented in a row or column
+* define table headers as those cells which provide information about the type of data in a row or column
 * provide short, descriptive column and row headers for tables
 * employ accessible tools that produce appropriate markup for table headers, including the header scope
 
@@ -108,23 +108,23 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data tables. Emphasize how table headers are announced before or after the data cells they are associated to.
-* Show examples of table header cells. Explain that table headers contain succinct and clear information about the data the column or row contains.
-* Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope using the tool's user interface.
+* Demonstrate use of assistive technologies to navigate data tables. Emphasize how table header cells are announced before or after the data cells they are associated to.
+* Show examples of table header cells. Explain that these cells contain clear and succinct information about the data the column or row contains.
+* Introduce accessible tools that produce appropriate markup for table header cells. Explain how to designate a given cell as header and how to define the header scope using the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to explain what table headers are and what type of information they should contain. Assess how students define table headers and how they understand the type of information headers should contain.
+* Short Answer Questions &mdash; Ask students to explain what table header cells are and what type of information they should contain. Assess how students define table header cells and how they understand the type of information headers should contain.
 * Practical &mdash; Give students a table without designated headers and ask them to designate the headers and their scope. Assess how students understand the purpose and scope of table headers.
-* Practical &mdash; Have students designate the table headers and their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to designate the table headers and their scope.
+* Practical &mdash; Have students designate the table header cells and their scope using an accessible authoring tool of their choice. Assess how students use accessible authoring tools to designate the table header cells and their scope.
 
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-### Topic: Data Cells
+### Topic: Table Data Cells
 
 {% include excol.html type="middle" %}
 
@@ -159,7 +159,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Summaries and Descriptions
+### Topic: Table Summaries and Descriptions
 
 {% include excol.html type="middle" %}
 

@@ -91,7 +91,7 @@ Skills required for this module:
 * In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Authoring tools accessibility
+  * Accessible Content Creation
 
 {% include excol.html type="end" %}
 
@@ -220,34 +220,6 @@ Students should be able to:
 * provide descriptive transcripts based on existing captions and description
 * collaborate with designers to ensure transcripts are easy to find on the page
 * ensure inclusion of transcripts for audio and video content when required
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-[TBD]
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-[TBD]
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Sign Languages
-
-{% include excol.html type="middle" %}
-
-[Intro paragraph TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
-[TBD]
 
 #### Teaching Ideas for Topic
 

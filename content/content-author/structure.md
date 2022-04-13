@@ -80,7 +80,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
-  * Authoring tools accessibility
+  * Accessible Content Creation
 
 {% include excol.html type="end" %}
 
