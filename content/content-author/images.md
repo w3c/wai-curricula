@@ -68,6 +68,7 @@ Skills required for this module:
 * Basic knowledge of:
   * Content creation
   * Content editing
+  * Content creeation
 
 {% include excol.html type="end" %}
 
@@ -88,7 +89,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Accessible Content CCreation
+  * Accessible content creation
 
 {% include excol.html type="end" %}
 

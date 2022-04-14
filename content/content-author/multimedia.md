@@ -29,19 +29,19 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign languages, to understand information contained in audio and video content
+* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign language(s), to understand information contained in audio and video content
 * explain accessibility requirements for planning and including alternatives to audio and video content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions, transcripts, and sign languages, to understand information contained in audio and video content
-* consider the below when creating audio and video content:
-  * redundant visual and audio content where possible to help different groups of users understand the content
+* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions/subtitles, transcripts, and sign languages, to understand information contained in audio and video content
+* consider the below before creating audio and video content:
+  * as much redundant visual and audio content as possible to help different groups of users understand the content
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
-* ensure  multimedia content includes alternatives to audio and video content based on content type and format, including:
+* ensure multimedia content includes alternatives to audio and video content based on content type and format, including:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
@@ -68,7 +68,7 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Content editing
-  * Content Creation
+  * Content creation
 
 {% include excol.html type="end" %}
 
