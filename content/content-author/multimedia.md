@@ -174,11 +174,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions
+### Topic: Captions/Subtitles
 
 {% include excol.html type="middle" %}
 
-Captions are a text version of the speech and non-speech audio information needed to understand the content. Demonstrate different approaches and tools to provide captions.
+Captions (also known as subtitles) are a text version of the speech and non-speech audio information needed to understand the content.
+
+Demonstrate different approaches and tools to provide captions.
 
 @@@
 
@@ -212,7 +214,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately. Provide examples of such descriptions and demonstrate different approaches to providing description of visual information.
+Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately.
+
+Show examples of such descriptions and demonstrate different approaches to providing description of visual information.
 
 @@@
 
@@ -246,6 +250,9 @@ Optional ideas to assess knowledge:
 ## Ideas to Assess Knowledge for Module
 
 Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students about the different types of information that alternatives to multimedia content should contain. Assess how students understand the different types of information for alternatives to multimedia content.
+* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are building. Assess how students include the necessary alternatives to multimedia content for audio and video content.
 
 [TBD]
 
