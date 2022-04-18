@@ -41,11 +41,12 @@ Students should be able to:
   * as much redundant visual and audio content as possible to help different groups of users understand the content
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
-* ensure multimedia content includes alternatives to audio and video content based on content type and format, including:
+  * integrated descriptions in video scripts to minimize the need for additional descriptions at a later phase
+* ensure multimedia content have alternatives to audio and video content based on content type and format, including:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
-  * sign languages (for people whose first language is a sign language)
+  * sign languages (for a sign language speakers)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * employ accessible authoring tools that support including and controlling alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
@@ -98,7 +99,6 @@ Skills required for this module:
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
-
 
 {% include excol.html type="start" %}
 
@@ -216,7 +216,7 @@ Optional ideas to assess knowledge:
 
 Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately.
 
-Show examples of such descriptions and demonstrate different approaches to providing description of visual information.
+Show examples of videos containing such descriptions and demonstrate different approaches to providing description of visual information.
 
 @@@
 
@@ -251,10 +251,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different types of information that alternatives to multimedia content should contain. Assess how students understand the different types of information for alternatives to multimedia content.
-* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are building. Assess how students include the necessary alternatives to multimedia content for audio and video content.
-
-[TBD]
+* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different  information for alternatives to multimedia content and what user needs they met.
+* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are creating. Assess how students include the necessary alternatives to multimedia content for audio and video content.
 
 ## Teaching Resources
 
