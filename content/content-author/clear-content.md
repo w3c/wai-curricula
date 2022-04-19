@@ -66,7 +66,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Content editing
-  * Content Creation
+  * Content creation
 
 {% include excol.html type="end" %}
 
@@ -91,7 +91,7 @@ Skills required for this module:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * Accessible Content Creation
+  * Accessible content creation
 
 {% include excol.html type="end" %}
 

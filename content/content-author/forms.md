@@ -63,6 +63,7 @@ Skills required for this module:
 * Basic knowledge of:
   * Content creation
   * Content editing
+  * Content creation
 
 {% include excol.html type="end" %}
 
@@ -83,10 +84,10 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
   * [WCAG 2 Success Criterion 3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion)
   * [WCAG 2 Success Criterion 3.3.4 Error Prevention](https://www.w3.org/WAI/WCAG21/quickref/#error-prevention-legal-financial-data)
-* In-depth knowledge of
+* In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Accessible Content Creation
+  * Accessible content creation
 
 {% include excol.html type="end" %}
 

@@ -29,23 +29,24 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign languages, to understand information contained in audio and video content
+* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign language(s), to understand information contained in audio and video content
 * explain accessibility requirements for planning and including alternatives to audio and video content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions, transcripts, and sign languages, to understand information contained in audio and video content
-* consider the below when creating audio and video content:
-  * redundant visual and audio content where possible to help different groups of users understand the content
+* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions/subtitles, transcripts, and sign languages, to understand information contained in audio and video content
+* consider the below before creating audio and video content:
+  * as much redundant visual and audio content as possible to help different groups of users understand the content
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
-* ensure  multimedia content includes alternatives to audio and video content based on content type and format, including:
+  * integrated descriptions in video scripts to minimize the need for additional descriptions at a later phase
+* ensure multimedia content have alternatives to audio and video content based on content type and format, including:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
-  * sign languages (for people whose first language is a sign language)
+  * sign languages (for a sign language speakers)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * employ accessible authoring tools that support including and controlling alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
@@ -68,7 +69,7 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Content editing
-  * Content Creation
+  * Content creation
 
 {% include excol.html type="end" %}
 
@@ -98,7 +99,6 @@ Skills required for this module:
 ## Topics to Teach
 
 Topics to achieve the learning outcomes:
-
 
 {% include excol.html type="start" %}
 
@@ -175,11 +175,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Captions
+### Topic: Captions/Subtitles
 
 {% include excol.html type="middle" %}
 
-Captions are a text version of the speech and non-speech audio information needed to understand the content. Demonstrate different approaches and tools to provide captions.
+Captions (also known as subtitles) are a text version of the speech and non-speech audio information needed to understand the content.
+
+Demonstrate different approaches and tools to provide captions.
 
 @@@
 
@@ -213,7 +215,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately. Provide examples of such descriptions and demonstrate different approaches to providing description of visual information.
+Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately.
+
+Show examples of videos containing such descriptions and demonstrate different approaches to providing description of visual information.
 
 @@@
 
@@ -248,7 +252,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different  information for alternatives to multimedia content and what user needs they met.
+* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are creating. Assess how students include the necessary alternatives to multimedia content for audio and video content.
 
 ## Teaching Resources
 
