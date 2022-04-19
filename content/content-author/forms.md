@@ -62,8 +62,6 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Content creation
-  * Content editing
-  * Content creation
 
 {% include excol.html type="end" %}
 
@@ -109,9 +107,7 @@ Students should be able to:
 
 * explain how people with disabilities rely on clear labels to identify and understand the purpose of form fields and controls
 * provide unique and descriptive labels for form fields and controls
-* employ accessible authoring tools that:
-  * support the inclusion of labels for controls
-  * programmatically associate labels to their corresponding control
+* explain requirements for authoring tools to programmatically associate labels to their corresponding control
 * collaborate with designers and developers to include icons, symbols, and other imagery to complement text labels
 * identify related requirements for developers and designers to ensure visual and non-visual perception of labels
 
@@ -151,9 +147,7 @@ Students should be able to:
 * provide clear instructions about the overall purpose of the forms
 * write additional instructions that provide examples of expected input when possible
 * include instructions about the current step and about the total number of steps in a multi-step process
-* employ accessible authoring tools that:
-  * support the inclusion of instructions for the overall form and for specific form fields and controls
-  * programmatically associate instructions to their corresponding form field and control
+* explain requirements for authoring tools to programmatically associate instructions to their corresponding form field and control
 * identify related requirements for designers and developers to support visual and non-visual perception of  instructions
 
 #### Teaching Ideas for Topic
@@ -195,6 +189,7 @@ Students should be able to:
 * provide suggestions for fixing the errors when possible by providing:
   * examples of expected input
   * additional guidance for users to understand the required input
+* explain requirements for authoring tools to programmatically associate error messages with their corresponding control
 
 ### Teaching Ideas for Topic
 

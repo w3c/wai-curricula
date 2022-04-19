@@ -48,7 +48,7 @@ Students should be able to:
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
   * sign languages (for a sign language speakers)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
-* employ accessible authoring tools that support including and controlling alternatives to audio and video content
+* explain requirements for authoring tools to support inclusion and control of alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
   * media player controls
@@ -68,7 +68,6 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
-  * Content editing
   * Content creation
 
 {% include excol.html type="end" %}

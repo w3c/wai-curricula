@@ -43,7 +43,7 @@ Students should be able to:
 * collaborate with designers and developers to:
   * present multi-column content using CSS styles instead of layout tables
   * ensure presentation of data table content in a meaningful sequence
-* employ accessible authoring tools that produce accessible markup for data tables
+* explain requirements for authoring tools to produce appropriate markup for data tables
 * identify related requirements for designers to ensure appropriate contrast ratio for data tables
 
 {% include excol.html type="all" %}
@@ -61,9 +61,6 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
-  * Content creation
-
-  * Content editing
   * Content creation
 
 {% include excol.html type="end" %}
@@ -104,7 +101,7 @@ Students should be able to:
 * explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand the type of information presented in a row or column
 * define table headers as those cells which provide information about the type of data in a row or column
 * provide short, descriptive column and row headers for tables
-* employ accessible tools that produce appropriate markup for table headers, including the header scope
+* explain requirements for authoring tools to produce appropriate markup for table headers, including the header scope
 
 #### Teaching Ideas for Topic
 
@@ -139,7 +136,7 @@ Students should be able to:
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information of a specific type of data
 * provide clear and succinct information in each data cell
-* employ accessible tools that produce appropriate markup for table data cells, including the cell scope
+* explain requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
 
 #### Teaching Ideas for Topic
 
@@ -177,9 +174,9 @@ Students should be able to:
   * provide navigational hints for complex tables
   * describe how the table is organized
   * provide information about the type of data in each column and row
-* employ accessible authoring tools that:
-  * support the inclusion of table descriptions
-  * produce accessible markup for table descriptions
+* explain requirements for authoring tools to:
+  * support the inclusion of table summaries and descriptions
+  * produce appropriate markup for table summaries and descriptions
 
 #### Teaching Ideas for Topic
 

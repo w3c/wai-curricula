@@ -65,7 +65,6 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
-  * Content editing
   * Content creation
 
 {% include excol.html type="end" %}
@@ -87,8 +86,6 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG 2 Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
   * [WCAG 2 Success Criterion 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-* In-depth knowledge of
-  * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Accessible content creation
@@ -189,8 +186,8 @@ Students should be able to:
   * the target resource title
   * if the link will open a new window
   * the file type and format (when linking to a file)
-* employ accessible authoring tools that:
-  * produce appropriate markup for links and page titles
+* explain requirements for authoring tools to:
+  * produce appropriate markup for titles and link text
   * support the inclusion of additional information for links when needed
 
 #### Teaching Ideas for Topic

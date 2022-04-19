@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how text alternatives for images enable people who cannot see the images to understand the image content
-* explain accessibility requirements related to text alternatives for informative, decorative, functional, and complex images
+* explain accessibility requirements for text alternatives for informative, decorative, functional, and complex images
 
 ## Learning Outcomes for Module
 
@@ -43,13 +43,8 @@ Students should be able to:
   * decorative (require empty alternative text that convey their ornamental purpose)
   * complex (require short and long descriptions and sometimes alternative data visualizations)
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
-* explain the issues associated with relying only on an image format to provide textual information
-* employ accessible authoring tools that:
-  * support the inclusion of text alternatives for images
-  * enable authors to amend suggested text alternatives for quality and accuracy
-  * support marking an image as decorative when it has an ornamental purpose
-  * produce appropriate markup for text alternatives
-  * support several modalities of CAPTCHA, including visual, auditory, and biometrics
+* provide textual information using text instead of an image
+* explain requirements for authoring tools to include and manage alternative for images (including text alternatives and different modalities of CAPTCHA)
 * identify related requirements for designers and developers to support visual and non-visual perception of images
 
 {% include excol.html type="all" %}
@@ -67,8 +62,6 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Content creation
-  * Content editing
-  * Content creeation
 
 {% include excol.html type="end" %}
 
@@ -109,15 +102,15 @@ Informative images convey information, for example that of a picture or illustra
 
 Students should be able to:
 
-* explain how people with disabilities rely on text alternatives for informative images that provide the same information as that of the image
-* provide quality-checked text alternatives for informative images using:
+* explain how people with disabilities rely on text alternatives for informative images to understand the image content
+* provide quality text alternatives that convey the information in the images using:
   * clear and descriptive text alternatives associated to the images
   * adjacent text that conveys the same information as the image
 * write textual information as text instead of including text content in an image file
 * ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
-* employ accessible authoring tools that:
+* explain requirements for authoring tools to:
   * support the inclusion of alternative text for informative images
-  * enable authors to amend suggested text alternatives when needed
+  * enable authors to amend automatically generated text alternatives for quality and accuracy
   * produce appropriate markup for informative images
   * support different modalities of CAPTCHA, including visual, auditory, and biometrics
 
@@ -150,10 +143,10 @@ Functional images convey functionality. For example, magnifying glasses for sear
 
 Students should be able to:
 
-* explain how people with disabilities rely on text alternatives for functional images that describe the image function
-* write short, succinct, and quality-checked  text alternatives to help people who don't see the image understand its function
+* explain how people with disabilities rely on text alternatives for functional images to understand the image function
+* write short, succinct, and quality text alternatives to help people who do not see the image understand its function
 * provide information about the image function in the text alternative
-* employ accessible authoring tools that:
+* explain requirements for authoring tools to:
   * support the inclusion of text alternatives for images
   * enable authors to amend suggested text alternatives when needed
   * produce appropriate markup for functional images
@@ -186,14 +179,14 @@ Complex images require short descriptions that identify the image as well as lon
 
 Students should be able to:
 
+* explain how people with disabilities rely on equivalent, quality text alternatives (including short and long descriptions) for complex images to understand the image content
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide long descriptions for complex images that help understand and process the image contents via:
+* provide equivalent, long descriptions for complex images that help understand and process the image contents via:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
-* collaborate with designers and developers to provide:
-  * alternative data visualizations for complex images, including text descriptions,data tables, and other graphical representations
+* provide alternative data visualizations for complex images, including text descriptions,data tables, and other graphical representations
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratios for complex images and descriptions
   * reliable identification of short and long descriptions for complex images

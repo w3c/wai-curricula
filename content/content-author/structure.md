@@ -40,10 +40,10 @@ Students should be able to:
 * provide headings to help users identify and navigate the different content sections
 * group content using paragraphs, lists, and other structures
 * provide tables of contents to give an overall summary of the content structure
-* collaborate with designers and developers to include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
-* employ accessible authoring tools that:
-  * support the inclusion of headings, lists, paragraphs, and other content structures
-  * produce appropriate markup for headings, lists, paragraphs, and other content structures
+* collaborate with designers and developers to:
+  * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
+  * ensure meaningful content sequences irrespective of screen sizes, user configurations, and assistive technologies in use
+* explain requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures:
 * identify related requirements for developers and designers to ensure:
   * visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
   * adequate content grouping and spacing to communicate semantic structures visually
@@ -63,7 +63,6 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Content creation
-  * Content editing
 
 {% include excol.html type="end" %}
 
@@ -102,7 +101,7 @@ Students should be able to:
 
 * provide headings and their corresponding rank levels to help users identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
-* employ accessible authoring tools that produce appropriate markup for headings and their corresponding rank levels
+* explain requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
 * identify related requirements for designers and developers to ensure visual and non-visual perception of headings
 
 #### Teaching Ideas for Topic
@@ -140,6 +139,7 @@ Students should be able to:
   * paragraph structures to group thematic units
   * unordered lists when the item numbering is not relevant
   * ordered lists when the item numbering is relevant
+* explain requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
 
 #### Teaching Ideas for Topic
 
@@ -170,14 +170,15 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* explain how people with disabilities rely on meaningful content sequence, tables of contents, and orientation methods to navigate content
-* provide tables of contents to:
-  * give a summary of the overall content structure
+* explain how people with disabilities rely on meaningful content sequences, tables of contents, and orientation methods to navigate content
+* utilize tables of contents to:
+  * provide a summary of the overall content structure
   * help users navigate to parts of the content
 * ensure availability of methods for users to move back and forth through long passages of content, for example using:
   * tables of contents
   * links to get back to the top of the content and to the top of specific sections
   * methods to move from a footnote to its content and from its content back to the footnote
+* explain requirements for authoring tools to support accessible orientation and navigation mechanisms
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
 
 #### Teaching Ideas for Topic
