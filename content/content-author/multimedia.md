@@ -42,7 +42,7 @@ Students should be able to:
   * clear and easy to understand speech
   * minimized background audio and overall distractions where possible
   * integrated descriptions in video scripts to minimize the need for additional descriptions at a later phase
-* ensure multimedia content have alternatives to audio and video content based on content type and format, including:
+* ensure multimedia content has alternatives to audio and video content based on content type and format, including:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
