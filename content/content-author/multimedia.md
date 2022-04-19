@@ -252,7 +252,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different  information for alternatives to multimedia content and what user needs they met.
-* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are creating. Assess how students include the necessary alternatives to multimedia content for audio and video content.
+* Portfolio &mdash; Students supervise the inclusion of audio and video content in the website they are creating. Assess how students include the necessary alternatives to multimedia content based on content type, format, and user needs.
 
 ## Teaching Resources
 
