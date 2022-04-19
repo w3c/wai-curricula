@@ -115,13 +115,14 @@ Students should be able to:
 * ascertain the required alternatives to multimedia content, including description, captions, transcript, and sign language,based on:
   * multimedia formats (such as audio and video)
   * multimedia types (such as recorded and prerecorded)
+  * user needs (including with and without disabilities)
 * plan for the inclusion of the following when creating new audio and video content:
   * sufficient contrast ratio for text in the video to enhance readability of the text
   * audio with as low background as possible to help distinguish foreground from background audio
   * clear audio, language, and speech to help users better understand the content
   * speaker visibility (including for lip reading and sign language interpretation)
 * create video content that does not flash more than three times in any one second
-* inform users when not providing one or more alternatives to multimedia content to avoid confusion 
+* provide rationale for not including one or more alternatives to multimedia content
 
 #### Teaching Ideas for Topic
 
@@ -151,12 +152,12 @@ Transcripts are a text version of the speech and non-speech audio information ne
 
 Students should be able to:
 
+* ensure inclusion of transcripts for audio and video content when required
 * create transcripts that:
   * convey the speech and non-speech information needed to understand the content
   * identify the speaker
-* provide descriptive transcripts based on existing captions and description
+* provide descriptive transcripts when required based on existing captions and description
 * collaborate with designers to ensure transcripts are easy to find on the page
-* ensure inclusion of transcripts for audio and video content when required
 
 #### Teaching Ideas for Topic
 
