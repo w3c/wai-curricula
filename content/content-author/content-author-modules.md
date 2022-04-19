@@ -61,19 +61,17 @@ The content author modules are designed for students who have achieved the learn
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
 
-## [Tentative] Content Author Modules
-
-(links not working, will fix later)
+## Content Author Modules
 
 -   [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
-    -   [Topic: Easy to Understand Language](/curricula/content-author-modules/#topic-easy-to-understand-language)
-    -   [Topic: Terminology](/curricula/content-author-modules/#topic-terminology)
--   [Topic: Titles and Link Text](/curricula/content-author-modules/#topic-titles-and-page-text)
+    -   [Topic: Easy to Understand Language](/curricula/content-author-modules/clear-content/#topic-easy-to-understand-language)
+    -   [Topic: Terminology](/curricula/content-author-modules/clear-content/#topic-terminology)
+    -   [Topic: titles and Link Text](/curricula/content-author-modules/clear-content/#topic-titles-and-link-text)
 -   [Module 2: Structure](/curricula/content-author-modules/structure/)
     -   [Topic: Headings](/curricula/content-author-modules/structure/#topic-headings)
     -   [Topic: Paragraphs and Lists](/curricula/content-author-modules/structure/#topic-paragraphs-and-lists)
     -   [Topic: Orientation and Navigation](/curricula/content-author-modules/structure/#topic-orientation-and-navigation)
--   [Module 6: Forms](/curricula/content-author-modules/forms/)
+-   [Module 3: Forms](/curricula/content-author-modules/forms/)
     -   [Topic: Labels](/curricula/content-author-modules/forms/#topic-labels)
     -   [Topic: Instructions](/curricula/content-author-modules/forms/#topic-instructions)
     -   [Topic: Error Messages](/curricula/content-author-modules/forms/#topic-error-messages)
@@ -82,12 +80,11 @@ The content author modules are designed for students who have achieved the learn
     -   [Topic: Functional Images](/curricula/content-author-modules/images/#topic-functional-images)
     -   [Topic: Complex Images](/curricula/content-author-modules/images/#complex-images)
 -   [Module 5: Data Tables](/curricula/content-author-modules/data-tables/)
-    -   [Topic: Header Cells](/curricula/content-author-modules/data-tables/#topic-header-cells)
-    -   [Topic: Data Cells](/curricula/content-author-modules/data-tables/#topic-data-cells)
-    -   [Topic: Summaries and Descriptions](/curricula/content-author-modules/data-tables/#topic-summaries-and-descriptions)
+    -   [Topic: Table Header Cells](/curricula/content-author-modules/data-tables/#topic-table-header-cells)
+    -   [Topic: Table Data Cells](/curricula/content-author-modules/data-tables/#topic-table-data-cells)
+    -   [Topic: Table Summaries and Descriptions](/curricula/content-author-modules/data-tables/#topic-table-summaries-and-descriptions)
 -   [Module 6: Multimedia](/curricula/content-author-modules/multimedia/)
-    -   [Topic: Planning Multimedia Content Creation](/curricula/content-author-modules/multimedia/#topic-planning-multimedia-content-creation)
-    -   [Topic: Description of Visual Information](/curricula/content-author-modules/multimedia/#topic-description-of-visual-information)
-    -   [Topic: Captions](/curricula/content-author-modules/multimedia/#topidc-captions)
+    -   [Topic: Planning Multimedia Content Creation](/curricula/content-author-modules/multimedia/#topic-planning-audio-and-video)
     -   [Topic: Transcripts](/curricula/content-author-modules/multimedia/#topic-transcripts)
-    -   [Topic: Sign Language](/curricula/content-author-modules/multimedia/#topic-sign-language)
+    -   [Topic: Captions](/curricula/content-author-modules/multimedia/#topic-captions)
+    -   [Topic: Description of Visual Information](/curricula/content-author-modules/multimedia/#topic-description-of-visual-information)
