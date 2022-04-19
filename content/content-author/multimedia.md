@@ -46,7 +46,7 @@ Students should be able to:
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
   * transcripts (to help people who cannot hear the audio or see the visuals get the information)
-  * sign languages (for a sign language speakers)
+  * sign languages (for sign language speakers)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * explain requirements for authoring tools to support inclusion and control of alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
