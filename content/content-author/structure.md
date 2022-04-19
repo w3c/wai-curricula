@@ -37,9 +37,8 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on headings, paragraphs, lists, and other structures to orient themselves, as well as to understand, navigate and process content
-* provide headings to help users identify and navigate the different content sections
+* provide meaningful and consistent headings to help users identify and navigate the different content sections
 * group content using paragraphs, lists, and other structures
-* provide tables of contents to give an overall summary of the content structure
 * collaborate with designers and developers to:
   * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
   * ensure meaningful content sequences irrespective of screen sizes, user configurations, and assistive technologies in use
@@ -99,7 +98,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* provide headings and their corresponding rank levels to help users identify and navigate the different content sections
+* provide consistent headings and their corresponding rank levels to help users identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * explain requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
 * identify related requirements for designers and developers to ensure visual and non-visual perception of headings
@@ -170,7 +169,7 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* explain how people with disabilities rely on meaningful content sequences, tables of contents, and orientation methods to navigate content
+* explain how people with disabilities rely on meaningful content sequences, tables of contents, and other orientation methods to orient themselves and navigate content
 * utilize tables of contents to:
   * provide a summary of the overall content structure
   * help users navigate to parts of the content
