@@ -86,5 +86,5 @@ The content author modules are designed for students who have achieved the learn
 -   [Module 6: Multimedia](/curricula/content-author-modules/multimedia/)
     -   [Topic: Planning Multimedia Content Creation](/curricula/content-author-modules/multimedia/#topic-planning-audio-and-video)
     -   [Topic: Transcripts](/curricula/content-author-modules/multimedia/#topic-transcripts)
-    -   [Topic: Captions/Subtitles](/curricula/content-author-modules/multimedia/#topic-captions&sol;Subtitles)
+    -   [Topic: Captions/Subtitles](/curricula/content-author-modules/multimedia/#topic-captionssubtitles)
     -   [Topic: Description of Visual Information](/curricula/content-author-modules/multimedia/#topic-description-of-visual-information)
