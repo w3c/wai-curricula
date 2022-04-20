@@ -37,15 +37,15 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions/subtitles, transcripts, and sign languages, to understand information contained in audio and video content
-* consider the below before creating audio and video content:
-  * as much redundant visual and audio content as possible to help different groups of users understand the content
-  * clear and easy to understand speech
-  * minimized background audio and overall distractions where possible
-  * integrated descriptions in video scripts to minimize the need for additional descriptions at a later phase
+* explain the following best practices for accessible audio and video content:
+  * use clear and easy to understand speech
+  * minimize background audio and overall distractions where possible
+  * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
+  * match the video and audio content when possible to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video content based on content type and format, including:
+  * transcripts (to help people who cannot hear the audio or see the visuals get the information)
   * captions (to help users who cannot hear the audio get the information)
   * description of visual information
-  * transcripts (to help people who cannot hear the audio or see the visuals get the information)
   * sign languages (for sign language speakers)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * explain requirements for authoring tools to support inclusion and control of alternatives to audio and video content
