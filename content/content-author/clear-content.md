@@ -216,7 +216,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Have students create a page with content that is clear and easy to understand. Assess how students create content that is clear and easy to understand.
+* Portfolio &mdash; Have students create a page with content that is clear and easy to understand. Assess how students ensure content that is clear and easy to understand.
 * Portfolio &mdash; Have students add an appropriate page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
 
 ## Teaching Resources
