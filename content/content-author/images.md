@@ -200,7 +200,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Demonstrate use of assistive technologies and adaptive strategies for navigating alternatives to complex images.
+* Discuss examples of short descriptions for complex images. Explain that these descriptions should contain clear and concise information about what the image is about as well as information about how to get to the long descriptions for the images when available.
+* Reflect with students on how different groups of people with disabilities access information contained in maps, charts, diagrams, and infographics. Explain that it is best practice to provide several data visualizations when presenting complex and large data sets, including through data tables, regular text descriptions, and other complex image types.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -208,8 +210,6 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that short and long descriptions for complex images should convey. Assess how students explain the type of information that short and long descriptions for complex images should convey.
 * Practical &mdash; Give students a complex image and ask them to provide an alternative data visualization for the image, for example through a data table or through descriptive piece of text. Assess how students provide alternative data visualizations for complex images.
-
-[TBD]
 
 {% include excol.html type="end" %}
 
@@ -221,8 +221,6 @@ Optional ideas to assess knowledge:
 
 * Research &mdash; Ask students to research different approaches to providing text alternatives for informative, functional, and complex images.
 * Portfolio &mdash; Have students include text alternatives for several types of images in the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
-
-[TBD]
 
 ## Teaching Resources
 

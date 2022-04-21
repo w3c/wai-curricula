@@ -150,7 +150,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information data cells should contain. Assess how students understand the inormation that da cells should contain.
+* Short Answer Questions &mdash; Ask students what type of information data cells should contain. Assess how students understand the information that da cells should contain.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the table data cells as well as their scope.
 * Practical &mdash; Have students mark the table data cells as such and to define their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to mark the table data cells and their scope.
 
@@ -162,7 +162,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph [TBD].
+[Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
 

@@ -29,26 +29,27 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on alternatives to multimedia content, including description of visual information (also known as audio description, video description, or described video), captions, (also known as subtitles), transcripts, and sign language(s), to understand information contained in audio and video content
+* demonstrate how people with disabilities rely on alternatives to multimedia content, including transcripts, description of visual information (also known as audio description, video description, or described video), captions (also known as subtitles), and sign language(s), to understand information contained in audio and video content
 * explain accessibility requirements for planning and including alternatives to audio and video content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on alternatives to multimedia content, including description of visual information, captions/subtitles, transcripts, and sign languages, to understand information contained in audio and video content
+* explain how people with disabilities rely on alternatives to multimedia content, including transcripts, description of visual information, captions/subtitles, and sign languages, to understand information contained in audio and video content
 * explain the following best practices for accessible audio and video content:
   * use clear and easy to understand speech
+  * ensure sufficient contrast ratios for video text
   * minimize background audio and overall distractions where possible
   * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
-  * match the video and audio content when possible to help different groups of users understand the content
+  * match the video and audio information when possible to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video content based on content type and format, including:
-  * transcripts (to help people who cannot hear the audio or see the visuals get the information)
-  * captions (to help users who cannot hear the audio get the information)
-  * description of visual information
-  * sign languages (for sign language speakers)
+  * transcripts (a text version of the speech and non-speech audio information needed to understand the content)
+  * captions (a synchronized text version of the speech and non-speech audio information needed to understand the content)
+  * description of visual information (including video text)
+  * sign languages (hand and arm movements, facial expressions, and body positions to convey meaning)
 * create video content that avoids flashing entirely or only flashes below the acceptable thresholds
-* explain requirements for authoring tools to support inclusion and control of alternatives to audio and video content
+* explain requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
   * media player controls
@@ -111,16 +112,16 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* ascertain the required alternatives to multimedia content, including description, captions, transcript, and sign language,based on:
+* determine the required alternatives to multimedia content, including transcripts, description, captions, and sign language, based on:
   * multimedia formats (such as audio and video)
   * multimedia types (such as recorded and prerecorded)
   * user needs (including with and without disabilities)
-* plan for the inclusion of the following when creating new audio and video content:
-  * sufficient contrast ratio for text in the video to enhance readability of the text
-  * audio with as low background as possible to help distinguish foreground from background audio
-  * clear audio, language, and speech to help users better understand the content
-  * speaker visibility (including for lip reading and sign language interpretation)
-* create video content that does not flash more than three times in any one second
+* explain the following best practices for audio and video content:
+  * use clear audio, language, and speech to help users understand the content
+  * ensure sufficient contrast ratio for video text to enhance text readability
+  * provide audio with as low background as possible to help distinguish foreground from background sounds
+  * consider speaker visibility (including for lip reading and sign language interpretation)
+* ensure video content that does not flash more than three times in any one second
 * provide rationale for not including one or more alternatives to multimedia content
 
 #### Teaching Ideas for Topic
@@ -145,7 +146,7 @@ Optional ideas to assess knowledge:
 
 Transcripts are a text version of the speech and non-speech audio information needed to understand the content.
 
-@@@
+Demonstrate approaches to providing short and descriptive transcripts.
 
 #### Learning Outcomes for Topic
 
@@ -182,8 +183,6 @@ Captions (also known as subtitles) are a text version of the speech and non-spee
 
 Demonstrate different approaches and tools to provide captions.
 
-@@@
-
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -192,7 +191,7 @@ Students should be able to:
   * providing a caption file
   * amending automatically generated captions for quality and accuracy
 * enumerate characteristics of quality captions, including time stamps and non-speech information
-* recognize different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language)
+* identify different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language)
 
 #### Teaching Ideas for Topic
 
@@ -218,14 +217,12 @@ Descriptions explain visual information needed to understand the content for peo
 
 Show examples of videos containing such descriptions and demonstrate different approaches to providing description of visual information.
 
-@@@
-
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain description of visual information as information (including text in the video) for people who cannot see the video to understand the content
-* identify different approaches to providing description, including:
+* identify different approaches to providing descriptions of visual information, including:
   * integrated (speakers describe the relevant information)
   * narrative (included in the main audio track and provided in an alternative version of the video)
   * provided in a separate audio track or text file (if supported by the media player)

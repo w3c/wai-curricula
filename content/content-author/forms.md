@@ -213,8 +213,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
+* Practical &mdash; Supervise students while they navigate form fields and controls using assistive technologies and adaptive strategies. Assess how students navigate form fields and controls using assistive technologies and adaptive strategies.
 * Portfolio &mdash; Have students include accessible labels, instructions, and error messages for form fields and controls. Assess how students provide unique, descriptive labels as well as meaningful instructions and error messages for form fields and controls.
-[TBD]
 
 ## Teaching Resources
 
