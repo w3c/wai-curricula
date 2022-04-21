@@ -43,7 +43,7 @@ Students should be able to:
   * decorative (require empty alternative text that convey their ornamental purpose)
   * complex (require short and long descriptions and sometimes alternative data visualizations)
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
-* provide textual information using text instead of an image
+* provide textual information using regular text instead of an image file
 * explain requirements for authoring tools to include and manage alternative for images (including text alternatives and different modalities of CAPTCHA)
 * identify related requirements for designers and developers to support visual and non-visual perception of images
 
@@ -98,6 +98,8 @@ Topics to achieve the learning outcomes:
 
 Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text.
 
+Discuss different approaches to providing alternative text for informative images.
+
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -106,8 +108,8 @@ Students should be able to:
 * provide quality text alternatives that convey the information in the images using:
   * clear and descriptive text alternatives associated to the images
   * adjacent text that conveys the same information as the image
-* write textual information as text instead of including text content in an image file
-* ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
+* write textual information as regular text instead of including text content in an image file
+* collaborate with designers and developers to ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
 * explain requirements for authoring tools to:
   * support the inclusion of alternative text for informative images
   * enable authors to amend automatically generated text alternatives for quality and accuracy
@@ -118,9 +120,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of informative images, including icons, pictures, and illustrations. Relate these images to their adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
+* Discuss examples of informative images, including icons, pictures, and illustrations. Relate the information conveyed in these images to the information provided in their adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
 * Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image, but may still miss the semantics in the text.
-* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself or using plugins that include that functionality.
+* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself or using plugins that include that functionality.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -137,15 +139,16 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for searching, and envelopes for sharing. @@@
+Functional images convey functionality. For example, magnifying glasses for searching, and envelopes for sharing.
+
+Discuss different approaches to providing text alternatives for functional images.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for functional images to understand the image function
-* write short, succinct, and quality text alternatives to help people who do not see the image understand its function
-* provide information about the image function in the text alternative
+* write short, succinct, and quality text alternatives to provide information about the image function
 * explain requirements for authoring tools to:
   * support the inclusion of text alternatives for images
   * enable authors to amend suggested text alternatives when needed
@@ -162,7 +165,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the type of information that functional images should convey. Assess how students understand the type of information that functional images should convey.
+* Short Answer Questions &mdash; Ask students about the type of information that alternative text for functional images should convey. Assess how students understand the type of information that alternative text for functional images should convey.
 * Practical &mdash; Give students examples of functional images and ask them to provide their text alternative. Assess how students include information about the image function in the text alternative.
 
 {% include excol.html type="end" %}
@@ -173,7 +176,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images require short descriptions that identify the image as well as long descriptions that provide the same information as that in the image. These images include charts, diagrams, maps, and infographics.  @@@
+Complex images require short descriptions that identify the image as well as long descriptions that provide the same information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches to providing short and long descriptions for complex images.
+
+Explain that complex images can serve as alternative data visualizations for complex data, including descriptive text, tables, diagrams, charts, and infographics.
 
 #### Learning Outcomes for Topic
 
@@ -183,7 +188,7 @@ Students should be able to:
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide equivalent, long descriptions for complex images that help understand and process the image contents via:
+* provide equivalent, long descriptions for complex images that help understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
 * provide alternative data visualizations for complex images, including text descriptions,data tables, and other graphical representations
@@ -194,7 +199,6 @@ Students should be able to:
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
-
 
 [TBD]
 
@@ -215,7 +219,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are building. Assess how students determine the type of text alternative to include based on the types of images and their context.
+* Research &mdash; Ask students to research different approaches to providing text alternatives for informative, functional, and complex images.
+* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 [TBD]
 

@@ -40,9 +40,8 @@ Students should be able to:
 * provide data tables as alternative data visualizations for charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
-* collaborate with designers and developers to:
-  * present multi-column content using CSS styles instead of layout tables
-  * ensure presentation of data table content in a meaningful sequence
+* collaborate with designers and developers to present multi-column content using CSS styles instead of layout tables
+* ensure presentation of data table content in a meaningful sequence for different user configuration and assistive technologies
 * explain requirements for authoring tools to produce appropriate markup for data tables
 * identify related requirements for designers to ensure appropriate contrast ratio for data tables
 
@@ -101,7 +100,7 @@ Students should be able to:
 * explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand the type of information presented in a row or column
 * define table headers as those cells which provide information about the type of data in a row or column
 * provide short, descriptive column and row headers for tables
-* explain requirements for authoring tools to produce appropriate markup for table headers, including the header scope
+* explain requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
 
 #### Teaching Ideas for Topic
 
@@ -115,8 +114,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to explain what table header cells are and what type of information they should contain. Assess how students define table header cells and how they understand the type of information headers should contain.
-* Practical &mdash; Give students a table without designated headers and ask them to designate the headers and their scope. Assess how students understand the purpose and scope of table headers.
+* Short Answer Questions &mdash; Ask students what type of information table header cells should contain. Assess how students understand the type of information table headers cells should contain.
+* Practical &mdash; Give students a table without designated headers. Ask them to tell which cells should be the header cells and how many rows and/or columns the headers should span. Assess how students recognize the table header cells in a table as well as the headers scope.
 * Practical &mdash; Have students designate the table header cells and their scope using an accessible authoring tool of their choice. Assess how students use accessible authoring tools to designate the table header cells and their scope.
 
 {% include excol.html type="end" %}
@@ -136,6 +135,7 @@ Students should be able to:
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information of a specific type of data
 * provide clear and succinct information in each data cell
+* ensure content in data cells can be navigated sequentially and is clearly understood when navigated one cell at a time
 * explain requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
 
 #### Teaching Ideas for Topic
@@ -150,8 +150,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to explain what table data cells are and what type of information they should contain. Assess how students define table data cells.
-* Practical &mdash; Give students a table and ask them to designate the data cells and their scope. Assess how students understand the purpose and scope of table data cells.
+* Short Answer Questions &mdash; Ask students what type of information data cells should contain. Assess how students understand the inormation that da cells should contain.
+* Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the table data cells as well as their scope.
 * Practical &mdash; Have students mark the table data cells as such and to define their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to mark the table data cells and their scope.
 
 {% include excol.html type="end" %}
@@ -169,11 +169,11 @@ Optional ideas to assess knowledge:
 Students should be able to:
 
 * explain how people with disabilities rely on meaningful table summaries and descriptions to understand the table purpose and to more easily navigate them
-* provide table summaries that help identify the tables purpose
-* write captions that:
-  * provide navigational hints for complex tables
+* provide table summaries that explain what the table is about
+* write table descriptions that:
   * describe how the table is organized
   * provide information about the type of data in each column and row
+  * provide navigational hints for complex tables
 * explain requirements for authoring tools to:
   * support the inclusion of table summaries and descriptions
   * produce appropriate markup for table summaries and descriptions
@@ -182,9 +182,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate how assistive technologies announce the table summary and caption as the user moves through different tables on the same page. Explain that this information helps the user differentiate one table from the other, as well as it provides information on what the table is about.
+* Demonstrate how assistive technologies announce the table summary and description as the user moves through different tables on the same page. Explain that this information helps the user differentiate one table from the other, as well as it provides information on what the table is about.
 * Show examples of table summaries. Explain that they provide information on what the table is about. Emphasize that it is good practice to display these summaries on screen, as they are essential for some users and benefit all.
-* Explain situations where people need additional information to understand the table purpose and how it is organized. This includes complex tables, tables that are difficult to navigate,  and tables containing information that is difficult to process, among others. Explain that table captions use to hold this additional information.
+* Explain situations where some groups of users need additional information to understand the table purpose and how it is organized. This includes complex tables, tables that are difficult to navigate,  and tables containing information that is difficult to process, among others. Explain that table descriptions use to hold this additional information.
 * Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Explain that some tools may refer to table summaries as titles or names, and may refer to table descriptions as descriptions or captions.
 
 #### Ideas to Assess Knowledge for Topic
@@ -194,8 +194,6 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students what type of information the table summary and the table description should contain. Assess how students explain what type of information the table summary and description should contain.
 * Practical &mdash; Have students include the table summary and description using an accessible authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include the table summary and description.
 
-[TBD.]
-
 {% include excol.html type="end" %}
 
 {% include excol.html type="all" %}
@@ -204,8 +202,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a chart and ask them to provide the alternative using a regular data table. Assess how students provide alternatives to charts using regular data tables.
-* Portfolio &mdash; Have students include data tables in the web page they are creating. Assess how students designate the role of the cells and how they provide table descriptions where appropriate.
+* Practical &mdash; Give students a chart and ask them to provide an alternative data visualization using a regular data table. Assess how students provide alternative data visualizations to charts using regular data tables.
+* Portfolio &mdash; Have students include data tables in the web page they are creating. Assess how students designate the table header and data cells and their scope as well as how they provide table summaries and descriptions where appropriate.
 
 ## Teaching Resources
 
@@ -216,4 +214,3 @@ Suggested resources to support your teaching:
 * [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
-[TBD]

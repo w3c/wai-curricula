@@ -42,7 +42,7 @@ Students should be able to:
   * short sentences
   * active voice
 * provide the extended form for abbreviations and acronyms
-* use icons and symbols to complement text content
+* utilize icons and symbols to complement text content
 * write text alternatives that clearly describe the purpose and communicate the content of images and other graphics
 * write clear and meaningful:
   * titles to describe the purpose of the page
@@ -108,8 +108,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* write text using concise and straightforward language to make the content easier to understand and process
-* employ active voice and address the reader directly when possible
+* utilize clear language to support readability, clarity, and conciseness by using the following where possible:
+  * clear and straightforward words
+  * short sentences
+  * active voice that addresses the reader directly
 * identify related requirements for designers and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
@@ -118,7 +120,7 @@ Optional ideas to teach the learning outcomes:
 
 * Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
 * Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps people understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
-* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Explain that defining which fonts to use is a designers responsibility.
+* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining which fonts to use is a designer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
