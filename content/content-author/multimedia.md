@@ -48,7 +48,7 @@ Students should be able to:
   * captions (a synchronized text version of the speech and non-speech audio information needed to understand the content)
   * description of visual information (including video text)
   * sign languages (hand and arm movements, facial expressions, and body positions to convey meaning)
-* create video content that avoids flashing entirely or only flashes below the acceptable thresholds
+* ensure video content that avoids flashing entirely or only flashes below the acceptable thresholds
 * explain requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
@@ -121,7 +121,7 @@ Students should be able to:
   * ensure sufficient contrast ratio for video text to enhance text readability
   * provide audio with as low background as possible to help distinguish foreground from background sounds
   * consider speaker visibility (including for lip reading and sign language interpretation)
-* ensure video content that does not flash more than three times in any one second
+* ensure video content does not flash more than three times in any one second
 * provide rationale for not including one or more alternatives to multimedia content
 
 #### Teaching Ideas for Topic
