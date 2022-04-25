@@ -21,7 +21,6 @@ parent_in_h1:
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/content-author-modules/data-tables/
-  next: /curricula/content-author-modules/labels-and-instructions/
 ---
 
 ## Introduction
@@ -213,7 +212,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video adequately.
+Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video.
 
 Show examples of videos containing such descriptions and demonstrate different approaches to providing description of visual information.
 
@@ -248,8 +247,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different  information for alternatives to multimedia content and what user needs they met.
-* Portfolio &mdash; Have students supervise the inclusion of audio and video content in the website they are creating. Assess how students supervise the inclusion of the necessary alternatives to multimedia content based on content type, format, and user needs.
+* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different information for alternatives to multimedia content and what user needs they meet.
+* Portfolio &mdash; Have students supervise the inclusion of audio and video content on the website they are creating. Assess how students supervise the inclusion of the necessary alternatives to multimedia content based on content type, format, and user needs.
 
 ## Teaching Resources
 

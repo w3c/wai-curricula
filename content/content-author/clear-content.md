@@ -155,7 +155,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example including a glossary of terms in the document.
+* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -219,7 +219,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Portfolio &mdash; Have students create a page with content that is clear and easy to understand. Assess how students create content that is clear and easy to understand.
-* Portfolio &mdash; Have students add an appropriate page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
+* Practical &mdash; Have students add an appropriate page title and some link text for a given page. Assess how students write clear and meaningful page titles and link text.
 
 ## Teaching Resources
 

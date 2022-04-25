@@ -20,7 +20,7 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/structure/
+  previous: /curricula/content-author-modules/forms/
   next: /curricula/content-author-modules/data-tables/
 ---
 
@@ -121,8 +121,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Discuss examples of informative images, including icons, pictures, and illustrations. Relate the information conveyed in these images to the information provided in their adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
-* Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image, but may still miss the semantics in the text.
-* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself or using plugins that include that functionality.
+* Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image but may still miss the semantics in the text.
+* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -151,14 +151,14 @@ Students should be able to:
 * write short, succinct, and quality text alternatives to provide information about the image function
 * explain requirements for authoring tools to:
   * support the inclusion of text alternatives for images
-  * enable authors to amend suggested text alternatives when needed
+  * enable authors to amend automatically generated text alternatives when needed
   * produce appropriate markup for functional images
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of functional images, for example graphical buttons and links. Explain that text alternatives for these images must describe the functionality of the component  instead of describing the image appearance. For example "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Discuss examples of functional images, for example graphical buttons and links. Explain that text alternatives for these images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as image descriptions.
 
 #### Ideas to Assess Knowledge for Topic
@@ -191,7 +191,7 @@ Students should be able to:
 * provide equivalent, long descriptions for complex images that help understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
-* provide alternative data visualizations for complex images, including text descriptions,data tables, and other graphical representations
+* provide alternative data visualizations for complex images, including text descriptions, data tables, and other graphical representations
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratios for complex images and descriptions
   * reliable identification of short and long descriptions for complex images
@@ -219,8 +219,8 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Research &mdash; Ask students to research different approaches to providing text alternatives for informative, functional, and complex images.
-* Portfolio &mdash; Have students include text alternatives for several types of images in the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
+* Research &mdash; Ask students to research different approaches to providing text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand the different ways to provide text alternatives for images based on the image context and functionality.
+* Portfolio &mdash; Have students include text alternatives for several types of images on the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 ## Teaching Resources
 

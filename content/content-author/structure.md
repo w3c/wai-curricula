@@ -20,8 +20,8 @@ parent_in_h1:
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
-  previous: /curricula/content-author-modules/clear-writing/
-  next: /curricula/content-author-modules/images/
+  previous: /curricula/content-author-modules/clear-content/
+  next: /curricula/content-author-modules/forms/
 ---
 
 ## Introduction
@@ -73,6 +73,8 @@ Skills required for this module:
 
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
   * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
 * In-depth knowledge of
@@ -109,7 +111,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting all headings in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
-* Explain other uses of heading text. These include providing a headline for a piece of news, and summarizing the content the heading precedes.
+* Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
 * Show examples of how headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
@@ -153,7 +155,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the purpose of paragraphs, unordered lists, andd ordered lists. Assess how students describe the purpose of paragraphs, unordered lists, and ordered lists.
+* Short Answer Questions &mdash; Ask students about the purpose of paragraphs, unordered lists, and ordered lists. Assess how students describe the purpose of paragraphs, unordered lists, and ordered lists.
 * Practical &mdash; Give students a piece of content and ask them to group related content using paragraphs and lists. Assess how students use paragraphs and lists to group related content.
 
 {% include excol.html type="end" %}
@@ -187,7 +189,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
 * Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise they would have to tab back through the whole document, which creates a poorer user experience. Providing the table of contents is a content author's responsibility. Defining its appearance is a designer's responsibility. Implementing the orientation and navigation methods is a developer's responsibility.
+* Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience. Providing the table of contents is a content author's responsibility. Defining its appearance is a designer's responsibility. Implementing the orientation and navigation methods is a developer's responsibility.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote to its contents and to move back from the footnote contents to the text. Providing the footnote and its contents is a content author's responsibility. Defining the appearance and operation of the footnote is a designer's responsibility. Implementing the footnote is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
@@ -206,7 +208,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the structural units that exist and their purpose. Assess how students recall the structural units that exist and how they explain their purpose.
+* Short Answer Questions &mdash; Ask students about methods that people with disabilities use to navigate content based on existing headings, paragraphs, and lists. Assess how students recall methods that people with disabilities use to navigate content based on existing headings, paragraphs, and lists.
 * Portfolio &mdash; Have students create a page with accessible content structures, including headings, paragraphs, lists, and others. Assess how students include accessible headings, paragraphs, lists, and others in their pages.
 
 ## Teaching Resources

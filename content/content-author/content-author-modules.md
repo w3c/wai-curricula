@@ -19,7 +19,7 @@ parent_in_h1:
     name: title
 navigation:
   previous: /curricula/designer-modules/forms-design/
-  next: /curricula/content-author-modules/content-clarity/
+  next: /curricula/content-author-modules/clear-content/
 ---
 
 ## Introduction
