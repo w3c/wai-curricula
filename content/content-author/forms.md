@@ -40,11 +40,16 @@ Students should be able to:
 * write clear labels for form fields and controls that help users understand their purpose
 * provide meaningful instructions that describe the overall purpose and intent of the form
 * write instructions about the current step and about the total number of steps in a multi-step process
-* collaborate with designers and developers to include:
-  * instructions about expected input types and formats
-  * error messages that identify the field in error and communicate the problem
-  * suggestions for correction when possible based on the selected input formats and the validation methods in use
-* identify related requirements for designers and developers to ensure visual and non-visual perception and operation of forms and controls
+* include instructions about expected input types and formats
+* write error messages that identify the field in error and communicate the problem
+* provide suggestions for correction when possible based on:
+  * selected input formats 
+  * validation methods in use
+* identify related requirements for designers and developers to ensure visual and non-visual perception and operation of:
+  * labels
+  * instructions
+  * error messages
+  * suggestions for correction
 
 {% include excol.html type="all" %}
 
