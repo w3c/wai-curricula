@@ -149,7 +149,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through paragraphs and lists. Explore advanced functionality that some tools provide, such as presenting all lists in a list where users can select the list they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Explain different uses of paragraphs to group thematic units. Providing the paragraphs is an author's responsibility. Defining how these paragraphs look like is a designer's responsibility. Implementing markup for these paragraphs is a developer's responsibility.
-* Explain uses of ordered lists (where numbering does not matter) and unordered lists (where numbering matters). Providing these lists is an author's responsibility. Defining how these lists look like is a designer's responsibility. Implementing markup for these lists is a developer's responsibility.
+* Explain uses of ordered lists (where numbering matters) and unordered lists (where numbering does not matter). Providing these lists is an author's responsibility. Defining how these lists look like is a designer's responsibility. Implementing markup for these lists is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
