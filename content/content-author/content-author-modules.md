@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Content Author Modules"
 nav_title: "Content Author Modules"
@@ -28,9 +27,8 @@ navigation:
 
 The content author modules guide the creation of courses that:
 
-* demonstrate and explain how
-  * clear content benefits accessibility
-  * accessible content enables people with disabilities to use websites and applications
+* explain that accessibility relies upon clear content
+* demonstrate how accessible content enables people with disabilities to effectively use websites and applications
 * teach accessible authoring techniques for:
   * text
   * images

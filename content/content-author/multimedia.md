@@ -68,7 +68,9 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
-  * Content creation
+  * Writing
+  * Editing
+  * Proofreading
 
 {% include excol.html type="end" %}
 

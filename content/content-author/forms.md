@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear labels and instructions for form fields and controls, including edit boxes, list boxes, buttons, and others, to understand and interact with web pages and applications
-* explain accessibility requirements for labels and instructions for form fields and controls
+* demonstrate how people with disabilities rely on clear labels and instructions to understand and interact with web pages and applications that include forms
+* explain accessibility requirements for form fields and controls, including edit boxes, list boxes, buttons, and other form interactions 
 
 ## Learning Outcomes for Module
 
@@ -61,7 +61,9 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
-  * Content creation
+  * Writing
+  * Editing
+  * Proofreading
 
 {% include excol.html type="end" %}
 

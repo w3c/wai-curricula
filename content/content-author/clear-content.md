@@ -30,7 +30,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to process information
-* explain how clear, easy to understand, and easy to read content benefits accessibility
+* explain the accessibility benefits of providing clear, easy to understand, and easy to read content
 
 ## Learning Outcomes for Module
 
@@ -43,7 +43,6 @@ Students should be able to:
   * active voice
 * provide the extended form for abbreviations and acronyms
 * utilize icons and symbols to complement text content
-* write text alternatives that clearly describe the purpose and communicate the content of images and other graphics
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
@@ -65,7 +64,9 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
-  * Content creation
+  * Writing
+  * Editing
+  * Proofreading
 
 {% include excol.html type="end" %}
 
@@ -108,10 +109,10 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
-* utilize clear language to support readability, clarity, and conciseness by using the following where possible:
-  * clear and straightforward words
+* apply clear language to support readability and clarity using these techniques:
+  * clear and straightforward language
   * short sentences
-  * active voice that addresses the reader directly
+  * active voice
 * identify related requirements for designers and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
