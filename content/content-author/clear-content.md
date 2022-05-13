@@ -135,7 +135,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Terminology
+### Topic: Complex Terms
 
 {% include excol.html type="middle" %}
 
