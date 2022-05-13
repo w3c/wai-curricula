@@ -187,7 +187,7 @@ Students should be able to:
 * provide information about the current step in the page title when the page is part of a multi-step process
 * include relevant information about the link destination in the link text where possible, for example:
   * the target resource title
-  * if the link will open a new window
+  * that the link will open a new window (if appropriate)
   * the file type and format (when linking to a file)
 * explain requirements for authoring tools to:
   * produce appropriate markup for titles and link text
