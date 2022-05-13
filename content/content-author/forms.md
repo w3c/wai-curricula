@@ -190,13 +190,16 @@ Optional ideas to assess knowledge:
 Students should be able to:
 
 * explain how people with disabilities rely on error messages that communicate the problem and suggest fixes where possible
-* provide error messages that communicate the problem by:
-  * identifying the field in error
-  * specifying the cause of the error
+* write error messages that:
+  * identify the field in error
+  * specify the cause of the error
 * include suggestions for fixing the errors when possible by providing:
   * examples of expected input
   * additional guidance for users to understand the required input
 * explain requirements for authoring tools to programmatically associate error messages with their corresponding control
+* identify related requirements for
+  * designers to define visual and non-visual appearance of error messages
+  * developers to programmatically associate error messages with their corresponding form field or control
 
 ### Teaching Ideas for Topic
 
