@@ -107,7 +107,7 @@ Discuss different approaches to providing alternative text for informative image
 Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for informative images to understand the image content
-* provide quality text alternatives that convey the information in the images using:
+* provide quality text alternatives that convey the information in the images using one of the following:
   * clear and descriptive text alternatives associated to the images
   * adjacent text that conveys the same information as the image
 * write textual information as regular text instead of including text content in an image file
