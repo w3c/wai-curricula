@@ -123,10 +123,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate assistive technology interaction with form fields and controls, including the use of voice commands, keystrokes, and gestures to go directly to specific types of form fields and controls. Explain that providing labels that describe the purpose of the controls is essential for several groups of users.
-* Reflect with students about commonly used labels for form fields and controls, including "name", "surname", "address", "phone", "email", and others. Explain that the label should be a unique, clear, and descriptive text that communicates the purpose and intent of the form field or control.
-* Explain that some users find it hard to process text labels. They rely on imagery, including icons and symbols, to understand the purpose of these labels. Emphasize that content authors need to collaborate with designers and developers to complement text labels with imagery that helps these users understand the purpose of form fields and controls.
-* Introduce accessible authoring tools that programmatically associate labels to the form field and control. Explain that some tools may refer to labels as "names" or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
+* Demonstrate assistive technology interaction with form fields and controls. Use voice commands, keystrokes, and gestures to navigate to and operate specific types of form fields and controls. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
+* Reflect with students about commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
+* Explain how imagery can help users who do not process text easily. They may rely on icons and symbols to more readily understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
+* Introduce accessible authoring tools that programmatically associate labels to the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
 
 #### Ideas to Assess Knowledge for Topic
 
