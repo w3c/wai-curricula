@@ -110,6 +110,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
+* utilize words that are easy to understand for the target audience
 * apply clear language to support readability and clarity using these techniques:
   * clear and straightforward language
   * short sentences
@@ -120,6 +121,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
+* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
 * Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
 * Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps people understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
 * Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining which fonts to use is a designer's responsibility.
@@ -128,6 +130,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
+* Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
 * Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
 * Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
@@ -146,7 +149,6 @@ Optional ideas to assess knowledge:
 
 Students should be able to:
 
-* utilize words that are easy to understand for the target audience
 * provide the extended form of:
   * abbreviations
   * acronyms
@@ -157,15 +159,13 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what to do when using terms that are difficult to understand for the audience. Assess how students recall approaches for dealing with terms that are easier to understand.
+* Short Answer Questions &mdash; Ask students what to do when using complex terms. Assess how students recall approaches for dealing with complex termsd.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
-* Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
 
 {% include excol.html type="end" %}
 
