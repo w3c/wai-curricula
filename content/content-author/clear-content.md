@@ -48,7 +48,8 @@ Students should be able to:
   * link text to communicate the link purpose
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratio for content
-  * easy to read and easy to understand font types and sizes
+  * easy to read, easy to understand, font types and sizes
+  * layouts that adapt to different screen configurations and user settings
 
 {% include excol.html type="all" %}
 
@@ -65,7 +66,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Writing
-  * Editing
+  * Copy-editing
   * Proofreading
 
 {% include excol.html type="end" %}

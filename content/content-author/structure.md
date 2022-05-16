@@ -62,7 +62,7 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
   * Writing
-  * Editing
+  * Copy-editing
   * Proofreading
 
 {% include excol.html type="end" %}

@@ -61,8 +61,9 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Writing
-  * Editing
+  * Copy-editing
   * Proofreading
+  * Content creation
 
 {% include excol.html type="end" %}
 
