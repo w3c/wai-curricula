@@ -36,10 +36,10 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear labels and meaningful instructions for form fields and controls, including edit boxes, list boxes, buttons, and others, to understand and interact with web pages and applications
-* write clear labels for form fields and controls that help users understand their purpose
+* explain why people with disabilities rely on clear labels and meaningful instructions to understand and successfully interact with web pages and applications
+* write clear labels for form fields and controls that clearly communicate the form purpose
 * provide meaningful instructions that describe the overall purpose and intent of the form
-* write instructions about the current step and about the total number of steps in a multi-step process
+* write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
 * include instructions about expected input types and formats
 * write error messages that identify the field in error and communicate the problem
 * provide suggestions for correction when possible based on:
