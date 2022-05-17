@@ -164,7 +164,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what to do when using complex terms. Assess how students recall approaches for dealing with complex termsd.
+* Short Answer Questions &mdash; Ask students what to do when using complex terms. Assess how students recall approaches for dealing with complex terms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 
 {% include excol.html type="end" %}
@@ -200,7 +200,8 @@ Optional ideas to teach the learning outcomes:
 
 * Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is good practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
 * Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
-* present different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
+* Discuss different uses of links, such as for linking to other pages, to a document, or to different parts of the content. Explain that these links must have clear and meaningful text so that people can understand their purpose as well as where they go to. For example, providing  information about the link destination, the document type and format, and where the link will open.
+* Reflect with students on the use of images as links, for example in logos. When using images as links, the image should contain an alternative text that describes the functionality of the link. Alternatives for images are discussed in [Content Author Module 4: Images, Topic Functional Images](/curricula/content-author-modules/images/#topic-functional-images).
 * Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is good practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 
 #### Ideas to Assess Knowledge for Topic

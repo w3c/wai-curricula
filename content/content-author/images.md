@@ -144,7 +144,7 @@ Optional ideas to assess knowledge:
 
 Functional images convey functionality. For example, magnifying glasses for searching, and envelopes for sharing.
 
-Discuss different approaches to providing text alternatives for functional images.
+Discuss different approaches to providing text alternatives for functional images, including for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
@@ -155,7 +155,7 @@ Students should be able to:
 * explain requirements for authoring tools to:
   * support the inclusion of text alternatives for images
   * enable authors to amend automatically generated text alternatives when needed
-  * produce appropriate markup for functional images
+  * produce appropriate markup for functional images, including for graphical buttons and links
 
 #### Teaching Ideas for Topic
 
