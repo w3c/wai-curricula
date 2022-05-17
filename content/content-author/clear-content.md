@@ -122,8 +122,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
-* Show examples of text passages with clear, easy to understand, and easy to read language. Compare those with passages that do not meet these requirements. Emphasize that clear and easy to understand  passages are essential for people with disabilities and benefit all. 
-* Demonstrate use of active versus passive voice in sentence structures. Explain how addressing the reader directly and identifying the person or thing carrying the action helps people understand the content easier. Emphasize how this improves the ability of several groups of people with disabilities to understand text.
+* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for people with disabilities to effectively use content.
+* Compare active versus passive voice in sentence structures. Explain how understanding is improved by using direct language and clear identification of the source of the action. Connect this technique to the ability of several groups of people with disabilities to understand content.
 * Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining which fonts to use is a designer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
