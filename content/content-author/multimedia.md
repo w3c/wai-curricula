@@ -32,7 +32,7 @@ Courses based on this module should:
 * explain accessibility requirements for planning and including alternatives to audio and video content
 
 ## Learning Outcomes for Module
-
+  
 Students should be able to:
 
 * explain how people with disabilities rely on alternatives to multimedia content, including transcripts, description of visual information, captions/subtitles, and sign languages, to understand information contained in audio and video content
@@ -130,13 +130,15 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Discuss different types of multimedia content based on format and type. For example, video only and audio only, as well as pre-recorded and live materials. Explain that each has different accessibility requirements. These include transcripts, captions, descriptions, and sign languages. For references on the accessibility requirements of different types of audio and video content, see Planning Audio and Video
+* Demonstrate best practices when creating audio and video content for accessibility. These include clear speech, language, and audio, sufficient contrast ratio in videos and ensuring visibility of the speakers.
+* Explain that flashing and blinking content can create seizures and physical reactions for people. Emphasize that it is crucial to ensure video content does not contain more than three flashes in any one second. IF including flashing content, it should always flash below the accepted ratios.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Give students different types of multimedia content and ask them which accessibility requirements these content should include. Assess how students understand the accessibility requirements needed based on audio and video content types and formats.
 
 {% include excol.html type="end" %}
 
@@ -165,13 +167,17 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Define transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that transcripts are for people who cannot see or cannot hear the content.
+* Show examples of quality transcripts for video and audio content. Emphasize how those transcripts identify the speaker and provide all the relevant information that is needed to understand the content.
+* Explain that descriptive transcripts include text descriptions of the visual information that is needed to understand the content. Explain that these descriptions are often based on existing captions and descriptions of visual information.
+* Explain that making transcripts easy to find on the page is essential for some users to find them. This may include adding the transcript in an expandable section or adding a link to a separate page that contains the transcript. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers and developers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students what is the difference between basic and descriptive transcripts. Assess how students explain the difference between basic and descriptive transcripts.
+* Practical &mdash; Give students a video content containing audio and ask them to create its transcript. Assess how students create transcripts for audio and video content  that include the relevant information needed to understand the content.
 
 {% include excol.html type="end" %}
 
@@ -199,13 +205,18 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that different regions have different names for captions, including subtitles.
+* Show examples of automatically-generated captions. Explain how they are often not sufficient to meet the accessibility requirements. Emphasize that it is always recommended to make sure automatically-generated captions are accurate and convey all the relevant information.
+* Describe characteristics of quality captions, including timestamps to identify when a person speaks. Explain that timestamps are often generated using specific software.
+* Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that there are different tools that produce captions. Emphasize that it is easier to start with an existing transcript and then use the tools to generate the timestamps.
+* Show examples of how different media players and user agents display captions. Explain that some enable users to determine how and where captions appear. Emphasize that determining the position and appearance of captions requires collaboration between different team members, including designers and developers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students what type of information captions should contain. Assess how students explain the type of information that captions should contain.
+* Practical &mdash; Give students a video with automatically-generated captions and ask them to amend these captions for accuracy and quality. Assess how students edit automatically-generated captions for accuracy and quality.
 
 {% include excol.html type="end" %}
 
@@ -234,13 +245,16 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-[TBD]
+* Define descriptions of visual information as information (including text in the video) for people who cannot see the video to understand the content. Explain that different regions have different names for audio descriptions, including audio descriptions, video descriptions, or described videos.
+* Explain different techniques for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information that is needed to understand the video without seeing it. Emphasize that this reduces the need for additional descriptions.
+* Explain narrative descriptions as those included in the audio of the video. These can be provided on an alternative version of the video or in an audio file (if supported by the media player).
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-[TBD]
+* Short Answer Questions &mdash; Ask students about different approaches to providing description of visual information. Assess how students understand approaches to providing descriptions of visual information.
+* Practical &mdash; Give students a video and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
 
 {% include excol.html type="end" %}
 
