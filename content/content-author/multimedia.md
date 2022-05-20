@@ -109,7 +109,8 @@ Topics to achieve the learning outcomes:
 
 Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on governmental regulations and other policy requirements.
 
-Discuss best practices for audio an  video content, including clear audio and speech, sufficient contrast ratios, and speakers visibility.
+Discuss best practices for audio an  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility.
+
 #### Learning Outcomes for Topic
 
 Students should be able to:
@@ -131,7 +132,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss different types of multimedia content based on format and type. For example, video only and audio only, as well as pre-recorded and live materials. Explain that each has different accessibility requirements. These include transcripts, captions, descriptions, and sign languages. For references on the accessibility requirements of different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
+* Discuss different types of accessibility requirements based on audio and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements of different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
 * Demonstrate best practices when creating audio and video content for accessibility. These include clear speech, language, and audio, sufficient contrast ratio for videos, and ensuring visibility of the speakers.
 * Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures or physical reactions. Explain the requirements for this content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
 
@@ -201,7 +202,7 @@ Students should be able to:
 * ensure availability of accurate captions for audio content by:
   * including a caption file
   * amending automatically generated captions for quality and accuracy
-* enumerate characteristics of quality captions, including time stamps and non-speech information
+* enumerate characteristics of quality captions, including timestamps and non-speech information
 * identify different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language)
 
 #### Teaching Ideas for Topic
@@ -209,9 +210,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that different regions have different names for captions, including subtitles.
-* Show examples of automatically-generated captions. Emphasize that they are often not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
+* Show examples of automatically-generated captions. Emphasize that they are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
 * Describe characteristics of quality captions, including timestamps to identify when a person speaks. Explain that timestamps are often generated using specific software.
-* Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that there are different tools to produce captions. Emphasize that it is easier to start with an existing transcript and then use the tools to generate the timestamps. Remind students that sometimes help from specialized roles is required to produce accurate and qualitty captions.
+* Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that there are different tools to produce captions. Emphasize that it is easier to start with an existing transcript and then use the tools to generate the timestamps. Remind students that sometimes content authors require help from specialized roles to produce accurate and quality captions.
 * Show examples of how different media players and user agents display captions. Explain that some enable users to determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers and developers.
 
 #### Ideas to Assess Knowledge for Topic
@@ -229,9 +230,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Descriptions explain visual information needed to understand the content for people who are blind and others who cannot see the video.
+Descriptions explain visual information needed to understand the content for people who don't see the video.
 
-Show examples of videos containing such descriptions and demonstrate different approaches for providing description of visual information.
+Show examples of videos containing such descriptions and demonstrate different approaches for providing description of visual information. For details. see [Description of visual information](/media/av/description/).
 
 #### Learning Outcomes for Topic
 
@@ -257,7 +258,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different approaches to providing description of visual information. Assess how students understand approaches to providing descriptions of visual information.
+* Short Answer Questions &mdash; Ask students about different approaches for providing description of visual information. Assess how students understand approaches to providing description of visual information.
 * Practical &mdash; Give students a video and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
 
 {% include excol.html type="end" %}
@@ -268,7 +269,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs they meet. Assess how students understand the different information for alternatives to multimedia content and what user needs they meet.
+* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs each of the alternatives meet. Assess how students understand the different information for alternatives to multimedia content and what user needs they meet.
 * Portfolio &mdash; Have students supervise the inclusion of alternatives to audio and video content on the website they are creating. Assess how students supervise the inclusion of alternatives to multimedia content based on content type, format, and user needs.
 
 ## Teaching Resources
