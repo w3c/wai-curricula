@@ -46,10 +46,9 @@ Students should be able to:
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
-* identify related requirements for designers and developers to ensure:
-  * appropriate contrast ratio for content
-  * easy to read, easy to understand, font types and sizes
-  * layouts that adapt to different screen configurations and user settings
+* identify related requirements for designers to:
+  * ensure appropriate contrast ratios
+  * design layouts that adapt to different font types and sizes set by users
 
 {% include excol.html type="all" %}
 
