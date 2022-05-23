@@ -181,7 +181,7 @@ Students should be able to:
 * ensure availability of methods for users to move back and forth through long passages of content, for example using:
   * tables of contents
   * links to get back to the top of the content and to the top of specific sections
-  * methods to move from a footnote to its content and from its content back to the footnote
+  * methods to move from a footnote marker to the footnote content and from the footnote content back to the footnote marker
 * explain requirements for authoring tools to support accessible orientation and navigation methods
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
 
@@ -192,7 +192,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
 * Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience. Providing the table of contents is a content author's responsibility. Defining its appearance is a designer's responsibility. Implementing the orientation and navigation methods is a developer's responsibility.
-* Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote to its contents and to move back from the footnote contents to the text. Providing the footnote and its contents is a content author's responsibility. Defining the appearance and operation of the footnote is a designer's responsibility. Implementing the footnote is a developer's responsibility.
+* Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker. Providing the footnote and its content is a content author's responsibility. Defining the appearance and operation of the footnote is a designer's responsibility. Implementing the footnote is a developer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -200,7 +200,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about different methods to help users orient and navigate long passages of text. Assess how students recall methods to help users orient and navigate long passages of text, including tables of contents and "Back to top" links.
 * Practical &mdash; Ask students to provide the table of contents for a document. Assess how students provide the table of contents for a document.
-* Practical &mdash; Ask students to collaborate with other team members to provide accessible footnotes. Assess how students collaborate with other team members to include methods for users to move back and forth through the footnotes and its contents.
+* Practical &mdash; Ask students to collaborate with other team members to provide accessible footnotes. Assess how students collaborate with other team members to include methods for users to move back and forth through the footnote markers and the footnote content.
 
 {% include excol.html type="end" %}
 
