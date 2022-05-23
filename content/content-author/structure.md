@@ -102,6 +102,7 @@ Topics to achieve the learning outcomes:
 
 Students should be able to:
 
+* explain how proper heading hierarchy helps users identify and navigate the different content sections
 * provide consistent headings and their corresponding rank levels to help users identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * explain requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
@@ -111,7 +112,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting all headings in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
+* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
 * Show examples of how headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
