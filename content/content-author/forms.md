@@ -114,7 +114,10 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * explain how people with disabilities rely on clear labels to identify and understand the purpose of form fields and controls
-* provide unique and descriptive labels for form fields and controls
+* provide unique and descriptive labels for:
+  * form fields
+  * form controls
+  * groups of related form fields and controls
 * explain requirements for authoring tools to programmatically associate labels to their corresponding control
 * collaborate with designers and developers to include icons, symbols, and other imagery to make text labels easier to understand
 * identify related requirements for developers and designers to ensure visual and non-visual perception of labels
