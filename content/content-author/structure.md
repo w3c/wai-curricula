@@ -158,7 +158,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through paragraphs and lists. Explore advanced functionality that some tools provide, such as presenting all lists in a list where users can select the list they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Explain different uses of paragraphs to group thematic units.
 * Explain uses of different types of lists. Ordered lists (where numbering matters), unordered lists (where numbering does not matter), and description lists (for terms and their definitions).
-* Reflect with students on how content authors can produce accessible paragraphs and lists. Explain that some authoring tools  natively support the creation of paragraphs, as well as ordered and unordered lists. Emphasize that description lists may require developers to code them.
+* Reflect with students on how content authors can produce accessible paragraphs and lists. Explain that some authoring tools  natively support the creation of accessible paragraphs, ordered lists, and unordered lists. Emphasize that description lists may require developers to code them.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -175,7 +175,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD]
+Introduce navigation and orientation methods that help people with disabilities orient themselves and navigate content. These include meaningful content sequences, tables of contents, footnotes, and methods for users to move back and forth through long passages of content.
+
+Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
 #### Learning Outcomes for Topic
 
@@ -198,15 +200,15 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
 * Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience. Providing the table of contents is a content author's responsibility. Defining its appearance is a designer's responsibility. Implementing the orientation and navigation methods is a developer's responsibility.
-* Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker. Providing the footnote and its content is a content author's responsibility. Defining the appearance and operation of the footnote is a designer's responsibility. Implementing the footnote is a developer's responsibility.
+* Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
+* Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different methods to help users orient and navigate long passages of text. Assess how students recall methods to help users orient and navigate long passages of text, including tables of contents and "Back to top" links.
-* Practical &mdash; Ask students to provide the table of contents for a document. Assess how students provide the table of contents for a document.
+* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including tables of contents and "Back to top" links.
+* Practical &mdash; Ask students to collaborate with other team members to provide the table of contents for an article of a given website. Assess how students collaborate with other team members to provide the table of contents for an article.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible footnotes. Assess how students collaborate with other team members to include methods for users to move back and forth through the footnote markers and the footnote content.
 
 {% include excol.html type="end" %}
@@ -224,7 +226,7 @@ Optional ideas to assess knowledge:
 
 Suggested resources to support your teaching:
 
-* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
+* [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) &mdash; Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
 * [[How People with Disabilities Use the Web]](/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Understandable Content (Web Accessibility Perspective)](/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.

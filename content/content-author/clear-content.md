@@ -36,18 +36,19 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how clear, easy to understand, and easy to read content is essential for some people with disabilities and benefits all
+* explain how clear, easy to understand, and easy to read content is essential for some people with disabilities
 * provide clear content depending on context, audience, and resource by using:
   * appropriate words based on audience and context
   * short sentences
   * active voice
+* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
 * provide the extended form for abbreviations and acronyms
 * utilize icons and symbols to complement text content
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
 * identify related requirements for designers to:
-  * ensure appropriate contrast ratios
+  * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
 
 {% include excol.html type="all" %}
@@ -110,20 +111,18 @@ Topics to achieve the learning outcomes:
 Students should be able to:
 
 * utilize words that are easy to understand for the target audience
-* apply clear language to support readability and clarity using these techniques:
+* write clearly and succinctly using:
   * clear and straightforward language
   * short sentences
   * active voice
-* identify related requirements for designers and developers to provide easy to read font types 
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
-* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content.
+* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how understanding is improved by using direct language and clear identification of the source of the action. Explain how active voice improves overall accessibility and readability of the content.
-* Demonstrate how different visual aspects impact readability of the content. These include font types and sizes, spacing, and line height. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining the visual appearance is a designer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -132,7 +131,6 @@ Optional ideas to assess knowledge:
 * Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
 * Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
 * Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
-* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
 
 {% include excol.html type="end" %}
 
@@ -159,7 +157,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Invite students to research alternatives to commonly used complex terms depending on audience and context. Explain that it is best practice to minimize the use of such terms and substitute them with their corresponding alternative.
+* Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms and substitute them with their corresponding alternative.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -177,7 +175,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Titles and link text are essential for some people with disabilities to understand the page purpose and where links go to. Emphasize that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
 
 #### Learning Outcomes for Topic
 
@@ -214,6 +212,40 @@ Optional ideas to assess knowledge:
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
 * Short Answer Questions &mdash; Ask students which types of information page titles and  link text should contain. Assess how students relate the information that page titles and link text should contain, including link destination, target document type and format, and where the link will open.
 * Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Topic: Contrast and Fonts
+
+Explain how sufficient contrast ratio for text is essential for some groups of people with disabilities to read and understand content. Discuss some font types that enhance readability of the content, including Sans Serif.
+
+If content authors are involved in the visual appearance of the content, they must ensure that is accessible. Otherwise, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+
+{% include excol.html type="midle" %}
+
+#### Learning Outcomes for Topic
+
+Students should be able to:
+
+* provide easy to read and easy to understand fonts
+* provide text with sufficient contrast ratio for text
+* identify related requirements for designers and developers to:
+  *  ensure sufficient contrast ratios for text, background, and other interface components
+  *  design layouts that adapt to different screen sizes and configurations set by users
+
+#### Teaching Ideas for Topic
+
+Optional ideas to teach the learning outcomes:
+
+* Demonstrate how different visual aspects impact readability of the content. These include contrast ratios, font types and sizes, spacing, and line height. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience.
+
+#### Ideas to Assess Knowledge for Topic
+
+Optional ideas to assess knowledge:
+
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
 
 {% include excol.html type="end" %}
 
