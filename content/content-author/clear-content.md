@@ -121,9 +121,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
-* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for people with disabilities to effectively use content.
-* Compare active versus passive voice in sentence structures. Explain how understanding is improved by using direct language and clear identification of the source of the action. Connect this technique to the ability of several groups of people with disabilities to understand content.
-* Demonstrate how different font types and sizes impact readability of the content. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining which fonts to use is a designer's responsibility.
+* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content.
+* Compare active versus passive voice in sentence structures. Explain how understanding is improved by using direct language and clear identification of the source of the action. Explain how active voice improves overall accessibility and readability of the content.
+* Demonstrate how different visual aspects impact readability of the content. These include font types and sizes, spacing, and line height. Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Providing the text is a content author's responsibility. Defining the visual appearance is a designer's responsibility.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -152,12 +152,14 @@ Students should be able to:
   * abbreviations
   * acronyms
 * provide explanations for complex terms and jargon based on audience and context
+* research alternatives to replace complex terms based on audience and context
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Invite students to research alternatives to commonly used complex terms depending on audience and context. Explain that it is best practice to minimize the use of such terms and substitute them with their corresponding alternative.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -165,6 +167,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what to do when using complex terms. Assess how students recall approaches for dealing with complex terms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
+* Research &mdash; Ask students to research about commonly used complex terms based on audience and context and ask them to provide alternatives for such terms. Assess how students understand commonly used complex terms and how they provide alternatives to such terms.
 
 {% include excol.html type="end" %}
 

@@ -105,6 +105,9 @@ Students should be able to:
 * explain how proper heading hierarchy helps users identify and navigate the different content sections
 * provide consistent headings and their corresponding rank levels to help users identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
+* describe the accessibility considerations when changing the default visual appearance of headings, including:
+  * potential inaccessibility of the selected custom visual appearance
+  * mismatch between the visual appearance of the heading and the generated markup
 * explain requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
 * identify related requirements for designers and developers to ensure visual and non-visual perception of headings
 
@@ -115,7 +118,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
-* Show examples of how headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. If the author changes these styles, they must ensure they are accessible.
+* Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. If authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
 #### Ideas to Assess Knowledge for Topic
@@ -124,6 +127,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where headings can be used.
 * Practical &mdash; Have students include headings and their corresponding rank level in a page using an authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include headings and their corresponding rank level.
+* Practical &mdash; Ask students to change the visual appearance of the headings on a given website in a way that the headings remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings visual appearance.
 
 {% include excol.html type="end" %}
 
@@ -144,6 +148,7 @@ Students should be able to:
   * paragraph structures to group thematic units
   * unordered lists when the item numbering is not relevant
   * ordered lists when the item numbering is relevant
+  * description lists form terms and their definitions
 * explain requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
 
 #### Teaching Ideas for Topic
@@ -151,8 +156,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through paragraphs and lists. Explore advanced functionality that some tools provide, such as presenting all lists in a list where users can select the list they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
-* Explain different uses of paragraphs to group thematic units. Providing the paragraphs is an author's responsibility. Defining how these paragraphs look like is a designer's responsibility. Implementing markup for these paragraphs is a developer's responsibility.
-* Explain uses of ordered lists (where numbering matters) and unordered lists (where numbering does not matter). Providing these lists is an author's responsibility. Defining how these lists look like is a designer's responsibility. Implementing markup for these lists is a developer's responsibility.
+* Explain different uses of paragraphs to group thematic units.
+* Explain uses of different types of lists. Ordered lists (where numbering matters), unordered lists (where numbering does not matter), and description lists (for terms and their definitions).
+* Reflect with students on how content autohrs can produce acceswsible pargraphs and lists. Explain that some authoring tools  natively support the creation of paragraphs, as well as ordered and unordered lists. Emphasize that description lists may require developers to code them.
 
 #### Ideas to Assess Knowledge for Topic
 
