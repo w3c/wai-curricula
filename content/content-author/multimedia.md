@@ -264,7 +264,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different approaches for providing description of visual information. Assess how students understand approaches to providing description of visual information.
+* Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches to providing description of visual information.
 * Practical &mdash; Give students a video script and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
 * Practical &mdash; Give students a video description with a narrative description and ask them to check if all relevant information is included. Assess how students check narrative descriptions for quality and accuracy.
 
