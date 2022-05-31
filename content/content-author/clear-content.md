@@ -217,13 +217,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="start" %}
 
-### Topic: Contrast and Fonts
+### Topic: Visual Appearance
 
-Explain how sufficient contrast ratio for text is essential for some groups of people with disabilities to read and understand content. Discuss some font types that enhance readability of the content, including Sans Serif.
+{% include excol.html type="middle" %}
 
-If content authors are involved in the visual appearance of the content, they must ensure that is accessible. Otherwise, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+Explain how sufficient contrast ratio for text is essential for some groups of people with disabilities to read and understand content. Discuss some visual aspects that favor readability of the content, including font types, spacing, and line height.
 
-{% include excol.html type="midle" %}
+When content authors decide the visual appearance of the content, they must ensure that is accessible. Otherwise, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
 #### Learning Outcomes for Topic
 
@@ -231,9 +231,10 @@ Students should be able to:
 
 * provide easy to read and easy to understand fonts
 * provide text with sufficient contrast ratio for text
+* ensure enough spacing for text
 * identify related requirements for designers and developers to:
-  *  ensure sufficient contrast ratios for text, background, and other interface components
-  *  design layouts that adapt to different screen sizes and configurations set by users
+  * ensure sufficient contrast ratios for text, background, and other interface components
+  * design layouts that adapt to different screen sizes and configurations set by users
 
 #### Teaching Ideas for Topic
 

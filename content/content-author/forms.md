@@ -129,7 +129,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate assistive technology interaction with form fields and controls. Use voice commands, keystrokes, and gestures to navigate to and operate specific types of form fields and controls. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
-* Reflect with students about commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Ask students to tell which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
+* Reflect with students about commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Help students brainstorm which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
 * Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to more readily understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels to the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
 
@@ -211,7 +211,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate assistive technology interaction with form fields that contain accessible error messages and with those that do not. Reflect with students on how accessible error messages are essential for people with disabilities and help all interact with form fields and correct errors.
-* Demonstrate approaches to communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these do not compromise the security of the interface.
+* Demonstrate approaches to communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these do not compromise the security of the form.
 * Give students examples of forms that contain errors. Help students brainstorm accessible ways to communicate these errors.
 
 ### Ideas to Assess Knowledge for Topic

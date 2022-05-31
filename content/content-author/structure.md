@@ -118,7 +118,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
-* Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. If authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
+* Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
 #### Ideas to Assess Knowledge for Topic
@@ -127,7 +127,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where headings can be used.
 * Practical &mdash; Have students include headings and their corresponding rank level in a page using an authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include headings and their corresponding rank level.
-* Practical &mdash; Ask students to change the visual appearance of the headings on a given website in a way that the headings remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings visual appearance.
+* Practical &mdash; Ask students to change the visual appearance of the headings on a given website ensuring that they remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings style.
 
 {% include excol.html type="end" %}
 
@@ -148,7 +148,7 @@ Students should be able to:
   * paragraph structures to group thematic units
   * unordered lists when the item numbering is not relevant
   * ordered lists when the item numbering is relevant
-  * description lists form terms and their definitions
+  * description lists for terms and their definitions
 * explain requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
 
 #### Teaching Ideas for Topic
@@ -191,8 +191,9 @@ Students should be able to:
   * tables of contents
   * links to get back to the top of the content and to the top of specific sections
   * methods to move from a footnote marker to the footnote content and from the footnote content back to the footnote marker
-* explain requirements for authoring tools to support accessible orientation and navigation methods
-* identify related requirements for designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
+* identify related requirements for:
+  * designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
+  * authoring tools to support accessible orientation and navigation methods
 
 #### Teaching Ideas for Topic
 
@@ -202,14 +203,16 @@ Optional ideas to teach the learning outcomes:
 * Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
+* Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including tables of contents and "Back to top" links.
-* Practical &mdash; Ask students to collaborate with other team members to provide the table of contents for an article of a given website. Assess how students collaborate with other team members to provide the table of contents for an article.
-* Practical &mdash; Ask students to collaborate with other team members to provide accessible footnotes. Assess how students collaborate with other team members to include methods for users to move back and forth through the footnote markers and the footnote content.
+* Practical &mdash; Ask students to provide the table of contents for an article of a given website. Assess how students provide the table of contents for an article.
+* Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include methods for users to move back and forth through the footnote markers and the footnote content.
+* Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.
 
 {% include excol.html type="end" %}
 
