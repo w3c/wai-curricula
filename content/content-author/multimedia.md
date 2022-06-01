@@ -109,7 +109,7 @@ Topics to achieve the learning outcomes:
 
 Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on governmental regulations and other policy requirements.
 
-Discuss best practices for audio an  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](/media/av/planning/).
+Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](/media/av/planning/).
 
 #### Learning Outcomes for Topic
 
@@ -117,7 +117,7 @@ Students should be able to:
 
 * determine the required alternatives to multimedia content, including transcripts, description, captions, and sign language, based on:
   * multimedia formats, such as audio and video
-  * multimedia types, such as recorded and prerecorded
+  * multimedia types, such as live and prerecorded
   * user needs
   * governmental regulations and other policy requirements
 * explain the following accessibility best practices for audio and video content:
@@ -218,7 +218,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
 * Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks. Give students a piece of audio and video content and help them brainstorm which information they would include in the captions.
 * Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that it is more efficient to use specific software for creating captions, as the software can add the relevant timestamps. Remind students that sometimes content authors require help from specialized roles to produce accurate and quality captions.
-* Show examples of how different media players and user agents display captions. Explain that some player let users determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers, developers, and content authors.
+* Show examples of how different media players and user agents display captions. Explain that some players let users determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers, developers, and content authors.
 
 #### Ideas to Assess Knowledge for Topic
 
