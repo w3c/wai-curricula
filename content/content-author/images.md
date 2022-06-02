@@ -123,7 +123,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Give students examples of informative images, including icons, pictures, and illustrations. Help students brainstorm what text alternatives theey would include for these images they would include based on the information provided in the image adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
+* Give students examples of informative images, including icons, pictures, and illustrations. Help students brainstorm what text alternatives they would include for these images they would include based on the information provided in the image adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
 * Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image but may still miss the semantics in the text.
 * Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
 
@@ -161,7 +161,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Give students examples of functional images, for example graphical buttons and links. Heelp students brainstorm what text alternative they would include for these images. Explain that text alternatives for these images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Give students examples of functional images, for example graphical buttons and links. Help students brainstorm what text alternative they would include for these images. Explain that text alternatives for these images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as image descriptions.
 
 #### Ideas to Assess Knowledge for Topic

@@ -136,7 +136,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate accessibility best practices when creating audio and video content for accessibility. These include clear speech, language, and audio, sufficient contrast ratio for videos, and ensuring visibility of the speakers.
 * Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures or physical reactions. Explain the requirements for this content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
 * Give students examples of audio and video content. Help them brainstorm which alternatives they would include and which they would not include. Ask them to provide rationale for when not including a specific alternative.
-* Give students an existing audio and video project. Ask them to identify potential accessibility barriers to address. Help them brainstorm which accessibility best practices they could included in the planning phase to minimize such barriers.
+* Give students an existing audio and video project. Ask them to identify potential accessibility barriers to address. Help them brainstorm which accessibility best practices they could include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -183,7 +183,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what is the difference between basic and descriptive transcripts. Assess how students explain the difference between basic and descriptive transcripts.
+* Short Answer Questions &mdash; Ask students what the difference between basic and descriptive transcripts is. Assess how students explain the difference between basic and descriptive transcripts.
 * Practical &mdash; Give students a piece of video content with audio and ask them to create its transcript. Assess how students create transcripts for audio and video content  that include the relevant information needed to understand the content.
 * Practical &mdash; Give students a piece of video and audio content with a basic transcript and ask them to create a descriptive transcript. Assess how students create descriptive transcripts.
 

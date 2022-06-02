@@ -130,7 +130,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate assistive technology interaction with form fields and controls. Use voice commands, keystrokes, and gestures to navigate to and operate specific types of form fields and controls. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
 * Reflect with students about commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Help students brainstorm which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
-* Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to more readily understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
+* Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels to the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
 
 #### Ideas to Assess Knowledge for Topic
@@ -138,7 +138,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand the type of information  that labels should contain.
-* Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear and descriptive labels for controls.
+* Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear, and descriptive labels for controls.
 * Practical &mdash; Have students collaborate with designers and developers to select icons and symbols that complement text labels. Assess how students relate text labels to complementary imagery.
 * Practical &mdash; Have students include labels for form fields and controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for form fields and controls.
 

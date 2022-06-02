@@ -37,7 +37,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how clear, easy to understand, and easy to read content is essential for some people with disabilities
-* provide clear content depending on context, audience, and resource by using:
+* provide clear content based on context, audience, and resource, by using:
   * appropriate words based on audience and context
   * short sentences
   * active voice
@@ -104,66 +104,43 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+easy to understand language is essential for some groups of people with disabilities to understand the content. Explain characteristics of easy to understand language, including words that are easy to understand for the target audience, short sentences, and active voice.
+
+Discuss approaches to explaining the meaning of abbreviations and acronyms.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * utilize words that are easy to understand for the target audience
+* research alternatives to replace complex terms based on audience and context
 * write clearly and succinctly using:
   * clear and straightforward language
   * short sentences
   * active voice
-
-#### Teaching Ideas for Topic
-
-Optional ideas to teach the learning outcomes:
-
-* Reflect with students about terms that are difficult to understand based on audience and context, including jargon and terms that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those terms when possible. Demonstrate how to provide explanations when the terms cannot be changed. For example, including a glossary of terms in the document.
-* Provide text passages with clear language that is easy to read and understand. Compare those with passages that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
-* Compare active versus passive voice in sentence structures. Explain how understanding is improved by using direct language and clear identification of the source of the action. Explain how active voice improves overall accessibility and readability of the content.
-
-#### Ideas to Assess Knowledge for Topic
-
-Optional ideas to assess knowledge:
-
-* Practical &mdash; Give students a piece of text with terms that are difficult to understand. Ask them to either provide an explanation for such terms or to substitute them with terms that are easier. 
-* Practical &mdash; Give students a piece of text that uses convoluted language and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
-* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Topic: Complex Terms
-
-{% include excol.html type="middle" %}
-
-[Intro paragraph TBD].
-
-#### Learning Outcomes for Topic
-
-Students should be able to:
-
 * provide the extended form of:
   * abbreviations
   * acronyms
 * provide explanations for complex terms and jargon based on audience and context
-* research alternatives to replace complex terms based on audience and context
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Reflect with students about words that are difficult to understand based on audience and context, including jargon and words that require advanced reading ability. Emphasize that it is good practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed. For example, including a glossary of terms in the document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms and substitute them with their corresponding alternative.
+* Provide text passages with clear language that is easy to read and understand. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
+* Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
+* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what to do when using complex terms. Assess how students recall approaches for dealing with complex terms.
+* Practical &mdash; Give students a piece of text with words that are difficult to understand. Ask them to either provide an explanation for such words or to substitute them with words that are easier. 
+* Practical &mdash; Give students a piece of text with language that is difficult to understand and ask them to turn it into clearer and easier to understand language. Assess how students convert difficult to understand passages of text into easier to understand pieces.
+* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
+* Short Answer Questions &mdash; Ask students what are the accessibility requirements for abbreviations and acronyms. Assess how students recall accessibility requirements for abbreviations and acronyms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 * Research &mdash; Ask students to research about commonly used complex terms based on audience and context and ask them to provide alternatives for such terms. Assess how students understand commonly used complex terms and how they provide alternatives to such terms.
 
@@ -221,17 +198,17 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Explain how sufficient contrast ratio for text is essential for some groups of people with disabilities to read and understand content. Discuss some visual aspects that favor readability of the content, including font types, spacing, and line height.
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
-When content authors decide the visual appearance of the content, they must ensure that is accessible. Otherwise, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+When content authors can specify the visual appearance, they must ensure that is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * provide easy to read and easy to understand fonts
-* provide text with sufficient contrast ratio for text
-* ensure enough spacing for text
+* provide content with sufficient contrast ratio
+* ensure enough spacing to improve readability
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
   * design layouts that adapt to different screen sizes and configurations set by users
@@ -247,6 +224,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
+* Practical &mdash; Give students a piece of content and ask them to select a font type that favors readability. Assess how students select font types that favor readability.
 
 {% include excol.html type="end" %}
 
