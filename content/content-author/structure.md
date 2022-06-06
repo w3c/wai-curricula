@@ -41,10 +41,10 @@ Students should be able to:
 * group content using paragraphs, lists, and other structures
 * collaborate with designers and developers to:
   * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
-  * ensure meaningful content sequences irrespective of screen sizes, user configurations, and assistive technologies in use
-* explain requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures:
+  * ensure meaningful content sequences for different screen sizes, user configurations, and assistive technologies in use
+* identify requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures
 * identify related requirements for developers and designers to ensure:
-  * visual and non-visual perception of content structures , including headings, paragraphs, lists, quotes, and others
+  * visual and non-visual perception of content structures, including headings, paragraphs, lists, quotes, and others
   * adequate content grouping and spacing to communicate semantic structures visually
 
 {% include excol.html type="all" %}
@@ -96,6 +96,10 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
+Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different uses of headings and how they can be included using accessible authoring tools.
+
+When content authors change the visual appearance of headings, they must ensure headings remain accessible visually and non-visually.
+
 [Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
@@ -108,7 +112,7 @@ Students should be able to:
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
   * potential inaccessibility of the selected custom visual appearance
   * mismatch between the visual appearance of the heading and the generated markup
-* explain requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
+* identify requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
 * identify related requirements for designers and developers to ensure visual and non-visual perception of headings
 
 #### Teaching Ideas for Topic
