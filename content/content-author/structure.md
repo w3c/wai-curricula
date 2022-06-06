@@ -96,11 +96,9 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different uses of headings and how they can be included using accessible authoring tools.
+Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different purposes of headings and how to include them with accessible authoring tools.
 
 When content authors change the visual appearance of headings, they must ensure headings remain accessible visually and non-visually.
-
-[Intro paragraph TBD].
 
 #### Learning Outcomes for Topic
 
@@ -141,7 +139,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD.]
+Paragraphs and lists group related content. This helps people with disabilities better read and understand content. Explain different types of lists and how to include them with accessible authoring tools.
+
+When content authors change the visual appearance of paragraphs and lists, they must ensure paragraphs and lists remain accessible visually and non-visually.
 
 #### Learning Outcomes for Topic
 
