@@ -85,13 +85,13 @@ The foundation, developer, and designer modules are available now. The author mo
 <table summary="Specifics for developers, designers, and content authors. Column one: Developer Modules. Column two: Designer Modules. Column three: outlines for Author Modules." class="dense" style="width: 100%;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
-      <th><a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
-      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> <a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
+      <th> <a href="{{ '/curricula/content-author-modules/' | relative_url }}">[Draft] Content Author Modules</a></th>
     </tr>
     <tr>
       <td>
         <ul>
-         <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
+          <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
           <li><a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
           <li><a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
           <li><a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
@@ -113,13 +113,12 @@ The foundation, developer, and designer modules are available now. The author mo
       </td>
       <td>
         <ul>
-          <li>Headings and Structure</li>
-          <li>Navigational Cues </li>
-          <li>Alternatives for Images, Graphics, and Multimedia </li>
-          <li>Document Accessibility </li>
-          <li>Tables and Data Representation</li>
-          <li>Form Instructions and Feedback </li>
-          <li>&hellip; </li>
+          <li><a href="{{ '/curricula/content-author-modules/clear-content/' | relative_url }}">[Draft] Clear Content</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/structure/' | relative_url }}">[Draft] Structure</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/forms/' | relative_url }}">[Draft] Forms</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/images/' | relative_url }}">[Draft] Images</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/data-tables/' | relative_url }}">[Draft] Data Tables</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/multimedia/' | relative_url }}">[Draft] Multimedia</a></li>
         </ul>
       </td>
     </tr>
