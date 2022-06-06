@@ -109,7 +109,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities understand the purpose of form fields and controls.
 
-Accessible labels require collaboration between content authors. Designers, and developers. Content authors provide the label text, designers specify the label's appearance. Developers implement the label.
+Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text, designers specify the label appearance. Developers implement the label.
 
 #### Learning Outcomes for Topic
 
@@ -150,7 +150,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and instructions about the current steps and the total number of steps in a form.
+
+Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions text, designers specify the instructions appearance. Developers implement the instructions.
 
 #### Learning Outcomes for Topic
 
@@ -189,7 +191,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD]
+Clear and descriptive error messages help people with disabilities understand the problem and correct their submission. Demonstrate some approaches to providing clear and descriptive error messages.
+
+Accessible error messages often require collaboration between content authors, designers, and developers. Content authors provide the message text, designers specify the message appearance. Developers implement the message.
 
 #### Learning Outcomes for Topic
 

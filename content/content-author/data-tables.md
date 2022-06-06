@@ -95,7 +95,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table header cells and their scope identify the information provided in a row or column. Explain how specifying the table header cells is essential for some groups of people with disabilities to understand the table contents.
 
 #### Learning Outcomes for Topic
 
@@ -132,7 +132,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table data cells contain information about a specific type of data in a row or column. Explain how clearly specifying the type of information contained in table dat cells as well as specifying the cell scope helps people with disabilities understand the table contents.
 
 #### Learning Outcomes for Topic
 
@@ -168,7 +168,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table summaries identify the table purpose. Table descriptions explain what the table is about and how it is organized. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
 
 #### Learning Outcomes for Topic
 
