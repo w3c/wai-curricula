@@ -48,7 +48,7 @@ Students should be able to:
   * description of visual information (including video text)
   * sign languages (hand and arm movements, facial expressions, and body positions to convey meaning)
 * ensure video content avoids flashing entirely or only flashes below the acceptable thresholds
-* explain requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
+* identify requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
   * alternatives to multimedia content 
   * media player controls
@@ -133,16 +133,16 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Discuss different types of accessibility requirements based on audio and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements of different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
-* Demonstrate accessibility best practices when creating audio and video content for accessibility. These include clear speech, language, and audio, sufficient contrast ratio for videos, and ensuring visibility of the speakers.
-* Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures or physical reactions. Explain the requirements for this content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Give students examples of audio and video content. Help them brainstorm which alternatives they would include and which they would not include. Ask them to provide rationale for when not including a specific alternative.
+* Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility.
+* Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures physical reactions. Explain the requirements for content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
+* Give students examples of audio and video content. Help them brainstorm which alternatives they would include and which they would not include. Ask them to provide rationale for when not including a specific alternative to help users save time and avoid frustrations.
 * Give students an existing audio and video project. Ask them to identify potential accessibility barriers to address. Help them brainstorm which accessibility best practices they could include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content.
+* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content and how they provide rationale when not including a specific alternative.
 * Research &mdash; Ask students to research governmental regulations that may apply in their region for audio and video content. Then ask students to specify the accessibility requirements for different types of audio and video content. Assess how students determine the accessibility requirements for different types of audio and video content based on governmental regulations and other policy requirements.
 * Short Answer Questions &mdash; Ask students to describe best practices for creating audio and video content. Assess how students describe best practices for creating audio and video content.
 
@@ -167,7 +167,7 @@ Students should be able to:
   * convey the speech and non-speech information needed to understand the content
   * identify the speaker
 * provide descriptive transcripts when required based on existing captions and description
-* collaborate with designers to ensure transcripts are easy to find on the page
+* collaborate with designers and developers to ensure transcripts are easy to find on the page
 
 #### Teaching Ideas for Topic
 
@@ -216,9 +216,10 @@ Optional ideas to teach the learning outcomes:
 
 * Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that different regions have different names for captions, including subtitles.
 * Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
-* Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks. Give students a piece of audio and video content and help them brainstorm which information they would include in the captions.
-* Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that it is more efficient to use specific software for creating captions, as the software can add the relevant timestamps. Remind students that sometimes content authors require help from specialized roles to produce accurate and quality captions.
-* Show examples of how different media players and user agents display captions. Explain that some players let users determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers, developers, and content authors.
+* Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks.
+* Give students a piece of audio and video content. Help them brainstorm which information they would include in the captions.
+* Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that it is more efficient to use specific software for creating captions, as the software can add the relevant timestamps. Sometimes content authors require help from specialized roles to produce accurate and quality captions.
+* Show examples of how different media players and browsers display captions. Explain that some players let users determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers, developers, and content authors.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -265,8 +266,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches to providing description of visual information.
-* Practical &mdash; Give students a video script and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
+* Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches for providing description of visual information.
+* Practical &mdash; Give students a video script and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information on the script of the video.
 * Practical &mdash; Give students a video description with a narrative description and ask them to check if all relevant information is included. Assess how students check narrative descriptions for quality and accuracy.
 
 {% include excol.html type="end" %}

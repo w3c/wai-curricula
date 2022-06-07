@@ -96,7 +96,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different purposes of headings and how to include them with accessible authoring tools.
+Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different purposes of headings and how to include them.
 
 When content authors change the visual appearance of headings, they must ensure headings remain accessible visually and non-visually.
 
@@ -118,7 +118,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
-* Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is good practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
+* Discuss the use of headings and their corresponding rank levels for entitling content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
 * Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
@@ -139,7 +139,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Paragraphs and lists group related content. This helps people with disabilities better read and understand content. Explain different types of lists and how to include them with accessible authoring tools.
+Paragraphs and lists group related content. This helps people with disabilities better read and understand content. Explain different types of lists and how to include them.
 
 When content authors change the visual appearance of paragraphs and lists, they must ensure paragraphs and lists remain accessible visually and non-visually.
 
@@ -153,7 +153,7 @@ Students should be able to:
   * unordered lists when the item numbering is not relevant
   * ordered lists when the item numbering is relevant
   * description lists for terms and their definitions
-* explain requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
+* identify requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
 
 #### Teaching Ideas for Topic
 
