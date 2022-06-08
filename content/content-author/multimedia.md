@@ -135,8 +135,8 @@ Optional ideas to teach the learning outcomes:
 * Discuss different types of accessibility requirements based on audio and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements of different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility.
 * Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures physical reactions. Explain the requirements for content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Give students examples of audio and video content. Help them brainstorm which alternatives they would include and which they would not include. Ask them to provide rationale for when not including a specific alternative to help users save time and avoid frustrations.
-* Give students an existing audio and video project. Ask them to identify potential accessibility barriers to address. Help them brainstorm which accessibility best practices they could include in the planning phase to minimize such barriers.
+* Present examples of inaccessible audio and video content. Disccuss with students which alternatives they would include and which they would not include. Explain that it is best practice to provide rationale for when not including a specific alternative to save time and avoid frustrations.
+* Show examples of existing audio and video projects. Explain how to identify potential accessibility barriers to address. Discuss which accessibility best practices to include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -217,7 +217,7 @@ Optional ideas to teach the learning outcomes:
 * Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that different regions have different names for captions, including subtitles.
 * Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
 * Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks.
-* Give students a piece of audio and video content. Help them brainstorm which information they would include in the captions.
+* Show a piece of audio and video content. Discuss with students which information they would include in the captions.
 * Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that it is more efficient to use specific software for creating captions, as the software can add the relevant timestamps. Sometimes content authors require help from specialized roles to produce accurate and quality captions.
 * Show examples of how different media players and browsers display captions. Explain that some players let users determine how and where captions appear. Emphasize that specifying the position and appearance of captions requires collaboration between different team members, including designers, developers, and content authors.
 
@@ -260,7 +260,7 @@ Optional ideas to teach the learning outcomes:
 * Define description of visual information as information (including text in the video) for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
 * Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
 * Define narrative descriptions as those included in the audio of the video. These can be provided in the main audio file of an alternative version of the video or in a separate audio file (if supported by the media player).
-* Give students a video without audio description. Help them brainstorm what parts of the video they would describe and what type of information they would include.
+* Show a video without audio description. Discuss with sstudents what parts of the video they would describe and what type of information they would include.
 
 #### Ideas to Assess Knowledge for Topic
 

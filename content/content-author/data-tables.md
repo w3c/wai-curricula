@@ -113,7 +113,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
 * Show examples of header cells. Explain that these cells contain clear and succinct information about the data the column or row contains.
-* Give students tables with headers that span multiple rows and columns. Help them brainstorm which of the cells should be the header cells and how many rows and columns the headers should span. Emphasize that content authors should provide this information through an accessible authoring tool or through annotations for designers and developers to implement these tables.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Emphasize that content authors should provide this information through an accessible authoring tool or through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -190,7 +190,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps users distinguish one table from the other when there are several tables on the page. 
 * Show examples of table summaries. Explain that summaries provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
 * Explain that complex tables often need descriptions for users to understand how the table is organized. Example of these tables include tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables containing information that is difficult to process.
-* Give students tables that need summaries and descriptions. Help them brainstorm which information they would include in the summary and which information they would include in the description.
+* Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
 * Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names" and may refer to descriptions as "descriptions" or "captions".
 
 #### Ideas to Assess Knowledge for Topic
