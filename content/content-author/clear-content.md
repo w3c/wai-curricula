@@ -41,12 +41,13 @@ Students should be able to:
   * appropriate words
   * short sentences
   * active voice
-* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
+  * indicators for the main language of the content as well as for changes in language
 * provide the extended form for abbreviations and acronyms
 * utilize icons and symbols to complement text content
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
+* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
 * identify related requirements for designers to:
   * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
@@ -122,6 +123,7 @@ Students should be able to:
   * abbreviations
   * acronyms
 * provide explanations for complex terms and jargon based on audience and context
+* collaborate with designers and developers to specify the main language of the content as well as changes in language
 
 #### Teaching Ideas for Topic
 
@@ -132,6 +134,7 @@ Optional ideas to teach the learning outcomes:
 * Provide text passages with clear language that is easy to read and understand. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
+* Demonstrate use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language as well as for changes in language to pronounce the text in the correct language.
 
 #### Ideas to Assess Knowledge for Topic
 
