@@ -205,7 +205,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Show examples of complex images. Discuss with students different approaches for providing an alternative for such images. These alternatives may include data tables, regular text descriptions, and other complex image types.
-* Demonstrate use of assistive technologies and adaptive strategies for navigating alternatives to complex images.
+* Demonstrate the use of assistive technologies and adaptive strategies for navigating alternatives to complex images.
 * Discuss examples of short descriptions for complex images. Explain that these descriptions should contain clear and concise information about what the image is about as well as information about how to get to the long descriptions for the images when available.
 * Reflect with students on how different groups of people with disabilities access information contained in maps, charts, diagrams, and infographics. Explain that it is best practice to provide several data visualizations when presenting complex and large data sets, including through data tables, regular text descriptions, and other complex image types.
 

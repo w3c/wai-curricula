@@ -111,7 +111,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
+* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
 * Show examples of header cells. Explain that these cells contain clear and succinct information about the data the column or row contains.
 * Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Emphasize that content authors should provide this information through an accessible authoring tool or through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
@@ -148,7 +148,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data cells. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
+* Demonstrate the use of assistive technologies to navigate data cells. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
 * Explain that data cells contain information about a specific type of data. Emphasize that it is best practice to keep tables as simple as possible, providing one specific type of data in one column or row. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
 * Introduce accessible authoring tools that produce appropriate markup for data cells. Explain how to designate a cell as data cell and how to define the cell scope using the tool's user interface.
 

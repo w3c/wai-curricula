@@ -203,7 +203,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
+* Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
 * Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
@@ -214,8 +214,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including tables of contents and "Back to top" links.
-* Practical &mdash; Ask students to provide the table of contents for an article of a given website. Assess how students provide the table of contents for an article.
-* Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include methods for users to move back and forth through the footnote markers and the footnote content.
+* Practical &mdash; Ask students to provide the table of contents for a resource of a given website. Assess how students provide the table of contents for an article.
+* Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include accessible footnotes.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.
 
 {% include excol.html type="end" %}

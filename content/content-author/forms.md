@@ -169,7 +169,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of form fields and controls with and without meaningful instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to understand the forms purpose.
+* Demonstrate assistive technology interaction with form fields and controls with meaningful instructions. Then demonstrate interaction with form fields and controls that do not have such instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to understand the forms purpose.
 * Show examples of forms that require instructions to understand their purpose. Discuss with students which instructions they would provide to help users understand the form. These include explanations about what type of data the form collects and about general timing constrains that the form may have.
 * Show examples of form fields that collect data in a specific format, for example fields collecting date and phone numbers. Authors should include examples of how to provide the input, unless these examples compromise the security and purpose of the form.
 * Demonstrate approaches to provide instructions for multi-step processes. For example, including this information in the page title or before the form.

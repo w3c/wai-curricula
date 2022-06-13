@@ -41,7 +41,7 @@ Students should be able to:
   * appropriate words
   * short sentences
   * active voice
-  * indicators for the main language of the content as well as for changes in language
+  * indicators for the main language of the content as well as for changes of language in multilingual content
 * provide the extended form for abbreviations and acronyms
 * utilize icons and symbols to complement text content
 * write clear and meaningful:
@@ -123,18 +123,18 @@ Students should be able to:
   * abbreviations
   * acronyms
 * provide explanations for complex terms and jargon based on audience and context
-* collaborate with designers and developers to specify the main language of the content as well as changes in language
+* collaborate with designers and developers to specify the main language of the content as well as changes in language for multilingual content
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students about words that are difficult to understand based on audience and context, including jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed. For example, including a glossary of terms in the document.
+* Reflect with students about words that are difficult to understand based on audience and context. For example, jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed. For example, including a glossary of terms in the document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms and substitute them with their corresponding alternative.
-* Provide text passages with clear language that is easy to read and understand. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Demonstrate use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language as well as for changes in language to pronounce the text in the correct language.
+* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language as well as for changes in language for multilingual content.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -154,13 +154,13 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links go to. Emphasize that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
+Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links go to. Explain that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* write unique, descriptive, and meaningful:
+* write descriptive and meaningful:
   * page titles
   * link text
 * provide relevant and unique information first in page titles
@@ -178,7 +178,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
-* Introduce accessible authoring tools that produce appropriate markup for page titles. Explain that some mobile user agents and assistive technologies may not display page titles. This is why some tools provide the information contained in the title also in the first heading of level one on the page. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some assistive technologies and mobile user agents may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first heading of level one. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
 * Explain that it is best practice for links to have clear and meaningful text that identifies the link purpose. Otherwise, some users with disabilities often have to guess the link purpose based on text that is adjacent to the link. Additional information for links may include the document type and format, as well as where the link will open. 
 * Reflect with students on the use of images as links, for example in logos. When using images as links, the image should contain an alternative text that describes the functionality of the link. For details on alternatives for images, see [Content Author Module 4: Images, Topic Functional Images](/curricula/content-author-modules/images/#topic-functional-images).
 * Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
@@ -187,10 +187,10 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about best practices for structuring the information in page titles. Assess how students relate best practices for structuring information in page titles.
+* Short Answer Questions &mdash; Ask students about best practices for including information in page titles. Assess how students describe best practices for including information in page titles.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Short Answer Questions &mdash; Ask students which types of information page titles and  link text should contain. Assess how students relate the information that page titles and link text should contain, including link destination, target document type and format, and where the link will open.
-* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text
+* Short Answer Questions &mdash; Ask students what type of information link text should contain. Assess how students describe what type of information link text should contain, including link destination, target document type and format, as well as where the link will open.
+* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text.
 
 {% include excol.html type="end" %}
 
@@ -200,7 +200,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
 When content authors can specify the visual appearance, they must ensure that is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
@@ -220,7 +220,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students on how visual aspects impact readability of the content. These include contrast ratios, font types and sizes, spacing, and line height.
-* Demonstrate use of font types, such as Sans Serif, that provide a good reading experience. Compare easy to read font sizes with those that are more difficult to read and understand.
+* Demonstrate the use of font types, such as Sans Serif, that provide a good reading experience. Compare easy to read font sizes with those that are more difficult to read and understand.
 
 #### Ideas to Assess Knowledge for Topic
 
