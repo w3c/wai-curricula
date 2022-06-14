@@ -137,8 +137,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand the type of information  that labels should contain.
-* Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear, and descriptive labels for controls.
+* Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand the type of information that labels should contain.
+* Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear, and descriptive labels for form fields and controls.
 * Practical &mdash; Have students collaborate with designers and developers to select icons and symbols that complement text labels. Assess how students complement text labels with icons and symbols.
 * Practical &mdash; Have students include labels for form fields and controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for form fields and controls.
 
@@ -152,27 +152,27 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and orientation about the current step and the total number of steps in a form.
 
-Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions text, designers specify the instructions appearance. Developers implement the instructions.
+Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions, designers specify their appearance. Developers implement the instructions.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear instructions to understand the content and to provide input reliably when required
+* explain how people with disabilities rely on clear instructions to understand the purpose of form fields and controls as well as to provide the appropriate input
 * provide clear instructions about the overall purpose of the form before the form
 * write additional instructions that provide examples of expected input when possible
 * provide orientation about the current step and about the total number of steps in a multi-step process
-* identify requirements for authoring tools to programmatically associate instructions to their corresponding form field or control
+* identify requirements for authoring tools to programmatically associate instructions to their corresponding form field and control
 * identify related requirements for designers and developers to support visual and non-visual perception of instructions
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate assistive technology interaction with form fields and controls with meaningful instructions. Then demonstrate interaction with form fields and controls that do not have such instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to understand the forms purpose.
-* Show examples of forms that require instructions to understand their purpose. Discuss with students which instructions they would provide to help users understand the form. These include explanations about what type of data the form collects and about general timing constrains that the form may have.
-* Show examples of form fields that collect data in a specific format, for example fields collecting date and phone numbers. Authors should include examples of how to provide the input, unless these examples compromise the security and purpose of the form.
-* Demonstrate approaches to provide instructions for multi-step processes. For example, including this information in the page title or before the form.
+* Demonstrate assistive technology interaction with form fields and controls that have meaningful instructions. Then demonstrate interaction with form fields and controls that do not have such instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to understand the forms purpose.
+* Show examples of forms that require instructions to understand their purpose. Discuss with students which instructions they would provide to help users understand the form. For example, what type of data the form collects and general timing instructions for the form.
+* Show examples of form fields that collect data in a specific format, for example fields collecting dates as well as phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security and purpose of the form.
+* Demonstrate approaches to provide instructions for multi-step processes. For example, including  information about the current step and about the total number of steps in the page title or before the form.
 * Introduce accessible authoring tools that programmatically associate instructions to the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions to the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
@@ -181,7 +181,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type for information instructions should contain. Assess how students understand the type of information that instructions should contain.
 * Practical &mdash; Give students a multi-step process and ask them to provide the instructions for each of the steps. Assess how students provide the relevant instructions for each of the steps in a multi-step process.
-* Practical &mdash; Give students a form field with specific input requirements. Ask them to provide instructions about how to complete the field. Assess how students provide instructions to help users complete form fields.
+* Practical &mdash; Give students a form field with specific input requirements. Ask them to provide instructions that communicate such requirements. Assess how students provide instructions that communicate specific input requirements.
 
 {% include excol.html type="end" %}
 
@@ -206,7 +206,7 @@ Students should be able to:
 * include suggestions for fixing the errors when possible by providing:
   * examples of expected input
   * additional guidance for users to understand the required input
-* identify related requirements for
+* identify related requirements for:
   * designers to define visual and non-visual appearance of error messages
   * developers to programmatically associate error messages with their corresponding form field or control
 
@@ -214,9 +214,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate assistive technology interaction with form fields that contain accessible error messages and with those that do not. Reflect with students on how accessible error messages are essential for people with disabilities and help all interact with form fields and correct errors.
-* Demonstrate approaches to communicate error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these do not compromise the security of the form.
-* Show examples of forms that contain errors. Discuss accessible ways to communicate these errors.
+* Demonstrate assistive technology interaction with form fields that include accessible error messages. Then demonstrate assistive technology interaction with those that do not include such messages. Reflect with students on how accessible error messages are essential for people with disabilities and help all users interact with form fields and correct errors.
+* Demonstrate approaches to communicate error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security of the form.
+* Show examples of forms with errors. Discuss accessible ways to communicate these errors.
 
 ### Ideas to Assess Knowledge for Topic
 
