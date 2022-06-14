@@ -36,7 +36,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand information
+* explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
   * informative (require descriptions that convey their information)
   * functional (require descriptions that convey functionality)
@@ -44,7 +44,7 @@ Students should be able to:
   * complex (require short and long descriptions and sometimes alternative data visualizations)
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
 * provide textual information using regular text instead of an image file
-* identify requirements for authoring tools to include and manage alternative for images (including text alternatives and different modalities of CAPTCHA)
+* identify requirements for authoring tools to include and manage alternatives for images (including text alternatives and different modalities of CAPTCHA)
 * identify related requirements for designers and developers to support visual and non-visual perception of images
 
 {% include excol.html type="all" %}
