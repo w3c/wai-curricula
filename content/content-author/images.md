@@ -3,7 +3,7 @@ title: "[Draft] Module 4: Images"
 nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
-lang: en
+wlang: en
 github:
   repository: w3c/wai-curricula
   path: content/content-author-modules/images.md
@@ -101,7 +101,7 @@ Topics to achieve the learning outcomes:
 
 Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text.
 
-Discuss different approaches to provide alternative text for informative images.
+Discuss different approaches for providing alternative text for informative images.
 
 #### Learning Outcomes for Topic
 
@@ -144,7 +144,7 @@ Optional ideas to assess knowledge:
 
 Functional images convey functionality. For example, magnifying glasses for search functionality, and envelopes for print functionality.
 
-Discuss different approaches to provide text alternatives for functional images, including for graphical buttons and links.
+Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
@@ -180,7 +180,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images require short descriptions that identify the image and long descriptions that provide equivalent information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches to provide short and long descriptions for complex images.
+Complex images require short descriptions that identify the image and long descriptions that provide equivalent information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches for providing short and long descriptions for complex images.
 
 Explain that complex images can serve as alternative data visualizations for complex data, including descriptive text, tables, diagrams, charts, and infographics.
 
@@ -224,7 +224,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Research &mdash; Ask students to research different approaches to provide text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand the different ways to provide text alternatives for images based on the image context and functionality.
+* Research &mdash; Ask students to research different approaches for providing text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand the different ways to provide text alternatives for images based on the image context and functionality.
 * Portfolio &mdash; Have students include text alternatives for several types of images on the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 ## Teaching Resources

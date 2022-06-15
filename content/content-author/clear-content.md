@@ -107,7 +107,7 @@ Topics to achieve the learning outcomes:
 
 easy to understand language is essential for some groups of people with disabilities to understand the content. Explain characteristics of easy to understand language, including clear words, short sentences, and active voice.
 
-Discuss approaches to explain the meaning of abbreviations and acronyms.
+Discuss approaches for explaining the meaning of abbreviations and acronyms.
 
 #### Learning Outcomes for Topic
 
