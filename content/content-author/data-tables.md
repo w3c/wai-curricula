@@ -120,7 +120,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information header cells should contain. Assess how students understand the type of information table headers cells should contain.
+* Short Answer Questions &mdash; Ask students what type of information header cells should convey. Assess how students understand the type of information table headers cells should convey.
 * Practical &mdash; Give students a table without designated headers. Ask them to tell which cells should be the header cells and how many rows and/or columns the headers should span. Assess how students recognize the header cells as well as their scope.
 * Practical &mdash; Have students designate the header cells and their scope using an accessible authoring tool of their choice. Assess how students use accessible authoring tools to designate the header cells and their scope.
 
@@ -141,7 +141,7 @@ Students should be able to:
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information about a specific type of data
 * provide clear and succinct information in each data cell
-* ensure people can understand content in data cells when navigating one cell at a time
+* ensure people can navigate tables in a meaningful sequence when using different screen sizes, cconfigurations, and asisstive technologies
 * identify related requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
 * identify related requirements for designers and developers to support association of data cells with their correspondding table header cells
 
@@ -149,7 +149,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of assistive technologies to navigate data cells. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
+* Demonstrate the use of assistive technologies to navigate data cells. This includes navigating by column and row. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
 * Explain that data cells contain information about a specific type of data. Emphasize that it is best practice to keep tables as simple as possible, providing one specific type of data in one column or row. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
 * Introduce accessible authoring tools that produce appropriate markup for data cells. Explain how to designate a cell as data cell and how to define the cell scope using the tool's user interface.
 
@@ -190,15 +190,15 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps users distinguish one table from the other when there are several tables on the page. 
 * Show examples of table summaries. Explain that summaries provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
-* Explain that complex tables often need descriptions for users to understand how the table is organized. Example of these tables include tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables containing information that is difficult to process.
+* Explain that complex tables often need descriptions for users to understand how the table is organized. For example, tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables with information that is difficult to process.
 * Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
-* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names" and may refer to descriptions as "descriptions" or "captions".
+* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions".
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information the table summary and description should contain. Assess how students explain what type of information the table summary and description should contain.
+* Short Answer Questions &mdash; Ask students what type of information the table summary and description should convey. Assess how students explain what type of information the table summary and description should convey.
 * Practical &mdash; Have students include the table summary and description using an accessible authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include the table summary and description.
 
 {% include excol.html type="end" %}
