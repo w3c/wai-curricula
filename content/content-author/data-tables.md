@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Data Tables"
+title: "[Draft] Module 5: Data Tables | Content Authors | Curricula"
 nav_title: "Data Tables"
 permalink: /curricula/content-author-modules/data-tables/
 ref: /curricula/content-author-modules/data-tables/
@@ -41,7 +41,7 @@ Students should be able to:
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
 * collaborate with designers and developers to present multi-column content using CSS styles instead of layout tables
-* ensure presentation of data table content in a meaningful sequence for different user configuration and assistive technologies
+* ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
 * identify related requirements for:
   * designers to ensure appropriate contrast ratio for data tables
   * authoring tools to produce appropriate markup for data tables
@@ -95,25 +95,25 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Table header cells and their scope identify the information provided in a row or column. Explain how specifying the table header cells and their scope is essential for some groups of people with disabilities to understand the table contents.
+Table header cells and their scope identify the type of information provided in a row or column. Explain how specifying the table header cells and their scope is essential for some groups of people with disabilities to understand, navigate, and process the table content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand the type of information presented in a row or column
-* define table headers as those cells which provide information about the type of data in a row or column
+* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand, navigate, and process data tables
+* define table headers cells as those which identify the type of information in a row or column
 * provide short, descriptive column and row headers for tables
 * specify the scope for headers that span multiple rows or columns
-* identify related requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
+* identify requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
-* Show examples of header cells. Explain that these cells contain clear and succinct information about the data the column or row contains.
-* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Emphasize that content authors should provide this information through an accessible authoring tool or through annotations for designers and developers to implement these tables.
+* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data the column or row contains.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -143,6 +143,7 @@ Students should be able to:
 * provide clear and succinct information in each data cell
 * ensure people can understand content in data cells when navigating one cell at a time
 * identify related requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
+* identify related requirements for designers and developers to support association of data cells with their correspondding table header cells
 
 #### Teaching Ideas for Topic
 
