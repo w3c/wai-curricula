@@ -1,5 +1,6 @@
 ---
-title: "[Draft] Module 5: Data Tables"
+title: "[Draft] 5: Data Tables in Content Author Modules | Curricula"
+title_html: "Module 5: Data Tables"
 nav_title: "Data Tables"
 permalink: /curricula/content-author-modules/data-tables/
 ref: /curricula/content-author-modules/data-tables/
@@ -41,9 +42,10 @@ Students should be able to:
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
 * collaborate with designers and developers to present multi-column content using CSS styles instead of layout tables
-* ensure presentation of data table content in a meaningful sequence for different user configuration and assistive technologies
-* explain requirements for authoring tools to produce appropriate markup for data tables
-* identify related requirements for designers to ensure appropriate contrast ratio for data tables
+* ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
+* identify related requirements for:
+  * designers to ensure appropriate contrast ratio for data tables
+  * authoring tools to produce appropriate markup for data tables
 
 {% include excol.html type="all" %}
 
@@ -60,6 +62,9 @@ Skills required for this module:
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
+  * Writing
+  * Copy-editing
+  * Proofreading
   * Content creation
 
 {% include excol.html type="end" %}
@@ -77,7 +82,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Accessible content creation
+  * Accessible authoring tools
 
 {% include excol.html type="end" %}
 
@@ -91,30 +96,32 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table header cells and their scope identify the type of information provided in a row or column. Explain how specifying the table header cells and their scope is essential for some groups of people with disabilities to understand, navigate, and process the table content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand the type of information presented in a row or column
-* define table headers as those cells which provide information about the type of data in a row or column
+* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand, navigate, and process data tables
+* define table headers cells as those which identify the type of information in a row or column
 * provide short, descriptive column and row headers for tables
-* explain requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
+* specify the scope for headers that span multiple rows or columns
+* identify requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
-* Show examples of header cells. Explain that these cells contain clear and succinct information about the data the column or row contains.
+* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
+* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data the column or row contains.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information header cells should contain. Assess how students understand the type of information table headers cells should contain.
+* Short Answer Questions &mdash; Ask students what type of information header cells should convey. Assess how students understand the type of information table headers cells should convey.
 * Practical &mdash; Give students a table without designated headers. Ask them to tell which cells should be the header cells and how many rows and/or columns the headers should span. Assess how students recognize the header cells as well as their scope.
 * Practical &mdash; Have students designate the header cells and their scope using an accessible authoring tool of their choice. Assess how students use accessible authoring tools to designate the header cells and their scope.
 
@@ -126,24 +133,25 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table data cells contain information about a specific type of data in a row or column. Explain how clear and meaningful sequences in tables help people with disabilities better understand the table contents.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how assistive technologies associate data cells with their corresponding header cells
-* describe data cells as those which contain information of a specific type of data
+* describe data cells as those which contain information about a specific type of data
 * provide clear and succinct information in each data cell
-* ensure content in data cells can be navigated sequentially and is clearly understood when navigated one cell at a time
-* explain requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
+* ensure people can navigate tables in a meaningful sequence when using different screen sizes, configurations, and assistive technologies
+* identify related requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
+* identify related requirements for designers and developers to support association of data cells with their corresponding table header cells
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies to navigate data cells. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
-* Explain that data cells contain information of a specific type of data. Emphasize that it is good practice to keep tables as simple as possible, providing one specific type of data in one column or row. Explain that merged cells are problematic for some people that have difficulty to understand the cell's scope.
+* Demonstrate the use of assistive technologies to navigate data cells. This includes navigating by column and row. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
+* Explain that data cells contain information about a specific type of data. Emphasize that it is best practice to keep tables as simple as possible, providing one specific type of data in one column or row. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
 * Introduce accessible authoring tools that produce appropriate markup for data cells. Explain how to designate a cell as data cell and how to define the cell scope using the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -162,7 +170,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-[Intro paragraph TBD].
+Table summaries identify the table purpose. Table descriptions explain what the table is about and how it is organized. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
 
 #### Learning Outcomes for Topic
 
@@ -171,9 +179,9 @@ Students should be able to:
 * explain how people with disabilities rely on meaningful table summaries and descriptions to understand the table purpose and to distinguish tables from one another
 * provide summaries that explain what the table is about
 * write descriptions that:
-  * describe how the table is organized
+  * explain how the table is organized
   * provide information about the type of data in each column and row
-* explain requirements for authoring tools to:
+* identify related requirements for authoring tools to:
   * support the inclusion of summaries and descriptions
   * produce appropriate markup for summaries and descriptions
 
@@ -181,16 +189,17 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps the user distinguish one table from the other, as well as it provides information on what the table is about.
-* Show examples of table summaries. Explain that they provide information on what the table is about. Emphasize that it is good practice to display these summaries on screen, as they are essential for some users and benefit all.
-* Explain situations where some groups of users need additional information to understand the table purpose and how it is organized. This includes complex tables, tables that are difficult to navigate,  and tables containing information that is difficult to process, among others. Explain that table descriptions use to hold this additional information.
-* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names" and may refer to descriptions as "descriptions" or "captions".
+* Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps users distinguish one table from the other when there are several tables on the page. 
+* Show examples of table summaries. Explain that summaries provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
+* Explain that complex tables often need descriptions for users to understand how the table is organized. For example, tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables with information that is difficult to process.
+* Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
+* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions".
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information the table summary and description should contain. Assess how students explain what type of information the table summary and description should contain.
+* Short Answer Questions &mdash; Ask students what type of information the table summary and description should convey. Assess how students explain what type of information the table summary and description should convey.
 * Practical &mdash; Have students include the table summary and description using an accessible authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include the table summary and description.
 
 {% include excol.html type="end" %}

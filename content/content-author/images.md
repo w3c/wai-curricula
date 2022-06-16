@@ -1,5 +1,6 @@
 ---
-title: "[Draft] Module 4: Images"
+title: "[Draft] 4: Images in Content Author Modules | Curricula"
+title_html: "Module 4: Images"
 nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
@@ -36,7 +37,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand information
+* explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
   * informative (require descriptions that convey their information)
   * functional (require descriptions that convey functionality)
@@ -44,7 +45,7 @@ Students should be able to:
   * complex (require short and long descriptions and sometimes alternative data visualizations)
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
 * provide textual information using regular text instead of an image file
-* explain requirements for authoring tools to include and manage alternative for images (including text alternatives and different modalities of CAPTCHA)
+* identify requirements for authoring tools to include and manage alternatives for images (including text alternatives and different modalities of CAPTCHA)
 * identify related requirements for designers and developers to support visual and non-visual perception of images
 
 {% include excol.html type="all" %}
@@ -61,6 +62,9 @@ Skills required for this module:
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
 * Basic knowledge of:
+  * Writing
+  * Copy-editing
+  * Proofreading
   * Content creation
 
 {% include excol.html type="end" %}
@@ -82,7 +86,7 @@ Skills required for this module:
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
-  * Accessible content creation
+  * Accessible authoring tools
 
 {% include excol.html type="end" %}
 
@@ -96,21 +100,23 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text.
+Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text. Discuss different approaches for providing alternative text for informative images.
 
-Discuss different approaches to providing alternative text for informative images.
+Decorative images do not convey information. They require an empty alternative text.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for informative images to understand the image content
-* provide quality text alternatives that convey the information in the images using:
+* provide quality text alternatives that convey the information in the images using one of the following:
   * clear and descriptive text alternatives associated to the images
   * adjacent text that conveys the same information as the image
 * write textual information as regular text instead of including text content in an image file
-* collaborate with designers and developers to ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
-* explain requirements for authoring tools to:
+* collaborate with designers and developers to:
+  * ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
+  * mark an image as decorative when it does not convey information
+* identify requirements for authoring tools to:
   * support the inclusion of alternative text for informative images
   * enable authors to amend automatically generated text alternatives for quality and accuracy
   * produce appropriate markup for informative images
@@ -120,7 +126,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of informative images, including icons, pictures, and illustrations. Relate the information conveyed in these images to the information provided in their adjacent text. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text.
+* Show examples of informative images, including icons, pictures, and illustrations. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text. Discuss what text alternatives to include for these images  based on the image content and on the information provided in the image adjacent text.
+* Discuss examples of images that can be both informative and decorative based on context. Explain that decorative images require empty alternative text. Some authoring tools let specify when an image is decorative. Otherwise, content authors must provide annotations for designers and developers to implement images as decorative.
 * Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image but may still miss the semantics in the text.
 * Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
 
@@ -130,6 +137,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that alternative text for informative images should convey. Assess how students explain the type of information that alternative text for informative images should convey.
 * Practical &mdash; Give students several informative images with adjacent text. Ask them to determine if the adjacent text provides enough information to understand the image and to include alternative text when needed. Assess how students provide alternative text for informative images based on the information conveyed in the image and on its adjacent text.
+* Practical &mdash; Give students several pages containing the same image. Ask them to determine when the image is informative and when it is decorative. Assess how students distinguish informative from decorative images based on context.
 
 {% include excol.html type="end" %}
 
@@ -139,9 +147,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for searching, and envelopes for sharing.
-
-Discuss different approaches to providing text alternatives for functional images.
+Functional images convey functionality. For example, magnifying glasses for search functionality, and envelopes for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
@@ -149,17 +155,18 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for functional images to understand the image function
 * write short, succinct, and quality text alternatives to provide information about the image function
-* explain requirements for authoring tools to:
+* identify requirements for authoring tools to:
   * support the inclusion of text alternatives for images
   * enable authors to amend automatically generated text alternatives when needed
-  * produce appropriate markup for functional images
+  * produce appropriate markup for functional images, including for graphical buttons and links
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss examples of functional images, for example graphical buttons and links. Explain that text alternatives for these images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
-* Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as image descriptions.
+* Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Show examples of functional images, including graphical buttons and links. Discuss with students what text alternative to include for these images.
+* Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -176,9 +183,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images require short descriptions that identify the image as well as long descriptions that provide the same information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches to providing short and long descriptions for complex images.
+Complex images require short descriptions that identify the image and long descriptions that provide equivalent information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches for providing short and long descriptions for complex images.
 
-Explain that complex images can serve as alternative data visualizations for complex data, including descriptive text, tables, diagrams, charts, and infographics.
+Explain that complex images can serve as alternative data visualizations for complex data sets, including descriptive text, tables, diagrams, charts, and infographics.
 
 #### Learning Outcomes for Topic
 
@@ -200,7 +207,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate use of assistive technologies and adaptive strategies for navigating alternatives to complex images.
+* Show examples of complex images. Discuss with students different approaches for providing an alternative for such images. These alternatives may include data tables, regular text descriptions, and other complex image types.
+* Demonstrate the use of assistive technologies and adaptive strategies for navigating alternatives to complex images.
 * Discuss examples of short descriptions for complex images. Explain that these descriptions should contain clear and concise information about what the image is about as well as information about how to get to the long descriptions for the images when available.
 * Reflect with students on how different groups of people with disabilities access information contained in maps, charts, diagrams, and infographics. Explain that it is best practice to provide several data visualizations when presenting complex and large data sets, including through data tables, regular text descriptions, and other complex image types.
 
@@ -209,7 +217,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that short and long descriptions for complex images should convey. Assess how students explain the type of information that short and long descriptions for complex images should convey.
-* Practical &mdash; Give students a complex image and ask them to provide an alternative data visualization for the image, for example through a data table or through descriptive piece of text. Assess how students provide alternative data visualizations for complex images.
+* Practical &mdash; Give students a complex image and ask them to provide an alternative data visualization for the image, for example through a data table or through a descriptive piece of text. Assess how students provide alternative data visualizations for complex images.
 
 {% include excol.html type="end" %}
 
@@ -219,7 +227,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Research &mdash; Ask students to research different approaches to providing text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand the different ways to provide text alternatives for images based on the image context and functionality.
+* Research &mdash; Ask students to research different approaches for providing text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand the different ways to provide text alternatives for images based on the image context and functionality.
 * Portfolio &mdash; Have students include text alternatives for several types of images on the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 ## Teaching Resources

@@ -1,5 +1,6 @@
 ---
-title: "Content Author Modules"
+title: "[Draft] Overview in Content Author Modules | Curricula"
+title_html: "Content Author Modules"
 nav_title: "Content Author Modules"
 permalink: /curricula/content-author-modules/
 ref: /curricula/content-author-modules/
@@ -27,14 +28,13 @@ navigation:
 
 The content author modules guide the creation of courses that:
 
-* demonstrate and explain how
-  * clear content benefits accessibility
-  * accessible content enables people with disabilities to use websites and applications
+* explain that accessibility relies upon clear content
+* demonstrate how accessible content enables people with disabilities to effectively use websites and applications
 * teach accessible authoring techniques for:
   * text
-  * forms
   * images
   * tables
+  * forms
   * multimedia (including audio and video)
 
 These modules focus on accessible content creation. They are primarily designed for teaching:
@@ -65,8 +65,8 @@ The content author modules are designed for students who have achieved the learn
 
 -   [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
     -   [Topic: Easy to Understand Language](/curricula/content-author-modules/clear-content/#topic-easy-to-understand-language)
-    -   [Topic: Terminology](/curricula/content-author-modules/clear-content/#topic-terminology)
     -   [Topic: Titles and Link Text](/curricula/content-author-modules/clear-content/#topic-titles-and-link-text)
+    -   [Topic: Visual Appearance](/curricula/clear-content/#visual-appearance)
 -   [Module 2: Structure](/curricula/content-author-modules/structure/)
     -   [Topic: Headings](/curricula/content-author-modules/structure/#topic-headings)
     -   [Topic: Paragraphs and Lists](/curricula/content-author-modules/structure/#topic-paragraphs-and-lists)
