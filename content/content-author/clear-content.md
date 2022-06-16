@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 1: Clear Content"
+title: "[Draft] 1: Clear Content in Content Author Modules | Curricula"
 nav_title: "Clear Content"
 permalink: /curricula/content-author-modules/clear-content/
 ref: /curricula/content-author-modules/clear-content/
@@ -142,7 +142,7 @@ Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of text with language that is difficult to understand. Ask them to rewrite the text so that it is clearer and easier to understand. Assess how students convert difficult to understand passages of text into easier to understand pieces.
 * Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
-* Short Answer Questions &mdash; Ask students what are the accessibility requirements for abbreviations and acronyms. Assess how students recall accessibility requirements for abbreviations and acronyms.
+* Short Answer Questions &mdash; Ask students what the accessibility requirements for abbreviations and acronyms are. Assess how students recall accessibility requirements for abbreviations and acronyms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 * Research &mdash; Ask students to research commonly used complex terms based on audience and context and ask them to provide alternatives for such terms. Assess how students understand commonly used complex terms and how they provide alternatives to such terms.
 
@@ -220,7 +220,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students on how visual aspects impact readability of the content. These include contrast ratios, font types and sizes, spacing, and line height.
-* Demonstrate the use of font types, such as Sans Serif, that provide a good reading experience. Compare easy to read font sizes with those that are more difficult to read and understand.
+* Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -228,6 +228,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
 * Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance favors readability. Assess how students ensure sufficient contrast ratios, easy to read font sizes, and enough spacing to favor content readability.
+* Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}
 

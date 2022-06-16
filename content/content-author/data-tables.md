@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 5: Data Tables"
+title: "[Draft] 5: Data Tables in Content Author Modules | Curricula"
 nav_title: "Data Tables"
 permalink: /curricula/content-author-modules/data-tables/
 ref: /curricula/content-author-modules/data-tables/
@@ -141,9 +141,9 @@ Students should be able to:
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain information about a specific type of data
 * provide clear and succinct information in each data cell
-* ensure people can navigate tables in a meaningful sequence when using different screen sizes, cconfigurations, and asisstive technologies
+* ensure people can navigate tables in a meaningful sequence when using different screen sizes, configurations, and assistive technologies
 * identify related requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
-* identify related requirements for designers and developers to support association of data cells with their correspondding table header cells
+* identify related requirements for designers and developers to support association of data cells with their corresponding table header cells
 
 #### Teaching Ideas for Topic
 

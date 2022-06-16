@@ -1,5 +1,5 @@
 ---
-title: "Content Author Modules"
+title: "[Draft] Overview in Content Author Modules | Curricula"
 nav_title: "Content Author Modules"
 permalink: /curricula/content-author-modules/
 ref: /curricula/content-author-modules/

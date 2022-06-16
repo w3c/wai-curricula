@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Module 6: Multimedia"
+title: "[Draft] 6: Multimedia in Content Author Modules | Curricula"
 nav_title: "Multimedia"
 permalink: /curricula/content-author-modules/multimedia/
 ref: /curricula/content-author-modules/multimedia/
@@ -133,10 +133,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements of different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
+* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility.
-* Warn students that any flashing and blinking content can create seizures and physical reactions for people. Authors must ensure that there is no flashing content that can create seizures physical reactions. Explain the requirements for content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include and which they would not include. Explain that it is best practice to provide rationale for when not including a specific alternative to save time and avoid frustrations.
+* Warn students that any flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. Explain the requirements for content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
+* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to provide rationale for when not including a specific alternative. This helps users save time and avoid frustrations.
 * Show examples of existing audio and video projects. Explain how to identify potential accessibility barriers to address. Discuss which accessibility best practices to include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
@@ -178,7 +178,7 @@ Optional ideas to teach the learning outcomes:
 * Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant information needed to understand the content.
 * Define descriptive transcripts as those that include text descriptions of the visual information that is needed to understand the content. Explain that these descriptions are often based on existing captions and description of visual information.
 * Give students a piece of audio and video content and ask them to reflect on what type of information they would include in basic and descriptive transcripts.
-* Discuss approaches for making transcripts easy to find on the page. This may include adding the transcript in an expandable section or adding a link to a separate page that contains the transcript. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
+* Discuss approaches for making transcripts easy to find on the page. This may include adding the transcript in an expandable section and adding a link to a separate page that contains the transcript. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -228,7 +228,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type of information captions should contain. Assess how students explain the type of information that captions should contain.
 * Practical &mdash; Give students a piece of audio and video content with automatically-generated captions. Ask them to check these captions for accuracy and quality and to amend them when appropriate. Assess how students check automatically-generated captions for accuracy and quality.
-* Practical &mdash; Ask students to collaborate with other team members to specify position and appearance of captions. Assess how students collaborate with other team members to specify position and appearance for captions.
+* Practical &mdash; Ask students to collaborate with other team members to specify position and appearance for captions. Assess how students collaborate with other team members to specify position and appearance for captions.
 
 {% include excol.html type="end" %}
 
@@ -238,15 +238,15 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Description explains visual information needed to understand the content for people who don't see the video.
+Description explains visual information needed to understand the content for people who cannot see the video.
 
-Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details. see [Description of visual information](/media/av/description/).
+Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](/media/av/description/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define description of visual information as information (including text in the video) for people who don't see the video to understand the content
+* define description of visual information as information (including text in the video) for people who cannot see the video to understand the content
 * identify different approaches for providing descriptions of visual information, including:
   * integrated (speakers describe the relevant information)
   * narrative
@@ -261,7 +261,7 @@ Optional ideas to teach the learning outcomes:
 * Define description of visual information as information (including text in the video) for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
 * Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
 * Define narrative descriptions as those included in the audio of the video. These can be provided in the main audio file of an alternative version of the video or in a separate audio file (if supported by the media player).
-* Show a video without audio description. Discuss with students what parts of the video they would describe and what type of information they would include.
+* Show a video without audio description. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -279,7 +279,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the different  information that alternatives to multimedia content should contain, and what user needs each of the alternatives meet. Assess how students understand the different information for alternatives to multimedia content and what user needs they meet.
+* Short Answer Questions &mdash; Ask students what type of information each alternative to multimedia content should convey, as well as what user needs each alternative meets. Assess how students understand the type of information that each alternative to multimedia content should convey and what user needs each alternative meets.
 * Portfolio &mdash; Have students supervise the inclusion of alternatives to audio and video content on the website they are creating. Assess how students supervise the inclusion of alternatives to multimedia content based on content type, format, and user needs.
 
 ## Teaching Resources
