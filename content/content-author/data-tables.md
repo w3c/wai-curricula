@@ -1,5 +1,6 @@
 ---
 title: "[Draft] 5: Data Tables in Content Author Modules | Curricula"
+title_html: "Module 5: Data Tables"
 nav_title: "Data Tables"
 permalink: /curricula/content-author-modules/data-tables/
 ref: /curricula/content-author-modules/data-tables/

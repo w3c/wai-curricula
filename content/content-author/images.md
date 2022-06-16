@@ -1,5 +1,6 @@
 ---
 title: "[Draft] 4: Images in Content Author Modules | Curricula"
+title_html: "Module 4: Images"
 nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
