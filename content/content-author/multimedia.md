@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 6: Multimedia in Content Author Modules | Curricula"
-title_html: Module 6: Multimedia
+title_html: "Module 6: Multimedia"
 nav_title: "Multimedia"
 permalink: /curricula/content-author-modules/multimedia/
 ref: /curricula/content-author-modules/multimedia/
