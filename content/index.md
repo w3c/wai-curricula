@@ -12,7 +12,7 @@ license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
 footer: >
-  <p><strong>Date:</strong> Updated 4 March 2021. First published December 2019.</p>
+  <p><strong>Date:</strong> Updated 9 February 2022. First published December 2019.</p>
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 navigation:
@@ -49,8 +49,8 @@ You can also use this resource to review existing and proposed courses.
 
 Some example uses of this resource include:
 
-* **faculty lecturer** &mdash; selects topics from the Foundation, Developer, and Designer modules to teach accessibility to computer science students
-* **accessibility professional** &mdash; selects topics from the Foundation, Developer, Designer, and Author modules to create accessibility training courses
+* **faculty lecturer** &mdash; selects topics from the foundation, developer, and designer modules to teach accessibility to computer science students
+* **accessibility professional** &mdash; selects topics from the foundation, developer, designer, and author modules to create accessibility training courses
 * **employee training coordinator** &mdash; compares the course content offered by different providers based on the modules provided in this resource
 * **procurer** &mdash; includes requirements in a training Request for Proposals (RFP) based on the modules provided in this resource
 * **hiring manager** &mdash; compares the competencies assessed for different certificates based on the modules provided in this resource
@@ -61,7 +61,7 @@ This resource is organized in granular modules that you can combine to create li
 
 This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing, designing, and authoring accessible digital content.
 
-The Foundation and Developer modules are available now. The Designer and Author modules will be available in 2021.
+The foundation, developer, and designer modules are available now. The author modules will be available later.
 
 ### Curricula Modules
 
@@ -72,26 +72,26 @@ The Foundation and Developer modules are available now. The Designer and Author 
     <tr>
       <td colspan="3">
         <ul>
-          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">What is Web accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/what-is-web-accessibility/' | relative_url }}">What is Web Accessibility</a></li>
           <li><a href="{{ '/curricula/foundation-modules/people-and-digital-technology/' | relative_url }}">People and Digital Technology</a></li>
           <li><a href="{{ '/curricula/foundation-modules/business-case-and-benefits/' | relative_url }}">Business Case and Benefits</a></li>
           <li><a href="{{ '/curricula/foundation-modules/principles-standards-and-checks/' | relative_url }}">Principles, Standards, and Checks</a></li>
-          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Getting Started with accessibility</a></li>
+          <li><a href="{{ '/curricula/foundation-modules/getting-started-with-accessibility/' | relative_url }}">Getting Started with Accessibility</a></li>
         </ul>
       </td>
     </tr>
 </table>
 
-<table summary="Specifics for developers, designers, and content authors. Column one contains the developer modules. Columns two and three contain outlines for the designer and content author modules respectively." class="dense" style="width: 100%;">
+<table summary="Specifics for developers, designers, and content authors. Column one: Developer Modules. Column two: Designer Modules. Column three: outlines for Author Modules." class="dense" style="width: 100%;">
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
-      <th> Designer Modules (<abbr title="To be Developed">TBD</abbr>) </th>
-      <th> Author Modules (<abbr title="To be Developed">TBD</abbr>) </th>
+      <th> <a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
+      <th> <a href="{{ '/curricula/content-author-modules/' | relative_url }}">[Draft] Content Author Modules</a></th>
     </tr>
     <tr>
       <td>
         <ul>
-         <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
+          <li><a href="{{ '/curricula/developer-modules/page-structure/' | relative_url }}">Page Structure</a></li>
           <li><a href="{{ '/curricula/developer-modules/menus/' | relative_url }}">Menus</a></li>
           <li><a href="{{ '/curricula/developer-modules/images/' | relative_url }}">Images</a></li>
           <li><a href="{{ '/curricula/developer-modules/tables/' | relative_url }}">Tables</a></li>
@@ -102,24 +102,23 @@ The Foundation and Developer modules are available now. The Designer and Author 
       </td>
       <td>
         <ul>
-          <li>Navigation and Orientation </li>
-          <li>Layout and Structure </li>
-          <li>Colors, Fonts, and Graphics </li>
-          <li>Information Architecture </li>
-          <li>Forms, Instructions, and Feedback </li>
-          <li>Custom Widgets and Interaction</li>
-          <li>&hellip; </li>
+          <li><a href="{{ '/curricula/designer-modules/visual-design/' | relative_url }}">Visual Design</a></li>
+          <li><a href="{{ '/curricula/designer-modules/information-design/' | relative_url }}">Information Design</a></li>
+          <li><a href="{{ '/curricula/designer-modules/navigation-design' | relative_url }}">Navigation Design</a></li>
+          <li><a href="{{ '/curricula/designer-modules/interaction-design/' | relative_url }}">Interaction Design</a></li>
+          <li><a href="{{ '/curricula/designer-modules/images-and-graphics/' | relative_url }}">Images and Graphics</a></li>
+          <li><a href="{{ '/curricula/designer-modules/multimedia-and-animations/' | relative_url }}">Multimedia and Animations</a></li>
+          <li><a href="{{ '/curricula/designer-modules/forms-design/' | relative_url }}">Forms Design</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Headings and Structure</li>
-          <li>Navigational Cues </li>
-          <li>Alternatives for Images, Graphics, and Multimedia </li>
-          <li>Document accessibility </li>
-          <li>Tables and Data Representation</li>
-          <li>Form Instructions and Feedback </li>
-          <li>&hellip; </li>
+          <li><a href="{{ '/curricula/content-author-modules/clear-content/' | relative_url }}">[Draft] Clear Content</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/structure/' | relative_url }}">[Draft] Structure</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/forms/' | relative_url }}">[Draft] Forms</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/images/' | relative_url }}">[Draft] Images</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/data-tables/' | relative_url }}">[Draft] Data Tables</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/multimedia/' | relative_url }}">[Draft] Multimedia</a></li>
         </ul>
       </td>
     </tr>
@@ -127,7 +126,7 @@ The Foundation and Developer modules are available now. The Designer and Author 
 
 ## Structure and Terminology
 
-Each part of these curricula (Foundation, Developer, Designer, Author) has:
+Each part of these curricula (foundation, developer, and designer) has:
 
 * **Prerequisites** &mdash; Competencies expected for students to have previously acquired.
 * **Modules** &mdash; Designed to be taught and assessed in their entirety.  
@@ -138,7 +137,7 @@ Each module consists of:
   Each topic consists of:
     * **Learning Outcomes for Topic** &mdash; Detailed description of what students will learn and should be able to demonstrate.
     * **Teaching Ideas for Topic** &mdash; Suggested ideas to help instructors teach the learning outcomes based on topic contents.
-    * **Ideas to assess knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
+    * **Ideas to Assess Knowledge for Topic** &mdash; Suggested ideas to assess the acquired skills or knowledge based on topic contents.
   * **Ideas to Assess Knowledge for Module** &mdash; Suggested ideas to assess the acquired skills or knowledge based on module contents.
   * **Teaching Resources** &mdash; Resources to help teach the learning outcomes. Some resources are integral part of the teaching while others are optional further reading.
 
