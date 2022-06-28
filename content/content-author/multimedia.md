@@ -134,7 +134,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that different types of audio and video content have different accessibility requirements based on government regulations and other policy requirements. 
+* Explain that different government regulations and other policy requirements cover different user needs for audio and video content. Emphasize that some government regulations and policies may not cover all user needs depending on audience and context.
 * Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 * Warn students that flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
