@@ -216,7 +216,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that different regions have different names for captions, including subtitles.
+* Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that the terms "captions” and "subtitles” are used for the same thing in different regions of the world. See [Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles)
 * Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
 * Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks.
 * Show a piece of audio and video content. Discuss with students which information they would include in the captions.
