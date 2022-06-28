@@ -145,7 +145,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content and how they provide rationale when not including a specific alternative.
-* Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to specify the accessibility requirements for different types of audio and video content. Assess how students determine the accessibility requirements for different types of audio and video content based on government regulations and other policy requirements.
+* Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to explain which user needs for audio and video content are covered and which are not covered in a specific government regulation or policy. Assess how students specify the user needs that specific government regulations and other policy requirements may not cover.
 * Short Answer Questions &mdash; Ask students to describe best practices for creating audio and video content. Assess how students describe best practices for creating audio and video content.
 
 {% include excol.html type="end" %}
