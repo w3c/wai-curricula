@@ -262,7 +262,7 @@ Optional ideas to teach the learning outcomes:
 * Define description of visual information as information (including text in the video) for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
 * Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
 * Define narrative descriptions as those included in the audio of the video. These can be provided in the main audio file of an alternative version of the video or in a separate audio file (if supported by the media player).
-* Show a video without audio description. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
+* Show a video that has important visual information needed to understand the content. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
 
 #### Ideas to Assess Knowledge for Topic
 
