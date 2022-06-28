@@ -29,8 +29,8 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on alternatives to multimedia content, including transcripts, description of visual information (also known as audio description, video description, or described video), captions (also known as subtitles), and sign language(s), to understand information contained in audio and video content
-* explain accessibility requirements for planning and including alternatives to audio and video content
+* demonstrate how people with disabilities rely on alternatives to multimedia content to understand information contained in audio and video content
+* cover transcripts, description of visual information (also called audio description, video description, or described video), captions (also known as subtitles), and sign languages
 
 ## Learning Outcomes for Module
   
