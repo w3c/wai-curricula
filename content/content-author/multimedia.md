@@ -109,7 +109,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on governmental regulations and other policy requirements.
+Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on government regulations and other policy requirements.
 
 Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](/media/av/planning/).
 
@@ -121,7 +121,7 @@ Students should be able to:
   * multimedia formats, such as audio and video
   * multimedia types, such as live and prerecorded
   * user needs
-  * governmental regulations and other policy requirements
+  * government regulations and other policy requirements
 * explain the following accessibility best practices for audio and video content:
   * use clear audio, language, and speech to help users understand the content
   * ensure sufficient contrast ratio for video text to enhance text readability
@@ -145,7 +145,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content and how they provide rationale when not including a specific alternative.
-* Research &mdash; Ask students to research governmental regulations that may apply in their region for audio and video content. Then ask students to specify the accessibility requirements for different types of audio and video content. Assess how students determine the accessibility requirements for different types of audio and video content based on governmental regulations and other policy requirements.
+* Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to specify the accessibility requirements for different types of audio and video content. Assess how students determine the accessibility requirements for different types of audio and video content based on government regulations and other policy requirements.
 * Short Answer Questions &mdash; Ask students to describe best practices for creating audio and video content. Assess how students describe best practices for creating audio and video content.
 
 {% include excol.html type="end" %}
