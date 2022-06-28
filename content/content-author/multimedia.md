@@ -175,7 +175,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that transcripts are for people who cannot see or cannot hear the content.
+* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that transcripts are for people who cannot hear the content well or at all.
 * Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant information needed to understand the content.
 * Define descriptive transcripts as those that include text descriptions of the visual information that is needed to understand the content. Explain that these descriptions are often based on existing captions and description of visual information.
 * Give students a piece of audio and video content and ask them to reflect on what type of information they would include in basic and descriptive transcripts.
