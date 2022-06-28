@@ -118,8 +118,8 @@ Discuss best practices for audio and  video content, including clear audio and s
 Students should be able to:
 
 * determine the required alternatives to multimedia content, including transcripts, description, captions, and sign language, based on:
-  * multimedia formats, such as audio and video
-  * multimedia types, such as live and prerecorded
+  * audio and/or video
+  * live or prerecorded
   * user needs
   * government regulations and other policy requirements
 * explain the following accessibility best practices for audio and video content:
