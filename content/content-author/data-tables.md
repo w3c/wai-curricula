@@ -78,7 +78,7 @@ Skills required for this module:
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
