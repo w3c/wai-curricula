@@ -1,4 +1,5 @@
 ---
+
 title: "[Draft] 6: Multimedia in Content Author Modules | Curricula"
 title_html: "Module 6: Multimedia"
 nav_title: "Multimedia"
@@ -128,7 +129,7 @@ Students should be able to:
   * provide audio with as low background as possible to help distinguish foreground from background sounds
   * consider speaker visibility (including for lip reading and sign language interpretation)
 * ensure video content does not flash more than three times in any one second
-* provide rationale for not including one or more alternatives to multimedia content
+* explain why non-substantive audio and video content does not need alternatives
 
 #### Teaching Ideas for Topic
 
@@ -138,14 +139,14 @@ Optional ideas to teach the learning outcomes:
 * Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 * Warn students that flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to provide rationale for when not including a specific alternative. This helps users save time and avoid frustrations.
+* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to explain why non-substantive audio and video content does not need alternatives. This helps users save time and avoid frustrations. For details, see [Inform users when not needed](https://www.w3.org/WAI/media/av/planning/#none).
 * Show examples of existing audio and video projects. Explain how to identify potential accessibility barriers to address. Discuss which accessibility best practices to include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content and how they provide rationale when not including a specific alternative.
+* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to explain why they decided not to include a specific alternative. Assess how students determine the required alternatives to audio and video content as well as how they explain why they decided not to include a specific alternative.
 * Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to explain which user needs for audio and video content are covered and which are not covered in a specific government regulation or policy. Assess how students specify the user needs that specific government regulations and other policy requirements may not cover.
 * Short Answer Questions &mdash; Ask students to describe best practices for creating audio and video content. Assess how students describe best practices for creating audio and video content.
 
