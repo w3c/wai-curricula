@@ -147,7 +147,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for search functionality, and envelopes for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
+Functional images convey functionality. For example, a magnifying glass for search functionality, and envelopes for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
@@ -164,7 +164,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glass", and "print" instead of "printer".
 * Show examples of functional images, including graphical buttons and links. Discuss with students what text alternative to include for these images.
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 
