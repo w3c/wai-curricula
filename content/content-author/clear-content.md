@@ -116,6 +116,7 @@ Students should be able to:
 
 * utilize words that are easy to understand for the target audience
 * research alternatives to replace complex terms based on audience and context
+* provide explanations for complex terms and jargon based on audience and context
 * write clearly and succinctly using:
   * clear and straightforward language
   * short sentences
@@ -123,7 +124,6 @@ Students should be able to:
 * provide the extended form of:
   * abbreviations
   * acronyms
-* provide explanations for complex terms and jargon based on audience and context
 * collaborate with designers and developers to specify the main language of the content as well as changes in language for multilingual content
 
 #### Teaching Ideas for Topic
