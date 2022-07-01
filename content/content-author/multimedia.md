@@ -111,7 +111,7 @@ Topics to achieve the learning outcomes:
 
 Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on governmental regulations and other policy requirements.
 
-Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](/media/av/planning/).
+Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](https://www.w3.org/WAI/media/av/planning/).
 
 #### Learning Outcomes for Topic
 
@@ -134,7 +134,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
+* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](https://www.w3.org/WAI/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility.
 * Warn students that any flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. Explain the requirements for content to flash only up to three times in one second or to be below the general flash and red flash thresholds. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
 * Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to provide rationale for when not including a specific alternative. This helps users save time and avoid frustrations.
@@ -158,7 +158,7 @@ Optional ideas to assess knowledge:
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include text description of the visual information needed to understand the content.
 
-Demonstrate approaches for providing basic and descriptive transcripts. For details, see [Transcripts](/media/av/transcripts/).
+Demonstrate approaches for providing basic and descriptive transcripts. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
 
 #### Learning Outcomes for Topic
 
@@ -199,7 +199,7 @@ Optional ideas to assess knowledge:
 
 Captions (also known as subtitles) are a text version of the speech and non-speech audio information needed to understand the content.
 
-Demonstrate different approaches and tools for providing captions. For details, see [Captions/Subtitles](/media/av/captions/).
+Demonstrate different approaches and tools for providing captions. For details, see [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/).
 
 #### Learning Outcomes for Topic
 
@@ -241,7 +241,7 @@ Optional ideas to assess knowledge:
 
 Description explains visual information needed to understand the content for people who cannot see the video.
 
-Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](/media/av/description/).
+Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
 #### Learning Outcomes for Topic
 
@@ -289,6 +289,6 @@ Suggested resources to support your teaching:
 
 * [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign languages. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 * [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
