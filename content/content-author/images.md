@@ -102,7 +102,7 @@ Topics to achieve the learning outcomes:
 
 Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text. Discuss different approaches for providing alternative text for informative images.
 
-Decorative images do not convey information. They require an empty alternative text.
+Decorative images do not convey information. They require empty alternative text.
 
 #### Learning Outcomes for Topic
 
