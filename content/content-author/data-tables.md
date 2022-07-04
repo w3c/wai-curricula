@@ -78,7 +78,7 @@ Skills required for this module:
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
@@ -170,7 +170,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Table summaries identify the table purpose. Table descriptions explain what the table is about and how it is organized. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
+Table summaries identify the table purpose and explain what the table is about. Table descriptions explain how the table is organized, especially for complex tables. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
 
 #### Learning Outcomes for Topic
 
@@ -190,7 +190,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps users distinguish one table from the other when there are several tables on the page. 
-* Show examples of table summaries. Explain that summaries provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
+* Show examples of table summaries. Explain that summaries identify the table purpose and provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
 * Explain that complex tables often need descriptions for users to understand how the table is organized. For example, tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables with information that is difficult to process.
 * Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
 * Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions".

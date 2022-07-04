@@ -68,7 +68,7 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Writing
-  * copy-editing
+  * Copy-editing
   * Proofreading
   * Content creation
 
@@ -110,7 +110,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Accessible labels often require collaboration between content authors, designers, and developers: content authors provide the label text, designers specify the label appearance, and developers implement the label.
+Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text. Designers specify the label appearance. Developers implement the label.
 
 #### Learning Outcomes for Topic
 
@@ -153,7 +153,7 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and information about the current step and the total number of steps in a form.
 
-Accessible instructions often require collaboration between content authors, designers, and developers: content authors provide the instructions, designers specify their appearance, and developers implement the instructions.
+Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions. Designers specify their appearance. Developers implement the instructions.
 
 #### Learning Outcomes for Topic
 
@@ -194,7 +194,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
-Accessible error messages often require collaboration between content authors, designers, and developers: content authors provide the message text, designers specify the message appearance, and developers implement the message.
+Accessible error messages often require collaboration between content authors, designers, and developers. Content authors provide the message text. Designers specify the message appearance. Developers implement the message.
 
 #### Learning Outcomes for Topic
 
