@@ -44,10 +44,10 @@ Students should be able to:
   * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
   * match the video and audio information when possible to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video based on content type and format, including:
-  * transcripts (a text version of the speech and non-speech audio information needed to understand the content)
-  * captions (a synchronized text version of the speech and non-speech audio information needed to understand the content)
-  * description of visual information (including video text)
-  * sign languages (hand and arm movements, facial expressions, and body positions to convey meaning)
+  * transcripts mdash; a text version of the speech and non-speech audio information needed to understand the content
+  * captions mdash; a synchronized text version of the speech and non-speech audio information needed to understand the content
+  * description of visual information mdash; including video text
+  * sign languages mdash; hand and arm movements, facial expressions, and body positions to convey meaning
 * ensure video content avoids flashing entirely or only flashes below the acceptable thresholds
 * identify requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
@@ -109,43 +109,44 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. Explain that different types of audio and video content have different accessibility requirements based on government regulations and other policy requirements.
+Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. For details, see [Understand the User Needs and Experiences of People with Disabilities ](https://www.w3.org/WAI/media/av/users-orgs/#understand-the-user-needs-and-experiences-of-people-with-disabilities).
 
-Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Planning Audio and Video](/media/av/planning/).
+Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * determine the required alternatives to multimedia content, including transcripts, description, captions, and sign language, based on:
-  * multimedia formats, such as audio and video
-  * multimedia types, such as live and prerecorded
+  * audio and/or video
+  * live or prerecorded
   * user needs
   * government regulations and other policy requirements
 * explain the following accessibility best practices for audio and video content:
   * use clear audio, language, and speech to help users understand the content
   * ensure sufficient contrast ratio for video text to enhance text readability
   * provide audio with as low background as possible to help distinguish foreground from background sounds
-  * consider speaker visibility (including for lip reading and sign language interpretation)
+  * consider speaker visibility, including for lip reading and sign language interpretation
 * ensure video content does not flash more than three times in any one second
-* provide rationale for not including one or more alternatives to multimedia content
+* explain why non-substantive audio and video content does not need alternatives
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](/media/av/planning/#checklist).
-* Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility.
+* Explain that different government regulations and other policy requirements cover different user needs for audio and video content. Emphasize that some government regulations and policies may not cover all user needs depending on audience and context.
+* Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](https://www.w3.org/WAI/media/av/planning/#checklist).
+* Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 * Warn students that flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
-* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to provide rationale for when not including a specific alternative. This helps users save time and avoid frustrations.
+* Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to explain why non-substantive audio and video content does not need alternatives. This helps users save time and avoid frustrations. For details, see [Inform users when not needed](https://www.w3.org/WAI/media/av/planning/#none).
 * Show examples of existing audio and video projects. Explain how to identify potential accessibility barriers to address. Discuss which accessibility best practices to include in the planning phase to minimize such barriers.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to provide rationale when not including a specific alternative. Assess how students determine the required alternatives to audio and video content and how they provide rationale when not including a specific alternative.
-* Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to specify the accessibility requirements for different types of audio and video content. Assess how students determine the accessibility requirements for different types of audio and video content based on government regulations and other policy requirements.
+* Practical &mdash; Give students a piece of audio and video content. Ask them to determine which alternatives to include and which not to include, as well as to explain why they decided not to include a specific alternative. Assess how students determine the required alternatives to audio and video content as well as how they explain why they decided not to include a specific alternative.
+* Research &mdash; Ask students to research government regulations that may apply in their region for audio and video content. Then ask students to explain which user needs for audio and video content are covered and which are not covered in a specific government regulation or policy. Assess how students specify the user needs that specific government regulations and other policy requirements may not cover.
 * Short Answer Questions &mdash; Ask students to describe best practices for creating audio and video content. Assess how students describe best practices for creating audio and video content.
 
 {% include excol.html type="end" %}
@@ -158,7 +159,7 @@ Optional ideas to assess knowledge:
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include text description of the visual information needed to understand the content.
 
-Demonstrate approaches for providing basic and descriptive transcripts. For details, see [Transcripts](/media/av/transcripts/).
+Demonstrate approaches for providing basic and descriptive transcripts. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
 
 #### Learning Outcomes for Topic
 
@@ -197,9 +198,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Captions (also known as subtitles) are a text version of the speech and non-speech audio information needed to understand the content.
+Captions, also known as subtitles, are a text version of the speech and non-speech audio information needed to understand the content.
 
-Demonstrate different approaches and tools for providing captions. For details, see [Captions/Subtitles](/media/av/captions/).
+Demonstrate different approaches and tools for providing captions. For details, see [Captions/Subtitles](https://www.w3.org/WAI/media/av/captions/).
 
 #### Learning Outcomes for Topic
 
@@ -241,24 +242,24 @@ Optional ideas to assess knowledge:
 
 Description explains visual information needed to understand the content for people who cannot see the video.
 
-Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](/media/av/description/).
+Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define description of visual information as information (including text in the video) for people who cannot see the video to understand the content
+* define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
 * identify different approaches for providing descriptions of visual information, including:
-  * integrated (speakers describe the relevant information)
-  * narrative (included in the main audio track of an alternative version of the video)
-  * provided in a separate audio track or text file (if supported by the media player)
+  * integrated &mdash; speakers describe the relevant information
+  * narrative &mdash; included in the main audio track of an alternative version of the video
+  * provided in a separate audio track or text file &mdash; if supported by the media player
 * ensure description of visual information is available when required
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Define description of visual information as information (including text in the video) for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
+* Define description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
 * Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
 * Define narrative descriptions as those included in the main audio of an alternative version of the video.
 * Explain that some media players can present descriptions provided in a separate text file. Assistive technologies read aloud the descriptions. For this to work, there needs to be enough space for the description to fit in the main audio, or the media player needs to support pausing the main audio to hear the description. For details, see [Text -- Creating Description in a Text File](https://www.w3.org/WAI/media/av/description/#text--creating-description-in-a-text-file).
@@ -289,6 +290,6 @@ Suggested resources to support your teaching:
 
 * [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/) &mdash; Covers captions/subtitles, audio description of visual information, descriptive transcripts, and sign languages. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 * [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
-* [How People with Disabilities Use the Web](/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) &mdash; Provides stories of people with disabilities using the Web; describes types of disabilities and some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Video Captions (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/captions/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
