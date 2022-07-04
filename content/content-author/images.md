@@ -121,7 +121,7 @@ Students should be able to:
   * enable authors to amend automatically generated text alternatives for quality and accuracy
   * produce appropriate markup for informative images
   * support different modalities of CAPTCHA, including visual, auditory, and biometrics
-
+  * identify and produce appropriate markup for decorative images
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
