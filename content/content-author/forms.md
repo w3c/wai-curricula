@@ -68,7 +68,7 @@ Skills required for this module:
 * Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Writing
-  * copy-editing
+  * Copy-editing
   * Proofreading
   * Content creation
 
@@ -110,7 +110,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text, designers specify the label appearance. Developers implement the label.
+Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text. Designers specify the label appearance. Developers implement the label.
 
 #### Learning Outcomes for Topic
 
@@ -130,7 +130,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate assistive technology interaction with form fields and controls. Use voice commands, keystrokes, and gestures to navigate to and operate specific types of form fields and controls. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
-* Show examples of about commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
+* Show examples of commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
 * Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels to the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label to the corresponding form field and control.
 
@@ -153,7 +153,7 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and orientation about the current step and the total number of steps in a form.
 
-Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions, designers specify their appearance. Developers implement the instructions.
+Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions. Designers specify their appearance. Developers implement the instructions.
 
 #### Learning Outcomes for Topic
 
@@ -194,7 +194,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and correct their submission. Demonstrate approaches for providing clear and descriptive error messages.
 
-Accessible error messages often require collaboration between content authors, designers, and developers. Content authors provide the message text, designers specify the message appearance. Developers implement the message.
+Accessible error messages often require collaboration between content authors, designers, and developers. Content authors provide the message text. Designers specify the message appearance. Developers implement the message.
 
 #### Learning Outcomes for Topic
 
