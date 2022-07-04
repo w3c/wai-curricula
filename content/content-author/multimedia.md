@@ -45,10 +45,10 @@ Students should be able to:
   * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
   * match the video and audio information when possible to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video based on content type and format, including:
-  * transcripts (a text version of the speech and non-speech audio information needed to understand the content)
-  * captions (a synchronized text version of the speech and non-speech audio information needed to understand the content)
-  * description of visual information (including video text)
-  * sign languages (hand and arm movements, facial expressions, and body positions to convey meaning)
+  * transcripts mdash; a text version of the speech and non-speech audio information needed to understand the content
+  * captions mdash; a synchronized text version of the speech and non-speech audio information needed to understand the content
+  * description of visual information mdash; including video text
+  * sign languages mdash; hand and arm movements, facial expressions, and body positions to convey meaning
 * ensure video content avoids flashing entirely or only flashes below the acceptable thresholds
 * identify requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
 * identify related requirements for designers and developers to support visual and non-visual perception and operation of:
