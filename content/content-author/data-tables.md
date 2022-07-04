@@ -103,7 +103,7 @@ Table header cells and their scope identify the type of information provided in 
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand, navigate, and process data tables
-* define table headers cells as those which identify the type of information in a row or column
+* define table header cells as those which identify the type of information in a row or column
 * provide short, descriptive column and row headers for tables
 * specify the scope for headers that span multiple rows or columns
 * identify requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
@@ -112,9 +112,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
-* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data the column or row contains.
-* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
+* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated with.
+* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data in the column or row.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let content authors specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
