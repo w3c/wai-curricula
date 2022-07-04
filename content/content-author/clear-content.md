@@ -43,7 +43,7 @@ Students should be able to:
   * short sentences
   * active voice
   * indicators for the main language of the content as well as for changes of language in multilingual content
-* provide the extended form for abbreviations and acronyms
+* describe methods to provide the extended form for abbreviations and acronyms
 * utilize icons and symbols to complement text content
 * write clear and meaningful:
   * titles to describe the purpose of the page
@@ -178,8 +178,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss different pieces of information that page titles should contain. For example, specific information about the page, current step of a process,  and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
-* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some assistive technologies and mobile user agents may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first heading of level one. Explain that some tools may produce accessible content but may not be accessible themselves and vice versa.
+* Discuss different pieces of information that page titles can contain. For example, specific information about the page, current step of a process, form errors, and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
+* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some assistive technologies and mobile user agents may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first heading of level one.
 * Explain that it is best practice for links to have clear and meaningful text that identifies the link purpose. Otherwise, some users with disabilities often have to guess the link purpose based on text that is adjacent to the link. Additional information for links may include the document type and format, as well as where the link will open. 
 * Reflect with students on the use of images as links, for example in logos. When using images as links, the image should contain an alternative text that describes the functionality of the link. For details on alternatives for images, see [Content Author Module 4: Images, Topic Functional Images](/curricula/content-author-modules/images/#topic-functional-images).
 * Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
