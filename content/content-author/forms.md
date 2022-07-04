@@ -151,7 +151,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and orientation about the current step and the total number of steps in a form.
+Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and information about the current step and the total number of steps in a form.
 
 Accessible instructions often require collaboration between content authors, designers, and developers. Content authors provide the instructions. Designers specify their appearance. Developers implement the instructions.
 
@@ -162,7 +162,7 @@ Students should be able to:
 * explain how people with disabilities rely on clear instructions to understand the purpose of form fields and controls as well as to provide the appropriate input
 * provide clear instructions about the overall purpose of the form before the form
 * write additional instructions that provide examples of expected input when possible
-* provide orientation about the current step and about the total number of steps in a multi-step process
+* provide information about the current step and the total number of steps in a multi-step process
 * identify requirements for authoring tools to programmatically associate instructions to their corresponding form field and control
 * identify related requirements for designers and developers to support visual and non-visual perception of instructions
 
@@ -172,8 +172,8 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate assistive technology interaction with form fields and controls that have meaningful instructions. Then demonstrate interaction with form fields and controls that do not have such instructions. Reflect with students on how these instructions help all users, including those with disabilities, to provide the appropriate input and to understand the form purpose.
 * Show examples of forms that require instructions to understand their purpose. Discuss with students which instructions they would provide to help users understand the form. For example, what type of data the form collects and general timing instructions for the form.
-* Show examples of form fields that collect data in a specific format, for example fields collecting dates as well as phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security and purpose of the form.
-* Demonstrate approaches for providing instructions for multi-step processes. For example, including  information about the current step and about the total number of steps in the page title or before the form.
+* Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
+* Demonstrate approaches for providing instructions for multi-step processes. For example, including information about the current step and the total number of steps in the page title or before the form.
 * Introduce accessible authoring tools that programmatically associate instructions to the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions to the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
@@ -192,7 +192,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Clear and descriptive error messages help people with disabilities understand the problem and correct their submission. Demonstrate approaches for providing clear and descriptive error messages.
+Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
 Accessible error messages often require collaboration between content authors, designers, and developers. Content authors provide the message text. Designers specify the message appearance. Developers implement the message.
 
