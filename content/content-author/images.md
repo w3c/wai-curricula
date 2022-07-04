@@ -39,10 +39,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
-  * informative (require descriptions that convey their information)
-  * functional (require descriptions that convey functionality)
-  * decorative (require empty alternative text that convey their ornamental purpose)
-  * complex (require short and long descriptions and sometimes alternative data visualizations)
+  * informative mdash; require descriptions that convey their information
+  * functional mdash; require descriptions that convey functionality
+  * decorative mdash; require empty alternative text that convey their ornamental purpose
+  * complex mdash; require short and long descriptions and sometimes alternative data visualizations
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
 * provide textual information using regular text instead of an image file
 * identify requirements for authoring tools to include and manage alternatives for images (including text alternatives and different modalities of CAPTCHA)
