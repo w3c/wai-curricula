@@ -110,9 +110,9 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for informative images to understand the image content
 * provide quality text alternatives that convey the information in the images using one of the following:
-  * clear and descriptive text alternatives associated to the images
+  * clear and descriptive text alternatives associated with the images
   * adjacent text that conveys the same information as the image
-* write textual information as regular text instead of including text content in an image file
+* write text content as regular text instead of including text content in an image file
 * collaborate with designers and developers to:
   * ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
   * mark an image as decorative when it does not convey information
