@@ -38,7 +38,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate table markup and clear relations between header and data cells to understand, navigate, and process information presented in data tables
-* provide data tables as alternative data visualizations for charts, diagrams, and infographics
+* provide data tables as an alternative to data visualizations contained in charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
 * collaborate with designers and developers to present multi-column content using CSS styles instead of layout tables
@@ -210,7 +210,7 @@ Optional ideas to assess knowledge:
 
 Optional ideas to assess knowledge:
 
-* Practical &mdash; Give students a chart and ask them to provide an alternative data visualization using a regular data table. Assess how students provide alternative data visualizations to charts using regular data tables.
+* Practical &mdash; Give students a chart, diagram, or infographic and ask them to provide an alternative to that data visualization using a regular data table. Assess how students provide alternatives to data visualizations contained in charts, diagrams, and infographics using regular data tables.
 * Portfolio &mdash; Have students include data tables in the web page they are creating. Assess how students designate the table header and data cells and their scope as well as how they provide table summaries and descriptions where appropriate.
 
 ## Teaching Resources
