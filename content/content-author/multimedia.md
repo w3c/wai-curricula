@@ -1,5 +1,4 @@
 ---
-
 title: "[Draft] 6: Multimedia in Content Author Modules | Curricula"
 title_html: "Module 6: Multimedia"
 nav_title: "Multimedia"
