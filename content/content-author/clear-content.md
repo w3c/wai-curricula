@@ -155,7 +155,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links go to. Explain that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
+Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links land. Explain that it is best practice to front-up information that is specific to the page in the page title and also in the link text so as to favor efficiency.
 
 #### Learning Outcomes for Topic
 
