@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
-When content authors can specify the visual appearance, they must ensure that is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
 #### Learning Outcomes for Topic
 
