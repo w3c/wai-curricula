@@ -48,7 +48,7 @@ Students should be able to:
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
-* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
+* ensure sufficient contrast ratio, as well as easy to read fonts, in order to favor content readability
 * identify related requirements for designers to:
   * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
