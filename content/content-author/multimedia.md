@@ -207,9 +207,8 @@ Demonstrate different approaches and tools for providing captions. For details, 
 Students should be able to:
 
 * define captions as a text version of the speech and non-speech audio information needed to understand the content
-* ensure availability of accurate captions by using one of the following:
-  * a caption file
-  * automatically generated captions that have been checked for quality and accuracy
+* ensure availability of accurate captions
+* explain why automatically generated captions are not sufficient to meet accessibility requirements
 * enumerate characteristics of quality captions, including relevant non-speech information and timestamps
 * recognize different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language)
 
@@ -218,7 +217,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that the terms "captions” and "subtitles” are used for the same thing in different regions of the world. See [Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles)
-* Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If relying on automatically-generated captions, content authors must ensure these captions are accurate and convey all the relevant information.
+* Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If starting with automatically-generated captions, content authors must carefully edit them to be accurate with appropriate punctuation, spelling, etc. For details, see ]Automatically-generated captions are not sufficient](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient).
 * Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks.
 * Show a piece of audio and video content. Discuss with students which information they would include in the captions.
 * Introduce different types of file formats for captions, including WebVTT (Web Video Text Tracks Format), SRT (SubRip Subtitle), and TTML (Timed Text Markup Language). Explain that it is more efficient to use specific software for creating captions, as the software can add the relevant timestamps. Sometimes content authors require help from specialized roles to produce accurate and quality captions.
