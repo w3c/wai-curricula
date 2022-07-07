@@ -165,7 +165,7 @@ Demonstrate approaches for providing basic and descriptive transcripts. For deta
 
 Students should be able to:
 
-* ensure inclusion of transcripts for audio and video content when required
+* identify audio and video content that requires transcripts
 * create basic transcripts that:
   * convey the speech and non-speech information needed to understand the content
   * identify the speaker
@@ -254,7 +254,7 @@ Students should be able to:
   * narrative
     * included in the main audio track of an alternative version of the video
     * provided in a separate audio track or text file &mdash; (if supported by the media player
-* ensure description of visual information is available when required
+* identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
 
