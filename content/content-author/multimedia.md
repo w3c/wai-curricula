@@ -250,8 +250,7 @@ Students should be able to:
 * define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
 * identify different approaches for providing descriptions of visual information, including:
   * integrated &mdash; speakers describe the relevant information
-  * narrative
-    * included in the main audio track of an alternative version of the video
+  * narrative &mdash; included in the main audio track of an alternative version of the video
     * provided in a separate audio track or text file &mdash; (if supported by the media player
 * identify video content that requires description of visual information
 
@@ -261,7 +260,8 @@ Optional ideas to teach the learning outcomes:
 
 * Define description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
 * Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
-* Define narrative descriptions as those included in the audio of the video. These can be provided in the main audio file of an alternative version of the video or in a separate audio file, if supported by the media player.
+* Define narrative descriptions as those included in the main audio of an alternative version of the video.
+* Explain that some media players can present descriptions provided in a separate text file. Assistive technologies read aloud the descriptions. For this to work, there needs to be enough space for the description to fit in the main audio, or the media player needs to support pausing the main audio to hear the description. For details, see [Text -- Creating Description in a Text File](https://www.w3.org/WAI/media/av/description/#text--creating-description-in-a-text-file).
 * Show a video that has important visual information needed to understand the content. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
 
 #### Ideas to Assess Knowledge for Topic
