@@ -48,7 +48,7 @@ Students should be able to:
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
-* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
+* ensure sufficient contrast ratio, as well as easy to read fonts, in order to favor content readability
 * identify related requirements for designers to:
   * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
@@ -130,12 +130,12 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students about words that are difficult to understand based on audience and context. For example, jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed. For example, including a glossary of terms in the document.
-* Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms and substitute them with their corresponding alternative.
-* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
+* Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
+* Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content,, furthermore, and also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
-* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language as well as for changes in language for multilingual content.
+* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, by including the extension directly after the first occurrence of an abbreviation or acronym.
+* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -155,7 +155,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links go to. Explain that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
+Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links land. Explain that it is best practice to front-up information that is specific to the page in the page title and also in the link text so as to favor efficiency.
 
 #### Learning Outcomes for Topic
 
@@ -179,10 +179,10 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Discuss different pieces of information that page titles can contain. For example, specific information about the page, current step of a process, form errors, and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
-* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some assistive technologies and mobile user agents may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first level one heading.
+* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some mobile browsers and assistive technologies may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first level one heading.
 * Explain that it is best practice for links to have clear and meaningful text that identifies the link purpose. Otherwise, some users with disabilities often have to guess the link purpose based on text that is adjacent to the link. Additional information for links may include the document type and format, as well as where the link will open. 
 * Reflect with students on the use of images as links, for example in logos. When using images as links, the image should contain an alternative text that describes the functionality of the link. For details on alternatives for images, see [Content Author Module 4: Images, Topic Functional Images](/curricula/content-author-modules/images/#topic-functional-images).
-* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with browsers and assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
-When content authors can specify the visual appearance, they must ensure that is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
 #### Learning Outcomes for Topic
 

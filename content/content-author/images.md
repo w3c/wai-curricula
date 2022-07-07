@@ -39,10 +39,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
-  * informative mdash; require descriptions that convey their information
-  * functional mdash; require descriptions that convey functionality
-  * decorative mdash; require empty alternative text that convey their ornamental purpose
-  * complex mdash; require short and long descriptions and sometimes alternative data visualizations
+  * informative &mdash; require descriptions that convey their information
+  * functional &mdash; require descriptions that convey functionality
+  * decorative &mdash; require empty alternative text that convey their ornamental purpose
+  * complex &mdash; require short and long descriptions and sometimes alternative data visualizations
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
 * provide textual information using regular text instead of an image file
 * identify requirements for authoring tools to include and manage alternatives for images (including text alternatives and different modalities of CAPTCHA)
@@ -191,14 +191,14 @@ Explain that complex images can serve as alternative data visualizations for com
 
 Students should be able to:
 
-* explain how people with disabilities rely on equivalent, quality text alternatives (including short and long descriptions) for complex images to understand the image content
+* explain how people with disabilities rely on equivalent, quality text alternatives, including short and long descriptions, for complex images to understand the image content
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
 * provide equivalent, long descriptions for complex images that help understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
-* provide alternative data visualizations for complex images, including text descriptions, data tables, and other graphical representations
+* provide other graphical representations as alternative data visualizations for complex images
 * identify related requirements for designers and developers to ensure:
   * appropriate contrast ratios for complex images and descriptions
   * reliable identification of short and long descriptions for complex images
