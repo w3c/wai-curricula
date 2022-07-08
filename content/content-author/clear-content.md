@@ -30,14 +30,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to process information
+* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read language and visual presentation to process information
 * explain the accessibility benefits of providing clear, easy to understand, and easy to read content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how clear, easy to understand, and easy to read content is essential for some people with disabilities
+* explain how clear, easy to understand, and easy to read language and visual presentation are essential for some people with disabilities
 * provide clear content based on context and audience by using:
   * appropriate words
   * short sentences
@@ -132,7 +132,7 @@ Optional ideas to teach the learning outcomes:
 
 * Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
-* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content,, furthermore, and also benefits all users.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, furthermore, it also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, by including the extension directly after the first occurrence of an abbreviation or acronym.
 * Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
