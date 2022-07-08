@@ -95,7 +95,7 @@ Skills required for this module:
   * [Foundation Prerequisites](/curricula/designer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
   * Audio and video content creation
-  * Accessible authoring tools
+  * [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/)
 
 {% include excol.html type="end" %}
 
