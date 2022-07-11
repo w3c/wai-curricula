@@ -251,7 +251,7 @@ Students should be able to:
 * identify different approaches for providing descriptions of visual information, including:
   * integrated &mdash; speakers describe the relevant information
   * narrative &mdash; included in the main audio track of an alternative version of the video
-    * provided in a separate audio track or text file &mdash; (if supported by the media player
+  * provided in a separate audio track or text file &mdash; (if supported by the media player
 * identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
