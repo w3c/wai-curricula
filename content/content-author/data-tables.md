@@ -41,7 +41,6 @@ Students should be able to:
 * provide data tables as an alternative to data visualizations contained in charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
-* collaborate with designers and developers to present multi-column content using CSS styles instead of layout tables
 * ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
 * identify related requirements for:
   * designers to ensure appropriate contrast ratio for data tables
