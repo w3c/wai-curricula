@@ -163,7 +163,7 @@ Students should be able to:
 * provide clear instructions about the overall purpose of the form before the form
 * write additional instructions that provide examples of expected input when possible
 * provide information about the current step and the total number of steps in a multi-step process
-* identify requirements for authoring tools to programmatically associate instructions to their corresponding form field and control
+* identify requirements for authoring tools to programmatically associate instructions with their corresponding form field and control
 * identify related requirements for designers and developers to support visual and non-visual perception of instructions
 
 #### Teaching Ideas for Topic
