@@ -183,7 +183,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Complex images require short descriptions that identify the image and long descriptions that provide equivalent information as that in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches for providing short and long descriptions for complex images.
+Complex images require short descriptions that identify the image and long descriptions that provide equivalent information as that contained in the image. These images include charts, diagrams, maps, and infographics. Describe different approaches for providing short and long descriptions for complex images.
 
 Explain that complex images can serve as alternative data visualizations for complex data sets, including descriptive text, tables, diagrams, charts, and infographics.
 
