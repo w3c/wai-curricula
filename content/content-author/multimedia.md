@@ -239,7 +239,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Description explains visual information needed to understand the content for people who cannot see the video.
+people who cannot see the video need description of visual information to understand the content.
 
 Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
