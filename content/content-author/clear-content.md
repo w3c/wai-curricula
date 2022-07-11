@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Easy to understand language is essential for some groups of people with disabilities to understand the content. Explain characteristics of easy to understand language, including clear words, short sentences, and active voice.
+Easy to understand language is essential for some groups of people with disabilities to understand the content. Explain the characteristics of easy to understand language, including clear words, short sentences, and active voice.
 
 Discuss approaches for explaining the meaning of abbreviations and acronyms.
 
