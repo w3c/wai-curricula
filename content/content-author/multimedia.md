@@ -42,7 +42,8 @@ Students should be able to:
   * ensure sufficient contrast ratios for video text
   * minimize background audio and overall distractions where possible
   * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
-  * match the video and audio information when possible to help different groups of users understand the content
+  issues
+   the video and audio information when possible to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video based on content type and format, including:
   * transcripts &mdash; a text version of the speech and non-speech audio information needed to understand the content
   * captions &mdash; a synchronized text version of the speech and non-speech audio information needed to understand the content

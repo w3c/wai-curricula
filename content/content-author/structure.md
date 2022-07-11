@@ -180,7 +180,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that help people with disabilities orient themselves and navigate content. These include meaningful content sequences, tables of contents, footnotes, and methods for users to move back and forth through long passages of content.
+Introduce navigation and orientation methods that help people with disabilities orient themselves and navigate content. These include content that follows a meaningful sequence, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
@@ -188,13 +188,13 @@ Explain that creating accessible navigation and orientation methods requires col
 
 Students should be able to:
 
-* explain how people with disabilities rely on meaningful content sequences, tables of contents, and other orientation and navigation methods to orient themselves and navigate content
-* utilize tables of contents to:
+* explain how people with disabilities rely on content that follows a meaningful sequence, a table of contents, and other orientation and navigation methods to orient themselves and navigate content
+* utilize a table of contents to:
   * provide a summary of the overall content structure
   * help users navigate to parts of the content
 * ensure availability of methods for users to move back and forth through long passages of content, for example using:
-  * tables of contents
-  * links to get back to the top of the content and to the top of specific sections
+  * a table of contents
+  * a link to get back to the top of the content and to the top of specific sections
   * methods to move from a footnote marker to the footnote content and from the footnote content back to the footnote marker
 * identify related requirements for:
   * designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
@@ -205,8 +205,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
-* Show examples of tables of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the table of contents, for example "Back to top" links at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
+* Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
+* Discuss the use of methods to get back to the table of contents, for example a "Back to top" link at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 * Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
 
@@ -214,7 +214,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including tables of contents and "Back to top" links.
+* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a table of contents and a "Back to top" link.
 * Practical &mdash; Ask students to provide the table of contents for a resource of a given website. Assess how students provide the table of contents for an article.
 * Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include accessible footnotes.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.
