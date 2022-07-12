@@ -51,7 +51,7 @@ Students should be able to:
   * sign languages &mdash; hand and arm movements, facial expressions, and body positions to convey meaning
 * ensure video content avoids flashing entirely or only flashes below the acceptable thresholds
 * identify requirements for authoring tools to support inclusion of and interaction with alternatives to audio and video content
-* identify related requirements for designers and developers to support visual and non-visual perception and operation of:
+* identify related requirements for designers and developers to make accessible:
   * alternatives to multimedia content 
   * media player controls
 
