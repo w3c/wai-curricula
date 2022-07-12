@@ -204,7 +204,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand where they are in the content and to move back and forth through different content sections.
+* Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand the overall content structure and to move back and forth through different content sections.
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of methods to get back to the table of contents, for example a "Back to top" link at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
