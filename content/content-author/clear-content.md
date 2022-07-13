@@ -155,7 +155,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links land. Explain that it is best practice to front-up information that is specific to the page in the page title and also in the link text so as to favor efficiency.
+The page title is essential for some groups of people with disabilities to know the purpose of the page. The link text is crucial for those groups to know where the link lands.
+
+Show examples of accessible page titles and link text. Explain that it is best practice to put unique and most relevant information first in page titles to favor readability and efficiency. For details, see [Provide Informative, Unique Page Titles](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles), and [Make Link Test Meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful).
 
 #### Learning Outcomes for Topic
 
