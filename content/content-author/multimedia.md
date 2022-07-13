@@ -42,8 +42,7 @@ Students should be able to:
   * ensure sufficient contrast ratios for video text
   * minimize background audio and overall distractions where possible
   * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
-  issues
-   the video and audio information when possible to help different groups of users understand the content
+  * provide redundancy for different sensory characteristics to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video based on content type and format, including:
   * transcripts &mdash; a text version of the speech and non-speech audio information needed to understand the content
   * captions &mdash; a synchronized text version of the speech and non-speech audio information needed to understand the content
@@ -135,7 +134,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that different government regulations and other policy requirements cover different user needs for audio and video content. Emphasize that some government regulations and policies may not cover all user needs depending on audience and context.
+* Emphasize that some government regulations and policies do not cover all user needs. Explain that government regulations and policies differ based on region.
 * Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio      and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](https://www.w3.org/WAI/media/av/planning/#checklist).
 * Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 * Warn students that flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
@@ -249,10 +248,9 @@ Show examples of videos containing such description and demonstrate different ap
 Students should be able to:
 
 * define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
-* identify different approaches for providing descriptions of visual information, including:
-  * integrated &mdash; speakers describe the relevant information
-  * narrative &mdash; included in the main audio track of an alternative version of the video
-  * provided in a separate audio track or text file &mdash; (if supported by the media player
+* identify different approaches for providing description, including:
+  * integrated &mdash; the main speaker(s) provide description integrated in their speaking
+  * separate &mdash; authors add the description at a later phase via an additional audio track or a text file that syncs with the main audio of the video
 * identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
