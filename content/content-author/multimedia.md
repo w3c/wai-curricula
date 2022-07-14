@@ -41,7 +41,7 @@ Students should be able to:
   * use clear and easy to understand speech
   * ensure sufficient contrast ratios for video text
   * minimize background audio and overall distractions where possible
-  * integrate descriptions in video scripts to minimize the need for additional descriptions at a later phase
+  * integrate description in video scripts to minimize the need for separate description at a later phase
   * provide redundancy for different sensory characteristics to help different groups of users understand the content
 * ensure multimedia content has alternatives to audio and video based on content type and format, including:
   * transcripts &mdash; a text version of the speech and non-speech audio information needed to understand the content
@@ -178,7 +178,7 @@ Optional ideas to teach the learning outcomes:
 
 * Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that transcripts are for people who cannot hear the content well or at all.
 * Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant information needed to understand the content.
-* Define descriptive transcripts as those that include text descriptions of the visual information that is needed to understand the content. Explain that these descriptions are often based on existing captions and description of visual information.
+* Define descriptive transcripts as those that include text description of the visual information that is needed to understand the content. Explain that this description are often based on existing captions and description of visual information.
 * Give students a piece of audio and video content and ask them to reflect on what type of information they would include in basic and descriptive transcripts.
 * Discuss approaches for making transcripts easy to find on the page. This may include adding the transcript in an expandable section and adding a link to a separate page that contains the transcript. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
 
@@ -251,7 +251,7 @@ Students should be able to:
 * utilize integrated descriptions where possible &mdash; the main speaker(s) provide description integrated in their speaking
 * identify different approaches for providing separate descriptions, including:
   * an alternative video file where authors include description in the audio of that video
-  * a text or audio file that syncs with the main audio of the video (if supported by the media player)
+  * a text or audio file that syncs with the main audio of the video &mdash; if supported by the media player
 * identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
@@ -259,9 +259,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Define description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
-* Discuss different approaches for integrating descriptions as part of the audio content of the video. This includes having the speakers verbalize the relevant information needed to understand the video without seeing it. Emphasize that it is best practice to plan for integrated descriptions early on in the creation process to minimize the need for additional descriptions.
-* Define narrative descriptions as those included in the main audio of an alternative version of the video.
-* Explain that some media players can present descriptions provided in a separate text file. Assistive technologies read aloud the descriptions. For this to work, there needs to be enough space for the description to fit in the main audio, or the media player needs to support pausing the main audio to hear the description. For details, see [Text -- Creating Description in a Text File](https://www.w3.org/WAI/media/av/description/#text--creating-description-in-a-text-file).
+* Discuss with students how the main speaker(s) can provide the description integrated in their speaking. Explain that integrated description works best for most training videos, though not for most stories. Emphasize that it is best practice to plan for integrated description early on in the creation process to minimize the need for separate description. For details on how to create integrate description, see [Integrated](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#integrated--creating-integrated-description).
+* Demonstrate examples of separate description provided in an alternative version of the video, where the main audio includes the description. Explain that this requires recording and editing abilities. For details on how to create descriptions provided in an alternative version of the video, see [Video with space](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#video-with-space--creating-a-separate-described-video---if-descriptions-fit-in-audio-spaces).
+* Show examples of separate description provided in a text or audio file that syncs with the main audio of the video. Explain that this only works when the media player supports it. For details on how to create descriptions provided in a text or audio file that syncs with the main audio of the video, see [Text](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#text--creating-description-in-a-text-file) and [Audio Only](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#audio-only--creating-description-in-a-separate-audio-file-only).
 * Show a video that has important visual information needed to understand the content. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
 
 #### Ideas to Assess Knowledge for Topic
@@ -270,7 +270,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches for providing description of visual information.
 * Practical &mdash; Give students a video script and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information on the script of the video.
-* Practical &mdash; Give students a video description with a narrative description and ask them to check if all relevant information is included. Assess how students check narrative descriptions for quality and accuracy.
+* Practical &mdash; Give students a video with a separate description and ask them to check if all relevant information is included. Assess how students check separate description for quality and accuracy.
 
 {% include excol.html type="end" %}
 
