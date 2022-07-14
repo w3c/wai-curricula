@@ -248,9 +248,10 @@ Show examples of videos containing such description and demonstrate different ap
 Students should be able to:
 
 * define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
-* identify different approaches for providing description, including:
-  * integrated &mdash; the main speaker(s) provide description integrated in their speaking
-  * separate &mdash; authors add the description at a later phase via an additional audio track or a text file that syncs with the main audio of the video
+* utilize integrated descriptions where possible &mdash; the main speaker(s) provide description integrated in their speaking
+* identify different approaches for providing separate descriptions, including:
+  * an alternative video file where authors include description in the audio of that video
+  * a text or audio file that syncs with the main audio of the video (if supported by the media player)
 * identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
