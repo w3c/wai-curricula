@@ -250,7 +250,7 @@ Students should be able to:
 * define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
 * utilize integrated descriptions where possible &mdash; the main speaker(s) provide description integrated in their speaking
 * identify different approaches for providing separate descriptions, including:
-  * an alternative video file where authors include description in the audio of that video
+  * an alternative video file where authors include description in the audio of the video
   * a text or audio file that syncs with the main audio of the video &mdash; if supported by the media player
 * identify video content that requires description of visual information
 
