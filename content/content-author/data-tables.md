@@ -132,33 +132,37 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Table data cells contain information about a specific type of data in a row or column. Explain how clear and meaningful sequences in tables help people with disabilities better understand the table contents.
+Table data cells contain the individual pieces of data that make up the content of the table. Explain how clear and meaningful order and relations in tables help people with disabilities better understand the table contents.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how assistive technologies associate data cells with their corresponding header cells
-* describe data cells as those which contain information about a specific type of data
+* describe data cells as those which contain the specific pieces of data that make up the table
 * provide clear and succinct information in each data cell
-* ensure people can navigate tables in a meaningful sequence when using different screen sizes, configurations, and assistive technologies
-* identify related requirements for authoring tools to produce appropriate markup for table data cells, including the cell scope
-* identify related requirements for designers and developers to support association of data cells with their corresponding table header cells
+* ensure the order and relations in tables make sense for people using different screen sizes, configurations, and assistive technologies
+* split complex tables into simpler ones to make the information easier to understand
+* identify related requirements for
+  * authoring tools to produce appropriate markup for table data cells, including the cell scope
+  * designers and developers to support association of data cells with their corresponding table header cells
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate data cells. This includes navigating by column and row. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
-* Explain that data cells contain information about a specific type of data. Emphasize that it is best practice to keep tables as simple as possible, providing one specific type of data in one column or row. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
+* Explain that data cells contain the specific pieces of data that make up the table. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
+* Show examples of complex tables. Demonstrate how to split them into simpler ones to make information easier to understand.
 * Introduce accessible authoring tools that produce appropriate markup for data cells. Explain how to designate a cell as data cell and how to define the cell scope using the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information data cells should contain. Assess how students understand the information that the cells should contain.
+* Short Answer Questions &mdash; Ask students what a data cell contains. Assess how students understand what a data cell contains.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the data cells as well as their scope.
+* Practical &mdash; Give students a complex table and ask them to split it into simpler tables to  make information easier to understand. Assess how students split complex tables into simpler ones to make information easier to understand.
 * Practical &mdash; Have students mark the data cells as such and to define their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to mark the data cells and their scope.
 
 {% include excol.html type="end" %}
