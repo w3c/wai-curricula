@@ -38,14 +38,14 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on headings, paragraphs, lists, and other structures to orient themselves, as well as to understand, navigate, and process content
-* provide meaningful and consistent headings to help users identify and navigate content sections
+* provide meaningful and consistent headings for users to identify and navigate content sections
 * group content using paragraphs, lists, and other structures
 * collaborate with designers and developers to:
   * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
   * ensure meaningful content sequences for different screen sizes, user configurations, and assistive technologies in use
 * identify requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures
 * identify related requirements for developers and designers to ensure:
-  * visual and non-visual perception of content structures, including headings, paragraphs, lists, quotes, and others
+  * accessible content structures, including headings, paragraphs, lists, quotes, and others
   * adequate content grouping and spacing to communicate semantic structures visually
 
 {% include excol.html type="all" %}
@@ -97,7 +97,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Headings and their corresponding rank levels communicate the structure of web pages and documents. This helps people with disabilities navigate and identify the different content sections. Explain different purposes of headings and how to include them.
+The heading hierarchy communicates the structure of web pages and documents. Headings enable people with disabilities to identify and navigate the different content sections. Explain different purposes of headings and how to include them.
 
 When content authors change the visual appearance of headings, they must ensure headings remain accessible visually and non-visually.
 
@@ -105,14 +105,14 @@ When content authors change the visual appearance of headings, they must ensure 
 
 Students should be able to:
 
-* explain how proper heading hierarchy helps users identify and navigate the different content sections
-* provide consistent headings and their corresponding rank levels to help users identify and navigate the different content sections
+* explain how proper heading hierarchy enables users to identify and navigate the different content sections
+* provide consistent headings and their corresponding rank levels that enable users to identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
   * potential inaccessibility of the selected custom visual appearance
   * mismatch between the visual appearance of the heading and the generated markup
 * identify requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
-* identify related requirements for designers and developers to ensure visual and non-visual perception of headings
+* identify related requirements for designers and developers to ensure accessible headings
 
 #### Teaching Ideas for Topic
 
@@ -128,7 +128,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where headings can be used.
+* Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where they would use headings.
 * Practical &mdash; Have students include headings and their corresponding rank level in a page using an authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include headings and their corresponding rank level.
 * Practical &mdash; Ask students to change the visual appearance of the headings on a given website ensuring that they remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings style.
 
@@ -140,7 +140,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Paragraphs and lists group related content. This helps people with disabilities better read and understand content. Explain different types of lists and how to include them.
+Paragraphs and lists group related content. They enable people with disabilities to better read and understand content. Explain different types of lists and how to include them.
 
 When content authors change the visual appearance of paragraphs and lists, they must ensure paragraphs and lists remain accessible visually and non-visually.
 
@@ -169,7 +169,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about the purpose of paragraphs, unordered lists, and ordered lists. Assess how students describe the purpose of paragraphs, unordered lists, and ordered lists.
+* Short Answer Questions &mdash; Ask students about the purpose of paragraphs, unordered lists, ordered lists, and description lists. Assess how students describe the purpose of paragraphs, unordered lists, ordered lists, and description lists.
 * Practical &mdash; Give students a piece of content and ask them to group related content using paragraphs and lists. Assess how students use paragraphs and lists to group related content.
 
 {% include excol.html type="end" %}
@@ -180,7 +180,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that help people with disabilities orient themselves and navigate content. These include content that follows a meaningful sequence, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
+Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include content that follows a meaningful sequence, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
@@ -206,7 +206,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand the overall content structure and to move back and forth through different content sections.
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the table of contents, for example a "Back to top" link at the end of each section. Explain that these help keyboard users get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
+* Discuss the use of methods to get back to the table of contents, for example a "Back to top" link at the end of each section. Explain that these enable keyboard users to get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 * Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
 
