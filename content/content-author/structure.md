@@ -197,7 +197,7 @@ Students should be able to:
   * a link to get back to the top of the content and to the top of specific sections
   * methods to move from a footnote marker to the footnote content and from the footnote content back to the footnote marker
 * identify related requirements for:
-  * designers and developers to support visual and non-visual perception and operation of orientation and navigation methods
+  * designers and developers to ensure accessible orientation and navigation methods
   * authoring tools to support accessible orientation and navigation methods
 
 #### Teaching Ideas for Topic
@@ -215,7 +215,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a table of contents and a "Back to top" link.
-* Practical &mdash; Ask students to provide the table of contents for a resource of a given website. Assess how students provide the table of contents for an article.
+* Practical &mdash; Ask students to provide the table of contents for an article of a given website. Assess how students provide the table of contents for an article.
 * Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include accessible footnotes.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.
 

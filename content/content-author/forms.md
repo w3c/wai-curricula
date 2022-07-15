@@ -46,10 +46,7 @@ Students should be able to:
 * provide suggestions for correction when possible based on:
   * selected input formats 
   * validation methods in use
-* identify related requirements for designers and developers to ensure visual and non-visual perception and operation of:
-  * labels
-  * instructions
-  * error messages
+* identify related requirements for designers and developers to ensure accessible labels, instructions, and error messages
   * suggestions for correction
 
 {% include excol.html type="all" %}
