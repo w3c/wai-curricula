@@ -42,9 +42,8 @@ Students should be able to:
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
 * ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
-* identify related requirements for:
-  * designers to ensure appropriate contrast ratio for data tables
-  * authoring tools to produce appropriate markup for data tables
+* identify requirements for authoring tools to produce appropriate markup for data tables
+* identify related requirements for designers to ensure appropriate contrast ratio for data tables
 
 {% include excol.html type="all" %}
 
@@ -184,7 +183,7 @@ Students should be able to:
 * write descriptions that:
   * explain how the table is organized
   * provide information about the type of data in each column and row
-* identify related requirements for authoring tools to:
+* identify requirements for authoring tools to:
   * support the inclusion of summaries and descriptions
   * produce appropriate markup for summaries and descriptions
 
