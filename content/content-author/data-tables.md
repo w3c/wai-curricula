@@ -153,7 +153,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate data cells. This includes navigating by column and row. Emphasize how data cells are associated to their corresponding header cells. Some assistive technologies announce the header cell before the data cell, others do the opposite way.
 * Explain that data cells contain the specific pieces of data that make up the table. Explain that cells spanning multiple rows or columns are problematic for some people that have difficulty to understand the cell's scope.
-* Show examples of complex tables. Demonstrate how to split them into simpler ones to make information easier to understand.
+* Show examples of complex tables. Demonstrate how to split them into simpler ones to make the information easier to understand.
 * Introduce accessible authoring tools that produce appropriate markup for data cells. Explain how to designate a cell as data cell and how to define the cell scope using the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -162,7 +162,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what a data cell contains. Assess how students understand what a data cell contains.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the data cells as well as their scope.
-* Practical &mdash; Give students a complex table and ask them to split it into simpler tables to  make information easier to understand. Assess how students split complex tables into simpler ones to make information easier to understand.
+* Practical &mdash; Give students a complex table and ask them to split it into simpler tables to make the information easier to understand. Assess how students split complex tables into simpler ones to make the information easier to understand.
 * Practical &mdash; Have students mark the data cells as such and to define their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to mark the data cells and their scope.
 
 {% include excol.html type="end" %}
