@@ -241,17 +241,17 @@ Optional ideas to assess knowledge:
 
 people who cannot see the video need description of visual information to understand the content.
 
-Show examples of videos containing such description and demonstrate different approaches for providing description of visual information. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
+Demonstrate approaches for providing description of visual information. These include integrating description in the main audio of the video, providing description in the main audio of an alternative video, and including the description in a synchronized audio or text file when supported by the media player. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
-* utilize integrated descriptions where possible &mdash; the main speaker(s) provide description integrated in their speaking
-* identify different approaches for providing separate descriptions, including:
-  * an alternative video file where authors include description in the audio of the video
-  * a text or audio file that syncs with the main audio of the video &mdash; if supported by the media player
+* identify different approaches for providing description, including:
+  * integrated &mdash; authors include descriptions in the script for the main speaker(s) and provide them in the main video
+  * two videos &mdash; authors include description in the audio track of an alternative video
+  * separate file &mdash; a text or audio file that syncs with the main audio of the video, if supported by the media player
 * identify video content that requires description of visual information
 
 #### Teaching Ideas for Topic
@@ -259,9 +259,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Define description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
-* Discuss with students how the main speaker(s) can provide the description integrated in their speaking. Explain that integrated description works best for most training videos, though not for most stories. Emphasize that it is best practice to plan for integrated description early on in the creation process to minimize the need for separate description. For details on how to create integrate description, see [Integrated](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#integrated--creating-integrated-description).
-* Demonstrate examples of separate description provided in an alternative version of the video, where the main audio includes the description. Explain that this requires recording and editing abilities. For details on how to create descriptions provided in an alternative version of the video, see [Video with space](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#video-with-space--creating-a-separate-described-video---if-descriptions-fit-in-audio-spaces).
-* Show examples of separate description provided in a text or audio file that syncs with the main audio of the video. Explain that this only works when the media player supports it. For details on how to create descriptions provided in a text or audio file that syncs with the main audio of the video, see [Text](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#text--creating-description-in-a-text-file) and [Audio Only](https://deploy-preview-190--wai-media-guide.netlify.app/media/av/description/#audio-only--creating-description-in-a-separate-audio-file-only).
+* Discuss with students how the main speaker(s) can provide the description integrated in their speaking. Explain that integrated description works best for most training videos, though not for most stories. Emphasize that it is best practice to plan for integrated description early on in the creation process to minimize the need for separate description. For details on how to create integrate description, see [Integrated](https://www.w3.org/WAI/media/av/description/#integrated--creating-integrated-description).
+* Demonstrate examples of description provided in an alternative version of the video, where the main audio includes the description. Explain that this requires recording and editing abilities. For details on how to create descriptions provided in an alternative version of the video, see [Video with space](https://www.w3.org/WAI/media/av/description/#video-with-space--creating-a-separate-described-video---if-descriptions-fit-in-audio-spaces).
+* Show examples of description provided in a text or audio file that syncs with the main audio of the video. Explain that this only works when the media player supports that functionality. For details on how to create descriptions provided in a text or audio file that syncs with the main audio of the video, see [Text](https://www.w3.org/WAI/media/av/description/#text--creating-description-in-a-text-file) and [Audio Only](https://www.w3.org/WAI/media/av/description/#audio-only--creating-description-in-a-separate-audio-file-only).
 * Show a video that has important visual information needed to understand the content. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
 
 #### Ideas to Assess Knowledge for Topic
@@ -269,8 +269,8 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches for providing description of visual information.
-* Practical &mdash; Give students a video script and ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information on the script of the video.
-* Practical &mdash; Give students a video with a separate description and ask them to check if all relevant information is included. Assess how students check separate description for quality and accuracy.
+* Practical &mdash; Give students a script for a training video. Ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
+* Practical &mdash; Give students a video and its corresponding description. Ask them to check if all relevant information is included. Assess how students check separate description for quality and accuracy.
 
 {% include excol.html type="end" %}
 
