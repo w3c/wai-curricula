@@ -166,32 +166,29 @@ People who are both Deaf and blind require descriptive transcripts to understand
 Students should be able to:
 
 * identify audio and video content that requires transcripts
-* create descriptive transcripts that:
-  * identify the speaker
-  * convey the speech and non-speech information needed to understand the content
-  * describe the visual information needed to understand the content
+* identify different approaches for providing transcripts, including:
+  * basic &mdash; convey the speech and non-speech information needed to understand the content
+  * descriptive &mdash; convey the speech,  non-speech, and visual information needed to understand the content
+  * interactive &mdash; highlight text phrases as they are spoken
+* create descriptive transcripts when possible to cover all user needs
 * collaborate with designers and developers to ensure transcripts are easy to find on the page
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Define descriptive transcripts as those that include text description of the visual information that is needed to understand the content. People who are both Deaf and blind need them to understand the information contained in video content. Explain that creating descriptive transcripts is easier if they are based on existing captions and description of visual information.
-* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that basic transcripts are for people who cannot hear the content well or at all.
-* Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant information needed to understand the content.
-* Give students a piece of audio and video content and ask them to reflect on what type of information they would include in basic and descriptive transcripts.
-* Discuss approaches for making transcripts easy to find on the page. This may include adding the transcript in an expandable section and adding a link to a separate page that contains the transcript. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
-
-Interactive transcripts highlight text phrases as they are spoken (if supported by the media player). 
-
+* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that basic transcripts are for people who cannot hear the content well or at all but do not cover the user needs of those who are both Deaf and blind.
+* Define descriptive transcripts as those that include text description of the visual information needed to understand the content. People who are both Deaf and blind need them to understand the information contained in video content. Explain that creating descriptive transcripts is easier if they are based on existing captions and description of visual information.
+* Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant speech, non-speech, and visual information needed to understand the content.
+* Give students a piece of audio and video content and ask them to reflect on what type of information they would include in the transcript.
+* Discuss approaches for making transcripts easy to find on the page. These include adding the transcript in an expandable section, adding a link to a separate page that contains the transcript, and providing interactive transcripts if the media player supports that functionality. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what the difference between basic and descriptive transcripts is. Assess how students explain the difference between basic and descriptive transcripts.
-* Practical &mdash; Give students a piece of video content with audio and ask them to create its transcript. Assess how students create transcripts for audio and video content  that include the relevant information needed to understand the content.
-* Practical &mdash; Give students a piece of video and audio content with a basic transcript and ask them to create a descriptive transcript. Assess how students create descriptive transcripts.
+* Practical &mdash; Give students a piece of video content with audio and ask them to create its descriptive transcript. Assess how students create descriptive transcripts for audio and video content that include the speech, non-speech, and visual information needed to understand the content.
 
 {% include excol.html type="end" %}
 
