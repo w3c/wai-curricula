@@ -159,7 +159,7 @@ Optional ideas to assess knowledge:
 
 Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include text description of the visual information needed to understand the content.
 
-People who are both Deaf and blind require descriptive transcripts to understand the information contained in video content. Emphasize that creating descriptive transcripts is easier when starting with existing captions and description. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
+People who are both Deaf and blind require descriptive transcripts to understand the information in video content. Emphasize that creating descriptive transcripts is easier when starting with existing captions and description. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
 
 #### Learning Outcomes for Topic
 
