@@ -61,6 +61,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* Prior [Content Author Modules](/curricula/content-author-modules/)
 * Basic knowledge of:
   * Writing
   * Copy-editing
@@ -138,7 +139,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that alternative text for informative images should convey. Assess how students explain the type of information that alternative text for informative images should convey.
 * Practical &mdash; Give students several informative images with adjacent text. Ask them to determine if the adjacent text provides enough information to understand the image and to include alternative text when needed. Assess how students provide alternative text for informative images based on the information conveyed in the image and on its adjacent text.
-* Practical &mdash; Give students several pages containing the same image. Ask them to determine when the image is informative and when it is decorative. Assess how students distinguish informative from decorative images based on context.
+* Practical &mdash; Give students several pages containing the same image. Ask them to determine when the image is informative and when it is decorative. Assess what text students select for the informative images, as well as how students distinguish informative from decorative images based on context.
 
 {% include excol.html type="end" %}
 
@@ -148,7 +149,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, a magnifying glass for search, an envelope for mail, and a printer for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
+Functional images convey functionality. For example, a magnifying glass for search, an envelope for mail, and a printer for print functionality. Discuss different approaches for providing text alternatives for functional images, including for icons as well as for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 

@@ -29,7 +29,7 @@ navigation:
 The content author modules guide the creation of courses that:
 
 * explain that accessibility relies upon clear content
-* demonstrate how accessible content enables people with disabilities to effectively use websites and applications
+* demonstrate how accessible content enables people with disabilities to effectively understandd and use websites and applications
 * teach accessible authoring techniques for:
   * text
   * images

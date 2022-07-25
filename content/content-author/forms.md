@@ -30,18 +30,18 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear labels and instructions to understand and interact with web pages and applications that include forms
+* demonstrate how people with disabilities rely on clear labels, instructions, and error messages to understand and interact with web pages and applications that include forms
 * explain accessibility requirements for form fields and controls, including edit boxes, list boxes, buttons, and other form interactions 
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how people with disabilities rely on clear labels and meaningful instructions to understand and successfully interact with web pages and applications
+* explain how people with disabilities rely on clear and meaningful labels, instructions, and error messages to understand and successfully interact with web pages and applications
 * write labels for form fields and controls that clearly communicate the form purpose
 * provide meaningful instructions that describe the overall purpose and intent of the form
-* write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
 * include instructions about expected input types and formats
+* write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
 * write error messages that identify the field in error and communicate the problem
 * provide suggestions for correction when possible based on:
   * selected input formats 
@@ -127,7 +127,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the label associated with a form field or control. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
-* Show examples of commonly used labels for form fields and controls. Examples include “name”, “surname”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
+* Show examples of commonly used labels for form fields and controls. Examples include “name”, “family name”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
 * Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels with the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label with the corresponding form field and control.
 
@@ -168,7 +168,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions.
-* Show examples of forms that require instructions to understand their purpose. Discuss with students which instructions they would provide to help users understand the form. For example, what type of data the form collects and general timing instructions for the form.
+* Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. For example, what type of data the form collects and general timing instructions for the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
 * Demonstrate approaches for providing instructions for multi-step processes. For example, including information about the current step and the total number of steps in the page title or before the form.
 * Introduce accessible authoring tools that programmatically associate instructions with the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions with the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
@@ -177,7 +177,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type for information instructions should contain. Assess how students understand the type of information that instructions should contain.
+* Short Answer Questions &mdash; Ask students what type of information instructions should contain. Assess how students understand the type of information that instructions should contain.
 * Practical &mdash; Give students a multi-step process and ask them to provide the instructions for each of the steps. Assess how students provide the relevant instructions for each of the steps in a multi-step process.
 * Practical &mdash; Give students a form field with specific input requirements. Ask them to provide instructions that communicate such requirements. Assess how students provide instructions that communicate specific input requirements.
 

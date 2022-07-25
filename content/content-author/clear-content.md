@@ -37,7 +37,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how clear, easy to understand, and easy to read language and visual presentation are essential for some people with disabilities
+* explain how clear, easy to understand, and easy to read language and visual presentation are essential for people with disabilities
 * provide clear content based on context and audience by using:
   * appropriate words
   * short sentences
@@ -193,7 +193,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students about best practices for including information in page titles. Assess how students describe best practices for including information in page titles.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
 * Short Answer Questions &mdash; Ask students what type of information link text should contain. Assess how students describe what type of information link text should contain, including link destination, target document type and format, as well as where the link will open.
-* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text.
+* Practical &mdash; Ask students to include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
 
 {% include excol.html type="end" %}
 

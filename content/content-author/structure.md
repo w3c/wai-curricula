@@ -42,7 +42,7 @@ Students should be able to:
 * group content using paragraphs, lists, and other structures
 * collaborate with designers and developers to:
   * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
-  * ensure meaningful content sequences for different screen sizes, user configurations, and assistive technologies in use
+  * ensure content presentation and structure makes sense for different screen sizes, user configurations, and assistive technologies in use
 * identify requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures
 * identify related requirements for developers and designers to ensure:
   * accessible content structures, including headings, paragraphs, lists, quotes, and others
@@ -61,6 +61,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
+* [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
 * Basic knowledge of:
   * Writing
   * Copy-editing
@@ -180,7 +181,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include content that follows a meaningful sequence, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
+Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include how content is presented to the user, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
