@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Easy to understand language is essential for some groups of people with disabilities to understand the content. Explain the characteristics of easy to understand language, including clear words, short sentences, and active voice.
+Easy to understand language is essential for people with disabilities to understand the content. Explain the characteristics of easy to understand language, including clear words, short sentences, and active voice.
 
 Discuss approaches for explaining the meaning of abbreviations and acronyms.
 
@@ -132,7 +132,7 @@ Optional ideas to teach the learning outcomes:
 
 * Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
-* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide edditor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively use content, furthermore, it also benefits all users.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide editor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively use content, furthermore, it also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
 * Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, by including the extension directly after the first occurrence of an abbreviation or acronym.
 * Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
@@ -190,10 +190,10 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about best practices for including information in page titles. Assess how students describe best practices for including information in page titles.
+* Short Answer Questions &mdash; Ask students about best practices for including information in page titles and link text. Assess how students describe best practices for including information in page titles and link text.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Short Answer Questions &mdash; Ask students what type of information link text should contain. Assess how students describe what type of information link text should contain, including link destination, target document type and format, as well as where the link will open.
-* Practical &mdash; Ask students to include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
+* practical &mdash; Give students a page with inaccessible link text and ask students to substitute them with accessible link text. Assess how students create accessible link text.
+* Practical &mdash; Have students include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
 
 {% include excol.html type="end" %}
 
