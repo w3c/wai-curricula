@@ -29,7 +29,7 @@ navigation:
 The content author modules guide the creation of courses that:
 
 * explain that accessibility relies upon clear content
-* demonstrate how accessible content enables people with disabilities to effectively understandd and use websites and applications
+* demonstrate how accessible content enables people with disabilities to effectively understand and use websites and applications
 * teach accessible authoring techniques for:
   * text
   * images
@@ -43,6 +43,8 @@ These modules focus on accessible content creation. The modules are primarily de
 * editors
 * content creators
 * content publishers
+
+These modules do not cover specifics on authoring tools accessibility. Instructors should take the responsibility to choose the appropriate authoring tool type and version based on the specific course setup. For more details, see [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/).
 
 ### Foundation Prerequisites
 

@@ -42,7 +42,7 @@ Students should be able to:
 * group content using paragraphs, lists, and other structures
 * collaborate with designers and developers to:
   * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
-  * ensure content presentation and structure makes sense for different screen sizes, user configurations, and assistive technologies in use
+  * ensure meaningful sequence, for example, the reading order, makes sense for different screen sizes, user configurations, and assistive technologies
 * identify requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures
 * identify related requirements for developers and designers to ensure:
   * accessible content structures, including headings, paragraphs, lists, quotes, and others
@@ -107,12 +107,12 @@ When content authors change the visual appearance of headings, they must ensure 
 Students should be able to:
 
 * explain how proper heading hierarchy enables users to identify and navigate the different content sections
-* provide consistent headings and their corresponding rank levels that enable users to identify and navigate the different content sections
+* provide proper heading levels that enable users to identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
   * potential inaccessibility of the selected custom visual appearance
   * mismatch between the visual appearance of the heading and the generated markup
-* identify requirements for authoring tools to produce appropriate markup for headings and their corresponding rank levels
+* identify requirements for authoring tools to produce appropriate markup for heading hierarchies
 * identify related requirements for designers and developers to ensure accessible headings
 
 #### Teaching Ideas for Topic
@@ -120,8 +120,8 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
-* Discuss the use of headings and their corresponding rank levels for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
-* Explain other uses of heading text. These include providing a headline for a piece of news and summarizing the content the heading precedes.
+* Discuss the use of heading levels for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
+* Explain different uses of heading text. These uses include providing a headline for a piece of news and summarizing the content the heading precedes.
 * Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
@@ -130,7 +130,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where they would use headings.
-* Practical &mdash; Have students include headings and their corresponding rank level in a page using an authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include headings and their corresponding rank level.
+* Practical &mdash; Have students specify the heading hierarchy in a page using a given authoring tool. Assess how students rely on the tool's built-in functionality to specify the heading hierarchy.
 * Practical &mdash; Ask students to change the visual appearance of the headings on a given website ensuring that they remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings style.
 
 {% include excol.html type="end" %}
@@ -181,7 +181,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include how content is presented to the user, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
+Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
@@ -189,7 +189,7 @@ Explain that creating accessible navigation and orientation methods requires col
 
 Students should be able to:
 
-* explain how people with disabilities rely on content that follows a meaningful sequence, a table of contents, and other orientation and navigation methods to orient themselves and navigate content
+* explain how people with disabilities rely on a correct reading order, a table of contents, and other orientation and navigation methods to orient themselves and navigate content
 * utilize a table of contents to:
   * provide a summary of the overall content structure
   * help users navigate to parts of the content
@@ -215,9 +215,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a table of contents and a "Back to top" link.
+* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a correct reading order, a table of contents and a "Back to top" link.
 * Practical &mdash; Ask students to provide the table of contents for an article of a given website. Assess how students provide the table of contents for an article.
-* Practical &mdash; Ask students to use an authoring tool of their choice to include accessible footnotes. Assess how students include accessible footnotes.
+* Practical &mdash; Ask students to use a given authoring tool to include accessible footnotes. Assess how students include accessible footnotes using an authoring tool.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.
 
 {% include excol.html type="end" %}

@@ -107,7 +107,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text. Designers specify the label appearance. Developers implement the label.
+Accessible labels often require collaboration between content authors, designers, and developers. Content authors provide the label text. Designers specify the label appearance. Developers associate the label with its corresponding control.
 
 #### Learning Outcomes for Topic
 
@@ -138,7 +138,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand the type of information that labels should contain.
 * Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear, and descriptive labels for form fields and controls.
 * Practical &mdash; Have students collaborate with designers and developers to select icons and symbols that complement text labels. Assess how students complement text labels with icons and symbols.
-* Practical &mdash; Have students include labels for form fields and controls in a tool of their choice that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool of their choice to include labels for form fields and controls.
+* Practical &mdash; Have students include labels for form fields and controls in an authoring tool that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool to include labels for form fields and controls.
 
 {% include excol.html type="end" %}
 

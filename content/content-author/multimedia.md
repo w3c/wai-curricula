@@ -72,6 +72,7 @@ Skills required for this module:
   * Writing
   * Copy-editing
   * Proofreading
+  * Audio and video content creation
 
 {% include excol.html type="end" %}
 
@@ -89,7 +90,7 @@ Skills required for this module:
   * [WCAG Success Criterion 1.2.5 Audio Description (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
   * [WCAG Success Criterion 1.2.6 Sign Language (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded)
   * [WCAG Success Criterion 1.4.2 Audio Control](https://www.w3.org/WAI/WCAG21/quickref/#audio-control)
-  * [WCAG 2 Successs Criterion 1.4.7 Low or No Background Audio](https://www.w3.org/WAI/WCAG21/quickref/#low-or-no-background-audio)
+  * [WCAG Success Criterion 1.4.7 Low or No Background Audio](https://www.w3.org/WAI/WCAG21/quickref/#low-or-no-background-audio)
   * [WCAG Success Criterion 2.2.2 Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide)
   * [WCAG Success Criterion 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/quickref/#three-flashes-or-below-threshold)
 * In-depth knowledge of:

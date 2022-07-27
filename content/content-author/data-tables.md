@@ -122,7 +122,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type of information header cells should convey. Assess how students understand the type of information table headers cells should convey.
 * Practical &mdash; Give students a table without designated headers. Ask them to tell which cells should be the header cells and how many rows and/or columns the headers should span. Assess how students recognize the header cells as well as their scope.
-* Practical &mdash; Have students designate the header cells and their scope using an accessible authoring tool of their choice. Assess how students use accessible authoring tools to designate the header cells and their scope.
+* Practical &mdash; Have students designate the header cells and their scope using a given authoring tool. Assess how students use authoring tools to designate the header cells and their scope.
 
 {% include excol.html type="end" %}
 
@@ -163,7 +163,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students what a data cell contains. Assess how students understand what a data cell contains.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the data cells as well as their scope.
 * Practical &mdash; Give students a complex table and ask them to split it into simpler tables to make the information easier to understand. Assess how students split complex tables into simpler ones to make the information easier to understand.
-* Practical &mdash; Have students mark the data cells as such and to define their scope using an accessible tool of their choice. Assess how students use accessible authoring tools to mark the data cells and their scope.
+* Practical &mdash; Have students mark the data cells as such and to define their scope using a given authoring tool. Assess how students use authoring tools to mark the data cells and their scope.
 
 {% include excol.html type="end" %}
 
@@ -203,7 +203,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type of information the table summary and description should convey. Assess how students explain what type of information the table summary and description should convey.
-* Practical &mdash; Have students include the table summary and description using an accessible authoring tool of their choice. Assess how students rely on the tool's built-in functionality to include the table summary and description.
+* Practical &mdash; Have students include the table summary and description using a given authoring tool. Assess how students rely on the tool's built-in functionality to include the table summary and description.
 
 {% include excol.html type="end" %}
 
