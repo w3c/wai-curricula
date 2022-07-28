@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 1: Clear Content in Content Author Modules | Curricula"
-title_html: "Module 1: Clear Content"
+title_html: "Module 1: Clear Content "
 nav_title: "Clear Content"
 permalink: /curricula/content-author-modules/clear-content/
 ref: /curricula/content-author-modules/clear-content/
@@ -192,7 +192,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about best practices for including information in page titles and link text. Assess how students describe best practices for including information in page titles and link text.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* practical &mdash; Give students a page with inaccessible link text and ask students to substitute them with accessible link text. Assess how students create accessible link text.
+* practical &mdash; Have students visit a page with inaccessible title and link text. Ask students to identify inaccessible examples and to propose accessible alternatives for the inaccessible examples. Assess how students identify inaccessible titles and link text and propose accessible alternatives.
 * Practical &mdash; Have students include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
 
 {% include excol.html type="end" %}
