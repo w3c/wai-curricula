@@ -31,7 +31,7 @@ The content author modules guide the creation of courses that:
 * explain that accessibility relies upon clear content
 * demonstrate how accessible content enables people with disabilities to effectively understand and use websites and applications
 * teach accessible authoring techniques for:
-  * text
+  * text (including text passages as well as label and link text)
   * images
   * tables
   * forms

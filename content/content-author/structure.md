@@ -131,7 +131,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about situations where they would use headings. Assess how students identify situations where they would use headings.
 * Practical &mdash; Have students specify the heading hierarchy in a page using a given authoring tool. Assess how students rely on the tool's built-in functionality to specify the heading hierarchy.
-* Practical &mdash; Ask students to change the visual appearance of the headings on a given website ensuring that they remain accessible visually and non-visually. Assess how students ensure visual and non-visual accessibility of headings when changing the headings style.
+* Practical &mdash; Have students visit a page with an inaccessible heading hierarchy. Ask students to identify inaccessible examples and to propose accessible alternatives for the inaccessible examples. Assess how students identify inaccessible heading hierarchies and propose accessible alternatives.
 
 {% include excol.html type="end" %}
 
@@ -193,7 +193,7 @@ Students should be able to:
 * utilize a table of contents to:
   * provide a summary of the overall content structure
   * help users navigate to parts of the content
-* ensure availability of methods for users to move back and forth through long passages of content, for example using:
+* ensure availability of methods for users to move through different sections in long passages of text, for example using:
   * a table of contents
   * a link to get back to the top of the content and to the top of specific sections
   * methods to move from a footnote marker to the footnote content and from the footnote content back to the footnote marker
@@ -207,7 +207,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand the overall content structure and to move back and forth through different content sections.
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the table of contents, for example a "Back to top" link at the end of each section. Explain that these enable keyboard users to get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
+* Discuss the use of methods to get back to the top of different sections in long passages of content. These methods include a "Back to top" link at the end of each section. Explain that these enable keyboard users to get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 * Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
 
