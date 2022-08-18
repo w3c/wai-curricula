@@ -30,7 +30,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on the visual and non-visual identification of header and data cells to understand, navigate, and process data tables
+* demonstrate how people with disabilities rely on the visual and non-visual relations between the table cells to understand, navigate, and process information contained in data tables
 * explain accessibility requirements related to data tables
 
 ## Learning Outcomes for Module
