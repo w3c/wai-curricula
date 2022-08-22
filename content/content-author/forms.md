@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 3: Forms in Content Author Modules | Curricula"
-title_html: "Module 3: Forms"
+title_html: "Module 3: Forms&nbsp;"
 nav_title: "Forms"
 permalink: /curricula/content-author-modules/forms/
 ref: /curricula/content-author-modules/forms/
