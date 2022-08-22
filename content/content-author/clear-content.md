@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, grouping, spacing, text alignment, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, grouping, spacing, text alignment, and others.
 
 When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
@@ -222,7 +222,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, content grouping, spacing, text alignment, as well as line height.
+* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, content grouping, spacing, text alignment, and others.
 * Demonstrate content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how appropriate contrast ratios favor content readability.
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
 * Demonstrate different approaches for grouping related content. These include defining the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
