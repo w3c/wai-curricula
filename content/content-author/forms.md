@@ -47,7 +47,6 @@ Students should be able to:
   * selected input formats 
   * validation methods in use
 * identify related requirements for designers and developers to ensure accessible labels, instructions, and error messages
-  * suggestions for correction
 
 {% include excol.html type="all" %}
 
