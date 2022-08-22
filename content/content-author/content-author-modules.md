@@ -37,7 +37,7 @@ The content author modules guide the creation of courses that:
   * forms
   * multimedia (including audio and video)
 
-These modules focus on accessible content creation. The modules are primarily designed for teaching:
+These modules focus on accessible content creation. They are primarily designed for teaching:
 
 * technical writers
 * editors
