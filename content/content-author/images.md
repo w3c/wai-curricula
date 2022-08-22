@@ -119,10 +119,10 @@ Students should be able to:
   * mark an image as decorative when it does not convey information
 * identify requirements for authoring tools to:
   * support the inclusion of alternative text for informative images
+  * support marking an image as decorative
   * enable authors to amend automatically generated text alternatives for quality and accuracy
-  * produce appropriate markup for informative images
+  * produce appropriate markup for informative and decorative images
   * support different modalities of CAPTCHA, including visual, auditory, and biometrics
-  * identify and produce appropriate markup for decorative images
 
 #### Teaching Ideas for Topic
 

@@ -160,7 +160,7 @@ Students should be able to:
 * write additional instructions that provide examples of expected input when possible
 * provide information about the current step and the total number of steps in a multi-step process
 * identify requirements for authoring tools to programmatically associate instructions with their corresponding form field and control
-* identify related requirements for designers and developers to support visual and non-visual perception of instructions
+* identify related requirements for designers and developers to ensure accessible instructions
 
 #### Teaching Ideas for Topic
 
@@ -212,7 +212,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages.
-* Demonstrate approaches for communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security of the form.
+* Demonstrate approaches for communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
 
 ### Ideas to Assess Knowledge for Topic
 
