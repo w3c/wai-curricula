@@ -43,8 +43,9 @@ Students should be able to:
 * provide table summaries and descriptions to help users understand the purpose of complex tables
 * identify situations where tables are used only for layout purposes
 * ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
-* identify requirements for authoring tools to produce appropriate markup for data tables
-* identify related requirements for designers to ensure appropriate contrast ratio for data tables
+* identify related requirements for:
+  * designers to ensure sufficient contrast ratios for data tables
+  * authoring tools to produce appropriate markup for data tables
 
 {% include excol.html type="all" %}
 
