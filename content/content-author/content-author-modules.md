@@ -46,7 +46,13 @@ These modules focus on accessible content creation. They are primarily designed 
 
 These modules do not cover specifics on authoring tools accessibility. Instructors should take the responsibility to choose the appropriate authoring tool type and version based on the specific course setup. For more details, see [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/).
 
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" %}
+
 ### Foundation Prerequisites
+
+{% include excol.html type="middle" %}
 
 The content author modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
@@ -62,6 +68,10 @@ The content author modules are designed for students who have achieved the learn
   * Topic: Hands-on Experience of Standards
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Content Author Modules
 
