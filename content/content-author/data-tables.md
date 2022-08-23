@@ -164,7 +164,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students what a data cell contains. Assess how students understand what a data cell contains.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the data cells as well as their scope.
 * Practical &mdash; Give students a complex table and ask them to split it into simpler tables to make the information easier to understand. Assess how students split complex tables into simpler ones to make the information easier to understand.
-* Practical &mdash; Have students mark the data cells as such and to define their scope using a given authoring tool. Assess how students use authoring tools to mark the data cells and their scope.
+* Practical &mdash; Ask students to mark the data cells as such and to define their scope using a given authoring tool. Assess how students use authoring tools to mark the data cells and their scope.
 
 {% include excol.html type="end" %}
 
