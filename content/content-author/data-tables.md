@@ -41,7 +41,7 @@ Students should be able to:
 * provide data tables as an alternative to data visualizations contained in charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
-* identify situations where tables are used only for layout purposes
+* explain why tables used for layout purposes can communicate inaccurate information about the content structure and avoid using them when possible
 * ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
 * identify related requirements for:
   * designers to ensure sufficient contrast ratios for data tables
