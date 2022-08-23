@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, grouping, spacing, text alignment, and others.
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
 When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
@@ -212,8 +212,9 @@ When content authors can specify the visual appearance, they must ensure that it
 Students should be able to:
 
 * provide content with sufficient contrast ratios
-* provide easy to read and easy to understand fonts
-* ensure appropriate content grouping, enough spacing, and proper text alignment to improve readability
+* provide fonts that are easy to read and easy to understand
+* ensure enough text spacing and appropriate text alignment to improve readability
+* ensure appropriate content grouping to communicate related content
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
   * design layouts that adapt to different screen sizes and configurations set by users
@@ -222,18 +223,18 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, content grouping, spacing, text alignment, and others.
-* Demonstrate content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how appropriate contrast ratios favor content readability.
+* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others.
+* Demonstrate content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios favor content readability and are essential for people to understand the content
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
-* Demonstrate different approaches for grouping related content. These include defining the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
-* Show examples of text aligned to the left, to the right, and justified. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
+* Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
+* Show examples of text spacing and alignment. Emphasize how appropriate spacing between words, lines, and paragraphs favors content readability. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
-* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, grouping, spacing, and text alignment  to favor content readability.
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
+* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}
