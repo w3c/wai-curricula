@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Accessible labels often require collaboration between content authors, designers, and developers. Content authors and UX designers provide the label text. Designers specify the label appearance. Developers associate the label with its corresponding control.
+Authoring tools may or may not produce accessible labels. When the latter, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the label as well as to associate the label with its corresponding control.
 
 #### Learning Outcomes for Topic
 
@@ -119,15 +119,15 @@ Students should be able to:
   * groups of related form fields and controls
 * identify requirements for authoring tools to programmatically associate labels with their corresponding control
 * collaborate with designers and developers to include icons, symbols, and other imagery to make text labels easier to understand
-* identify related requirements for developers and designers to ensure visual and non-visual perception of labels
+* identify related requirements for developers and designers to ensure accessible labels
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the label associated with a form field or control. Explain that several groups of users require labels that clearly describe the purpose of the controls. Show how successful form interaction becomes difficult or impossible without such labels.
+* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the label associated with a form field or control. Explain that several groups of users require labels that are persistently visible on the page. Content authors should avoid the use of placeholder text that disappears when the user gets to the form field or control. Show how successful form interaction becomes difficult or impossible when labels are not accessible.
 * Show examples of commonly used labels for form fields and controls. Examples include “name”, “family name”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
-* Explain how imagery can help users who do not process text easily. These users rely on icons and symbols to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
+* Explain how imagery, including icons and symbols, helps users who do not process text easily to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels with the form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label with the corresponding form field and control.
 
 #### Ideas to Assess Knowledge for Topic
@@ -149,7 +149,7 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and information about the current step and the total number of steps in a form.
 
-Accessible instructions often require collaboration between content authors, designers, and developers. Content authors and UX designers provide the instructions. Designers specify their appearance. Developers implement the instructions.
+Authoring tools may or may not produce accessible instructions. When the latter, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the instructions as well as to implement the instructions.
 
 #### Learning Outcomes for Topic
 
@@ -190,7 +190,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
-Accessible error messages often require collaboration between content authors, designers, and developers. Content authors and UX designers provide the message text. Designers specify the message appearance. Developers implement the message.
+Authoring tools may or may not produce accessible error messages. When the latter, different team members, including content authors, designers, and developers, need to collaborate to specify the appearance of the error messages as well as to implement the error messages.
 
 #### Learning Outcomes for Topic
 
