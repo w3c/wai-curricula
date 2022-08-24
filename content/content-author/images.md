@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 4: Images in Content Author Modules | Curricula"
-title_html: "Module 4: Images"
+title_html: "Module 4: Images&nbsp;"
 nav_title: "Images"
 permalink: /curricula/content-author-modules/images/
 ref: /curricula/content-author-modules/images/
@@ -119,10 +119,10 @@ Students should be able to:
   * mark an image as decorative when it does not convey information
 * identify requirements for authoring tools to:
   * support the inclusion of alternative text for informative images
+  * support marking an image as decorative
   * enable authors to amend automatically generated text alternatives for quality and accuracy
-  * produce appropriate markup for informative images
+  * produce appropriate markup for informative and decorative images
   * support different modalities of CAPTCHA, including visual, auditory, and biometrics
-  * identify and produce appropriate markup for decorative images
 
 #### Teaching Ideas for Topic
 
@@ -168,6 +168,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glass", and "print" instead of "printer".
 * Show examples of functional images, including graphical buttons and links. Discuss with students what text alternative to include for these images.
+* Refer back to [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content). Demonstrate the use of iconography to provide information and functionality. Explain that it is best practice to complement icons with text that helps people understand the icons meaning.
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 
 #### Ideas to Assess Knowledge for Topic
@@ -240,4 +241,5 @@ Suggested resources to support your teaching:
 * [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
 * [[How People with Disabilities Use the Web]](https://www.w3.org/WAI/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Understandable Content (Web Accessibility Perspective)](https://www.w3.org/WAI/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
+* [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/) &mdash; examines a number of approaches that allow systems to test for human users and the extent to which these approaches adequately accommodate people with disabilities. 
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.

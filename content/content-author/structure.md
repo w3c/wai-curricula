@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 2: Structure in Content Author Modules | Curricula"
-title_html: "Module 2: Structure"
+title_html: "Module 2: Structure&nbsp;"
 nav_title: "Structure"
 permalink: /curricula/content-author-modules/structure/
 ref: /curricula/content-author-modules/structure/
@@ -38,10 +38,10 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on headings, paragraphs, lists, and other structures to orient themselves, as well as to understand, navigate, and process content
-* provide meaningful and consistent headings for users to identify and navigate content sections
+* provide meaningful and consistent heading hierarchies for users to identify and navigate content sections
 * group content using paragraphs, lists, and other structures
 * collaborate with designers and developers to:
-  * include methods to move back and forth through long pieces of content, including tables of contents and "back to top" links
+  * include methods to move back and forth through long pieces of content, including a table of contents and "back to top" links
   * ensure meaningful sequence, for example, the reading order, makes sense for different screen sizes, user configurations, and assistive technologies
 * identify requirements for authoring tools to produce appropriate markup for headings, paragraphs, lists, and other content structures
 * identify related requirements for developers and designers to ensure:
@@ -107,7 +107,7 @@ When content authors change the visual appearance of headings, they must ensure 
 Students should be able to:
 
 * explain how proper heading hierarchy enables users to identify and navigate the different content sections
-* provide proper heading levels that enable users to identify and navigate the different content sections
+* provide proper heading hierarchies that enable users to identify and navigate the different content sections
 * write descriptive and meaningful heading text depending on the heading purpose
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
   * potential inaccessibility of the selected custom visual appearance
@@ -120,7 +120,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
-* Discuss the use of heading levels for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
+* Discuss the use of heading hierarchies for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain different uses of heading text. These uses include providing a headline for a piece of news and summarizing the content the heading precedes.
 * Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
@@ -161,8 +161,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through paragraphs and lists. Explore advanced functionality that some tools provide, such as presenting all lists in a list where users can select the list they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
+* Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through paragraphs and lists. Explore advanced functionality that some tools provide, such as presenting all lists in a list where users can select the list they are interested in. Mention that different assistive technologies announce terms and descriptions of a definition list differently. Some may not support description lists. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Explain different uses of paragraphs to group thematic units.
+* Refer back to [Content Author Module 1: Clear content](/curricula/content-author-modules/clear-content/). Explain that structured lists favor readability of the content. Information provided using inline lists inside paragraphs is more difficult to understand.
 * Explain uses of different types of lists. Ordered lists (where numbering matters), unordered lists (where numbering does not matter), and description lists (for terms and their definitions).
 * Reflect with students on how content authors can produce accessible paragraphs and lists. Explain that some authoring tools  natively support the creation of accessible paragraphs, ordered lists, and unordered lists. Emphasize that description lists may require developers to code them.
 
@@ -181,7 +182,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of content.
+Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
@@ -207,7 +208,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand the overall content structure and to move back and forth through different content sections.
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of methods to get back to the top of different sections in long passages of content. These methods include a "Back to top" link at the end of each section. Explain that these enable keyboard users to get back to the table of contents when they are finished reading a specific section. Otherwise, they would have to tab back through the whole document, which creates a poorer user experience.
+* Discuss the use of links to get to the top of the document and to get back to the top of specific content sections in long passages of text. Explain that these methods enable users to get back to the table of contents more efficiently when they are finished reading a specific section.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 * Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
 
@@ -215,7 +216,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a correct reading order, a table of contents and a "Back to top" link.
+* Short Answer Questions &mdash; Ask students about different methods to help users orient themselves and navigate long passages of text. Assess how students recall methods to help users orient themselves and navigate long passages of text, including a correct reading order, a table of contents, and a "Back to top" link.
 * Practical &mdash; Ask students to provide the table of contents for an article of a given website. Assess how students provide the table of contents for an article.
 * Practical &mdash; Ask students to use a given authoring tool to include accessible footnotes. Assess how students include accessible footnotes using an authoring tool.
 * Practical &mdash; Ask students to collaborate with other team members to provide accessible navigation and orientation methods. Assess how students collaborate with other team members to provide accessible orientation and navigation methods.

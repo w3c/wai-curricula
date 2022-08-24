@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 5: Data Tables in Content Author Modules | Curricula"
-title_html: "Module 5: Data Tables"
+title_html: "Module 5: Data Tables&nbsp;"
 nav_title: "Data Tables"
 permalink: /curricula/content-author-modules/data-tables/
 ref: /curricula/content-author-modules/data-tables/
@@ -30,7 +30,7 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on the visual and non-visual identification of header and data cells to understand, navigate, and process data tables
+* demonstrate how people with disabilities rely on the visual and non-visual relations between the table cells to understand, navigate, and process information contained in data tables
 * explain accessibility requirements related to data tables
 
 ## Learning Outcomes for Module
@@ -41,10 +41,11 @@ Students should be able to:
 * provide data tables as an alternative to data visualizations contained in charts, diagrams, and infographics
 * designate the cell role and scope in a table, including header and data cells
 * provide table summaries and descriptions to help users understand the purpose of complex tables
-* identify situations where tables are used only for layout purposes
-* ensure presentation of data table content in a meaningful sequence for different user configurations and assistive technologies
-* identify requirements for authoring tools to produce appropriate markup for data tables
-* identify related requirements for designers to ensure appropriate contrast ratio for data tables
+* explain the accessibility considerations of using layout tables and avoid using layout tables when possible
+* ensure presentation of data table content in a meaningful sequence, including the reading order, for different user configurations and assistive technologies
+* identify related requirements for:
+  * designers to ensure sufficient contrast ratios for data tables
+  * authoring tools to produce appropriate markup for data tables
 
 {% include excol.html type="all" %}
 
@@ -163,7 +164,7 @@ Optional ideas to assess knowledge:
 * Short Answer Questions &mdash; Ask students what a data cell contains. Assess how students understand what a data cell contains.
 * Practical &mdash; Give students a table. Ask them to tell which cells should be the data cells and how many columns and/or rows these cells should span. Assess how students recognize the data cells as well as their scope.
 * Practical &mdash; Give students a complex table and ask them to split it into simpler tables to make the information easier to understand. Assess how students split complex tables into simpler ones to make the information easier to understand.
-* Practical &mdash; Have students mark the data cells as such and to define their scope using a given authoring tool. Assess how students use authoring tools to mark the data cells and their scope.
+* Practical &mdash; Ask students to mark the data cells as such and to define their scope using a given authoring tool. Assess how students use authoring tools to mark the data cells and their scope.
 
 {% include excol.html type="end" %}
 
@@ -196,7 +197,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of table summaries. Explain that summaries identify the table purpose and provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
 * Explain that complex tables often need descriptions for users to understand how the table is organized. For example, tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables with information that is difficult to process.
 * Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
-* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions". Others may have just one "caption" field for both the summary andd the description.
+* Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions". Others may have just one "caption" field for both the summary and the description.
 
 #### Ideas to Assess Knowledge for Topic
 

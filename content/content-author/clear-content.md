@@ -132,9 +132,9 @@ Optional ideas to teach the learning outcomes:
 
 * Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
-* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide editor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively use content, furthermore, it also benefits all users.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide editor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively understand and use content, furthermore, it also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
-* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, by including the extension directly after the first occurrence of an abbreviation or acronym.
+* Demonstrate methods to provide the extended form for abbreviations and acronyms, for example, by including the extension directly after the first occurrence of an abbreviation or acronym.
 * Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
 
 #### Ideas to Assess Knowledge for Topic
@@ -203,7 +203,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
 When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
@@ -211,9 +211,10 @@ When content authors can specify the visual appearance, they must ensure that it
 
 Students should be able to:
 
-* provide easy to read and easy to understand fonts
-* provide content with sufficient contrast ratio
-* ensure enough spacing to improve readability
+* provide content with sufficient contrast ratios
+* provide fonts that are easy to read and easy to understand
+* ensure enough text spacing and appropriate text alignment to improve readability
+* ensure appropriate content grouping to communicate related content
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
   * design layouts that adapt to different screen sizes and configurations set by users
@@ -222,15 +223,18 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students on how visual aspects impact readability of the content. These include contrast ratios, font types and sizes, spacing, and line height.
+* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others.
+* Demonstrate content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios favor content readability and are essential for people to understand the content
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
+* Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
+* Show examples of text spacing and alignment. Emphasize how appropriate spacing between words, lines, and paragraphs favors content readability. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
-* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance favors readability. Assess how students ensure sufficient contrast ratios, easy to read font sizes, and enough spacing to favor content readability.
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
+* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}

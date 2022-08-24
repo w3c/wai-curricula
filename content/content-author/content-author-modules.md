@@ -1,6 +1,6 @@
 ---
 title: "[Draft] Overview in Content Author Modules | Curricula"
-title_html: "Content Author Modules"
+title_html: "Content Author Modules&nbsp;"
 nav_title: "Content Author Modules"
 permalink: /curricula/content-author-modules/
 ref: /curricula/content-author-modules/
@@ -37,7 +37,7 @@ The content author modules guide the creation of courses that:
   * forms
   * multimedia (including audio and video)
 
-These modules focus on accessible content creation. The modules are primarily designed for teaching:
+These modules focus on accessible content creation. They are primarily designed for teaching:
 
 * technical writers
 * editors
@@ -46,7 +46,13 @@ These modules focus on accessible content creation. The modules are primarily de
 
 These modules do not cover specifics on authoring tools accessibility. Instructors should take the responsibility to choose the appropriate authoring tool type and version based on the specific course setup. For more details, see [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/).
 
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" %}
+
 ### Foundation Prerequisites
+
+{% include excol.html type="middle" %}
 
 The content author modules are designed for students who have achieved the learning outcomes from the following subset of [Foundation modules](/curricula/foundation-modules/):
 
@@ -62,6 +68,10 @@ The content author modules are designed for students who have achieved the learn
   * Topic: Hands-on Experience of Standards
 * [Module 5: Getting Started with Accessibility](/curricula/foundation-modules/getting-started-with-accessibility/)
   * Topic: Roles and Responsibilities
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="all" %}
 
 ## Content Author Modules
 
