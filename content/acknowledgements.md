@@ -19,9 +19,13 @@ The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Educatio
 Project Leadership
 ------------------
 
--   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
--   **Editors**: Daniel Montalvo and [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
--   **EOWG Co-Chairs:**  Brent Bakken, Pearson and Sharron Rush, Knowbility
+-   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 22021
+-   **Editors**:
+    -   Daniel Montalvo
+    -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 Seeptember 2021
+-   **EOWG Co-Chairs:**  Brent Bakken, Pearson,
+    -   Sharron Rush, Knowbility
+    -   Kris Anne Kinney 
 -   **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 
 Task Force Participants
@@ -30,11 +34,16 @@ Task Force Participants
 -   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
 -   Howard Kramer, University of Colorado Boulder
 -   Carlos Duarte, University of Lisbon
--   David Sloan, The Paciello Group
 -   Donal Fitzpatrick
 -   Gerhard Nussbaum
--   Dónal Rice
 -   Sarah Lewthwaite, University of Southampton
+-   Brian Elton, The Paciello Group
+
+Previous Task Force Participants
+
+-   David Sloan, The Paciello Group
+-   Dónal Rice
+
 
 Contributing EOWG Participants
 ------------------------------
