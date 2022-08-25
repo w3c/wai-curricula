@@ -167,9 +167,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions.
-* Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. For example, what type of data the form collects and general timing instructions for the form.
+* Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing instructions for the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
-* Demonstrate approaches for providing instructions for multi-step processes. For example, including information about the current step and the total number of steps in the page title or before the form.
+* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form.
 * Introduce accessible authoring tools that programmatically associate instructions with the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions with the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
@@ -212,7 +212,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages.
-* Demonstrate approaches for communicating error messages. For example, identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
+* Demonstrate approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
 
 ### Ideas to Assess Knowledge for Topic
 

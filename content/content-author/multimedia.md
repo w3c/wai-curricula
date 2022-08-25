@@ -111,7 +111,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Introduce different user needs for audio and video content. For example, for people who don't see the video and for people who don't hear the audio. For details, see [Understand the User Needs and Experiences of People with Disabilities ](https://www.w3.org/WAI/media/av/users-orgs/#understand-the-user-needs-and-experiences-of-people-with-disabilities).
+Introduce different user needs for audio and video content, including for people who don't see the video and for people who don't hear the audio. For details, see [Understand the User Needs and Experiences of People with Disabilities ](https://www.w3.org/WAI/media/av/users-orgs/#understand-the-user-needs-and-experiences-of-people-with-disabilities).
 
 Discuss best practices for audio and  video content, including clear audio and speech, sufficient contrast ratios, and speaker visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
 
@@ -181,7 +181,7 @@ Optional ideas to teach the learning outcomes:
 
 * Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that basic transcripts are for people who cannot hear the content well or at all but do not cover the user needs of those who are both Deaf and blind.
 * Define descriptive transcripts as those that include text description of the visual information needed to understand the content. People who are both Deaf and blind need them to understand the information contained in video content. Explain that creating descriptive transcripts is easier if they are based on existing captions and description of visual information.
-* Describe characteristics of quality transcripts for video and audio content. For example, identifying the speaker and providing all the relevant speech, non-speech, and visual information needed to understand the content.
+* Describe characteristics of quality transcripts for video and audio content. These include identifying the speaker and providing all the relevant speech, non-speech, and visual information needed to understand the content.
 * Give students a piece of audio and video content and ask them to reflect on what type of information they would include in the transcript.
 * Show examples of interactive transcripts. Explain how users can select text in the transcript and go to that point in the video. Emphasize that, for this to work, the media player must support that functionality.
 * Discuss approaches for making transcripts easy to find on the page. These include adding the transcript in an expandable section, adding a link to a separate page that contains the transcript, and providing interactive transcripts if the media player supports that functionality. Emphasize that making transcripts easy to find on the page requires collaboration between different team members, including designers, developers, and content authors.
