@@ -121,7 +121,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of heading hierarchies for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
-* Explain different uses of heading text. These uses include providing a headline for a piece of news and summarizing the content the heading precedes.
+* Explain different uses of heading text. These uses include providing a headline for a piece of news which effectively summarizes the content which follows.
 * Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
