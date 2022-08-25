@@ -182,7 +182,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
+Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate through content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
 
 Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
 
@@ -190,7 +190,7 @@ Explain that creating accessible navigation and orientation methods requires col
 
 Students should be able to:
 
-* explain how people with disabilities rely on a correct reading order, a table of contents, and other orientation and navigation methods to orient themselves and navigate content
+* explain how people with disabilities rely on a correct reading order, a table of contents, and other orientation and navigation methods to orient themselves and navigate through content
 * utilize a table of contents to:
   * provide a summary of the overall content structure
   * help users navigate to parts of the content
