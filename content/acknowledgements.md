@@ -22,10 +22,10 @@ Project Leadership
 -   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 22021
 -   **Editors**:
     -   Daniel Montalvo
-    -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 Seeptember 2021
+    -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
 -   **EOWG Co-Chairs:**  Brent Bakken, Pearson,
     -   Sharron Rush, Knowbility
-    -   Kris Anne Kinney 
+    -   Kris Anne Kinney, Educational Testing Services
 -   **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 
 Task Force Participants
@@ -37,13 +37,15 @@ Task Force Participants
 -   Donal Fitzpatrick
 -   Gerhard Nussbaum
 -   Sarah Lewthwaite, University of Southampton
--   Brian Elton, The Paciello Group
+-   Brian Elton, TPGI
 
 Previous Task Force Participants
+------------------------------
 
--   David Sloan, The Paciello Group
+-   David Sloan, TPGI
 -   Dónal Rice
-
+-   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
+-   Roberto Perez, Optum 
 
 Contributing EOWG Participants
 ------------------------------
@@ -53,8 +55,9 @@ Contributing EOWG Participants
 -   Sharron Rush
 -   Kevin White
 -   Kris Anne Kinney
+-   Andrew Arch
 -   Laura Keen
 -   Sylvie Duchateau
--   Andrew Arch
 -   Victoria Menezes Miller
--   [Hidde de Vries](https://www.w3.org/people/hidde/)
+-   Jade Matos Carew
+-   [Hidde de Vries](https://www.w3.org/people/hidde/) --- Until October 2021
