@@ -149,7 +149,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. Example include: a magnifying glass for search, an envelope for mail, and a printer for print functionality. Discuss different approaches for providing text alternatives for functional images, including for icons as well as for graphical buttons and links.
+Functional images convey functionality. Examples include: a magnifying glass for search, an envelope for mail, and a printer for print functionality. Discuss different approaches for providing text alternatives for functional images, including for icons as well as for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
