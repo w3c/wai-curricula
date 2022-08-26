@@ -215,6 +215,7 @@ Students should be able to:
 * provide fonts that are easy to read and easy to understand
 * ensure enough text spacing and appropriate text alignment to improve readability
 * ensure appropriate content grouping to communicate related content
+* explain different uses of imagery to complement text content
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
   * design layouts that adapt to different screen sizes and configurations set by users
@@ -228,6 +229,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
 * Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
 * Show examples of text spacing and alignment. Emphasize how appropriate spacing between words, lines, and paragraphs favors content readability. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
+* Discuss different uses of imagery to complement text content. Explain that these images help users who have difficulty processing text.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -235,6 +237,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
 * Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
+* Practical &mdash; Give students a piece of text containing instructions. Ask them to elaborate on what images they would use to make it easier to understand for users who have difficulty processing text. Assess how students nderstand different uses of imagery to complement text content.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}
