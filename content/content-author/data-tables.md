@@ -78,7 +78,7 @@ Skills required for this module:
 * Applied expertise in teaching:
   * [WCAG 2 Success Criterion 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-  * [WCAG Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
+  * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
 * In-depth knowledge of
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * Prior [Content Author Modules](/curricula/content-author-modules/)
@@ -103,7 +103,7 @@ Table header cells and their scope identify the type of information provided in 
 Students should be able to:
 
 * explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand, navigate, and process data tables
-* define table headers cells as those which identify the type of information in a row or column
+* define table header cells as those which identify the type of information in a row or column
 * provide short, descriptive column and row headers for tables
 * specify the scope for headers that span multiple rows or columns
 * identify requirements for authoring tools to produce appropriate markup for table headers, including the headers scope
@@ -112,9 +112,9 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated to.
-* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data the column or row contains.
-* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
+* Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated with.
+* Show examples of header cells. Explain that these cells must convey clear and succinct information about the data in the column or row.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let content authors specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
@@ -170,7 +170,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Table summaries identify the table purpose. Table descriptions explain what the table is about and how it is organized. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
+Table summaries identify the table purpose and explain what the table is about. Table descriptions explain how the table is organized, especially for complex tables. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
 
 #### Learning Outcomes for Topic
 
@@ -190,7 +190,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate how assistive technologies announce the summary and description as the user moves through different tables on the same page. Explain that this information helps users distinguish one table from the other when there are several tables on the page. 
-* Show examples of table summaries. Explain that summaries provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
+* Show examples of table summaries. Explain that summaries identify the table purpose and provide information about what the table is about. Emphasize that it is best practice to display these summaries on screen, as they are beneficial for all users.
 * Explain that complex tables often need descriptions for users to understand how the table is organized. For example, tables with headers that span multiple rows or columns, tables that are difficult to navigate, and tables with information that is difficult to process.
 * Show examples of tables that need summaries and descriptions. Discuss with students which information they would include in the summary and which information they would include in the description.
 * Introduce accessible authoring tools that produce appropriate markup for table summaries and descriptions. Some tools may refer to summaries as "titles" or "names". Some tools may refer to descriptions as "descriptions" or "captions".

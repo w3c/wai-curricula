@@ -39,10 +39,10 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
-  * informative (require descriptions that convey their information)
-  * functional (require descriptions that convey functionality)
-  * decorative (require empty alternative text that convey their ornamental purpose)
-  * complex (require short and long descriptions and sometimes alternative data visualizations)
+  * informative mdash; require descriptions that convey their information
+  * functional mdash; require descriptions that convey functionality
+  * decorative mdash; require empty alternative text that convey their ornamental purpose
+  * complex mdash; require short and long descriptions and sometimes alternative data visualizations
 * write equivalent, appropriate text alternatives for images based on the image purpose and context
 * provide textual information using regular text instead of an image file
 * identify requirements for authoring tools to include and manage alternatives for images (including text alternatives and different modalities of CAPTCHA)
@@ -102,7 +102,7 @@ Topics to achieve the learning outcomes:
 
 Informative images convey information, for example that of a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text. Discuss different approaches for providing alternative text for informative images.
 
-Decorative images do not convey information. They require an empty alternative text.
+Decorative images do not convey information. They require empty alternative text.
 
 #### Learning Outcomes for Topic
 
@@ -110,9 +110,9 @@ Students should be able to:
 
 * explain how people with disabilities rely on text alternatives for informative images to understand the image content
 * provide quality text alternatives that convey the information in the images using one of the following:
-  * clear and descriptive text alternatives associated to the images
+  * clear and descriptive text alternatives associated with the images
   * adjacent text that conveys the same information as the image
-* write textual information as regular text instead of including text content in an image file
+* write text content as regular text instead of including text content in an image file
 * collaborate with designers and developers to:
   * ensure availability of different modalities of CAPTCHA, including visual, auditory, and biometrics
   * mark an image as decorative when it does not convey information
@@ -121,12 +121,12 @@ Students should be able to:
   * enable authors to amend automatically generated text alternatives for quality and accuracy
   * produce appropriate markup for informative images
   * support different modalities of CAPTCHA, including visual, auditory, and biometrics
-
+  * identify and produce appropriate markup for decorative images
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Show examples of informative images, including icons, pictures, and illustrations. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text. Discuss what text alternatives to include for these images  based on the image content and on the information provided in the image adjacent text.
+* Show examples of informative images, including icons, pictures, and illustrations. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text. Discuss what text alternatives to include for these images based on the image content and on the information provided in the text adjacent to the image.
 * Discuss examples of images that can be both informative and decorative based on context. Explain that decorative images require empty alternative text. Some authoring tools let specify when an image is decorative. Otherwise, content authors must provide annotations for designers and developers to implement images as decorative.
 * Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image but may still miss the semantics in the text.
 * Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
@@ -147,7 +147,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Functional images convey functionality. For example, magnifying glasses for search functionality, and envelopes for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
+Functional images convey functionality. For example, a magnifying glass for search, an envelope for mail, and a printer for print functionality. Discuss different approaches for providing text alternatives for functional images, including for graphical buttons and links.
 
 #### Learning Outcomes for Topic
 
@@ -164,7 +164,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glasses", and "print" instead of "printer".
+* Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. For example, "Search" instead of "magnifying glass", and "print" instead of "printer".
 * Show examples of functional images, including graphical buttons and links. Discuss with students what text alternative to include for these images.
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 

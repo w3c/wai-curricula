@@ -1,5 +1,7 @@
 ---
-title: "Module 5: Getting Started with Accessibility"
+title: "Module 5: Getting Started with Accessibility in Foundation Modules | Curricula"
+
+title_html: "Module 5: Getting Started with Accessibility&nbsp;"
 nav_title: "Getting Started with Accessibility"
 permalink: /curricula/foundation-modules/getting-started-with-accessibility/
 ref: /curricula/foundation-modules/getting-started-with-accessibility/
@@ -16,7 +18,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1: 
   - ref: /curricula/foundation-modules/
-    name: nav_title
+    name: "Foundation Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
