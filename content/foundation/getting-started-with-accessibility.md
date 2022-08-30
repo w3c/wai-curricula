@@ -1,5 +1,7 @@
 ---
 title: "Module 5: Getting Started with Accessibility in Foundation Modules | Curricula"
+
+title_html: "Module 5: Getting Started with Accessibility&nbsp;"
 nav_title: "Getting Started with Accessibility"
 permalink: /curricula/foundation-modules/getting-started-with-accessibility/
 ref: /curricula/foundation-modules/getting-started-with-accessibility/

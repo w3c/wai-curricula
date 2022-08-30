@@ -1,5 +1,6 @@
 ---
 title: "Module 4: Tables in Developer Modules | Curricula"
+title_html: "Module 4: Tables&nbsp;"
 nav_title: "Tables"
 permalink: /curricula/developer-modules/tables/
 ref: /curricula/developer-modules/tables/

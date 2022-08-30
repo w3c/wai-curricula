@@ -1,5 +1,6 @@
 ---
 title: "Module 2: Information Design in Designer Modules | Curricula"
+title_html: "Module 2: Information Design&nbsp;"
 nav_title: "Information Design"
 permalink: /curricula/designer-modules/information-design/
 ref: /curricula/designer-modules/information-design/

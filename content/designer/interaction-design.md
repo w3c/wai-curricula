@@ -1,5 +1,6 @@
 ---
 title: "Module 4: Interaction Design in Designer Modules | Curricula"
+title_html: "Moddule 4: Interaction Design&nbsp;"
 nav_title: "Interaction Design"
 permalink: /curricula/designer-modules/interaction-design/
 ref: /curricula/designer-modules/interaction-design/

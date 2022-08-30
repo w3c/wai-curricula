@@ -1,5 +1,6 @@
 ---
 title: "Module 6: Custom Widgets in Developer Modules | Curricula"
+title_html: "Module 6: Custom Widgets&nbsp;"
 nav_title: "Custom Widgets"
 permalink: /curricula/developer-modules/custom-widgets/
 ref: /curricula/developer-modules/custom-widgets/

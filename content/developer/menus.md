@@ -1,5 +1,6 @@
 ---
 title: "Module 2: Menus in Developer Modules | Curricula"
+title_html: "Module 2: Menus&nbsp;"
 nav_title: "Menus"
 permalink: /curricula/developer-modules/menus/
 ref: /curricula/developer-modules/menus/

@@ -1,5 +1,6 @@
 ---
 title: "Module 3: Business Case and Benefits in Foundation Modules | Curricula"
+title_html: "Module 3: Business Case and Benefits&nbsp;"
 nav_title: "Business Case and Benefits"
 permalink: /curricula/foundation-modules/business-case-and-benefits/
 ref: /curricula/foundation-modules/business-case-and-benefits/

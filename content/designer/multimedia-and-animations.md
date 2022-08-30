@@ -1,5 +1,6 @@
 ---
 title: "Module 6: Multimedia and Animations in Designer Modules | Curricula"
+title_html: "Module 6: Multimedia and Animations&nbsp;"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/

@@ -1,5 +1,6 @@
 ---
 title: "Module 5: Forms in Developer Modules | Curricula"
+title_html: "Module 5: Forms&nbsp;"
 nav_title: "Forms"
 permalink: /curricula/developer-modules/forms/
 ref: /curricula/developer-modules/forms/
