@@ -1,5 +1,5 @@
 ---
-title: "Module 1: What is Web Accessibility"
+title: "Module 1: What is Web Accessibility in Foundation Modules | Curricula"
 nav_title: "What is Web Accessibility"
 permalink: /curricula/foundation-modules/what-is-web-accessibility/
 ref: /curricula/foundation-modules/what-is-web-accessibility/
@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1: 
   - ref: /curricula/foundation-modules/
-    name: nav_title
+    name: "Foundation Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

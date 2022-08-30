@@ -1,5 +1,5 @@
 ---
-title: "Module 2: People and Digital Technology"
+title: "Module 2: People and Digital Technology in Foundation Modules | Curricula"
 nav_title: "People and Digital Technology"
 permalink: /curricula/foundation-modules/people-and-digital-technology/
 ref: /curricula/foundation-modules/people-and-digital-technology/
@@ -16,7 +16,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1: 
   - ref: /curricula/foundation-modules/
-    name: nav_title
+    name: "Foundation Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

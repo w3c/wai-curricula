@@ -1,5 +1,5 @@
 ---
-title: "Module 4: Interaction Design"
+title: "Module 4: Interaction Design in Designer Modules | Curricula"
 nav_title: "Interaction Design"
 permalink: /curricula/designer-modules/interaction-design/
 ref: /curricula/designer-modules/interaction-design/
@@ -15,7 +15,7 @@ footer: >
   <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>parent_in_h1:
   - ref: /curricula/designer-modules/
-    name: nav_title
+    name: "Designer Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

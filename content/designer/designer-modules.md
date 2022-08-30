@@ -1,6 +1,6 @@
 ---
 title: "Designer Modules"
-nav_title: "Designer Modules"
+nav_title: "Designer Modules in Designer Modules | Curricula"
 permalink: /curricula/designer-modules/
 ref: /curricula/designer-modules/
 lang: en
