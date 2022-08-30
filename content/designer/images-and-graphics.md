@@ -1,5 +1,6 @@
 ---
-title: "Module 5: Images and Graphics"
+title: "Module 5: Images and Graphics in Designer Modules | Curricula"
+title_html: "Module 5: Images and Graphics&nbsp;"
 nav_title: "Images and Graphics"
 permalink: /curricula/designer-modules/images-and-graphics/
 ref: /curricula/designer-modules/images-and-graphics/
@@ -16,7 +17,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1:
   - ref: /curricula/designer-modules/
-    name: nav_title
+    name: "Designer Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

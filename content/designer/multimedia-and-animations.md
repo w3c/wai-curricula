@@ -1,5 +1,6 @@
 ---
-title: "Module 6: Multimedia and Animations"
+title: "Module 6: Multimedia and Animations in Designer Modules | Curricula"
+title_html: "Module 6: Multimedia and Animations&nbsp;"
 nav_title: "Multimedia and Animations"
 permalink: /curricula/designer-modules/multimedia-and-animations/
 ref: /curricula/designer-modules/multimedia-and-animations/
@@ -16,7 +17,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1:
   - ref: /curricula/designer-modules/
-    name: nav_title
+    name: "Designer Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

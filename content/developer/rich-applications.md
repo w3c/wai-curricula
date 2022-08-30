@@ -1,5 +1,6 @@
 ---
-title: "Module 7: Rich Applications"
+title: "Module 7: Rich Applications in Developer Modules | Curricula"
+title_html: "Module 7: Rich Applications&nbsp;"
 nav_title: "Rich Applications"
 permalink: /curricula/developer-modules/rich-applications/
 ref: /curricula/developer-modules/rich-applications/
@@ -16,11 +17,12 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1: 
   - ref: /curricula/developer-modules/
-    name: nav_title
+    name: "Developer Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
   previous: /curricula/developer-modules/custom-widgets/
+  next: /curricula/designer-modules/
 ---
 
 ## Introduction

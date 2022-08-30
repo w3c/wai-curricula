@@ -1,5 +1,6 @@
 ---
 title: "Foundation Modules"
+title_html: "Foundation Modules&nbsp;"
 nav_title: "Foundation Modules"
 permalink: /curricula/foundation-modules/
 ref: /curricula/foundation-modules/
