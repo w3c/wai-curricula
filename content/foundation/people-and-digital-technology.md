@@ -1,5 +1,5 @@
 ---
-title: "Module 2: People and Digital Technology in Foundation Modules | Curricula"
+title: "2: People and Digital Technology in Foundation Modules | Curricula"
 title_html: "Module 2: People and Digital Technology&nbsp;"
 nav_title: "People and Digital Technology"
 permalink: /curricula/foundation-modules/people-and-digital-technology/

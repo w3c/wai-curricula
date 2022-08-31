@@ -1,5 +1,5 @@
 ---
-title: "Module 7: Rich Applications in Developer Modules | Curricula"
+title: "7: Rich Applications in Developer Modules | Curricula"
 title_html: "Module 7: Rich Applications&nbsp;"
 nav_title: "Rich Applications"
 permalink: /curricula/developer-modules/rich-applications/

@@ -1,5 +1,5 @@
 ---
-title: "Module 5: Images and Graphics in Designer Modules | Curricula"
+title: "5: Images and Graphics in Designer Modules | Curricula"
 title_html: "Module 5: Images and Graphics&nbsp;"
 nav_title: "Images and Graphics"
 permalink: /curricula/designer-modules/images-and-graphics/

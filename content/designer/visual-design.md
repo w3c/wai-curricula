@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Visual Design in Designer Modules | Curricula"
+title: "1: Visual Design in Designer Modules | Curricula"
 title_html: "Module 1: Visual Design&nbsp;"
 nav_title: "Visual Design"
 permalink: /curricula/designer-modules/visual-design/
