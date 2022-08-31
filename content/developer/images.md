@@ -1,5 +1,5 @@
 ---
-title: "Module 3: Images in Developer Modules | Curricula"
+title: "3: Images in Developer Modules | Curricula"
 title_html: "Module 3: Images&nbsp;"
 nav_title: "Images"
 permalink: /curricula/developer-modules/images/

@@ -1,5 +1,5 @@
 ---
-title: "Module 4: Principles, Standards, and Checks in Foundation Modules | Curricula"
+title: "4: Principles, Standards, and Checks in Foundation Modules | Curricula"
 title_html: "Module 4: Principles, Standards, and Checks&nbsp;"
 nav_title: "Principles, Standards, and Checks"
 permalink: /curricula/foundation-modules/principles-standards-and-checks/

@@ -1,5 +1,5 @@
 ---
-title: "Module 5: Getting Started with Accessibility in Foundation Modules | Curricula"
+title: "5: Getting Started with Accessibility in Foundation Modules | Curricula"
 
 title_html: "Module 5: Getting Started with Accessibility&nbsp;"
 nav_title: "Getting Started with Accessibility"

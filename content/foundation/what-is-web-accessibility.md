@@ -1,5 +1,5 @@
 ---
-title: "Module 1: What is Web Accessibility in Foundation Modules | Curricula"
+title: "1: What is Web Accessibility in Foundation Modules | Curricula"
 title_html: "Module 1: What is Web Accessibility&nbsp;"
 nav_title: "What is Web Accessibility"
 permalink: /curricula/foundation-modules/what-is-web-accessibility/
