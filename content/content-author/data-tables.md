@@ -31,7 +31,7 @@ navigation:
 Courses based on this module should:
 
 * demonstrate how people with disabilities rely on the visual and non-visual relations between the table cells to understand, navigate, and process information contained in data tables
-* explain accessibility requirements related to data tables
+* explain accessibility requirements for data tables
 
 ## Learning Outcomes for Module
 
@@ -96,13 +96,13 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Table header cells and their scope identify the type of information provided in a row or column. Explain how specifying the table header cells and their scope is essential for some groups of people with disabilities to understand, navigate, and process the table content.
+Table header cells and their scope identify the type of information provided in a row or column. Explain why specifying the table header cells and their scope is essential for some groups of people with disabilities to understand, navigate, and process the table content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* explain how people with disabilities rely on appropriate visual and non-visual identification of table header cells to understand, navigate, and process data tables
+* explain how people with disabilities rely on accessible table header cells to understand, navigate, and process data tables
 * define table header cells as those which identify the type of information in a row or column
 * provide short, descriptive column and row headers for tables
 * specify the scope for headers that span multiple rows or columns
@@ -114,14 +114,14 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate data tables. Emphasize how header cells are announced before or after the data cells they are associated with.
 * Show examples of header cells. Explain that these cells must convey clear and succinct information about the data in the column or row.
-* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let content authors specify the scope of header cells. Otherwise, content authors must provide that information through annotations for designers and developers to implement these tables.
+* Show examples of tables with headers that span multiple rows or columns. Discuss with students which of the cells should be the header cells and how many rows or columns the headers should span. Some authoring tools let content authors specify the scope of header cells. Otherwise, content authors must provide the headers scope through annotations for designers and developers to implement these tables.
 * Introduce accessible tools that produce appropriate markup for header cells. Explain how to designate a given cell as header and how to define the header scope via the tool's user interface.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students what type of information header cells should convey. Assess how students understand the type of information table headers cells should convey.
+* Short Answer Questions &mdash; Ask students what type of information header cells should convey. Assess how students understand the type of information that header cells should convey.
 * Practical &mdash; Give students a table without designated headers. Ask them to tell which cells should be the header cells and how many rows and/or columns the headers should span. Assess how students recognize the header cells as well as their scope.
 * Practical &mdash; Have students designate the header cells and their scope using a given authoring tool. Assess how students use authoring tools to designate the header cells and their scope.
 
@@ -133,7 +133,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Table data cells contain the individual pieces of data that make up the content of the table. Explain how clear and meaningful order and relations in tables help people with disabilities better understand the table contents.
+Table data cells contain the individual pieces of data that make up the table. Explain how clear and meaningful order and relations in tables help people with disabilities better understand the table contents.
 
 #### Learning Outcomes for Topic
 
@@ -141,9 +141,10 @@ Students should be able to:
 
 * explain how assistive technologies associate data cells with their corresponding header cells
 * describe data cells as those which contain the specific pieces of data that make up the table
-* provide clear and succinct information in each data cell
+* provide unique, clear, and succinct information in each data cell
 * ensure the order and relations in tables make sense for people using different screen sizes, configurations, and assistive technologies
 * split complex tables into simpler ones to make the information easier to understand
+* specify the scope for cells that span multiple rows or columns
 * identify related requirements for
   * authoring tools to produce appropriate markup for table data cells, including the cell scope
   * designers and developers to support association of data cells with their corresponding table header cells
@@ -174,14 +175,14 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Table summaries identify the table purpose and explain what the table is about. Table descriptions explain how the table is organized, especially for complex tables. Both summaries and descriptions help people with disabilities distinguish tables from one another on a page.
+Table summaries identify the table purpose and explain what the table is about. Table descriptions explain how the table is organized, especially for complex tables. Table summaries and descriptions help people with disabilities distinguish tables from one another on a page.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
 * explain how people with disabilities rely on meaningful table summaries and descriptions to understand the table purpose and to distinguish tables from one another
-* provide summaries that explain what the table is about
+* provide summaries that identify the table purpose and explain what the table is about
 * write descriptions that:
   * explain how the table is organized
   * provide information about the type of data in each column and row

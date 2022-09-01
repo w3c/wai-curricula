@@ -83,6 +83,14 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+  * [WCAG 2 Success Criterion 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
+  * [WCAG 2 Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
+  * [WCAG 2 Success Criterion 1.4.4 Resize Text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
+  * [WCAG 2 Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
+  * [WCAG 2 Success Criterion 1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG21/quickref/#visual-presentation)
+  * [WCAG 2 Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
+  * [WCAG 2 Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
+  * [WCAG 2 Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
   * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
   * [WCAG 2 Success Criterion 3.1.1 Language of Page](https://www.w3.org/WAI/WCAG21/quickref/#language-of-page)
@@ -90,7 +98,7 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG 2 Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
   * [WCAG 2 Success Criterion 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-* In-depth knowledge of
+* In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
   * [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/)
 
@@ -142,10 +150,11 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of text with language that is difficult to understand. Ask them to rewrite the text so that it is clearer and easier to understand. Assess how students convert difficult to understand passages of text into easier to understand pieces.
-* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
+* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive voice into active voice.
 * Short Answer Questions &mdash; Ask students what the accessibility requirements for abbreviations and acronyms are. Assess how students recall accessibility requirements for abbreviations and acronyms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 * Research &mdash; Ask students to research commonly used complex terms based on audience and context and ask them to provide alternatives for such terms. Assess how students understand commonly used complex terms and how they provide alternatives to such terms.
+* Practical &mdash; Ask students to use a given authoring tool to specify the main language of the content as well as changes in language for multilingual content. Assess how students specify the language of the content.
 
 {% include excol.html type="end" %}
 
@@ -212,9 +221,9 @@ When content authors can specify the visual appearance, they must ensure that it
 Students should be able to:
 
 * provide content with sufficient contrast ratios
-* provide fonts that are easy to read and easy to understand
-* ensure enough text spacing and appropriate text alignment to improve readability
 * ensure appropriate content grouping to communicate related content
+* utilize fonts that are easy to read and easy to understand where possible
+* provide enough text spacing and appropriate text alignment to improve readability
 * explain different uses of imagery to complement text content
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
@@ -225,9 +234,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others.
-* Demonstrate content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios favor content readability and are essential for people to understand the content
-* Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
+* Show examples of content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios are essential for people with disabilities to read and understand the content.
 * Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
+* Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
 * Show examples of text spacing and alignment. Emphasize how appropriate spacing between words, lines, and paragraphs favors content readability. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
 * Discuss different uses of imagery to complement text content. Explain that these images help users who have difficulty processing text.
 
@@ -237,7 +246,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
 * Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
-* Practical &mdash; Give students a piece of text containing instructions. Ask them to elaborate on what images they would use to make it easier to understand for users who have difficulty processing text. Assess how students nderstand different uses of imagery to complement text content.
+* Practical &mdash; Give students a piece of text containing instructions. Ask them to elaborate on what images they would use to make it easier to understand for users who have difficulty processing text. Assess how students understand different uses of imagery to complement text content.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}

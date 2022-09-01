@@ -79,11 +79,12 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
+  * [WCAG Success Criterion 2.4.3 Focus Order](https://www.w3.org/WAI/WCAG21/quickref/#focus-order)
   * [WCAG 2 Success Criterion 2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
   * [WCAG 2 Success Criterion 2.4.10 Section Headings](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
-* In-depth knowledge of
+* In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
+  * [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
   * [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/)
 
 {% include excol.html type="end" %}
@@ -100,7 +101,7 @@ Topics to achieve the learning outcomes:
 
 The heading hierarchy communicates the structure of web pages and documents. Headings enable people with disabilities to identify and navigate the different content sections. Explain different purposes of headings and how to include them.
 
-When content authors change the visual appearance of headings, they must ensure headings remain accessible visually and non-visually.
+When content authors change the visual appearance of headings, they must ensure headings remain accessible.
 
 #### Learning Outcomes for Topic
 
@@ -108,7 +109,7 @@ Students should be able to:
 
 * explain how proper heading hierarchy enables users to identify and navigate the different content sections
 * provide proper heading hierarchies that enable users to identify and navigate the different content sections
-* write descriptive and meaningful heading text depending on the heading purpose
+* write descriptive and meaningful heading text based on the heading purpose
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
   * potential inaccessibility of the selected custom visual appearance
   * mismatch between the visual appearance of the heading and the generated markup
@@ -143,7 +144,7 @@ Optional ideas to assess knowledge:
 
 Paragraphs and lists group related content. They enable people with disabilities to better read and understand content. Explain different types of lists and how to include them.
 
-When content authors change the visual appearance of paragraphs and lists, they must ensure paragraphs and lists remain accessible visually and non-visually.
+When content authors change the visual appearance of paragraphs and lists, they must ensure paragraphs and lists remain accessible.
 
 #### Learning Outcomes for Topic
 
@@ -184,7 +185,7 @@ Optional ideas to assess knowledge:
 
 Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate through content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
 
-Explain that creating accessible navigation and orientation methods requires collaboration between different team members, including designers and developers. Content authors provide the content. Designers specify the visual appearance and interaction. Developers implement the methods.
+Authoring tools may or may not produce accessible navigation and orientation methods. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the visual appearance of and interaction with these methods.
 
 #### Learning Outcomes for Topic
 
@@ -210,7 +211,7 @@ Optional ideas to teach the learning outcomes:
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of links to get to the top of the document and to get back to the top of specific content sections in long passages of text. Explain that these methods enable users to get back to the table of contents more efficiently when they are finished reading a specific section.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
-* Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, content authors need to collaborate with other team members, including designers and developers, to include them. Designers specify the appearance and interaction of the methods. Developers implement these methods.
+* Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, different team members need to collaborate to specify the appearance of and interaction with the methods.
 
 #### Ideas to Assess Knowledge for Topic
 
