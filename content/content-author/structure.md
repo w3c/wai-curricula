@@ -107,7 +107,7 @@ When content authors change the visual appearance of headings, they must ensure 
 
 Students should be able to:
 
-* explain how proper heading hierarchy enables users to identify and navigate the different content sections
+* explain how proper heading hierarchies enables users to identify and navigate the different content sections
 * provide proper heading hierarchies that enable users to identify and navigate the different content sections
 * write descriptive and meaningful heading text based on the heading purpose
 * describe the accessibility considerations when changing the default visual appearance of headings, including:
