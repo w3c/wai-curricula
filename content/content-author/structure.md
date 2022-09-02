@@ -61,7 +61,7 @@ Skills required for this module:
 {% include excol.html type="middle" %}
 
 * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-* [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
+* [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
 * Basic knowledge of:
   * Writing
   * Copy-editing
