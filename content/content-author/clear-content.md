@@ -1,6 +1,6 @@
 ---
 title: "[Draft] 1: Clear Content in Content Author Modules | Curricula"
-title_html: "Module 1: Clear Content"
+title_html: "Module 1: Clear Content&nbsp;"
 nav_title: "Clear Content"
 permalink: /curricula/content-author-modules/clear-content/
 ref: /curricula/content-author-modules/clear-content/
@@ -17,7 +17,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1:
   - ref: /curricula/content-author-modules/
-    name: nav_title
+    name: "Content Author Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:
@@ -30,14 +30,14 @@ navigation:
 
 Courses based on this module should:
 
-* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read content to process information
+* demonstrate how people with disabilities rely on clear, easy to understand, and easy to read language and visual presentation to process information
 * explain the accessibility benefits of providing clear, easy to understand, and easy to read content
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* explain how clear, easy to understand, and easy to read content is essential for some people with disabilities
+* explain how clear, easy to understand, and easy to read language and visual presentation are essential for people with disabilities
 * provide clear content based on context and audience by using:
   * appropriate words
   * short sentences
@@ -48,7 +48,7 @@ Students should be able to:
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
-* ensure sufficient contrast ratio as well as easy to read fonts to favor content readability
+* ensure sufficient contrast ratio, as well as easy to read fonts, in order to favor content readability
 * identify related requirements for designers to:
   * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
@@ -83,6 +83,14 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
   * [WCAG 2 Success Criterion 1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG21/quickref/#meaningful-sequence)
   * [WCAG 2 Success Criterion 1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+  * [WCAG 2 Success Criterion 1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
+  * [WCAG 2 Success Criterion 1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)
+  * [WCAG 2 Success Criterion 1.4.4 Resize Text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
+  * [WCAG 2 Success Criterion 1.4.6 Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced)
+  * [WCAG 2 Success Criterion 1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG21/quickref/#visual-presentation)
+  * [WCAG 2 Success Criterion 1.4.10 Reflow](https://www.w3.org/WAI/WCAG21/quickref/#reflow)
+  * [WCAG 2 Success Criterion 1.4.11 Non-Text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
+  * [WCAG 2 Success Criterion 1.4.12 Text Spacing](https://www.w3.org/WAI/WCAG21/quickref/#text-spacing)
   * [WCAG 2 Success Criterion 2.4.4 Link purpose (In Context)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
   * [WCAG 2 Success Criterion 2.4.9 Link purpose (Link Only)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
   * [WCAG 2 Success Criterion 3.1.1 Language of Page](https://www.w3.org/WAI/WCAG21/quickref/#language-of-page)
@@ -90,9 +98,9 @@ Skills required for this module:
   * [WCAG 2 Success Criterion 3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
   * [WCAG 2 Success Criterion 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
   * [WCAG 2 Success Criterion 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-* In-depth knowledge of
+* In-depth knowledge of:
   * [Foundation Prerequisites](/curricula/developer-modules/#foundation-prerequisites)
-  * Accessible authoring tools
+  * [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/)
 
 {% include excol.html type="end" %}
 
@@ -106,7 +114,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="middle" %}
 
-Easy to understand language is essential for some groups of people with disabilities to understand the content. Explain characteristics of easy to understand language, including clear words, short sentences, and active voice.
+Easy to understand language is essential for people with disabilities to understand the content. Explain the characteristics of easy to understand language, including clear words, short sentences, and active voice.
 
 Discuss approaches for explaining the meaning of abbreviations and acronyms.
 
@@ -130,22 +138,23 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students about words that are difficult to understand based on audience and context. For example, jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed. For example, including a glossary of terms in the document.
-* Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms and substitute them with their corresponding alternative.
-* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Emphasize that clear writing is essential for some groups of people with disabilities to effectively use content, and also benefits all users.
+* Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
+* Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
+* Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide editor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively understand and use content, furthermore, it also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
-* Demonstrate methods to provide the extended form for abbreviations and acronyms. For example, including the extensions just after the abbreviation and acronym the first time they appear in the document.
-* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language as well as for changes in language for multilingual content.
+* Demonstrate methods to provide the extended form for abbreviations and acronyms, for example, by including the extension directly after the first occurrence of an abbreviation or acronym.
+* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Give students a piece of text with language that is difficult to understand. Ask them to rewrite the text so that it is clearer and easier to understand. Assess how students convert difficult to understand passages of text into easier to understand pieces.
-* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive to active voice.
+* Practical &mdash; Give students a piece of text with passive voice and ask them to turn it into active voice. Assess how students convert passive voice into active voice.
 * Short Answer Questions &mdash; Ask students what the accessibility requirements for abbreviations and acronyms are. Assess how students recall accessibility requirements for abbreviations and acronyms.
 * Practical &mdash; Give students a piece of text containing abbreviations and acronyms and ask them to provide the extended form for each. Assess how students provide the extended form for abbreviations and acronyms.
 * Research &mdash; Ask students to research commonly used complex terms based on audience and context and ask them to provide alternatives for such terms. Assess how students understand commonly used complex terms and how they provide alternatives to such terms.
+* Practical &mdash; Ask students to use a given authoring tool to specify the main language of the content as well as changes in language for multilingual content. Assess how students specify the language of the content.
 
 {% include excol.html type="end" %}
 
@@ -155,7 +164,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Titles and link text are essential for some people with disabilities to understand the page purpose and to know where links go to. Explain that it is best practice to put information that is specific to the page first in titles and link text to favor efficiency.
+The page title is essential for some groups of people with disabilities to know the purpose of the page. The link text is crucial for those groups to know where the link lands.
+
+Show examples of accessible page titles and link text. Explain that it is best practice to put unique and most relevant information first in page titles to favor readability and efficiency. For details, see [Provide Informative, Unique Page Titles](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles), and [Make Link Test Meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful).
 
 #### Learning Outcomes for Topic
 
@@ -178,20 +189,20 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Discuss different pieces of information that page titles can contain. For example, specific information about the page, current step of a process, form errors, and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
-* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some assistive technologies and mobile user agents may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first level one heading.
+* Discuss different pieces of information that page titles can contain. These include specific information about the page, current step of a process, form errors, and overall information about the site. Explain that it is best practice to put information that is specific to the page first in the title. Emphasize that this supports efficiency of some assistive technology users as well as it helps all users scan the titles easier.
+* Introduce accessible authoring tools that produce appropriate markup for page titles by default. Explain that some mobile browsers and assistive technologies may not display page titles by default. This is why some authoring tools provide the same information in the page title and in the first level one heading.
 * Explain that it is best practice for links to have clear and meaningful text that identifies the link purpose. Otherwise, some users with disabilities often have to guess the link purpose based on text that is adjacent to the link. Additional information for links may include the document type and format, as well as where the link will open. 
 * Reflect with students on the use of images as links, for example in logos. When using images as links, the image should contain an alternative text that describes the functionality of the link. For details on alternatives for images, see [Content Author Module 4: Images, Topic Functional Images](/curricula/content-author-modules/images/#topic-functional-images).
-* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways. For example, "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with user agents and assistive technologies.
+* Introduce accessible authoring tools that produce appropriate markup for links and that support the inclusion of additional information for links where needed. Explain that some tools may refer to additional information in different ways, including "link description", "screen tip", and others. Explain that it is best practice to always display as much information as possible on the screen's link text to maximize compatibility with browsers and assistive technologies.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about best practices for including information in page titles. Assess how students describe best practices for including information in page titles.
+* Short Answer Questions &mdash; Ask students about best practices for including information in page titles and link text. Assess how students describe best practices for including information in page titles and link text.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* Short Answer Questions &mdash; Ask students what type of information link text should contain. Assess how students describe what type of information link text should contain, including link destination, target document type and format, as well as where the link will open.
-* Practical &mdash; Ask students to select an authoring tool that produces appropriate markup for page titles and link text. Then ask them to include the page title and link text using the tool's user interface. Assess how students use an authoring tool of their choice to include page titles and link text.
+* practical &mdash; Have students visit a page with inaccessible title and link text. Ask students to identify inaccessible examples and to propose accessible alternatives for the inaccessible examples. Assess how students identify inaccessible titles and link text and propose accessible alternatives.
+* Practical &mdash; Have students include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
 
 {% include excol.html type="end" %}
 
@@ -201,17 +212,19 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, font types and sizes, spacing, as well as line height. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
+Discuss visual aspects that contribute to clear, easy to read, and easy to understand content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others. For more details, see [Designer Module 1: Visual Design](/curricula/designer-modules/visual-design).
 
-When content authors can specify the visual appearance, they must ensure that is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
+When content authors can specify the visual appearance, they must ensure that it is accessible. When content authors cannot specify the visual appearance, they must collaborate with other team members, such as designers and developers, to ensure accessibility of the content.
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* provide easy to read and easy to understand fonts
-* provide content with sufficient contrast ratio
-* ensure enough spacing to improve readability
+* provide content with sufficient contrast ratios
+* ensure appropriate content grouping to communicate related content
+* utilize fonts that are easy to read and easy to understand where possible
+* provide enough text spacing and appropriate text alignment to improve readability
+* explain different uses of imagery to complement text content
 * identify related requirements for designers and developers to:
   * ensure sufficient contrast ratios for text, background, and other interface components
   * design layouts that adapt to different screen sizes and configurations set by users
@@ -220,15 +233,20 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students on how visual aspects impact readability of the content. These include contrast ratios, font types and sizes, spacing, and line height.
+* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others.
+* Show examples of content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios are essential for people with disabilities to read and understand the content.
+* Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
+* Show examples of text spacing and alignment. Emphasize how appropriate spacing between words, lines, and paragraphs favors content readability. Explain that it is best practice to avoid justified text, as it is more difficult to read due to the uneven spaces created by the justification.
+* Discuss different uses of imagery to complement text content. Explain that these images help users who have difficulty processing text.
 
 #### Ideas to Assess Knowledge for Topic
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide good reading experience.
-* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance favors readability. Assess how students ensure sufficient contrast ratios, easy to read font sizes, and enough spacing to favor content readability.
+* Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
+* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
+* Practical &mdash; Give students a piece of text containing instructions. Ask them to elaborate on what images they would use to make it easier to understand for users who have difficulty processing text. Assess how students understand different uses of imagery to complement text content.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 
 {% include excol.html type="end" %}
