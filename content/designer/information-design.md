@@ -1,5 +1,6 @@
 ---
-title: "Module 2: Information Design"
+title: "Module 2: Information Design in Designer Modules | Curricula"
+title_html: "2: Information Design&nbsp;"
 nav_title: "Information Design"
 permalink: /curricula/designer-modules/information-design/
 ref: /curricula/designer-modules/information-design/
@@ -16,7 +17,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 parent_in_h1:
   - ref: /curricula/designer-modules/
-    name: nav_title
+    name: "Designer Modules"
   - ref: /curricula/
     name: "Curricula on Web Accessibility"
 navigation:

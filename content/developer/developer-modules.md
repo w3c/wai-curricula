@@ -1,5 +1,6 @@
 ---
 title: "Developer Modules"
+title_html: "Developer Modules&nbsp;"
 nav_title: "Developer Modules"
 permalink: /curricula/developer-modules/
 ref: /curricula/developer-modules/

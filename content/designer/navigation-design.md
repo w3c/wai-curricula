@@ -1,5 +1,6 @@
 ---
-title: "Module 3: Navigation Design"
+title: "3: Navigation Design"
+title_html: "Module 3: Navigation Design&nbsp;"
 nav_title: "Navigation Design"
 permalink: /curricula/designer-modules/navigation-design/
 ref: /curricula/designer-modules/navigation-design/
