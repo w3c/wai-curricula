@@ -19,7 +19,7 @@ The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Educatio
 Project Leadership
 ------------------
 
--   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 22021
+-   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
 -   **Editors**:
     -   Daniel Montalvo
     -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
@@ -31,33 +31,29 @@ Project Leadership
 Task Force Participants
 ------------------
 
--   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
--   Howard Kramer, University of Colorado Boulder
+-   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
 -   Carlos Duarte, University of Lisbon
--   Sarah Lewthwaite, University of Southampton
 -   Brian Elton, TPGI
 -   Donal Fitzpatrick
+-   Sarah Lewthwaite, University of Southampton
+-   Howard Kramer, University of Colorado Boulder
 -   Gerhard Nussbaum
-
-Previous Task Force Participants
-------------------------------
-
+-   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
+-   Roberto Perez, Optum
 -   David Sloan, TPGI
 -   Dónal Rice
--   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
--   Roberto Perez, Optum -- Until @@@ @@@ 2022
 
 Contributing EOWG Participants
 ------------------------------
 
--   [Shawn Lawton Henry](https://www.w3.org/People/shawn)
--   Brent Bakken
--   Sharron Rush
--   Kevin White
--   Kris Anne Kinney
+-   [**Shawn Lawton Henry**](https://www.w3.org/People/shawn)
 -   Andrew Arch
--   Laura Keen
+-   Brent Bakken
+-   Hidde de Vries
 -   Sylvie Duchateau
+-   Laura Keen
+-   Kris Anne Kinney
 -   Victoria Menezes Miller
 -   Jade Matos Carew
--   [Hidde de Vries](https://www.w3.org/people/hidde/) --- Until October 2021
+-   Sharron Rush
+-   Kevin White
