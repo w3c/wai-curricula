@@ -34,18 +34,18 @@ Task Force Participants
 -   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
 -   Howard Kramer, University of Colorado Boulder
 -   Carlos Duarte, University of Lisbon
--   Donal Fitzpatrick
--   Gerhard Nussbaum
 -   Sarah Lewthwaite, University of Southampton
 -   Brian Elton, TPGI
+-   Donal Fitzpatrick
+-   Gerhard Nussbaum
 
 Previous Task Force Participants
 ------------------------------
 
 -   David Sloan, TPGI
 -   Dónal Rice
--   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
--   Roberto Perez, Optum 
+-   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
+-   Roberto Perez, Optum -- Until @@@ @@@ 2022
 
 Contributing EOWG Participants
 ------------------------------
