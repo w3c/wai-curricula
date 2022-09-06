@@ -19,41 +19,43 @@ The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Educatio
 Project Leadership
 ------------------
 
--   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
--   **Editors**:
-    -   Daniel Montalvo
-    -   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
--   **EOWG Co-Chairs:**  Brent Bakken, Pearson,
-    -   Sharron Rush, Knowbility
-    -   Kris Anne Kinney, Educational Testing Services
--   **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
+-  Project Coordinators:
+   -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
+   -  [Judy Brewer](https://www.w3.org/people/judy/) -- From 1 October 2021
+-  **Editors**:
+    -  Daniel Montalvo
+    -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
+-  **EOWG Co-Chairs:**  Brent Bakken, Pearson,
+    -  Sharron Rush, Knowbility
+    -  Kris Anne Kinney, Educational Testing Services
+-  **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 
 Task Force Participants
 ------------------
 
--   [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
--   Carlos Duarte, University of Lisbon
--   Brian Elton, TPGI
--   Donal Fitzpatrick
--   Sarah Lewthwaite, University of Southampton
--   Howard Kramer, University of Colorado Boulder
--   Gerhard Nussbaum
--   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
--   Roberto Perez, Optum
--   David Sloan, TPGI
--   Dónal Rice
+-  [**Shadi Abou-Zahra**](https://www.w3.org/people/shadi/), W3C WAI
+-  Carlos Duarte, University of Lisbon
+-  Brian Elton, TPGI
+-  Donal Fitzpatrick
+-  Sarah Lewthwaite, University of Southampton
+-  Howard Kramer, University of Colorado Boulder
+-  Gerhard Nussbaum
+-  Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
+-  Roberto Perez, Optum
+-  David Sloan, TPGI
+-  Dónal Rice
 
 Contributing EOWG Participants
 ------------------------------
 
--   [**Shawn Lawton Henry**](https://www.w3.org/People/shawn)
--   Andrew Arch
--   Brent Bakken
--   Hidde de Vries
--   Sylvie Duchateau
--   Laura Keen
--   Kris Anne Kinney
--   Victoria Menezes Miller
--   Jade Matos Carew
--   Sharron Rush
--   Kevin White
+-  [**Shawn Lawton Henry**](https://www.w3.org/People/shawn)
+-  **Kevin White**
+-  Andrew Arch
+-  Brent Bakken
+-  Hidde de Vries
+-  Sylvie Duchateau
+-  Laura Keen
+-  Kris Anne Kinney
+-  Victoria Menezes Miller
+-  Jade Matos Carew
+-  Sharron Rush
