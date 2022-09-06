@@ -21,7 +21,7 @@ Project Leadership
 
 -  Project Coordinators:
    -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
-   -  [Judy Brewer](https://www.w3.org/people/judy/) -- From 1 October 2021
+   -  [Judy Brewer](https://www.w3.org/people/brewer/), W3C WAI -- From 1 October 2021
 -  **Editors**:
     -  Daniel Montalvo
     -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
