@@ -235,7 +235,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others.
+* Reflect with students on how visual aspects impact readability of the content. These include sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, content grouping, and others. Emphasize that ensuring an accessible visual appearance requires collaboration between different team members, including designers, developers, and content authors.
 * Show examples of content with sufficient contrast ratios. Then demonstrate content which does not have sufficient contrast ratios. Emphasize how sufficient contrast ratios are essential for people with disabilities to read and understand the content.
 * Demonstrate different approaches for grouping related content. These include specifying the proximity of a heading to its related content, as well as defining appropriate spacing between the different content sections.
 * Show examples of fonts that provide a good reading experience. Compare those with fonts that are more difficult to read and understand.
@@ -247,7 +247,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about font types that provide a good reading experience. Assess how students identify font types that provide a good reading experience.
-* Practical &mdash; Give students a piece of content. Ask them to make sure its visual appearance is accessible. Assess how students ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping,   to favor content readability.
+* Practical &mdash; Give students a piece of content. Ask them to collaborate with other team members to ensure an accessible visual appearance. Assess how students collaborate with other team members to ensure sufficient contrast ratios, fonts that are easy to read, text spacing, text alignment, and content grouping.
 * Practical &mdash; Give students a piece of text containing instructions. Ask them to elaborate on what images they would use to make it easier to understand for users who have difficulty processing text. Assess how students understand different uses of imagery to complement text content.
 * Research &mdash; Ask students to research which font types are easier to read and understand. Assess how students research which font types are easier to read and understand.
 

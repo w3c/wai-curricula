@@ -126,7 +126,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the label associated with a form field or control. Explain that several groups of users require labels that are persistently visible on the page. Content authors should avoid the use of placeholder text that disappears when the user starts to enter text into the form field or control. Show how successful form interaction becomes difficult or impossible when labels are not accessible.
-* Show examples of commonly used labels for form fields and controls. Examples include “name”, “family name”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control.
+* Show examples of commonly used labels for form fields and controls. Examples include “name”, “family name”, “address”, “phone”, “email”, and others. Discuss with students which text they would use for each label. Explain that the label should be a unique, clear, and descriptive text that communicates the meaning, purpose, and intent of the form field or control. Emphasize that providing accessible labels requires collaboration between different team members, including designers, developers, and content authors.
 * Explain how imagery, including icons and symbols, helps users who do not process text easily to understand these labels. Emphasize that when content authors collaborate with designers and developers to complement text labels with imagery they will help these users process form fields and controls more effectively.
 * Introduce accessible authoring tools that programmatically associate labels with their corresponding form field and control. Explain that some tools may refer to labels as “names” or similar terminology. Emphasize that content authors should provide these labels and the tool should associate the label with the corresponding form field and control.
 
@@ -166,7 +166,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions.
+* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions. Emphasize that providing accessible instructions requires collaboration between different team members, including designers, developers, and content authors.
 * Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing instructions for the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
 * Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form.
@@ -211,7 +211,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages.
+* Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages. Emphasize that providing accessible error messages requires collaboration between different team members, including designers, developers, and content authors.
 * Have students research approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
 
 ### Ideas to Assess Knowledge for Topic
