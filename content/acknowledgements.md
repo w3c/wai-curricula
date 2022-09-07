@@ -59,3 +59,5 @@ Contributing EOWG Participants
 -  Victoria Menezes Miller
 -  Jade Matos Carew
 -  Sharron Rush
+-  and other [EOWG participants](https://www.w3.org/groups/wg/eowg/participants)
+
