@@ -44,7 +44,7 @@ These modules focus on accessible content creation. They are primarily designed 
 * content creators
 * content publishers
 
-These modules do not cover specifics on authoring tools accessibility. Instructors should take the responsibility to choose the appropriate authoring tool type and version based on the specific course setup. For more details, see [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/).
+These modules do not cover specifics on authoring tools accessibility. Instructors should take responsibility for choosing the appropriate authoring tool type and version based on the specific course setup. For more details, see [Accessible authoring tools](https://www.w3.org/WAI/standards-guidelines/atag/).
 
 {% include excol.html type="all" %}
 

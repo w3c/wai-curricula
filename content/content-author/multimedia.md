@@ -167,7 +167,7 @@ People who are both Deaf and blind require descriptive transcripts to understand
 
 Students should be able to:
 
-* identify audio and video content that requires transcripts
+* identify audio and video content that require transcripts
 * identify different approaches for providing transcripts, including:
   * basic &mdash; convey the speech and non-speech information needed to understand the content
   * descriptive &mdash; convey the speech,  non-speech, and visual information needed to understand the content
@@ -242,7 +242,7 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-people who cannot see the video need description of visual information to understand the content.
+People who cannot see the video need description of visual information to understand the content.
 
 Demonstrate approaches for providing description of visual information. These include integrating description in the main audio of the video, providing description in the main audio of an alternative video, and including the description in a synchronized audio or text file when supported by the media player. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
