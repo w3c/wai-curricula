@@ -212,7 +212,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages.
-* Demonstrate approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
+* Have students research approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
 
 ### Ideas to Assess Knowledge for Topic
 

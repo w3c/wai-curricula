@@ -48,7 +48,9 @@ Students should be able to:
 * write clear and meaningful:
   * titles to describe the purpose of the page
   * link text to communicate the link purpose
-* ensure sufficient contrast ratio, as well as easy to read fonts, in order to favor content readability
+* ensure the following to favor content readability:
+  * sufficient contrast ratios
+  * easy to read fonts
 * identify related requirements for designers to:
   * ensure sufficient contrast ratios
   * design layouts that adapt to different font types and sizes set by users
@@ -138,7 +140,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the document.
+* Reflect with students about words that are difficult to understand based on audience and context. These include jargon and words that require advanced reading ability. Emphasize that it is best practice to provide substitutions for those words when possible. Demonstrate how to provide explanations when these words cannot be changed, for example, by including a glossary of terms in the resource or document.
 * Invite students to research alternatives to commonly used complex terms based on audience and context. Explain that it is best practice to minimize the use of such complex terms by substituting them with their corresponding alternative when possible.
 * Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other checkers from authoring tools to provide editor suggestions on content readability. Emphasize that clear writing is essential for people with disabilities to effectively understand and use content, furthermore, it also benefits all users.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
@@ -201,7 +203,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about best practices for including information in page titles and link text. Assess how students describe best practices for including information in page titles and link text.
 * Practical &mdash; Give students several pages that are part of a multi-step process. Ask them to provide information about the current step in each of the page titles. Assess how students provide information about the current step in each of the page titles.
-* practical &mdash; Have students visit a page with inaccessible title and link text. Ask students to identify inaccessible examples and to propose accessible alternatives for the inaccessible examples. Assess how students identify inaccessible titles and link text and propose accessible alternatives.
+* Practical &mdash; Have students visit a page with inaccessible title and link text. Ask students to identify inaccessible examples and to propose accessible alternatives for the inaccessible examples. Assess how students identify inaccessible titles and link text and propose accessible alternatives.
 * Practical &mdash; Have students include the page title and link text using a given authoring tool. Assess how students use an authoring tool to include page titles and link text.
 
 {% include excol.html type="end" %}
