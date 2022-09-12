@@ -170,7 +170,7 @@ Students should be able to:
 * identify audio and video content that require transcripts
 * identify different approaches for providing transcripts, including:
   * basic &mdash; convey the speech and non-speech information needed to understand the content
-  * descriptive &mdash; convey the speech,  non-speech, and visual information needed to understand the content
+  * descriptive &mdash; convey the speech, non-speech, and visual information needed to understand the content
   * interactive &mdash; highlight text phrases as they are spoken
 * create descriptive transcripts when possible to cover all user needs
 * collaborate with designers and developers to ensure transcripts are easy to find on the page
@@ -273,7 +273,7 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches for providing description of visual information.
 * Practical &mdash; Give students a script for a training video. Ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
-* Practical &mdash; Give students a video and its corresponding description. Ask them to check if all relevant information is included. Assess how students check separate description for quality and accuracy.
+* Practical &mdash; Give students a video and its corresponding description. Ask them to check if all relevant information is included. Assess how students check the separate description for quality and accuracy.
 
 {% include excol.html type="end" %}
 
