@@ -7,7 +7,7 @@ ref: /curricula/content-author-modules/multimedia/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/multimedia.md
+  path: content/content-author/multimedia.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

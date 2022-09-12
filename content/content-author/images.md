@@ -7,7 +7,7 @@ ref: /curricula/content-author-modules/images/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/images.md
+  path: content/content-author/images.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

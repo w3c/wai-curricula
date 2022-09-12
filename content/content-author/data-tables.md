@@ -7,7 +7,7 @@ ref: /curricula/content-author-modules/data-tables/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/data-tables.md
+  path: content/content-author/data-tables.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
