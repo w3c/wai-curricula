@@ -219,7 +219,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type of information error messages should contain. Assess how students understand the information that error messages should contain.
-* Practical &mdash; Give students a form submission containing errors and ask them to include error messages that identify the field(s) in error and provide suggestions for correction when possible. Assess how students include error messages that identify the field in error and provide suggestions for correction where possible.
+* Practical &mdash; Give students a form submission containing errors and ask them to include error messages that identify the field(s) in error and provide suggestions for correction when possible. Assess how students include error messages that identify the field(s) in error and provide suggestions for correction where possible.
 
 {% include excol.html type="end" %}
 
