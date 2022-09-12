@@ -7,7 +7,7 @@ ref: /curricula/content-author-modules/clear-content/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/clear-content.md
+  path: content/content-author/clear-content.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/
