@@ -38,7 +38,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on clear and meaningful labels, instructions, and error messages to understand and successfully interact with web pages and applications
-* write labels for form fields and controls that clearly communicate the form purpose
+* write labels for form fields and controls that clearly communicate the purpose of the form
 * provide meaningful instructions that describe the overall purpose and intent of the form
 * include instructions about expected input types and formats
 * write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
@@ -136,8 +136,8 @@ Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students about the type of information that labels should contain. Assess how students understand the type of information that labels should contain.
 * Practical &mdash; Give students several form fields and controls without a label and ask them to provide one for each. Assess how students provide unique, clear, and descriptive labels for form fields and controls.
-* Practical &mdash; Have students collaborate with designers and developers to select icons and symbols that complement text labels. Assess how students complement text labels with icons and symbols.
-* Practical &mdash; Have students include labels for form fields and controls in an authoring tool that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool to include labels for form fields and controls.
+* Practical &mdash; Ask students to collaborate with designers and developers to select icons and symbols that complement text labels. Assess how students complement text labels with icons and symbols.
+* Practical &mdash; Ask students to include labels for form fields and controls in an authoring tool that programmatically associates the labels with their corresponding control. Assess how students use an authoring tool to include labels for form fields and controls.
 
 {% include excol.html type="end" %}
 
@@ -156,7 +156,7 @@ Authoring tools may or may not produce accessible instructions. When the latter 
 Students should be able to:
 
 * explain how people with disabilities rely on clear instructions to understand the purpose of form fields and controls as well as to provide the appropriate input
-* provide clear instructions about the overall purpose of the form before the form
+* provide clear instructions before the form starts about the overall purpose of the form
 * write additional instructions that provide examples of expected input when possible
 * provide information about the current step and the total number of steps in a multi-step process
 * identify requirements for authoring tools to programmatically associate instructions with their corresponding form field and control
@@ -169,7 +169,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions. Emphasize that providing accessible instructions requires collaboration between different team members, including designers, developers, and content authors.
 * Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing instructions for the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
-* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form.
+* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form starts.
 * Introduce accessible authoring tools that programmatically associate instructions with the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions with the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
@@ -212,7 +212,7 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the error messages in a form. Explain that several groups of users require error messages that communicate the problem and suggest fixes where possible. Show how successful form interaction becomes difficult or impossible without such error messages. Emphasize that providing accessible error messages requires collaboration between different team members, including designers, developers, and content authors.
-* Have students research approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
+* Ask students to research approaches for communicating error messages. These include identifying the fields that caused the error and providing suggestions to correct the problem when these suggestions do not compromise the security or purpose of the form.
 
 ### Ideas to Assess Knowledge for Topic
 
@@ -230,7 +230,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Practical &mdash; Supervise students while they navigate form fields and controls using assistive technologies and adaptive strategies. Assess how students navigate form fields and controls using assistive technologies and adaptive strategies.
-* Portfolio &mdash; Have students include accessible labels, instructions, and error messages for form fields and controls. Assess how students provide unique, descriptive labels as well as meaningful instructions and error messages for form fields and controls.
+* Portfolio &mdash; Ask students to include accessible labels, instructions, and error messages for form fields and controls. Assess how students provide unique, descriptive labels as well as meaningful instructions and error messages for form fields and controls.
 
 ## Teaching Resources
 
@@ -238,7 +238,7 @@ Suggested resources to support your teaching:
 
 * [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
 * [Forms (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/forms) &mdash; Shows how to develop forms that are accessible to people with disabilities.
-* [[How People with Disabilities Use the Web]](https://www.w3.org/WAI/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Clear Layout and Design (Web Accessibility Perspectives)](https://www.w3.org/WAI/perspective-videos/layout/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Understandable Content (Web Accessibility Perspective)](https://www.w3.org/WAI/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
