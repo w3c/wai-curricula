@@ -136,10 +136,10 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Emphasize that some government regulations and policies do not cover all user needs. Content creators should go beyond minimal requirements to meet all user needs. Mention government regulations and other policy requirements that apply in your students region.
+* Emphasize that some government regulations and policies do not cover all user needs. Content creators should go beyond minimal requirements to meet all user needs. Mention government regulations and other policy requirements that apply in your students' region.
 * Show examples of how people with disabilities use audio and video content. Discuss different types of accessibility requirements based on audio and video content. These include transcripts, captions, description of visual information, and sign languages. Explain that these requirements vary depending on whether the content is live or pre-recorded. For references on the accessibility requirements for different types of audio and video content, see [Checklists for Audio and Video](https://www.w3.org/WAI/media/av/planning/#checklist).
-* Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speakers visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
-* Warn students that flashing and blinking content can create seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can create seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
+* Demonstrate accessibility best practices for creating audio and video content. These include clear speech, language, and audio, sufficient contrast ratio for videos, and speaker visibility. For details, see [Audio Content and Video Content](https://www.w3.org/WAI/media/av/av-content/).
+* Warn students that flashing and blinking content can cause seizures and physical reactions for people. Content authors must ensure that there is no flashing content that can cause seizures and physical reactions. For information on the accessibility requirements for flashing content, see [Understanding Success Criterion 2.3.1: Three Flashes or Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold).
 * Present examples of inaccessible audio and video content. Discuss with students which alternatives they would include to make them accessible. Explain that it is best practice to explain why non-substantive audio and video content does not need alternatives. This helps users save time and avoid frustrations. For details, see [Inform users when not needed](https://www.w3.org/WAI/media/av/planning/#none).
 * Show examples of existing audio and video projects. Explain how to identify potential accessibility barriers to address. Discuss which accessibility best practices to include in the planning phase to minimize such barriers.
 
@@ -159,9 +159,9 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include text description of the visual information needed to understand the content.
+Basic transcripts are a text version of the speech and non-speech audio information needed to understand the content. Descriptive transcripts also include a text description of the visual information needed to understand the content.
 
-People who are both Deaf and blind require descriptive transcripts to understand the information in video content. Emphasize that creating descriptive transcripts is easier when starting with existing captions and description. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
+People who are both deaf and blind require descriptive transcripts to understand the information in video content. Emphasize that creating descriptive transcripts is easier when starting with existing captions and description. For details, see [Transcripts](https://www.w3.org/WAI/media/av/transcripts/).
 
 #### Learning Outcomes for Topic
 
@@ -179,8 +179,8 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that basic transcripts are for people who cannot hear the content well or at all but do not cover the user needs of those who are both Deaf and blind.
-* Define descriptive transcripts as those that include text description of the visual information needed to understand the content. People who are both Deaf and blind need them to understand the information contained in video content. Explain that creating descriptive transcripts is easier if they are based on existing captions and description of visual information.
+* Define basic transcripts as a text version of the speech and non-speech audio information needed to understand the content. Explain that basic transcripts are for people who cannot hear the content well or not at all but do not cover the user needs of those who are both deaf and blind.
+* Define descriptive transcripts as those that include a text description of the visual information needed to understand the content. People who are both deaf and blind need them to understand the information contained in video content. Explain that creating descriptive transcripts is easier if they are based on existing captions and description of visual information.
 * Describe characteristics of quality transcripts for video and audio content. These include identifying the speaker and providing all the relevant speech, non-speech, and visual information needed to understand the content.
 * Give students a piece of audio and video content and ask them to reflect on what type of information they would include in the transcript.
 * Show examples of interactive transcripts. Explain how users can select text in the transcript and go to that point in the video. Emphasize that, for this to work, the media player must support that functionality.
@@ -219,7 +219,7 @@ Students should be able to:
 
 Optional ideas to teach the learning outcomes:
 
-* Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that the terms "captions” and "subtitles” are used for the same thing in different regions of the world. See [Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles)
+* Define captions as a text version of the speech and non-speech audio information needed to understand the content. Explain that the terms "captions" and "subtitles" are used for the same thing in different regions of the world. See [Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles)
 * Show examples of automatically-generated captions. Emphasize that automatically generated captions alone are not sufficient to meet the accessibility requirements. If starting with automatically-generated captions, content authors must carefully edit them to be accurate with appropriate punctuation, spelling, etc. For details, see [Automatically-generated captions are not sufficient](https://www.w3.org/WAI/media/av/captions/#automatic-captions-are-not-sufficient).
 * Reflect with students on characteristics of quality captions, including relevant non-speech information as well as timestamps to identify when a person speaks.
 * Show a piece of audio and video content. Discuss with students which information they would include in the captions.
@@ -242,27 +242,27 @@ Optional ideas to assess knowledge:
 
 {% include excol.html type="middle" %}
 
-People who cannot see the video need description of visual information to understand the content.
+People who cannot see the video need a description of visual information to understand the content.
 
-Demonstrate approaches for providing description of visual information. These include integrating description in the main audio of the video, providing description in the main audio of an alternative video, and including the description in a synchronized audio or text file when supported by the media player. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
+Demonstrate approaches for providing a description of visual information. These include integrating a description in the main audio of the video, providing a description in the main audio of an alternative video, and including the description in a synchronized audio or text file when supported by the media player. For details, see [Description of visual information](https://www.w3.org/WAI/media/av/description/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* define description of visual information as information, including text in the video, for people who cannot see the video to understand the content
-* identify different approaches for providing description, including:
-  * integrated description &mdash; authors include description in the main speakers’ scripts
-  * alternative video &mdash; authors include description in a separate script and the description is included in the audio track of an alternative video
-  * separate file &mdash; authors include description in a separate script and the description is provided in a timed text file or synched audio file; must be supported by the media player
-* identify video content that requires description of visual information
+* define a description of visual information as information, including text in the video, for people who cannot see the video to understand the content
+* identify different approaches for providing a description, including:
+  * integrated description &mdash; authors include a description in the main speakers’ scripts
+  * alternative video &mdash; authors include a description in a separate script and the description is included in the audio track of an alternative video
+  * separate file &mdash; authors include a description in a separate script and the description is provided in a timed text file or synched audio file; must be supported by the media player
+* identify video content that requires a description of visual information
 
 #### Teaching Ideas for Topic
 
 Optional ideas to teach the learning outcomes:
 
-* Define description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
-* Discuss with students how the main speaker(s) can provide the description integrated in their speaking. Explain that integrated description works best for most training videos, though not for most stories. Emphasize that it is best practice to plan for integrated description early on in the creation process to minimize the need for separate description. For details on how to create integrate description, see [Integrated](https://www.w3.org/WAI/media/av/description/#integrated--creating-integrated-description).
+* Define a description of visual information as information, including text in the video, for people who cannot see the video to understand the content. Explain that different regions have different names for description, including audio descriptions, video descriptions, and described videos.
+* Discuss with students how the main speaker(s) can provide the description integrated in their speaking. Explain that integrated description works best for most training videos, though not for most stories. Emphasize that it is best practice to plan for integrated description early on in the creation process to minimize the need for a separate description. For details on how to create integrated description, see [Integrated](https://www.w3.org/WAI/media/av/description/#integrated--creating-integrated-description).
 * Demonstrate examples of description provided in an alternative version of the video, where the main audio includes the description. Explain that this requires recording and editing abilities. For details on how to create descriptions provided in an alternative version of the video, see [Video with space](https://www.w3.org/WAI/media/av/description/#video-with-space--creating-a-separate-described-video---if-descriptions-fit-in-audio-spaces).
 * Show examples of description provided in a text or audio file that syncs with the main audio of the video. Explain that this only works when the media player supports that functionality. For details on how to create descriptions provided in a text or audio file that syncs with the main audio of the video, see [Text](https://www.w3.org/WAI/media/av/description/#text--creating-description-in-a-text-file) and [Audio Only](https://www.w3.org/WAI/media/av/description/#audio-only--creating-description-in-a-separate-audio-file-only).
 * Show a video that has important visual information needed to understand the content. Discuss with students what parts of the video they would describe and what type of information they would include in the description.
@@ -271,8 +271,8 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to assess knowledge:
 
-* Short Answer Questions &mdash; Ask students to describe approaches for providing description of visual information. Assess how students describe approaches for providing description of visual information.
-* Practical &mdash; Give students a script for a training video. Ask them to integrate the required description of visual information in the script. Assess how students integrate description of visual information in the script of the video.
+* Short Answer Questions &mdash; Ask students to describe approaches for providing a description of visual information. Assess how students describe approaches for providing a description of visual information.
+* Practical &mdash; Give students a script for a training video. Ask them to integrate the required description of visual information in the script. Assess how students integrate the description of visual information in the script of the video.
 * Practical &mdash; Give students a video and its corresponding description. Ask them to check if all relevant information is included. Assess how students check the separate description for quality and accuracy.
 
 {% include excol.html type="end" %}
@@ -284,7 +284,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Short Answer Questions &mdash; Ask students what type of information each alternative to multimedia content should convey, as well as what user needs each alternative meets. Assess how students understand the type of information that each alternative to multimedia content should convey and what user needs each alternative meets.
-* Portfolio &mdash; Have students supervise the inclusion of alternatives to audio and video content on the website they are creating. Assess how students supervise the inclusion of alternatives to multimedia content based on content type, format, and user needs.
+* Portfolio &mdash; Ask students to supervise the inclusion of alternatives to audio and video content on the website they are creating. Assess how students supervise the inclusion of alternatives to multimedia content based on content type, format, and user needs.
 
 ## Teaching Resources
 
