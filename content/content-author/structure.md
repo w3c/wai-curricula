@@ -185,7 +185,7 @@ Optional ideas to assess knowledge:
 
 Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate through content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
 
-Authoring tools may or may not produce accessible navigation and orientation methods. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the visual appearance of and interaction with these methods.
+Authoring tools may not produce accessible navigation and orientation methods. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make navigation andd orientation methods accessible.
 
 #### Learning Outcomes for Topic
 

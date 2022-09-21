@@ -106,7 +106,7 @@ Topics to achieve the learning outcomes:
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Authoring tools may or may not produce accessible labels. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the label as well as to associate the label with its corresponding control.
+Authoring tools may not produce accessible labels. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make labels acccessible.
 
 #### Learning Outcomes for Topic
 
@@ -149,7 +149,7 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and information about the current step and the total number of steps in a form.
 
-Authoring tools may or may not produce accessible instructions. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the instructions as well as to implement the instructions.
+Authoring tools may not produce accessible instructions. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make instructions accessible.
 
 #### Learning Outcomes for Topic
 
@@ -190,7 +190,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
-Authoring tools may or may not produce accessible error messages. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the appearance of the error messages as well as to implement the error messages.
+Authoring tools may not produce accessible error messages. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make error messages acccessible.
 
 #### Learning Outcomes for Topic
 
