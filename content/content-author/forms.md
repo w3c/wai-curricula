@@ -100,13 +100,13 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Labels
+### TopicLabels
 
 {% include excol.html type="middle" %}
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Authoring tools may not produce accessible labels. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make labels acccessible.
+Authoring tools may not produce accessible labels. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make labels accessible.
 
 #### Learning Outcomes for Topic
 
@@ -190,7 +190,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
-Authoring tools may not produce accessible error messages. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make error messages acccessible.
+Authoring tools may not produce accessible error messages. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make error messages accessible.
 
 #### Learning Outcomes for Topic
 

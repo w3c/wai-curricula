@@ -110,9 +110,7 @@ Students should be able to:
 * explain how proper heading hierarchies enable users to identify and navigate the different content sections
 * provide proper heading hierarchies that enable users to identify and navigate the different content sections
 * write descriptive and easy to understand heading text based on the heading purpose or the following text content
-* describe the accessibility considerations when changing the default visual appearance of headings, including the potential inaccessibility of:
-  * the selected custom visual appearance
-  * the generated markup
+* describe the characteristics of accessible headings, including text, visual appearance, and markup
 * identify requirements for authoring tools to produce appropriate markup for heading hierarchies
 * identify related requirements for designers and developers to ensure accessible headings
 

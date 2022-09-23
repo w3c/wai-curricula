@@ -97,11 +97,11 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Informative Images
+### TopicInformative Images
 
 {% include excol.html type="middle" %}
 
-Informative images convey information visually, for example through a picture or illustration. They require a short, clear description provided in the image text alternative or through the adjacent text. Discuss different approaches for providing alternative text for informative images.
+Informative images convey information visually. Examples include icons, photos, graphs, and illustrations. They require a short, clear description provided in the image text alternative or through the adjacent text. Discuss different approaches for providing alternative text for informative images.
 
 When images do not convey information, they are marked as decorative with an empty alternative text.
 
