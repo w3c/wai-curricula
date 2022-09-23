@@ -107,7 +107,7 @@ When content authors change the visual appearance of headings, they must ensure 
 
 Students should be able to:
 
-* explain how proper heading hierarchies enables users to identify and navigate the different content sections
+* explain how proper heading hierarchies enable users to identify and navigate the different content sections
 * provide proper heading hierarchies that enable users to identify and navigate the different content sections
 * write descriptive and easy to understand heading text based on the heading purpose or the following text content
 * describe the accessibility considerations when changing the default visual appearance of headings, including the potential inaccessibility of:
@@ -123,7 +123,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures provided by assistive technologies and adaptive strategies to navigate web pages through headings. Explore advanced functionality that some tools provide, such as presenting the heading hierarchy in a list where users can select the heading they are interested in. Examples of how people with disabilities interact with the Web are provided in [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/).
 * Discuss the use of heading hierarchies for identifying content sections. Explain that it is best practice to use heading level one for including the information of the page title. Some tools automate this process, some require the author to do it manually. 
 * Explain different uses of heading text. These uses include providing a headline for a piece of news which effectively summarizes the content which follows.
-* Show examples of what headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
+* Show examples of how headings can look like visually. Explain that predefining the styles is a designer's and authoring tool vendor's responsibility. When content authors change these styles, they must ensure visual and non-visual accessibility of headings themselves.
 * Introduce accessible authoring tools that produce appropriate markup for headings. Explain that changing the font size alone does not produce an accessible heading. It is more efficient to rely on the tool's built-in functionality and then change the style later.
 
 #### Ideas to Assess Knowledge for Topic
@@ -153,8 +153,8 @@ Students should be able to:
 * explain how people with disabilities rely on paragraphs and lists to understand and process related content
 * group related content using:
   * paragraph structures to group thematic units
-  * unordered lists when the item numbering is not relevant
-  * ordered lists when the item numbering is relevant
+  * unordered lists when item numbering is not relevant
+  * ordered lists when item numbering is relevant
   * description lists for terms and their definitions
 * identify requirements for authoring tools to produce appropriate markup for paragraphs, lists, and other content structures
 
@@ -166,7 +166,7 @@ Optional ideas to teach the learning outcomes:
 * Explain different uses of paragraphs to group thematic units.
 * Refer back to [Content Author Module 1: Clear content](/curricula/content-author-modules/clear-content/). Explain that structured lists favor readability of the content. Information provided using inline lists inside paragraphs is more difficult to understand.
 * Explain uses of different types of lists. Ordered lists (where numbering matters), unordered lists (where numbering does not matter), and description lists (for terms and their definitions).
-* Reflect with students on how content authors can produce accessible paragraphs and lists. Explain that some authoring tools  natively support the creation of accessible paragraphs, ordered lists, and unordered lists. Emphasize that description lists may require developers to code them.
+* Reflect with students on how content authors can produce accessible paragraphs and lists. Explain that some authoring tools natively support the creation of accessible paragraphs, ordered lists, and unordered lists. Emphasize that description lists may require developers to code them.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -185,7 +185,7 @@ Optional ideas to assess knowledge:
 
 Introduce navigation and orientation methods that enable people with disabilities to orient themselves and navigate through content. These include a correct reading order, a table of contents, footnotes, and methods for users to move back and forth through long passages of text.
 
-Authoring tools may not produce accessible navigation and orientation methods. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make navigation and GGGorientation methods accessible.
+Authoring tools may not produce accessible navigation and orientation methods. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make navigation and orientation methods accessible.
 
 #### Learning Outcomes for Topic
 
@@ -209,7 +209,7 @@ Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of assistive technologies to navigate through long passages of text. Explain that several groups of users rely on orientation and navigation methods to understand the overall content structure and to move back and forth through different content sections.
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
-* Discuss the use of links to get to the top of the document and to get back to the top of specific content sections in long passages of text. Explain that these methods enable users to get back to the table of contents more efficiently when they are finished reading a specific section.
+* Discuss the use of links to get to the top of the document and to get back to the top of specific content sections in long passages of text. Explain that these methods enable users to get back to the table of contents more efficiently when they have finished reading a specific section.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
 * Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, different team members need to collaborate to specify the appearance of and interaction with the methods.
 
