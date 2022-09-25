@@ -38,7 +38,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on clear and meaningful labels, instructions, and error messages to understand and successfully interact with web pages and applications
-* write labels for form fields and controls that clearly communicate the form purpose
+* write labels for form fields and controls that clearly communicate the purpose of the form 
 * provide meaningful instructions that describe the overall purpose and intent of the form
 * include instructions about expected input types and formats
 * write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
@@ -169,7 +169,7 @@ Optional ideas to teach the learning outcomes:
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions. Emphasize that providing accessible instructions requires collaboration between different team members, including designers, developers, and content authors.
 * Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing instructions for the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
-* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form.
+* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form starts.
 * Introduce accessible authoring tools that programmatically associate instructions with the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions with the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
