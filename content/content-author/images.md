@@ -37,7 +37,7 @@ Courses based on this module should:
 
 Students should be able to:
 
-* explain how people with disabilities rely on text alternatives for images (including for diagrams, charts, maps, and infographics) to understand the image content
+* explain how people with disabilities rely on text alternatives for images (including diagrams, charts, maps, and infographics) to understand the image content
 * explain the purpose of the following types of images:
   * informative &mdash; require descriptions that convey their information
   * functional &mdash; require descriptions that convey their functionality
@@ -131,7 +131,7 @@ Optional ideas to teach the learning outcomes:
 * Show examples of informative images, including icons, pictures, and illustrations. Explain that these images are considered informative when they present information that is not otherwise available in the adjacent text. Discuss what text alternatives to include for these images based on the image content and on the information provided in the text adjacent to the image.
 * Discuss examples of images that can be both informative and decorative based on context. Explain that decorative images require empty alternative text. Some authoring tools let content authors specify when an image is decorative. Otherwise, content authors must provide annotations for designers and developers to implement images as decorative.
 * Explain the differences between providing textual information as text and providing text in an image file. Explain that some assistive technologies may be able to recognize some text in an image but may still miss the structure and semantics in the text.
-* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated to relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
+* Reflect with students on available authentication systems to identify humans, including visual, auditory, and logical CAPTCHA, as well as biometrics. Describe challenges associated with relying only on one modality of CAPTCHA. Emphasize that authors, designers, and developers must ensure people can authenticate through several modalities of CAPTCHA. This includes ensuring the tool provides such modalities itself and using plugins that include that functionality.
 
 #### Ideas to Assess Knowledge for Topic
 
@@ -168,7 +168,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. Examples include: "Search" instead of "magnifying glass", and "print" instead of "printer".
 * Show examples of functional images, including for graphical buttons and links. Discuss with students what text alternative to include for these images.
-* Refer back to [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content). Demonstrate the use of iconography to provide information and functionality. Explain that it is best practice to complement icons with text that helps people understand the icons meaning.
+* Refer back to [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content). Demonstrate the use of iconography to provide information and functionality. Explain that it is best practice to complement icons with text that helps people understand the meaning of icons.
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 
 #### Ideas to Assess Knowledge for Topic
@@ -198,7 +198,7 @@ Students should be able to:
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide equivalent, long descriptions for complex images that help understand and process the image contents using:
+* provide equivalent, long descriptions for complex images that help people understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
 * provide other graphical representations as alternative data visualizations for complex images
