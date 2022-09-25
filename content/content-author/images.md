@@ -231,7 +231,7 @@ Optional ideas to assess knowledge:
 Optional ideas to assess knowledge:
 
 * Research &mdash; Ask students to research different approaches for providing text alternatives for informative, functional, and complex images based on the image context and functionality. Assess how students understand how to provide text alternatives for images based on the image context and functionality.
-* Portfolio &mdash; Ask students to include text alternatives for several types of images on the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
+* Portfolio &mdash; Have students include text alternatives for several types of images on the website they are creating. Assess how students determine the type of text alternative to include based on the types of images and their context.
 
 ## Teaching Resources
 
@@ -239,7 +239,7 @@ Suggested resources to support your teaching:
 
 * [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/) -- Introduces some basic considerations to help you get started writing web content that is more accessible to people with disabilities.
 * [Images (WAI Web Accessibility Tutorials)](https://www.w3.org/WAI/tutorials/images/) &mdash; Shows how to provide alternatives to images that are accessible to people with disabilities.
-* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
+* [[How People with Disabilities Use the Web]](https://www.w3.org/WAI/people-use-web/) &mdash; Describes some of the barriers that people encounter using the Web; and introduces types of assistive technologies and adaptive strategies that some people use.
 * [Understandable Content (Web Accessibility Perspective)](https://www.w3.org/WAI/perspective-videos/understandable/) &mdash; Is one of the Web accessibility perspectives videos that show accessibility features and how they impact people with disabilities.
 * [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/) &mdash; examines a number of approaches that allow systems to test for human users and the extent to which these approaches adequately accommodate people with disabilities. 
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) &mdash; Address accessibility of web content on desktops, laptops, tablets, and mobile devices.
