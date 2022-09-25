@@ -198,7 +198,7 @@ Students should be able to:
 * write short, succinct, and clear descriptions for complex images that:
   * identify the image
   * include reference to the alternative long description for the image
-* provide equivalent, long descriptions for complex images that helps people understand and process the image contents using:
+* provide equivalent, long descriptions for complex images that help people understand and process the image contents using:
   * additional blocks of content in the same page
   * separate pages containing the long descriptions
 * provide other graphical representations as alternative data visualizations for complex images
