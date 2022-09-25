@@ -145,7 +145,7 @@ Optional ideas to teach the learning outcomes:
 * Provide text passages with clear, easy to read, and easy to understand language. Compare those passages with others that are overly complex and harder to understand. Demonstrate the use of readability tests and other authoring tool checker to provide suggestions on readability. Emphasize that clear writing is essential for people with disabilities to effectively understand and use content. Highlight the broader value of clear writing.
 * Compare active versus passive voice in sentence structures. Explain how using direct language and clear identification of the source of the action improves understanding of the content. Explain how active voice improves overall accessibility and readability of the content.
 * Demonstrate methods to provide the extended form for abbreviations and acronyms, for example, by including the extension directly after the first occurrence of an abbreviation or acronym.
-* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language for multilingual content.
+* Demonstrate the use of assistive technologies to read passages of content in different languages. Explain that assistive technologies need language indicators for the main language, as well as language indicators for any changes in language.
 
 #### Ideas to Assess Knowledge for Topic
 
