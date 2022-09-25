@@ -7,7 +7,7 @@ ref: /curricula/content-author-modules/forms/
 lang: en
 github:
   repository: w3c/wai-curricula
-  path: content/content-author-modules/forms.md
+  path: content/content-author/forms.md
 license: creative-commons
 acknowledgements: /curricula/acknowledgements/
 changelog: /curricula/changelog/

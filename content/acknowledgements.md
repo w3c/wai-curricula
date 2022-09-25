@@ -21,11 +21,12 @@ Project Leadership
 
 -  Project Coordinators:
    -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
-   -  [Judy Brewer](https://www.w3.org/people/judy/) -- From 1 October 2021
--  **Editors**:
+   -  [Judy Brewer](https://www.w3.org/people/brewer/), W3C WAI -- From 1 October 2021
+-  **Editors:**
     -  Daniel Montalvo
     -  [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI -- Until 30 September 2021
--  **EOWG Co-Chairs:**  Brent Bakken, Pearson,
+-  **EOWG Co-Chairs:**  
+    -  Brent Bakken, Pearson,
     -  Sharron Rush, Knowbility
     -  Kris Anne Kinney, Educational Testing Services
 -  **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
@@ -59,3 +60,5 @@ Contributing EOWG Participants
 -  Victoria Menezes Miller
 -  Jade Matos Carew
 -  Sharron Rush
+-  and other [EOWG participants](https://www.w3.org/groups/wg/eowg/participants)
+
