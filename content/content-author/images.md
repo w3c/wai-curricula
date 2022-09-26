@@ -97,7 +97,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### TopicInformative Images
+### Topic: Informative Images
 
 {% include excol.html type="middle" %}
 

@@ -100,7 +100,7 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### TopicLabels
+### Topic: Labels
 
 {% include excol.html type="middle" %}
 
