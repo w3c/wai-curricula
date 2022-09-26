@@ -38,7 +38,7 @@ Courses based on this module should:
 Students should be able to:
 
 * explain how people with disabilities rely on clear and meaningful labels, instructions, and error messages to understand and successfully interact with web pages and applications
-* write labels for form fields and controls that clearly communicate the form purpose
+* write labels for form fields and controls that clearly communicate the purpose of the form 
 * provide meaningful instructions that describe the overall purpose and intent of the form
 * include instructions about expected input types and formats
 * write clear guidance for a multi-step process, including instructions about the current step and orientation about the total number of steps
@@ -100,13 +100,13 @@ Topics to achieve the learning outcomes:
 
 {% include excol.html type="start" %}
 
-### Topic: Labels
+### TopicLabels
 
 {% include excol.html type="middle" %}
 
 Unique, descriptive labels help people with disabilities identify the purpose of form fields and controls.
 
-Authoring tools may or may not produce accessible labels. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the label as well as to associate the label with its corresponding control.
+Authoring tools may not produce accessible labels. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make labels accessible.
 
 #### Learning Outcomes for Topic
 
@@ -149,7 +149,7 @@ Optional ideas to assess knowledge:
 
 Clear instructions help people with disabilities interact with form fields and controls. These include overall instructions about the purpose of the form, specific instructions for each form field and control when required, and information about the current step and the total number of steps in a form.
 
-Authoring tools may or may not produce accessible instructions. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the text and appearance of the instructions as well as to implement the instructions.
+Authoring tools may not produce accessible instructions. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make instructions accessible.
 
 #### Learning Outcomes for Topic
 
@@ -167,9 +167,9 @@ Students should be able to:
 Optional ideas to teach the learning outcomes:
 
 * Demonstrate the use of voice commands, keystrokes, and gestures for assistive technologies to get to the instructions associated with form fields and controls. Explain that several groups of users require meaningful instructions to provide the appropriate input. Show how successful form interaction becomes difficult or impossible without such instructions. Emphasize that providing accessible instructions requires collaboration between different team members, including designers, developers, and content authors.
-* Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing instructions for the form.
+* Show examples of forms that require instructions to understand their purpose. Discuss with students what instructions they would provide to help users understand the form. These instructions could contain the type of data the form collects and general timing advice on how long it takes to complete the form.
 * Show examples of form fields that collect data in a specific format, for example fields collecting dates or phone numbers. Content authors should include examples of how to provide the input, unless these examples compromise the security or purpose of the form.
-* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form.
+* Demonstrate approaches for including information about the current step and the total number of steps in the page title or before the form starts.
 * Introduce accessible authoring tools that programmatically associate instructions with the corresponding form field or control. Explain that some tools may refer to instructions as "descriptions", "tooltips", and others. Emphasize that content authors should provide these instructions and the tool should associate the instructions with the corresponding form field and control. Standard HTML elements may suffice, and WAI-ARIA properties may be required when building custom form fields and controls.
 
 #### Ideas to Assess Knowledge for Topic
@@ -190,7 +190,7 @@ Optional ideas to assess knowledge:
 
 Clear and descriptive error messages help people with disabilities understand the problem and, if possible, correct it. Demonstrate approaches for providing clear and descriptive error messages.
 
-Authoring tools may or may not produce accessible error messages. When the latter occurs, different team members, including content authors, designers, and developers, need to collaborate to specify the appearance of the error messages as well as to implement the error messages.
+Authoring tools may not produce accessible error messages. When this occurs, different team members, including content authors, designers, and developers, need to collaborate to make error messages accessible.
 
 #### Learning Outcomes for Topic
 
