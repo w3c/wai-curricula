@@ -1,5 +1,5 @@
 ---
-title: "[Draft] 1: Clear Content in Content Author Modules | Curricula"
+title: "1: Clear Content in Content Author Modules | Curricula"
 title_html: "Module 1: Clear Content&nbsp;"
 nav_title: "Clear Content"
 permalink: /curricula/content-author-modules/clear-content/

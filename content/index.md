@@ -86,7 +86,7 @@ The foundation, developer, and designer modules are available now. The author mo
     <tr>
       <th> <a href="{{ '/curricula/developer-modules/' | relative_url }}">Developer Modules</a> </th>
       <th> <a href="{{ '/curricula/designer-modules/' | relative_url }}">Designer Modules</a></th>
-      <th> <a href="{{ '/curricula/content-author-modules/' | relative_url }}">[Draft] Content Author Modules</a></th>
+      <th> <a href="{{ '/curricula/content-author-modules/' | relative_url }}">Content Author Modules</a></th>
     </tr>
     <tr>
       <td>
@@ -113,12 +113,12 @@ The foundation, developer, and designer modules are available now. The author mo
       </td>
       <td>
         <ul>
-          <li><a href="{{ '/curricula/content-author-modules/clear-content/' | relative_url }}">[Draft] Clear Content</a></li>
-          <li><a href="{{ '/curricula/content-author-modules/structure/' | relative_url }}">[Draft] Structure</a></li>
-          <li><a href="{{ '/curricula/content-author-modules/forms/' | relative_url }}">[Draft] Forms</a></li>
-          <li><a href="{{ '/curricula/content-author-modules/images/' | relative_url }}">[Draft] Images</a></li>
-          <li><a href="{{ '/curricula/content-author-modules/data-tables/' | relative_url }}">[Draft] Data Tables</a></li>
-          <li><a href="{{ '/curricula/content-author-modules/multimedia/' | relative_url }}">[Draft] Multimedia</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/clear-content/' | relative_url }}">Clear Content</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/structure/' | relative_url }}">Structure</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/forms/' | relative_url }}">Forms</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/images/' | relative_url }}">Images</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/data-tables/' | relative_url }}">Data Tables</a></li>
+          <li><a href="{{ '/curricula/content-author-modules/multimedia/' | relative_url }}">Multimedia</a></li>
         </ul>
       </td>
     </tr>
