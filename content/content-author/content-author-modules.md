@@ -39,7 +39,7 @@ The content author modules guide the creation of courses that:
 
 These modules focus on accessible content creation. They are primarily designed for teaching:
 
-* technical writers
+* writers
 * editors
 * content creators
 * content publishers
