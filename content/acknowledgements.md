@@ -9,8 +9,7 @@ github:
 nosidenav: true
 acknowledgements: /curricula/acknowledgements/
 footer: >
-  <p><strong>Date:</strong> $Date</p>
-  <p><strong>Editors:</strong> Daniel Montalvo and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+  <p><strong>Editors:</strong> Daniel Montalvo and Shadi Abou-Zahra.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).</p>
 ---
 
@@ -19,33 +18,45 @@ The [WAI Curricula](/curricula/) was developed by the W3C Accessibility Educatio
 Project Leadership
 ------------------
 
--   **Project Coordinator:** [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
--   **Editors**: Daniel Montalvo and [Shadi Abou-Zahra](https://www.w3.org/people/shadi/), W3C WAI
--   **EOWG Co-Chairs:**  Brent Bakken, Pearson and Sharron Rush, Knowbility
--   **EOWG Staff Contact:** [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
+-  **Project Coordinator:**
+   -  Shadi Abou-Zahra, W3C WAI (until 30 September 2021)
+-  **Editors:**
+    -  Daniel Montalvo, W3C WAI
+    -  Shadi Abou-Zahra, W3C WAI
+-  **EOWG Co-Chairs:** 
+    -  Brent Bakken, Pearson
+    -  Sharron Rush, Knowbility
+    -  Kris Anne Kinney, Educational Testing Services
+-  **EOWG Staff Contact:**
+    -  [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
 
 Task Force Participants
 ------------------
 
--   Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
--   Howard Kramer, University of Colorado Boulder
--   Carlos Duarte, University of Lisbon
--   David Sloan, The Paciello Group
--   Donal Fitzpatrick
--   Gerhard Nussbaum
--   Dónal Rice
--   Sarah Lewthwaite, University of Southampton
+-  **Shadi Abou-Zahra**, W3C WAI
+-  Carlos Duarte, University of Lisbon
+-  Brian Elton, TPGI
+-  Donal Fitzpatrick
+-  Sarah Lewthwaite, University of Southampton
+-  Howard Kramer, University of Colorado Boulder
+-  Gerhard Nussbaum
+-  Estel·la Oncins Noguer, Universitat Autònoma de Barcelona
+-  Roberto Perez, Optum
+-  David Sloan, TPGI
+-  Dónal Rice
 
 Contributing EOWG Participants
 ------------------------------
 
--   [Shawn Lawton Henry](https://www.w3.org/People/shawn)
--   Brent Bakken
--   Sharron Rush
--   Kevin White
--   Kris Anne Kinney
--   Laura Keen
--   Sylvie Duchateau
--   Andrew Arch
--   Victoria Menezes Miller
--   [Hidde de Vries](https://www.w3.org/people/hidde/)
+-  [**Shawn Lawton Henry**](https://www.w3.org/People/shawn), W3C WAI
+-  **Kevin White**, The Scottish Government
+-  Andrew Arch, Intopia
+-  Brent Bakken, Pearson
+-  Hidde de Vries, W3C WAI
+-  Sylvie Duchateau
+-  Laura Keen, Library of Congress
+-  Kris Anne Kinney, Educational Testing Service
+-  Vicki Menezes Miller
+-  Jade Matos Carew, The Open University
+-  Sharron Rush, Knowbility
+-  and other [EOWG participants](https://www.w3.org/groups/wg/eowg/participants)
