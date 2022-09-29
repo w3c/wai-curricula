@@ -78,7 +78,7 @@ The content author modules are designed for students who have achieved the learn
 -   [Module 1: Clear Content](/curricula/content-author-modules/clear-content/)
     -   [Topic: Easy to Understand Language](/curricula/content-author-modules/clear-content/#topic-easy-to-understand-language)
     -   [Topic: Titles and Link Text](/curricula/content-author-modules/clear-content/#topic-titles-and-link-text)
-    -   [Topic: Visual Appearance](/curricula/content-author-modules/clear-content/#visual-appearance)
+    -   [Topic: Visual Appearance](/curricula/content-author-modules/clear-content/#topic-visual-appearance)
 -   [Module 2: Structure](/curricula/content-author-modules/structure/)
     -   [Topic: Headings](/curricula/content-author-modules/structure/#topic-headings)
     -   [Topic: Paragraphs and Lists](/curricula/content-author-modules/structure/#topic-paragraphs-and-lists)
