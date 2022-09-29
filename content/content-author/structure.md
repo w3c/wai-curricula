@@ -209,7 +209,7 @@ Optional ideas to teach the learning outcomes:
 * Show web pages with a table of contents. Explain that they provide a summary of the overall structure of the whole piece of content. They also enable users to get to the specific sections they are interested in.
 * Discuss the use of links to get to the top of the document and to get back to the top of specific content sections in long passages of text. Explain that these methods enable users to get back to the table of contents more efficiently when they have finished reading a specific section.
 * Demonstrate assistive technology and keyboard interaction with document footnotes. Explain that keyboard users need methods to move from the footnote marker to the footnote content and to move back from the footnote content to the footnote marker.
-* Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, different team members need to collaborate to specify the appearance of and interaction with the methods.
+* Refer back to Foundation Module 5: Getting Started with Accessibility, [Topic Roles and Responsibilities](/curricula/foundation-modules/getting-started-with-accessibility/#topic-roles-and-responsibilities). Explain that, when authoring tools do not support accessible orientation and navigation methods, different team members need to collaborate to specify the appearance of and interaction with the methods.
 
 #### Ideas to Assess Knowledge for Topic
 

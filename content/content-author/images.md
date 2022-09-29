@@ -168,7 +168,7 @@ Optional ideas to teach the learning outcomes:
 
 * Explain that text alternatives for functional images must describe the functionality of the component instead of describing the image appearance. Examples include: "Search" instead of "magnifying glass", and "print" instead of "printer".
 * Show examples of functional images, including for graphical buttons and links. Discuss with students what text alternative to include for these images.
-* Refer back to [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content). Demonstrate the use of iconography to provide information and functionality. Explain that it is best practice to complement icons with text that helps people understand the meaning of icons.
+* Refer back to [Content Author Module 1: Clear Content](/curricula/content-author-modules/clear-content/). Demonstrate the use of iconography to provide information and functionality. Explain that it is best practice to complement icons with text that helps people understand the meaning of icons.
 * Introduce accessible authoring tools that support the inclusion of text alternatives for images and that produce appropriate markup for those images. Explain that some tools may refer to alternative texts as "image descriptions".
 
 #### Ideas to Assess Knowledge for Topic
