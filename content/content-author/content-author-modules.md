@@ -1,5 +1,5 @@
 ---
-title: "Overview in Content Author Modules | Curricula"
+title: "Content Author Modules | Curricula"
 title_html: "Content Author Modules&nbsp;"
 nav_title: "Content Author Modules"
 permalink: /curricula/content-author-modules/
