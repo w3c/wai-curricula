@@ -1,6 +1,6 @@
 ---
 title: "7: Forms Design in Designer Modules | Curricula"
-title_html: "Moduule 7: Forms Design&nbsp;"
+title_html: "Module 7: Forms Design&nbsp;"
 nav_title: "Forms Design"
 permalink: /curricula/designer-modules/forms-design/
 ref: /curricula/designer-modules/forms-design/
