@@ -61,8 +61,6 @@ This resource is organized in granular modules that you can combine to create li
 
 This resource includes modules that cover accessibility foundations that apply broadly to everyone in <abbr title="Information Technology">IT</abbr>, and modules that cover specific skills for developing, designing, and authoring accessible digital content.
 
-The foundation, developer, and designer modules are available now. The author modules will be available later.
-
 ### Curricula Modules
 
 <table class="dense" style="width: 100%; margin-bottom: -1px;" role="presentation">
