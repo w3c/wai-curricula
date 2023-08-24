@@ -1,7 +1,7 @@
 ---
 title: "1: Page Structure in Developer Modules | Curricula"
 title_html: "Module 1: Page Structure&nbsp;"
-nav_title: "page Structure"
+nav_title: "Page Structure"
 permalink: /curricula/developer-modules/page-structure/
 ref: /curricula/developer-modules/page-structure/
 lang: en
