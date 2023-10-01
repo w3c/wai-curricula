@@ -28,7 +28,7 @@ navigation:
 
 This curriculum provides a general introduction to web accessibility. It is designed for any students with a basic understanding of computers and the Web.
 
-Its aims are to:
+This curriculum results in courses that:
 
 * Explain how people with disabilities use the Web.
 * Define the scope and relevance of web accessibility.
