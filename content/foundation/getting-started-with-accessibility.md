@@ -31,18 +31,18 @@ navigation:
 
 Courses based on this module should:
 
-* Introduce different strategies on how to plan, apply, manage, and sustain accessibility.
-* Introduce roles and responsibilities related to implementing accessibility.
+* introduces different strategies on how to plan, apply, manage, and sustain accessibility
+* introduces roles and responsibilities related to implementing accessibility
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Explain different organizational strategies to plan and manage accessibility.
-* Describe how to develop accessibility policies for organizations and statements for products.
-* Describe ways to explore the accessibility environment in organizations.
-* Distinguish different roles and responsibilities for applying accessibility.
-* Explain how to start addressing accessibility in an existing project.
+* explain different organizational strategies to plan and manage accessibility
+* describe how to develop accessibility policies for organizations and statements for products
+* describe ways to explore the accessibility environment in organizations
+* distinguish different roles and responsibilities for applying accessibility
+* explain how to start addressing accessibility in an existing project
 
 ## Competencies
 
@@ -82,11 +82,11 @@ Introduce different approaches for integrating accessibility throughout the desi
 
 Students should be able to:
 
-* Explain that accessibility implementation needs involvement from a wide range of roles.
-* Recognize the need of technical and financial resources for accessibility.
-* Identify some roles to ensure a consistent implementation of accessibility, such as those from Quality Assurance or Executive Management Teams.
-* Describe how to involve people with disabilities throughout projects.
-* Describe some accessibility case studies from organizations.
+* explain that accessibility implementation needs involvement from a wide range of roles
+* recognize the need of technical and financial resources for accessibility
+* identify some roles to ensure a consistent implementation of accessibility, such as those from Quality Assurance or Executive Management Teams
+* describe how to involve people with disabilities throughout projects
+* describe some accessibility case studies from organizations
 
 #### Teaching Ideas  for Topic
 
@@ -100,9 +100,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Reflective Journal &mdash; Students identify accessibility related processes based on what they have learned, and research how to update them to better integrate accessibility. Assess students' capacity to identify strengths and weaknesses in an overall accessibility strategy.
-* Guided Quiz &mdash; From a given set of roles, students list main responsibilities associated to each of these roles. Assess students' capacity to identify roles and attribute responsibilities.
-* Portfolio &mdash; Students select a product of their choice and develop strategies to efficiently plan and manage accessibility. Assess students' capacity to identify key actions for accessibility to be maintained throughout time.
+* Reflective Journal &mdash; Students identify accessibility related processes based on what they have learned, and research how to update them to better integrate accessibility. Assess how students identify strengths and weaknesses in an overall accessibility strategy.
+* Guided Quiz &mdash; From a given set of roles, students list main responsibilities associated to each of these roles. Assess how students identify roles and attribute responsibilities.
+* Portfolio &mdash; Students select a product of their choice and develop strategies to efficiently plan and manage accessibility. Assess how students identify key actions for accessibility to be maintained throughout time.
 
 {% include excol.html type="end" %}
 
@@ -118,9 +118,9 @@ Introduce students to accessibility policies for organizations and accessibility
 
 Students should be able to:
 
-* Describe accessibility policies as a mechanism to reinforce commitment among the organization members.
-* Recognize the role of accessibility statements as a way of documenting the current accessibility status and of defining future steps and commitments.
-* Explain some current accessibility approaches from well-known organizations.
+* describe accessibility policies as a mechanism to reinforce commitment among the organization members
+* recognize the role of accessibility statements as a way of documenting the current accessibility status and of defining future steps and commitments
+* explain some current accessibility approaches from well-known organizations
 
 #### Teaching Ideas for Topic
 
@@ -131,10 +131,10 @@ Optional ideas to teach the learning outcomes:
 
 #### Ideas to Assess Knowledge for Topic
 
-Optional ideas to support assessment:
+Optional ideas to support your teaching:
 
-* Report &mdash; Students draft an accessibility policy based on an organization of their choice. Assess students' capacity to define the scope of the policy, and to reference current standards.
-* Presentation &mdash; Students draft an accessibility statement for a product of their choice and present it to their peers. Assess students' capacity to reflect on current status of the product and to demonstrate commitment to accessibility.
+* Report &mdash; Students draft an accessibility policy based on an organization of their choice. Assess how students define the scope of the policy and reference current standards.
+* Presentation &mdash; Students draft an accessibility statement for a product of their choice and present it to their peers. Assess how students reflect on current status of the product and demonstrate commitment to accessibility.
 
 {% include excol.html type="end" %}
 
@@ -150,12 +150,12 @@ Introduce roles and responsibilities for accessibility. Explain that implementin
 
 Students should be able to:
 
-* Explain how accessibility responsibilities are shared among different roles within the team.
-* Describe some accessibility features and map them to specific roles.
+* explain how accessibility responsibilities are shared among different roles within the team
+* describe some accessibility features and map them to specific roles
 
 #### Teaching Ideas for Topic
 
-Optional ideas to teach the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Explain the different types of roles involved in implementing web accessibility. Emphasize that implementing web accessibility requires involvement from the whole team.
 * Introduce the scope of their responsibilities throughout. Emphasize that sometimes a particular accessibility feature needs involvement from several roles.
@@ -181,8 +181,8 @@ Introduce some strategies to address accessibility in an existing project. Use e
 
 Students should be able to:
 
-* Explain how to identify potential accessibility issues in projects.
-* Describe some strategies to scope, prioritize, and repair accessibility issues in an existing project.
+* explain how to identify potential accessibility issues in projects
+* describe some strategies to scope, prioritize, and repair accessibility issues in an existing project
 
 #### Teaching Ideas for Topic
 
@@ -198,7 +198,7 @@ Optional ideas to teach the learning outcomes:
 Optional ideas to support assessment:
 
 * Presentation &mdash; Students identify accessibility issues in a website or application and share their findings with their peers. Assess students' accuracy when performing first checks.
-* Debate &mdash; Students prioritize the issues found and elaborate on how to fix them. Assess students' capacity to identify key tasks and contents and to consider the impact of issues.
+* Debate &mdash; Students prioritize the issues found and elaborate on how to fix them. Assess how students identify key tasks and contents and consider the impact of issues.
 
 {% include excol.html type="end" %}
 
@@ -207,8 +207,8 @@ Optional ideas to support assessment:
 Optional ideas to support assessment:
 
 * Multiple Choice Questions &mdash; From a list with all accessibility planning and managing strategies, students select those they consider relevant for their particular situation.
-* Presentation &mdash; Students present different roles and responsibilities involved in web accessibility and describe their associated tasks. Assess students' capacity to identify responsibilities and map them to their corresponding roles.
-* Report &mdash; Students describe some strategies to integrate accessibility in any existing project. Assess students' capacity to communicate and prioritize strategies.
+* Presentation &mdash; Students present different roles and responsibilities involved in web accessibility and describe their associated tasks. Assess how students identify responsibilities and map them to their corresponding roles.
+* Report &mdash; Students describe some strategies to integrate accessibility in any existing project. Assess how students communicate and prioritize strategies.
 
 ## Teaching Resources
 

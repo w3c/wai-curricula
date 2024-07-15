@@ -30,18 +30,18 @@ navigation:
  
 Courses based on this module should:
 
-* Explore the rationale for organizations to address accessibility.
-* Present examples of organizations addressing accessibility.
+* explore the rationale for organizations to address accessibility
+* present examples of organizations addressing accessibility
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Explain how accessibility can:
-  * Extend market reach.
-  * Demonstrate social responsibility.
-  * Drive innovation.
-  * Minimize legal risk.
+* explain how accessibility can
+  * extend market reach
+  * demonstrate social responsibility
+  * drive innovation
+  * minimize legal risk
 
 ## Competencies
 
@@ -77,13 +77,13 @@ Introduce business case benefits of accessibility. Provide examples of organizat
 
 Students should be able to:
 
-* List examples of organizations that have adopted accessibility, and the benefits these organizations report.
-* Explain how accessibility can:
-  * Benefit people with and without disabilities.
-  * Enhance brand reputation and help demonstrate social responsibility.
-  * Help reduce overall maintenance and remediation costs.
-  * Promote human-centered design approaches, which result in more usable products.
-* Describe some potential risks of not addressing accessibility, such as possible lawsuits and costly litigations.
+* list examples of organizations that have adopted accessibility, and the benefits these organizations report
+* explain how accessibility can
+  * benefit people with and without disabilities
+  * enhance brand reputation and help demonstrate social responsibility
+  * help reduce overall maintenance and remediation costs
+  * promote human-centered design approaches, which result in more usable products
+* describe some potential risks of not addressing accessibility, such as possible lawsuits and costly litigations
 
 #### Teaching Ideas  for Topic
 
@@ -102,7 +102,7 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Students perform a specific task with the virtual assistant in their mobile phones. For example, students read the news, query the weather, or check items into a shopping cart. Assess students' capacity to recognize innovation behind features originally designed for accessibility that many people use nowadays.
+* Practical &mdash; Students perform a specific task with the virtual assistant in their mobile phones. For example, students read the news, query the weather, or check items into a shopping cart. Assess students' capacity to recognize innovation behind features originally designed for accessibility that many people use nowadays.
 * Portfolio &mdash; Students research how an organization could benefit from improving accessibility. Assess students' capacity to outline business opportunities gained from taking this approach.
 * Presentation &mdash; Students research and describe different mainstream accessibility features that they are already using, for example on their mobile phone, or accessibility features that they may want to use in the future. Assess students' capacity to identify  accessibility features that others can enjoy.
 * Report &mdash; Students write a report about publicly-available accessibility testimonials and business case arguments from different organizations. Advise students that testimonials are often not easy to verify and may require further analysis. Assess students' capacity to identify business case arguments that others are using to implement accessibility.
@@ -115,9 +115,9 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Guided Quiz &mdash; From a list of business case arguments, students describe the benefits that match the corresponding business case arguments. Assess students' capacity to relate business case arguments to benefits.
-* Presentation &mdash; Students present business case arguments that are applicable to an organization of their choice. Assess students' capacity to explain the rationale for each argument.
-* Open Book Exam &mdash; Students answer questions about the scope and applicability of specific policies from [Web Accessibility Laws & Policies](/policies/). Assess students' capacity to identify how laws and policies impact a particular organization.
+* Guided Quiz &mdash; From a list of business case arguments, students describe the benefits that match the corresponding business case arguments. Assess how students relate business case arguments to benefits.
+* Presentation &mdash; Students present business case arguments that are applicable to an organization of their choice. Assess how students explain the rationale for each argument.
+* Open Book Exam &mdash; Students answer questions about the scope and applicability of specific policies from [Web Accessibility Laws & Policies](/policies/). Assess students' understanding of how laws and policies impact a particular organization.
 
 ## Teaching Resources
 
