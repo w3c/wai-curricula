@@ -30,17 +30,17 @@ navigation:
 
 Courses based on this module should:
 
-* Explore assistive technologies, adaptive strategies, and accessible design principles in more detail.
-* Study the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems).
+* explore assistive technologies, adaptive strategies, and accessible design principles in more detail
+* study the links between components of web accessibility (web browsers, authoring tools, web designers and developers, accessibility platforms, and operating systems)
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Recognize the broad diversity of people with disabilities.
-* List different types of assistive technologies and adaptive strategies.
-* Recognize the impact of design decisions on accessibility for people.
-* Explain some of the links between components of web accessibility.
+* recognize the broad diversity of people with disabilities
+* list different types of assistive technologies and adaptive strategies
+* recognize the impact of design decisions on accessibility for people
+* explain some of the links between components of web accessibility
 
 ## Competencies
 
@@ -67,16 +67,16 @@ Optional topics to achieve the learning outcomes.
 
 {% include excol.html type="middle" %} 
 
-Introduce the wide range of people with disabilities, including auditory, cognitive, neurological, physical, speech, and visual disabilities. Explain the variety of abilities, assistive technologies and adaptive strategies, even among people with the same type of disability. Introduce some assistive technologies and adaptive strategies. Examples are provided in [How People with Disabilities Use the Web](/people-use-web/).
+Introduce the wide range of people with disabilities, including auditory, cognitive, neurological, physical, speech, and visual disabilities. Explain the variety of abilities, assistive technologies, and adaptive strategies, even among people with the same type of disability. Introduce some assistive technologies and adaptive strategies. Examples are provided in [How People with Disabilities Use the Web](/people-use-web/).
 
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* List types of disabilities and related accessibility needs.
-* Define the terms "assistive technology" and "adaptive strategies".
-* List some examples of assistive technologies and adaptive strategies.
-* Describe some accessibility design features and barriers.
+* list types of disabilities and related accessibility needs
+* define the terms "assistive technology" and "adaptive strategies"
+* list some examples of assistive technologies and adaptive strategies
+* describe some accessibility design features and barriers
 
 #### Teaching Ideas for Topic
 
@@ -95,9 +95,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Report &mdash; Students write a report describing some of the design features that one of the assistive technologies they learned about relies on to function. Assess students' capacity to identify how people with disabilities rely on specific features to use the Web.
-* Practice &mdash; Students go to three different types of websites (e.g., shopping site, banking site, or entertainment site) and identify accessibility features from those they learned about. Assess students' capacity to recognize accessibility features.
-* Interview &mdash; Students contact a person with a disability and interview them. Explore what accessibility features and barriers they encounter when trying to access digital content or applications, as well as how up-to-date they are with technology. Assess students' capacity to identify such features and barriers and link them to the knowledge they acquired.
+* Report &mdash; Students write a report describing some of the design features that one of the assistive technologies they learned about relies on to function. Assess how students identify that people with disabilities rely on specific features to use the Web.
+* Practical &mdash; Students go to three different types of websites (e.g., shopping site, banking site, or entertainment site) and identify accessibility features from those they learned about. Assess how students recognize accessibility features.
+* Interview &mdash; Students contact a person with a disability and interview them. Explore what accessibility features and barriers they encounter when trying to access digital content or applications, as well as how up-to-date they are with technology. Assess how students identify such features and barriers and link them to the knowledge they acquired.
 
 {% include excol.html type="end" %} 
 
@@ -113,10 +113,10 @@ Explain that web accessibility depends on several components working together: c
 
 Students should be able to:
 
-* Describe the components that contribute to accessibility.
-* Explain some of the links between the components.
-* Describe the impact that some Web technologies have on digital accessibility.
-* Identify W3C standards that address the components.
+* describe the components that contribute to accessibility
+* explain some of the links between the components
+* describe the impact that some Web technologies have on digital accessibility
+* identify W3C standards that address the components
 
 #### Teaching Ideas for Topic
 
@@ -132,9 +132,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Reflective Journal &mdash; Students reflect on specific types of accessibility features and barriers, and how they relate to the different components of web accessibility. Assess students' capacity to recognize how components work together to improve accessibility.
-* Guided Quiz &mdash; Students identify three websites where one accessibility feature in Web technology is being used. For example, Where are ordered and unordered lists used effectively? Where is heading structure in place? Assess students' capacity to identify instances of content that promote accessibility features.
-* Presentation &mdash; Students use a variety of websites with three different browsers and assistive technologies. Students explain any differences between accessing the content with the different browsers and assistive technologies. Students share with others which browser they think works best and why. Assess students' capacity to identify the way user agents and assistive technologies render content has an impact on accessibility.
+* Reflective Journal &mdash; Students reflect on specific types of accessibility features and barriers, and how they relate to the different components of web accessibility. Assess students' acknowledgment that components work together to improve accessibility.
+* Guided Quiz &mdash; Students identify three websites where one accessibility feature in Web technology is being used. For example, Where are ordered and unordered lists used effectively? Where is heading structure in place? Assess how students identify content that promotes accessibility features.
+* Presentation &mdash; Students use a variety of websites with three different browsers and assistive technologies. Students explain any differences between accessing the content with the different browsers and assistive technologies. Students share with others which browser they think works best and why. Assess how students identify that the way user agents and assistive technologies render content has an impact on accessibility.
 
 {% include excol.html type="end" %} 
 
@@ -142,9 +142,9 @@ Optional ideas to support assessment:
 
 Optional ideas to support assessment:
 
-* Practice &mdash; Students perform basic tasks with assistive technologies, such as using the tab key to navigate different interfaces or using screen readers' navigation quick keys. Assess students' capacity to interact with assistive technologies.
-* Multiple Choice Questions &mdash; From a list of 10 - 15 accessibility barriers. Students decide for each of them if they are related to the content, the underlying technology, the user agent, and/or assistive technology. Assess students' capacity to relate the different components of web accessibility.
-* Presentation &mdash; Students describe how some adaptive strategies may benefit other users as well, such as older adults. Assess students' capacity to identify some patterns of use and relate them to different user groups, regardless of disability.
+* Practical &mdash; Students perform basic tasks with assistive technologies, such as using the tab key to navigate different interfaces or using screen readers' navigation quick keys. Assess how students interact with assistive technologies.
+* Multiple Choice Questions &mdash; From a list of 10 - 15 accessibility barriers. Students decide for each of them if they are related to the content, the underlying technology, the user agent, and/or assistive technology. Assess students understanding of the different components of web accessibility.
+* Presentation &mdash; Students describe how some adaptive strategies may benefit other users as well, such as older adults. Assess how students identify some patterns of use and relate them to different user groups, regardless of disability.
 * Report &mdash; Students identify the components of web accessibility and explain how they relate to each other to create an accessible experience. For example, students reflect on how a content creator provides a text alternative that is properly coded, supported by the browser, and rendered to the user via their assistive technology.
 
 ## Teaching Resources

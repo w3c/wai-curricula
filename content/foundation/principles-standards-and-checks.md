@@ -30,23 +30,23 @@ navigation:
 
 Courses based on this module should:
 
-* Introduce the accessibility principles: Perceivable, Operable, Understandable, and Robust.
-* Introduce W3C accessibility standards, and their supporting resources.
-* Provide hands-on experience checking how web pages have implemented the standards.
+* introduce the accessibility principles: Perceivable, Operable, Understandable, and Robust
+* introduce W3C accessibility standards, and their supporting resources
+* provide hands-on experience checking how web pages have implemented the standards
 
 ## Learning Outcomes for Module
 
 Students should be able to:
 
-* Explain the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR), and give examples of each.
-* Define the scope of the W3C accessibility standards:
-  * Web Content Accessibility Guidelines (WCAG),
-  * Authoring Tools Accessibility Guidelines (ATAG), 
-  * User Agent Accessibility Guidelines (UAAG), and  
-  * Accessible Rich Internet Applications (WAI-ARIA).
-* Explain how W3C accessibility standards are developed.
-* List examples of WCAG adoption in policies internationally.
-* Check web pages to identify potential accessibility features and barriers and explain how they fit under principle(s) and success criteria.
+* explain the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR), and give examples of each
+* define the scope of the W3C accessibility standards
+  * Web Content Accessibility Guidelines (WCAG)
+  * Authoring Tools Accessibility Guidelines (ATAG)
+  * User Agent Accessibility Guidelines (UAAG),
+  * Accessible Rich Internet Applications (WAI-ARIA)
+* explain how W3C accessibility standards are developed
+* list examples of WCAG adoption in policies internationally
+* check web pages to identify potential accessibility features and barriers and explain how they fit under principle(s) and success criteria
 
 ## Competencies 
 
@@ -82,14 +82,12 @@ Optional topics to achieve the learning outcomes.
 
 Introduce the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR). For an explanation of these concepts, see [Understanding the Four Principles of Accessibility](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). For an introduction to some web accessibility requirements belonging to each principle, refer to [Accessibility Principles](/fundamentals/accessibility-principles/).
 
-Introduce the web accessibility concepts Perceivable, Operable, Understandable, and Robust (POUR). Refer to [Accessibility Principles](/fundamentals/accessibility-principles/).
-
 #### Learning Outcomes for Topic
 
 Students should be able to:
 
-* Explain the concepts of Perceivable, Operable, Understandable, and Robust as principles of web accessibility.
-* List requirements of each of the principles.
+* explain the concepts of Perceivable, Operable, Understandable, and Robust as principles of web accessibility
+* list requirements of each of the principles
 
 #### Teaching Ideas for Topic
 
@@ -103,9 +101,9 @@ Optional ideas to teach the learning outcomes:
 
 Optional ideas to support assessment:
 
-* Report &mdash; Students write a summary describing the four principles of web accessibility. Assess students' capacity to provide examples, such as Captions and Other Alternatives for Multimedia under the principle Perceivable.
-* Debate &mdash; Students provide and discuss with others further examples of each principle (beyond what is in the W3C "Accessibility Principles" resource). Assess students' capacity to expand the applicability of the principles.
-* Presentation &mdash; Students choose a principle and explain why it is essential for people with disabilities, and how it benefits many people. Assess students' capacity to relate the accessibility principles to specific examples of how people with disabilities use the web.
+* Report &mdash; Students write a summary describing the four principles of web accessibility. Assess how students provide examples, such as Captions and Other Alternatives for Multimedia under the principle Perceivable.
+* Debate &mdash; Students provide and discuss with others further examples of each principle (beyond what is in the W3C "Accessibility Principles" resource). Assess how students expand the applicability of the principles.
+* Presentation &mdash; Students choose a principle and explain why it is essential for people with disabilities, and how it benefits many people. Assess how students relate the accessibility principles to specific examples of how people with disabilities use the web.
 
 {% include excol.html type="end" %}
 
@@ -117,15 +115,15 @@ Optional ideas to support assessment:
 
 Introduce the scope of the W3C accessibility standards. It includes desktop and mobile websites and applications, authoring tools (like Content Management Systems, CMS), and user agents (like web browsers). Refer to [W3C Accessibility Standards Overview](/standards-guidelines/).
 
-#### Learning Outcomes
+#### Learning Outcomes for Topic
 
 Students should be able to:
 
-* List the W3C accessibility standards: WCAG, ATAG, UAAG, and WAI-ARIA.
-* Describe their structure, principles, guidelines, success criteria, and the type of audience and components they address.
-* Explain how these standards, web technologies, and accessibility components are related.
-* Explain the role that consistent standards play in increasing the accessibility of the Web for people with disabilities.
-* Describe how and why the public approach of standards development involves people with disabilities, industry, public bodies, and other individuals. 
+* list the W3C accessibility standards: WCAG, ATAG, UAAG, and WAI-ARIA
+* describe their structure, principles, guidelines, success criteria, and the type of audience and components they address
+* explain how these standards, web technologies, and accessibility components are related
+* explain the role that consistent standards play in increasing the accessibility of the Web for people with disabilities
+* describe how and why the public approach of standards development involves people with disabilities, industry, public bodies, and other individuals
 
 #### Teaching Ideas
 
@@ -142,10 +140,10 @@ Milestones and Opportunities to Contribute page, [Community Collaboration sectio
 
 Optional ideas to support assessment:
 
-* Report &mdash; Students write a short report  about each standard, focusing on their scope and overall structure. Assess students' capacity to elaborate on the web technologies and components these standards address.
-* Debate &mdash; From a given set of accessibility issues, students discuss and decide which standard and specific section covers each issue. Assess students' capacity to apply knowledge of accessibility standards to real accessibility issues.
-* Presentation &mdash; Students present accessibility laws and policies in their region, if any. Students specify if they have been adopted from W3C standards. If not, students give a brief overview of similarities and differences to the W3C accessibility standards. Assess students' capacity to identify aspects of accessibility standards such as scope, applicability, normative / non-normative sections, etc.
-* Portfolio &mdash; Students research if there are further technical guidelines for accessibility in a given organization. Students specify if they diverge from W3C accessibility standards. Assess student's capacity to outline overall differences and similarities between the chosen guidelines.
+* Report &mdash; Students write a short report about each standard, focusing on their scope and overall structure. Assess how students elaborate on the web technologies and components these standards address.
+* Debate &mdash; From a given set of accessibility issues, students discuss and decide which standard and specific section covers each issue. Assess how students apply knowledge of accessibility standards to real accessibility issues.
+* Presentation &mdash; Students present accessibility laws and policies in their region, if any. Students specify if they have been adopted from W3C standards. If not, students give a brief overview of similarities and differences to the W3C accessibility standards. Assess how students identify aspects of accessibility standards such as scope, applicability, normative / non-normative sections, etc.
+* Portfolio &mdash; Students research if there are further technical guidelines for accessibility in a given organization. Students specify if they diverge from W3C accessibility standards. Assess how students outline overall differences and similarities between the chosen guidelines.
 
 {% include excol.html type="end" %}
 
@@ -163,12 +161,12 @@ Give students hands-on experience checking how web pages have implemented access
 
 Students should be able to:
 
-* Identify potential accessibility barriers.
-* Relate their findings to the relevant WCAG success criteria.
+* identify potential accessibility barriers
+* relate their findings to the relevant WCAG success criteria
 
 #### Teaching Ideas
 
-Optional ideas to teach the learning outcomes.
+Optional ideas to teach the learning outcomes:
 
 * Introduce students to basic accessibility checks. Anyone using the web can perform these checks. Note that the tools listed in Easy Checks are advisable but not required to perform the checks.
 * Ask students to check different types of web pages and relate their findings to the accessibility principles and standards.
@@ -177,8 +175,8 @@ Optional ideas to teach the learning outcomes.
 
 Optional ideas to support assessment:
 
-* Guided Quiz &mdash; From a given set of accessibility checks, students explain which principle(s) and success criteria they belong to. For example, students select the check Page Titles and attach it to the principle Operable. Assess students' capacity to relate some checks with their corresponding principle(s).
-* Practice &mdash; Students choose three accessibility checks from [Easy Checks](/test-evaluate/preliminary/). Students try the checks on several web pages and report results. Assess students' capacity to relate the checks to specific groups of users and point to solutions for the problems they found in the analyzed websites.
+* Guided Quiz &mdash; From a given set of accessibility checks, students explain which principle(s) and success criteria they belong to. For example, students select the check Page Titles and attach it to the principle Operable. Assess how students relate some checks with their corresponding principle(s).
+* Practice &mdash; Students choose three accessibility checks from [Easy Checks](/test-evaluate/preliminary/). Students try the checks on several web pages and report results. Assess how students relate the checks to specific groups of users and point to solutions for the problems they found in the analyzed websites.
 
 {% include excol.html type="end" %}
 
